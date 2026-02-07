@@ -20,7 +20,7 @@
 <body>
   <header>
     <div style="max-width:900px;margin:0 auto">
-      <a href="./index.html">← Back</a>
+      <a href="../index.html">← Back</a>
       <div class="muted" id="meta"></div>
     </div>
   </header>
@@ -28,29 +28,24 @@
     <div class="content" id="content">Loading…</div>
   </main>
 
-  <script src="./assets/purify.min.js"></script>
-  <script src="./assets/marked.min.js"></script>
+  <script src="../assets/purify.min.js"></script>
+  <script src="../assets/marked.min.js"></script>
   <script>
-  (async () => {
-    const params = new URLSearchParams(location.search);
-    const slug = params.get("slug");
-    if(!slug){ document.getElementById("content").textContent = "Missing slug."; return; }
+(async () => {
+  const slug = "best-usb-c-hub-for-macbook-air-m1";
+  const mdPath = "../posts/best-usb-c-hub-for-macbook-air-m1.md";
 
-    const manifest = await (await fetch("./manifest.json", {cache:"no-store"})).json();
-    const item = manifest.find(x => x.slug === slug);
-    if(!item){ document.getElementById("content").textContent = "Not found."; return; }
+  document.getElementById("meta").textContent = slug;
 
-    document.getElementById("meta").textContent = slug;
-    const md = await (await fetch(item.file, {cache:"no-store"})).text();
+  const md = await (await fetch(mdPath, {cache:"no-store"})).text();
+  const html = marked.parse(md, {mangle:false, headerIds:true});
+  const safe = DOMPurify.sanitize(html, {USE_PROFILES:{html:true}});
+  document.getElementById("content").innerHTML = safe;
 
-    const html = marked.parse(md, {mangle:false, headerIds:true});
-    const safe = DOMPurify.sanitize(html, {USE_PROFILES:{html:true}});
-    document.getElementById("content").innerHTML = safe;
-
-    const h1 = document.querySelector(".content h1");
-    if(h1 && h1.textContent){ document.title = h1.textContent; }
-  })();
-  </script>
+  const h1 = document.querySelector(".content h1");
+  if(h1 && h1.textContent){ document.title = h1.textContent; }
+})();
+</script>
 </body>
 </html>
 
