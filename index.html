@@ -1,0 +1,49 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Tech Accessories Picks (UK)</title>
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;margin:0;line-height:1.5}
+    header{padding:24px 16px;border-bottom:1px solid #e5e5e5}
+    main{max-width:900px;margin:0 auto;padding:16px}
+    a{color:inherit}
+    .card{padding:14px 12px;border:1px solid #e5e5e5;border-radius:12px;margin:12px 0;text-decoration:none;display:block}
+    .muted{color:#666;font-size:14px}
+    footer{padding:24px 16px;border-top:1px solid #e5e5e5}
+  </style>
+</head>
+<body>
+  <header>
+    <div style="max-width:900px;margin:0 auto">
+      <h1 style="margin:0 0 6px 0">Tech Accessories Picks (UK)</h1>
+      <div class="muted">Simple, fast comparison pages.</div>
+    </div>
+  </header>
+  <main>
+    <div id="list">Loading…</div>
+  </main>
+  <footer>
+    <div style="max-width:900px;margin:0 auto" class="muted">
+      Disclosure: Some links may be affiliate links. If you buy through them, we may earn a commission at no extra cost to you.
+    </div>
+  </footer>
+
+<script>
+(async () => {
+  const res = await fetch("./manifest.json", {cache:"no-store"});
+  const items = await res.json();
+  const el = document.getElementById("list");
+  el.innerHTML = "";
+  items.forEach(x => {
+    const a = document.createElement("a");
+    a.className = "card";
+    a.href = "./post.html?slug=" + encodeURIComponent(x.slug);
+    a.innerHTML = "<strong>" + x.title + "</strong><div class='muted'>" + x.slug + "</div>";
+    el.appendChild(a);
+  });
+})();
+</script>
+</body>
+</html>

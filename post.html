@@ -1,0 +1,55 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Article</title>
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;margin:0;line-height:1.6}
+    header{padding:16px;border-bottom:1px solid #e5e5e5}
+    main{max-width:900px;margin:0 auto;padding:16px}
+    a{color:inherit}
+    .muted{color:#666;font-size:14px}
+    .content h1,.content h2,.content h3{line-height:1.25}
+    .content table{border-collapse:collapse;width:100%;overflow:auto;display:block}
+    .content th,.content td{border:1px solid #e5e5e5;padding:8px;vertical-align:top}
+    .content code{background:#f5f5f5;padding:2px 4px;border-radius:6px}
+    .content pre{background:#f5f5f5;padding:12px;border-radius:12px;overflow:auto}
+  </style>
+</head>
+<body>
+  <header>
+    <div style="max-width:900px;margin:0 auto">
+      <a href="./index.html">← Back</a>
+      <div class="muted" id="meta"></div>
+    </div>
+  </header>
+  <main>
+    <div class="content" id="content">Loading…</div>
+  </main>
+
+  <script src="./assets/purify.min.js"></script>
+  <script src="./assets/marked.min.js"></script>
+  <script>
+  (async () => {
+    const params = new URLSearchParams(location.search);
+    const slug = params.get("slug");
+    if(!slug){ document.getElementById("content").textContent = "Missing slug."; return; }
+
+    const manifest = await (await fetch("./manifest.json", {cache:"no-store"})).json();
+    const item = manifest.find(x => x.slug === slug);
+    if(!item){ document.getElementById("content").textContent = "Not found."; return; }
+
+    document.getElementById("meta").textContent = slug;
+    const md = await (await fetch(item.file, {cache:"no-store"})).text();
+
+    const html = marked.parse(md, {mangle:false, headerIds:true});
+    const safe = DOMPurify.sanitize(html, {USE_PROFILES:{html:true}});
+    document.getElementById("content").innerHTML = safe;
+
+    const h1 = document.querySelector(".content h1");
+    if(h1 && h1.textContent){ document.title = h1.textContent; }
+  })();
+  </script>
+</body>
+</html>
