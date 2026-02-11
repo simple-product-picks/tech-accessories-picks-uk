@@ -37,7 +37,11 @@
   </header>
   <main>
     <div class="content" id="content">Loading…</div>
-  </main>
+    <section id="related" style="margin-top:22px;padding-top:14px;border-top:1px solid #e5e5e5">
+    <h2 style="margin:0 0 10px 0;font-size:18px">Related posts</h2>
+    <div id="related_list" class="muted">Loading…</div>
+  </section>
+</main>
 
   <script src="../assets/purify.min.js"></script>
   <script src="../assets/marked.min.js"></script>
@@ -56,9 +60,50 @@
   const h1 = document.querySelector(".content h1");
   if(h1 && h1.textContent){ document.title = h1.textContent; }
 })();
+
+  // Related posts (simple internal linking)
+  try {
+    const listEl = document.getElementById("related_list");
+    const relatedWrap = document.getElementById("related");
+    if (listEl && relatedWrap) {
+      fetch("../assets/posts_index.json", { cache: "no-store" })
+        .then(r => r.json())
+        .then(all => {
+          const cur = (typeof slug === "string" ? slug : "").trim();
+          const pool = (Array.isArray(all) ? all : []).filter(x => x && x.slug && x.slug !== cur);
+
+          if (!pool.length) { relatedWrap.style.display = "none"; return; }
+
+          // simple shuffle, take first 5
+          for (let i = pool.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            const t = pool[i]; pool[i] = pool[j]; pool[j] = t;
+          }
+          const items = pool.slice(0, 5);
+
+          const ul = document.createElement("ul");
+          ul.style.margin = "0";
+          ul.style.paddingLeft = "18px";
+
+          for (const x of items) {
+            const li = document.createElement("li");
+            const a = document.createElement("a");
+            a.href = "./" + encodeURIComponent(x.slug) + ".html";
+            a.textContent = (x.title && String(x.title).trim()) ? x.title : x.slug;
+            li.appendChild(a);
+            ul.appendChild(li);
+          }
+          listEl.innerHTML = "";
+          listEl.classList.remove("muted");
+          listEl.appendChild(ul);
+        })
+        .catch(() => { relatedWrap.style.display = "none"; });
+    }
+  } catch (_) { }
 </script>
 </body>
 </html>
+
 
 
 
