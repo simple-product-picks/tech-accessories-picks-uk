@@ -108,6 +108,28 @@ a:hover{ text-decoration:underline; }
   .content h1{ font-size:1.6rem; }
 }
 </style>
+  <meta name="description" content="Comparison picks for UK tech accessories. Clear recommendations and quick specs." />
+  <link rel="canonical" href="https://simple-product-picks.github.io/tech-accessories-picks-uk/" />
+
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Tech Accessories Picks (UK)" />
+  <meta property="og:description" content="Comparison picks for UK tech accessories. Clear recommendations and quick specs." />
+  <meta property="og:url" content="https://simple-product-picks.github.io/tech-accessories-picks-uk/" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Tech Accessories Picks (UK)" />
+  <meta name="twitter:description" content="Comparison picks for UK tech accessories. Clear recommendations and quick specs." />
+  <meta name="description" content="Comparison picks for UK tech accessories. Clear recommendations and quick specs." />
+  <link rel="canonical" href="https://simple-product-picks.github.io/tech-accessories-picks-uk/" />
+
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Tech Accessories Picks (UK)" />
+  <meta property="og:description" content="Comparison picks for UK tech accessories. Clear recommendations and quick specs." />
+  <meta property="og:url" content="https://simple-product-picks.github.io/tech-accessories-picks-uk/" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Tech Accessories Picks (UK)" />
+  <meta name="twitter:description" content="Comparison picks for UK tech accessories. Clear recommendations and quick specs." />
 </head>
 <body>
   <header>
@@ -125,7 +147,95 @@ a:hover{ text-decoration:underline; }
   <script>
   (async () => {
     const params = new URLSearchParams(location.search);
-    const slug = params.get("slug");
+    const __BASE = "https://simple-product-picks.github.io/tech-accessories-picks-uk/";
+function __setMeta(nameOrProp, value, isProp){
+  const sel = isProp ? `meta[property="${nameOrProp}"]` : `meta[name="${nameOrProp}"]`;
+  let el = document.querySelector(sel);
+  if(!el){
+    el = document.createElement("meta");
+    if(isProp){ el.setAttribute("property", nameOrProp); } else { el.setAttribute("name", nameOrProp); }
+    document.head.appendChild(el);
+  }
+  el.setAttribute("content", value);
+}
+function __setCanonical(url){
+  let el = document.querySelector('link[rel="canonical"]');
+  if(!el){
+    el = document.createElement("link");
+    el.setAttribute("rel","canonical");
+    document.head.appendChild(el);
+  }
+  el.setAttribute("href", url);
+}
+function __deriveDesc(){
+  const p = document.querySelector(".content p");
+  if(!p) return "Comparison picks for UK tech accessories. Clear recommendations and quick specs.";
+  const t = (p.textContent || "").trim().replace(/\s+/g," ");
+  return (t.length > 155) ? (t.slice(0,152) + "...") : t;
+}
+function __applySeo(titleText){
+  const slugPart = (typeof slug === "string" && slug.length) ? ("posts_html/" + slug + ".html") : "";
+  const url = __BASE + slugPart;
+  const ttl = (titleText && titleText.trim()) ? titleText.trim() : "Tech Accessories Picks (UK)";
+  const desc = __deriveDesc();
+
+  __setCanonical(url);
+  __setMeta("description", desc, false);
+
+  __setMeta("og:type", "article", true);
+  __setMeta("og:title", ttl, true);
+  __setMeta("og:description", desc, true);
+  __setMeta("og:url", url, true);
+
+  __setMeta("twitter:card", "summary", false);
+  __setMeta("twitter:title", ttl, false);
+  __setMeta("twitter:description", desc, false);
+}
+const __BASE = "https://simple-product-picks.github.io/tech-accessories-picks-uk/";
+function __setMeta(nameOrProp, value, isProp){
+  const sel = isProp ? `meta[property="${nameOrProp}"]` : `meta[name="${nameOrProp}"]`;
+  let el = document.querySelector(sel);
+  if(!el){
+    el = document.createElement("meta");
+    if(isProp){ el.setAttribute("property", nameOrProp); } else { el.setAttribute("name", nameOrProp); }
+    document.head.appendChild(el);
+  }
+  el.setAttribute("content", value);
+}
+function __setCanonical(url){
+  let el = document.querySelector('link[rel="canonical"]');
+  if(!el){
+    el = document.createElement("link");
+    el.setAttribute("rel","canonical");
+    document.head.appendChild(el);
+  }
+  el.setAttribute("href", url);
+}
+function __deriveDesc(){
+  const p = document.querySelector(".content p");
+  if(!p) return "Comparison picks for UK tech accessories. Clear recommendations and quick specs.";
+  const t = (p.textContent || "").trim().replace(/\s+/g," ");
+  return (t.length > 155) ? (t.slice(0,152) + "...") : t;
+}
+function __applySeo(titleText){
+  const slugPart = (typeof slug === "string" && slug.length) ? ("posts_html/" + slug + ".html") : "";
+  const url = __BASE + slugPart;
+  const ttl = (titleText && titleText.trim()) ? titleText.trim() : "Tech Accessories Picks (UK)";
+  const desc = __deriveDesc();
+
+  __setCanonical(url);
+  __setMeta("description", desc, false);
+
+  __setMeta("og:type", "article", true);
+  __setMeta("og:title", ttl, true);
+  __setMeta("og:description", desc, true);
+  __setMeta("og:url", url, true);
+
+  __setMeta("twitter:card", "summary", false);
+  __setMeta("twitter:title", ttl, false);
+  __setMeta("twitter:description", desc, false);
+}
+const slug = params.get("slug");
     if(!slug){ document.getElementById("content").textContent = "Missing slug."; return; }
 
     const manifest = await (await fetch("./manifest.json", {cache:"no-store"})).json();
@@ -140,9 +250,13 @@ a:hover{ text-decoration:underline; }
     document.getElementById("content").innerHTML = safe;
 
     const h1 = document.querySelector(".content h1");
-    if(h1 && h1.textContent){ document.title = h1.textContent; }
+    if(h1 && h1.textContent){ document.title = h1.textContent;
+__applySeo(document.title);
+__applySeo(document.title); }
   })();
   </script>
 </body>
 </html>
+
+
 
