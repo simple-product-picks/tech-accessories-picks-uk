@@ -117,7 +117,7 @@ footer{
   items.forEach(x => {
     const a = document.createElement("a");
     a.className = "card";
-    a.href = "./post.html?slug=" + encodeURIComponent(x.slug);
+    a.href = "./posts_html/" + encodeURIComponent(x.slug) + ".html";
     a.innerHTML = "<strong>" + x.title + "</strong><div class='muted'>" + x.slug + "</div>";
     el.appendChild(a);
   });
@@ -125,6 +125,7 @@ footer{
 </script>
 <div style="max-width:900px;margin:24px auto 48px auto;padding:0 16px;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;font-size:14px;color:#444"><a href="./disclosure.html">Affiliate Disclosure</a> · <a href="./sitemap.xml">Sitemap</a> · <a href="./robots.txt">Robots</a></div></body>
 </html>
+
 
 
 

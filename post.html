@@ -191,7 +191,6 @@ function __applySeo(titleText){
   __setMeta("twitter:title", ttl, false);
   __setMeta("twitter:description", desc, false);
 }
-const __BASE = "https://simple-product-picks.github.io/tech-accessories-picks-uk/";
 function __setMeta(nameOrProp, value, isProp){
   const sel = isProp ? `meta[property="${nameOrProp}"]` : `meta[name="${nameOrProp}"]`;
   let el = document.querySelector(sel);
@@ -257,6 +256,7 @@ __applySeo(document.title); }
   </script>
 </body>
 </html>
+
 
 
 
