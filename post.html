@@ -107,6 +107,22 @@ a:hover{ text-decoration:underline; }
 @media (max-width:600px){
   .content h1{ font-size:1.6rem; }
 }
+
+    /* --- CTA buttons (pre-PA-API safe) --- */
+    .cta-row{display:flex;gap:10px;flex-wrap:wrap;margin:10px 0 0}
+    .btn{
+      display:inline-flex;align-items:center;justify-content:center;
+      padding:10px 12px;border-radius:12px;border:1px solid #e5e5e5;
+      font-weight:600;text-decoration:none;line-height:1;
+      background:#0b57d0;color:#fff;
+    }
+    .btn:hover{filter:brightness(0.95)}
+    .btn.secondary{background:#fff;color:#111}
+    .btn.disabled{
+      background:#f3f3f3;color:#777;border-color:#e5e5e5;
+      cursor:not-allowed;pointer-events:none;
+    }
+    .hint{color:#666;font-size:13px;margin-top:6px}
 </style>
   <meta name="description" content="Comparison picks for UK tech accessories. Clear recommendations and quick specs." />
   <link rel="canonical" href="https://simple-product-picks.github.io/tech-accessories-picks-uk/" />
@@ -262,6 +278,7 @@ __applySeo(document.title); }
   </script>
 </body>
 </html>
+
 
 
 
