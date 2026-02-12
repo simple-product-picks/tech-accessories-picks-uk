@@ -1,286 +1,274 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Article</title>
+
+  <!-- SEO (single, stable block) -->
+  <meta name="description" content="Comparison picks and recommendations." />
+  <link rel="canonical" href="" />
+
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Article" />
+  <meta property="og:description" content="Comparison picks and recommendations." />
+  <meta property="og:url" content="" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Article" />
+  <meta name="twitter:description" content="Comparison picks and recommendations." />
+
   <style>
-:root{
-  --maxw: 880px;
-  --text: #111;
-  --muted: #666;
-  --border: #e5e5e5;
-  --soft: #f7f7f7;
-  --accent: #0b57d0;
-}
-
-body{
-  font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;
-  margin:0;
-  line-height:1.7;
-  color:var(--text);
-}
-
-header{
-  padding:16px;
-  border-bottom:1px solid var(--border);
-}
-
-main{
-  max-width:var(--maxw);
-  margin:0 auto;
-  padding:20px 16px 48px;
-}
-
-a{
-  color:var(--accent);
-  text-decoration:none;
-}
-a:hover{ text-decoration:underline; }
-
-.muted{
-  color:var(--muted);
-  font-size:14px;
-}
-
-.content h1{
-  font-size:2rem;
-  margin:0 0 0.6em;
-  line-height:1.2;
-}
-.content h2{
-  margin-top:2.2em;
-  border-bottom:1px solid var(--border);
-  padding-bottom:0.3em;
-}
-.content h3{
-  margin-top:2em;
-  padding:12px 14px;
-  background:var(--soft);
-  border-left:4px solid var(--accent);
-}
-
-.content p{
-  margin:0.9em 0;
-}
-
-.content ul{
-  padding-left:1.2em;
-}
-.content li{
-  margin:0.4em 0;
-}
-
-.content table{
-  border-collapse:collapse;
-  width:100%;
-  display:block;
-  overflow-x:auto;
-  margin:1.5em 0;
-}
-.content th,.content td{
-  border:1px solid var(--border);
-  padding:10px;
-  text-align:left;
-}
-
-.content pre{
-  background:var(--soft);
-  padding:14px;
-  border-radius:12px;
-  overflow:auto;
-}
-
-.content code{
-  background:var(--soft);
-  padding:2px 5px;
-  border-radius:6px;
-}
-
-/* Affiliate product links */
-.content h3 a{
-  color:var(--accent);
-  font-weight:600;
-}
-
-/* Mobile */
-@media (max-width:600px){
-  .content h1{ font-size:1.6rem; }
-}
-
-    /* --- CTA buttons (pre-PA-API safe) --- */
-    .cta-row{display:flex;gap:10px;flex-wrap:wrap;margin:10px 0 0}
-    .btn{
-      display:inline-flex;align-items:center;justify-content:center;
-      padding:10px 12px;border-radius:12px;border:1px solid #e5e5e5;
-      font-weight:600;text-decoration:none;line-height:1;
-      background:#0b57d0;color:#fff;
+    :root{
+      --bg:#ffffff;
+      --text:#111827;
+      --muted:#6b7280;
+      --border:#e5e7eb;
+      --card:#f9fafb;
+      --accent:#111827;
+      --shadow:0 2px 10px rgba(0,0,0,.06);
+      --radius:14px;
     }
-    .btn:hover{filter:brightness(0.95)}
-    .btn.secondary{background:#fff;color:#111}
-    .btn.disabled{
-      background:#f3f3f3;color:#777;border-color:#e5e5e5;
-      cursor:not-allowed;pointer-events:none;
-    }
-    .hint{color:#666;font-size:13px;margin-top:6px}
-</style>
-  <meta name="description" content="Comparison picks for UK tech accessories. Clear recommendations and quick specs." />
-  <link rel="canonical" href="https://simple-product-picks.github.io/tech-accessories-picks-uk/" />
-
-  <meta property="og:type" content="article" />
-  <meta property="og:title" content="Tech Accessories Picks (UK)" />
-  <meta property="og:description" content="Comparison picks for UK tech accessories. Clear recommendations and quick specs." />
-  <meta property="og:url" content="https://simple-product-picks.github.io/tech-accessories-picks-uk/" />
-
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Tech Accessories Picks (UK)" />
-  <meta name="twitter:description" content="Comparison picks for UK tech accessories. Clear recommendations and quick specs." />
-  <meta name="description" content="Comparison picks for UK tech accessories. Clear recommendations and quick specs." />
-  <link rel="canonical" href="https://simple-product-picks.github.io/tech-accessories-picks-uk/" />
-
-  <meta property="og:type" content="article" />
-  <meta property="og:title" content="Tech Accessories Picks (UK)" />
-  <meta property="og:description" content="Comparison picks for UK tech accessories. Clear recommendations and quick specs." />
-  <meta property="og:url" content="https://simple-product-picks.github.io/tech-accessories-picks-uk/" />
-
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Tech Accessories Picks (UK)" />
-  <meta name="twitter:description" content="Comparison picks for UK tech accessories. Clear recommendations and quick specs." />
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;margin:0;line-height:1.6;color:var(--text);background:var(--bg)}
+    a{color:inherit;text-decoration:none}
+    .wrap{max-width:980px;margin:0 auto;padding:0 16px}
+    header{position:sticky;top:0;background:rgba(255,255,255,.92);backdrop-filter:saturate(180%) blur(10px);border-bottom:1px solid var(--border);z-index:50}
+    .topbar{display:flex;align-items:center;justify-content:space-between;padding:14px 0;gap:14px}
+    .brand{font-weight:800;letter-spacing:-.02em}
+    .nav{display:flex;flex-wrap:wrap;gap:12px;font-size:14px;color:var(--muted)}
+    .nav a{padding:6px 10px;border-radius:999px;border:1px solid transparent}
+    .nav a:hover{border-color:var(--border);background:#fff}
+    main{padding:22px 0 38px}
+    .meta{font-size:13px;color:var(--muted);margin-top:2px}
+    .hero{display:flex;flex-direction:column;gap:14px;margin:8px 0 18px}
+    .hero h1{font-size:30px;line-height:1.15;margin:0;letter-spacing:-.02em}
+    .hero p{margin:0;color:var(--muted);max-width:70ch}
+    .card{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);box-shadow:var(--shadow)}
+    .pad{padding:16px}
+    .grid2{display:grid;grid-template-columns:1fr;gap:14px}
+    @media (min-width:860px){ .grid2{grid-template-columns:1.25fr .75fr} }
+    .content table{border-collapse:separate;border-spacing:0;width:100%overflow:hidden;border-radius:12px;border:1px solid var(--border);background:#fff}
+    .content th,.content td{padding:12px 10px;vertical-align:top;border-bottom:1px solid var(--border);font-size:14px}
+    .content th{background:#f3f4f6;font-weight:650}
+    .content tr:last-child td{border-bottom:none}
+    .content code{background:#f3f4f6;padding:2px 6px;border-radius:8px}
+    .content pre{background:#0b1020;color:#e5e7eb;padding:14px;border-radius:12px;overflow:auto}
+    .content pre code{background:transparent;padding:0}
+    .verdict{border-left:4px solid var(--accent);background:#fff;border:1px solid var(--border);border-radius:12px;padding:14px}
+    .verdict h2{margin:0 0 6px;font-size:16px}
+    .verdict p{margin:0;color:var(--muted);font-size:14px}
+    .ctaRow{display:flex;flex-wrap:wrap;gap:10px}
+    .btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;padding:10px 14px;border-radius:12px;border:1px solid var(--border);background:#fff;font-weight:650;font-size:14px;cursor:pointer}
+    .btn.primary{background:var(--accent);color:#fff;border-color:var(--accent)}
+    .btn:hover{filter:brightness(.98)}
+    .btn.disabled{opacity:.55;cursor:not-allowed}
+    .btn.disabled:hover{filter:none}
+    .note{font-size:12px;color:var(--muted);margin-top:8px}
+    .relatedGrid{display:grid;grid-template-columns:1fr;gap:10px}
+    @media (min-width:720px){ .relatedGrid{grid-template-columns:1fr 1fr} }
+    .relatedItem{display:block;padding:12px;border-radius:12px;border:1px solid var(--border);background:#fff}
+    .relatedItem .t{font-weight:650;margin:0 0 4px}
+    .relatedItem .d{margin:0;color:var(--muted);font-size:13px}
+    footer{border-top:1px solid var(--border);padding:18px 0;color:var(--muted);font-size:13px}
+  </style>
 </head>
 <body>
   <header>
-    <div style="max-width:900px;margin:0 auto">
-      <a href="./index.html">← Back</a>
-      <div class="muted" id="meta"></div>
-      <div style="margin-top:10px;font-size:14px">
-        <a href="./about.html">About</a> ·
-        <a href="./how-we-test.html">How we test</a> ·
-        <a href="./disclosure.html">Disclosure</a> ·
-        <a href="./privacy.html">Privacy</a>
+    <div class="wrap topbar">
+      <div>
+        <a class="brand" href="./index.html">Simple Product Picks (UK)</a>
+        <div class="meta" id="meta">Loading…</div>
       </div>
+      <nav class="nav" aria-label="Site">
+        <a href="./about.html">About</a>
+        <a href="./how-we-test.html">How we test</a>
+        <a href="./affiliate-disclosure.html">Disclosure</a>
+        <a href="./privacy.html">Privacy</a>
+      </nav>
     </div>
   </header>
-  <main>
-    <div class="content" id="content">Loading…</div>
+
+  <main class="wrap">
+    <section class="hero">
+      <h1 id="pageTitle">Loading…...</h1>
+      <p id="pageDesc">We’re loading the article content. If this takes more than a few seconds, refresh the page.</p>
+    </section>
+
+    <div class="grid2">
+      <article class="card pad">
+        <div class="content" id="content">Loading…...</div>
+      </article>
+
+      <aside class="card pad" aria-label="Quick actions">
+        <div class="verdict" id="verdictBox" style="display:none">
+          <h2 id="verdictTitle">Quick verdict</h2>
+          <p id="verdictText"></p>
+        </div>
+
+        <div style="height:12px"></div>
+
+        <div class="ctaRow" aria-label="Actions">
+          <a id="ctaPrimary" class="btn primary disabled" href="#" rel="nofollow noopener" aria-disabled="true">Check price (coming soon)</a>
+          <a id="ctaSecondary" class="btn disabled" href="#" rel="nofollow noopener" aria-disabled="true">See alternatives</a>
+        </div>
+        <div class="note">Affiliate links will be enabled once product URLs are wired in (PA-API / SiteStripe).</div>
+
+        <div style="height:18px"></div>
+
+        <div id="relatedWrap" style="display:none">
+          <div style="font-weight:750;margin:0 0 8px">Related articles</div>
+          <div class="relatedGrid" id="relatedGrid"></div>
+        </div>
+      </aside>
+    </div>
   </main>
+
+  <footer>
+    <div class="wrap">
+      <div>© <span id="year"></span> Simple Product Picks (UK). Some links may become affiliate links later; this site may earn a commission at no extra cost to you.</div>
+    </div>
+  </footer>
 
   <script src="./assets/purify.min.js"></script>
   <script src="./assets/marked.min.js"></script>
   <script>
+  // ---- Single source of truth: base + SEO helpers (defined once) ----
+  const __BASE = (location.origin + location.pathname.replace(/\/[^/]*$/, "/")).replace(/\/posts_html\/$/, "/");
+  const __CANON_BASE = location.origin + location.pathname.replace(/\/posts_html\/.+$/, "/");
+
+  function __escapeHtml(s){
+    return String(s || "").replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+  }
+
+  function __setCanonical(url){
+    const link = document.querySelector('link+rel="canonical"]');
+    if(link) link.setAttribute("href", url);
+    const ogu = document.querySelector('meta[property="og:url"]');
+    if(ogu) ogu.setAttribute("content", url);
+  }
+
+  function __setMeta(name, content){
+    const m = document.querySelector('meta[name="' + name + '"]');
+    if(m) m.setAttribute("content", content);
+  }
+  function __setOg(prop, content){
+    const m = document.querySelector('meta[property="' + prop + '"]');
+    if(m) m.setAttribute("content", content);
+  }
+
+  function __deriveDesc(h1Text){
+    const t = (h1Text || "Comparison picks and recommendations").trim();
+    return t.length > 155 ? (t.slice(0,152) + "...") : t;
+  }
+
+  async function __loadRelated(slug){
+    try{
+      const r = await fetch("./assets/posts_index.json", {cache:"no-store"});
+      if(!r.ok) return;
+      const idx = await r.json();
+      if(!idx || !idx9by_slug || !idx.by_slug[slug]) return;
+      const rel = idx.by_slug[slug].related || [];
+      if(!Array.isArray(rel) || rel.length === 0) return;
+
+      const grid = document.getElementById("relatedGrid");
+      grid.innerHTML = "";
+      for(const rs of rel.slice(0,6)){
+        const item = idx.by_slug[rs];
+        if(!item) continue;
+        const a = document.createElement("a");
+        a.className = "relatedItem";
+        a.href = "./posts_html/" + encodeURIComponent(rs) + ".html";
+        a.innerHTML = '<div class="t">' + __escapeHtml(item.title||rs) + '</div><p class="d">' + __escapeHtml(item.desc||"") + '</p>';
+        grid.appendChild(a);
+      }
+      document.getElementById("relatedWrap").style.display = grid.children.length ? "" : "none";
+    }catch(_e){}
+  }
+
+  function __applySeo(slug, h1Text){
+    const title = (h1Text && h1Text.trim()) ? h1Text.trim() : "Article";
+    document.title = title;
+    document.getElementById("pageTitle").textContent = title;
+
+    const desc = __deriveDesc(title);
+    document.getElementById("pageDesc").textContent = desc;
+
+    __setMeta("description", desc);
+    __setOg("og:title", title);
+    __setOg("og:description", desc);
+    __setMeta("twitter:title", title);
+    __setMeta("twitter:description", desc);
+
+    const isPostsHtml = location.pathname.includes("/posts_html/");
+    if(isPostsHtml){
+      __setCanonical(location.origin + location.pathname.replace(/\?.*$/, ""));
+    }
+  }
+
+  function __tryExtractVerdict(container){
+    const h2s = container.querySelectorAll("h2");
+    for(const h2 of h2s){
+      const t = (h2.textContent||"").trim().toLowerCase();
+      if(t.includes("quick verdict") || t === "verdict" || t.includes("verdict:")){
+        const p = h2.nextElementSibling;
+        if(p && p.tagName && p.tagName.toLowerCase() === "p" && (p.textContent||"").trim().length){
+          return { title: h2.textContent.trim(), text: (p.textContent||"").trim() };
+        }
+      }
+    }
+    return null;
+  }
+
+  // ---- Main ----
   (async () => {
-    const params = new URLSearchParams(location.search);
-    const __BASE = "https://simple-product-picks.github.io/tech-accessories-picks-uk/";
-function __setMeta(nameOrProp, value, isProp){
-  const sel = isProp ? `meta[property="${nameOrProp}"]` : `meta[name="${nameOrProp}"]`;
-  let el = document.querySelector(sel);
-  if(!el){
-    el = document.createElement("meta");
-    if(isProp){ el.setAttribute("property", nameOrProp); } else { el.setAttribute("name", nameOrProp); }
-    document.head.appendChild(el);
-  }
-  el.setAttribute("content", value);
-}
-function __setCanonical(url){
-  let el = document.querySelector('link[rel="canonical"]');
-  if(!el){
-    el = document.createElement("link");
-    el.setAttribute("rel","canonical");
-    document.head.appendChild(el);
-  }
-  el.setAttribute("href", url);
-}
-function __deriveDesc(){
-  const p = document.querySelector(".content p");
-  if(!p) return "Comparison picks for UK tech accessories. Clear recommendations and quick specs.";
-  const t = (p.textContent || "").trim().replace(/\s+/g," ");
-  return (t.length > 155) ? (t.slice(0,152) + "...") : t;
-}
-function __applySeo(titleText){
-  const slugPart = (typeof slug === "string" && slug.length) ? ("posts_html/" + slug + ".html") : "";
-  const url = __BASE + slugPart;
-  const ttl = (titleText && titleText.trim()) ? titleText.trim() : "Tech Accessories Picks (UK)";
-  const desc = __deriveDesc();
+    document.getElementById("year").textContent = String(new Date().getFullYear());
 
-  __setCanonical(url);
-  __setMeta("description", desc, false);
+    // Determine slug + mdPath
+    let slug = null;
+    let mdPath = null;
 
-  __setMeta("og:type", "article", true);
-  __setMeta("og:title", ttl, true);
-  __setMeta("og:description", desc, true);
-  __setMeta("og:url", url, true);
+    const m = location.pathname.match(/\/posts_html\/([^/]+)\.html$/);
+    if(m){ slug = decodeURIComponent(m[1]); mdPath = "./posts/" + slug + ".md"; }
 
-  __setMeta("twitter:card", "summary", false);
-  __setMeta("twitter:title", ttl, false);
-  __setMeta("twitter:description", desc, false);
-}
-function __setMeta(nameOrProp, value, isProp){
-  const sel = isProp ? `meta[property="${nameOrProp}"]` : `meta[name="${nameOrProp}"]`;
-  let el = document.querySelector(sel);
-  if(!el){
-    el = document.createElement("meta");
-    if(isProp){ el.setAttribute("property", nameOrProp); } else { el.setAttribute("name", nameOrProp); }
-    document.head.appendChild(el);
-  }
-  el.setAttribute("content", value);
-}
-function __setCanonical(url){
-  let el = document.querySelector('link[rel="canonical"]');
-  if(!el){
-    el = document.createElement("link");
-    el.setAttribute("rel","canonical");
-    document.head.appendChild(el);
-  }
-  el.setAttribute("href", url);
-}
-function __deriveDesc(){
-  const p = document.querySelector(".content p");
-  if(!p) return "Comparison picks for UK tech accessories. Clear recommendations and quick specs.";
-  const t = (p.textContent || "").trim().replace(/\s+/g," ");
-  return (t.length > 155) ? (t.slice(0,152) + "...") : t;
-}
-function __applySeo(titleText){
-  const slugPart = (typeof slug === "string" && slug.length) ? ("posts_html/" + slug + ".html") : "";
-  const url = __BASE + slugPart;
-  const ttl = (titleText && titleText.trim()) ? titleText.trim() : "Tech Accessories Picks (UK)";
-  const desc = __deriveDesc();
+    const usp = new URLSearchParams(location.search);
+    if(!slug && usp.get("slug")){ slug = usp.get("slug"); mdPath = "./posts/" + slug + ".md"; }
 
-  __setCanonical(url);
-  __setMeta("description", desc, false);
-
-  __setMeta("og:type", "article", true);
-  __setMeta("og:title", ttl, true);
-  __setMeta("og:description", desc, true);
-  __setMeta("og:url", url, true);
-
-  __setMeta("twitter:card", "summary", false);
-  __setMeta("twitter:title", ttl, false);
-  __setMeta("twitter:description", desc, false);
-}
-const slug = params.get("slug");
-    if(!slug){ document.getElementById("content").textContent = "Missing slug."; return; }
-
-    const manifest = await (await fetch("./manifest.json", {cache:"no-store"})).json();
-    const item = manifest.find(x => x.slug === slug);
-    if(!item){ document.getElementById("content").textContent = "Not found."; return; }
+    if(!slug){
+      document.getElementById("meta").textContent = "missing slug";
+      document.getElementById("content").textContent = "Missing slug. Open from the index page.";
+      return;
+    }
 
     document.getElementById("meta").textContent = slug;
-    const md = await (await fetch(item.file, {cache:"no-store"})).text();
 
-    const html = marked.parse(md, {mangle:false, headerIds:true});
+    let md = "";
+    try{
+      const r= await fetch(mdPath, {cache:"no-store"});
+      if(!r.ok) throw new Error("fetch failed");
+      md = await r.text();
+    }catch(_e){
+      document.getElementById("content").textContent = "Could not load article source (" + mdPath + ").";
+      return;
+    }
+
+    const html = marked.parse(md, { mangle:false, headerIds:true });
     const safe = DOMPurify.sanitize(html, {USE_PROFILES:{html:true}});
-    document.getElementById("content").innerHTML = safe;
+    const contentEl = document.getElementById("content");
+    contentEl.innerHTML = safe;
 
-    const h1 = document.querySelector(".content h1");
-    if(h1 && h1.textContent){ document.title = h1.textContent;
-__applySeo(document.title);
-__applySeo(document.title); }
+    const h1 = contentEl.querySelector("h1");
+    const h1Text = h1 && h1.textContent ? h1.textContent : "Article";
+    __applySeo(slug, h1Text);
+
+    const verdict = __tryExtractVerdict(contentEl);
+    if(verdict){
+      document.getElementById("verdictTitle").textContent = verdict.title;
+      document.getElementById("verdictText").textContent = verdict.text;
+      document.getElementById("verdictBox").style.display = "";
+    }
+
+    await __loadRelated(slug);
   })();
   </script>
 </body>
 </html>
-
-
-
-
-
-
