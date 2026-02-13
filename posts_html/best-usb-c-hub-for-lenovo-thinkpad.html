@@ -31,6 +31,130 @@
       cursor:not-allowed;pointer-events:none;
     }
     .hint{color:#666;font-size:13px;margin-top:6px}
+
+/* VISUAL_ENHANCEMENTS_v1 */
+/* Append-only: overrides + enhancements (no HTML changes) */
+
+/* Slightly richer design tokens while preserving existing var names */
+:root {
+  --bg: #ffffff;
+  --card: #ffffff;
+  --shadow: 0 2px 12px rgba(0,0,0,.08);
+  --shadow2: 0 6px 18px rgba(0,0,0,.10);
+  --radius: 16px;
+  --radius2: 20px;
+}
+
+/* Page layout */
+body {
+  background: linear-gradient(180deg, #fafafa 0%, #ffffff 40%);
+}
+
+main {
+  max-width: 980px;
+}
+
+header {
+  backdrop-filter: blur(8px);
+}
+
+nav a {
+  padding: 8px 10px;
+  border-radius: 12px;
+}
+nav a:hover {
+  background: rgba(0,0,0,.04);
+}
+
+/* Typography polish */
+h1 {
+  letter-spacing: -0.02em;
+  font-size: 30px;
+  line-height: 1.15;
+}
+@media (min-width: 720px) {
+  h1 { font-size: 38px; }
+}
+h2 {
+  letter-spacing: -0.01em;
+}
+.muted {
+  color: var(--muted);
+}
+
+/* Cards and sections */
+.card {
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  border: 1px solid rgba(0,0,0,.06);
+}
+.card:hover {
+  box-shadow: var(--shadow2);
+}
+.pad {
+  padding: 16px;
+}
+@media (min-width: 720px) {
+  .pad { padding: 18px; }
+}
+
+/* Table: more “editorial review” */
+.content table {
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  border: 1px solid rgba(0,0,0,.06);
+}
+.content thead th {
+  background: #f5f5f7;
+}
+.content tbody tr:hover {
+  background: rgba(0,0,0,.02);
+}
+
+/* CTA buttons: more modern */
+.btn {
+  border-radius: 14px;
+  box-shadow: 0 1px 0 rgba(0,0,0,.04);
+}
+.btn.primary {
+  box-shadow: 0 8px 18px rgba(26,115,232,.18);
+}
+.btn.primary:hover {
+  transform: translateY(-1px);
+}
+.btn:active {
+  transform: translateY(0px);
+}
+.btn.disabled {
+  box-shadow: none;
+}
+
+/* Verdict box style (supports both .verdict and .verdict-box) */
+.verdict, .verdict-box {
+  border-radius: var(--radius2);
+  box-shadow: var(--shadow);
+  border: 1px solid rgba(0,0,0,.06);
+  background: var(--card);
+}
+.verdict h2, .verdict-box h2 {
+  font-size: 18px;
+}
+
+/* Related posts */
+.relatedItem {
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  border: 1px solid rgba(0,0,0,.06);
+}
+.relatedItem:hover {
+  box-shadow: var(--shadow2);
+}
+
+/* Mobile spacing */
+@media (max-width: 540px) {
+  .ctaRow { gap: 8px; }
+  .btn { width: 100%; }
+}
 </style>
   <meta name="description" content="Best USB-C Hub for Lenovo ThinkPad (UK) – 2024" />
   <link rel="canonical" href="https://simple-product-picks.github.io/tech-accessories-picks-uk/posts_html/best-usb-c-hub-for-lenovo-thinkpad.html" />
