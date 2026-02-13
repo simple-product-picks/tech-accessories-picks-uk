@@ -1,1 +1,5 @@
 ﻿products_needed_v1.json
+
+# local build logs/evidence (must never be published)
+data/
+
