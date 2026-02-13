@@ -132,3 +132,136 @@ section > :last-child{margin-bottom:0}
   color:#5f6368;
   margin-top:6px;
 }
+/* STAGE2_8_PREMIUM_TOKENS_v1 */
+/* Append-only: premium polish via tokens + safe selectors (wrap/topbar/nav/content/verdict). No HTML/JS changes. */
+
+:root{
+  --bg:#ffffff;
+  --surface:#ffffff;
+  --surface2:#fbfbfb;
+  --text:#111827;
+  --muted2:#5f6368;
+  --border:rgba(0,0,0,.08);
+
+  --radius:16px;
+  --radius2:20px;
+
+  --shadow0:0 0 0 rgba(0,0,0,0);
+  --shadow1:0 1px 10px rgba(0,0,0,.06);
+  --shadow2:0 6px 18px rgba(0,0,0,.10);
+
+  --maxw:1080px;
+  --padx:18px;
+  --pady:16px;
+
+  --accent:#0b57d0;
+}
+
+/* Page background (subtle, not loud) */
+body{
+  color:var(--text);
+  background:linear-gradient(180deg, #f7f7f7 0%, #ffffff 45%);
+}
+
+/* Container discipline */
+.wrap{
+  max-width:var(--maxw);
+  margin:0 auto;
+  padding:0 var(--padx);
+}
+main{
+  max-width:var(--maxw);
+  padding:var(--pady) var(--padx);
+}
+
+/* Header / topbar / nav (premium but quiet) */
+.site-header{
+  position:sticky; top:0; z-index:20;
+  background:rgba(255,255,255,.86);
+  border-bottom:1px solid var(--border);
+  backdrop-filter:blur(10px);
+}
+.topbar{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:12px;
+  padding:12px var(--padx);
+}
+.brand{
+  display:flex; align-items:center; gap:10px;
+}
+.brand-title{
+  letter-spacing:-.02em;
+}
+.site-nav{
+  display:flex;
+  gap:6px;
+  flex-wrap:wrap;
+  align-items:center;
+}
+.site-nav a{
+  padding:8px 10px;
+  border-radius:999px;
+  border:1px solid transparent;
+  text-decoration:none;
+}
+.site-nav a:hover{
+  background:rgba(0,0,0,.04);
+  border-color:rgba(0,0,0,.05);
+}
+
+/* Typography rhythm */
+.content h1{font-size:30px;letter-spacing:-.02em;margin:0 0 12px}
+.content h2{font-size:20px;letter-spacing:-.01em;margin:18px 0 10px}
+.content h3{font-size:16px;margin:14px 0 8px}
+.content p,.content li{line-height:1.75}
+.muted{color:var(--muted2)}
+
+/* Card surface helpers (only where classes exist) */
+.card,.pad{
+  background:var(--surface);
+  border:1px solid var(--border);
+  border-radius:var(--radius);
+  box-shadow:var(--shadow1);
+}
+
+/* Verdict card upgrade (safe selector exists on all posts) */
+.verdict-box{
+  background:linear-gradient(180deg, var(--surface) 0%, var(--surface2) 100%);
+  border:1px solid rgba(0,0,0,.10);
+  border-radius:var(--radius2);
+  box-shadow:var(--shadow2);
+  padding:16px;
+}
+.verdict-box h2{font-size:18px;margin-top:0}
+
+/* Tables: premium containment */
+.content table{
+  border-radius:14px;
+  border:1px solid var(--border);
+  box-shadow:var(--shadow1);
+  overflow:hidden;
+}
+.content th{
+  background:#fafafa;
+}
+.content tr:hover td{
+  background:rgba(0,0,0,.015);
+}
+
+/* Buttons: restrained premium affordance */
+.btn{
+  background:var(--accent);
+  border-color:rgba(0,0,0,.10);
+  border-radius:14px;
+  box-shadow:0 1px 10px rgba(0,0,0,.08);
+}
+.btn.secondary{
+  background:#ffffff;
+}
+.btn.secondary:hover{
+  background:rgba(0,0,0,.03);
+}
+.btn:active{transform:translateY(1px)}
+.btn:focus{outline:2px solid rgba(11,87,208,.25);outline-offset:2px}
