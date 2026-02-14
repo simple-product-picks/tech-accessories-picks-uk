@@ -265,3 +265,105 @@ main{
 }
 .btn:active{transform:translateY(1px)}
 .btn:focus{outline:2px solid rgba(11,87,208,.25);outline-offset:2px}
+
+/* STAGE2_10_INLINE_TOKENS_v1 */
+/* Deterministic: replaces repeated inline styles with token classes. Append-only. */
+
+:root{
+  --radius: 16px;
+  --radius2: 20px;
+  --shadow: 0 2px 12px rgba(0,0,0,.08);
+  --shadow2: 0 6px 18px rgba(0,0,0,.10);
+  --border: rgba(0,0,0,.08);
+  --muted: #5f6368;
+  --bg2: #fafafa;
+}
+
+/* Spacing tokens */
+.mt-8{ margin-top:8px; }
+.m0{ margin:0; }
+
+/* Layout tokens */
+.row-between{
+  display:flex;
+  align-items:baseline;
+  justify-content:space-between;
+  gap:10px;
+  flex-wrap:wrap;
+}
+.grid1{
+  margin-top:10px;
+  display:grid;
+  grid-template-columns:1fr;
+  gap:10px;
+}
+
+/* Panels / sections */
+.panel{
+  margin:14px 0 18px;
+  padding:14px;
+  border:1px solid var(--border);
+  border-radius:14px;
+  background:#fff;
+  box-shadow:var(--shadow);
+}
+.note-box{
+  padding:12px;
+  border:1px solid var(--border);
+  border-radius:12px;
+  background:var(--bg2);
+}
+.section-divider{
+  margin-top:22px;
+  padding-top:14px;
+  border-top:1px solid var(--border);
+}
+
+/* Typography tokens */
+.h2-tight{ margin:0; font-size:18px; letter-spacing:-.01em; }
+.h2-block{ margin:0 0 10px 0; font-size:18px; letter-spacing:-.01em; }
+.fw-600{ font-weight:600; }
+.pill{
+  display:inline-block;
+  padding:8px 10px;
+  border:1px solid rgba(0,0,0,.14);
+  border-radius:10px;
+  background:#fff;
+}
+
+/* Table tokens */
+.table-wrap{
+  margin-top:10px;
+  overflow:auto;
+  border:1px solid var(--border);
+  border-radius:12px;
+  background:#fff;
+}
+.compare-table{
+  width:100%;
+  border-collapse:collapse;
+  min-width:720px;
+}
+.thead-cell{
+  text-align:left;
+  padding:10px;
+  border-bottom:1px solid var(--border);
+  background:var(--bg2);
+  font-weight:700;
+}
+.cell{ padding:10px; }
+.cell-row{
+  padding:10px;
+  border-bottom:1px solid rgba(0,0,0,.06);
+}
+
+/* Ensure verdict panel reads premium but neutral */
+.verdict-box.panel{
+  background:linear-gradient(180deg,#ffffff 0%,#fafafa 100%);
+  border-color:rgba(0,0,0,.10);
+  box-shadow:var(--shadow2);
+}
+
+/* Muted consistency */
+.muted{ color:var(--muted); }
+
