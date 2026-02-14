@@ -6,3 +6,9 @@ data/
 
 assets.rar
 
+
+# Node / Playwright local artifacts (do not commit)
+node_modules/
+package-lock.json
+package.json
+
