@@ -670,3 +670,54 @@ a:focus, .btn:focus{
   outline:2px solid var(--ring);
   outline-offset:2px;
 }
+
+/* STAGE2_15_HERO_CSS_V1 */
+/* Hero block (token-driven; no inline styling) */
+#hero.hero.panel{
+  padding:18px 18px 16px;
+}
+.hero{
+  display:block;
+}
+.hero-kicker{
+  display:inline-flex;
+  align-items:center;
+  gap:8px;
+  padding:6px 10px;
+  border:1px solid rgba(0,0,0,.10);
+  border-radius:999px;
+  background:rgba(255,255,255,.65);
+  backdrop-filter:saturate(140%) blur(6px);
+  -webkit-backdrop-filter:saturate(140%) blur(6px);
+}
+.hero-title{
+  margin:12px 0 6px 0;
+  font-size:34px;
+  line-height:1.08;
+  letter-spacing:-.02em;
+  color:var(--ink);
+}
+.hero-sub{
+  margin:0;
+  font-size:15px;
+  line-height:1.5;
+  color:var(--muted);
+  max-width:60ch;
+}
+
+/* Make hero feel “premium” without being loud */
+.hero.panel{
+  background:
+    radial-gradient(900px 220px at 10% 0%, rgba(11,87,208,.10) 0%, rgba(11,87,208,0) 60%),
+    radial-gradient(700px 240px at 90% 0%, rgba(0,0,0,.05) 0%, rgba(0,0,0,0) 55%),
+    linear-gradient(180deg, #ffffff 0%, #fafafa 100%);
+  border-color:rgba(0,0,0,.10);
+  box-shadow:var(--shadow2);
+}
+
+/* Responsive hero */
+@media (max-width: 640px){
+  .hero-title{ font-size:26px; }
+  #hero.hero.panel{ padding:16px 14px 14px; }
+}
+
