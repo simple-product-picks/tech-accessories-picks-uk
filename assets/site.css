@@ -1,4 +1,4 @@
-/* SITE_CSS_v1 (centralized) */
+﻿/* SITE_CSS_v1 (centralized) */
 body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;margin:0;line-height:1.6}
     header{padding:16px;border-bottom:1px solid #e5e5e5}
     main{max-width:900px;margin:0 auto;padding:16px}
@@ -37,7 +37,7 @@ body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;margin
   --radius2:20px;
 }
 
-/* Subtle “clean” page background */
+/* Subtle â€œcleanâ€ page background */
 body{
   background:linear-gradient(180deg,#fafafa 0%,#ffffff 42%);
 }
@@ -51,7 +51,7 @@ body{
 .content p, .content li{line-height:1.7}
 .muted{color:#5f6368}
 
-/* Consistent “ecosystem” surface */
+/* Consistent â€œecosystemâ€ surface */
 header{
   position:sticky; top:0; z-index:10;
   background:rgba(255,255,255,.82);
@@ -76,7 +76,7 @@ section{
 section > :first-child{margin-top:0}
 section > :last-child{margin-bottom:0}
 
-/* Tables: less “raw spreadsheet”, more readable */
+/* Tables: less â€œraw spreadsheetâ€, more readable */
 .content table{
   display:table; /* undo block table unless it overflows */
   width:100%;
@@ -102,7 +102,7 @@ section > :last-child{margin-bottom:0}
   border-left:1px solid rgba(0,0,0,.06);
 }
 
-/* “Verdict” presentation: clearer hierarchy, still neutral pre-affiliate */
+/* â€œVerdictâ€ presentation: clearer hierarchy, still neutral pre-affiliate */
 .verdict-box{
   background:linear-gradient(180deg, #ffffff 0%, #fafafa 100%);
   border:1px solid rgba(0,0,0,.10);
@@ -422,7 +422,7 @@ main{ max-width: 980px; }
 .back-link:hover{ border-color: rgba(37,99,235,.35); box-shadow: 0 10px 24px rgba(2,6,23,.10); }
 #meta.muted{ color: var(--muted); }
 
-/* Nav as “pill” row */
+/* Nav as â€œpillâ€ row */
 .site-nav{
   display:flex;
   flex-wrap:wrap;
@@ -705,7 +705,7 @@ a:focus, .btn:focus{
   max-width:60ch;
 }
 
-/* Make hero feel “premium” without being loud */
+/* Make hero feel â€œpremiumâ€ without being loud */
 .hero.panel{
   background:
     radial-gradient(900px 220px at 10% 0%, rgba(11,87,208,.10) 0%, rgba(11,87,208,0) 60%),
@@ -776,5 +776,95 @@ main{ padding-top:18px; }
 @media (max-width:640px){
   #hero.hero.panel{ padding:16px 14px 14px; border-radius:18px; }
   .hero-title{ font-size:28px; }
+}
+
+/* STAGE2_17_BRAND_BLUE_ACCENTS_V1 */
+/* Option 1: Subtle authority (Confident tech brand blue) */
+/* Targets:
+   - add --accent token
+   - nav pills hover/active/focus
+   - primary button emphasis (still clean)
+   - table header accent + top pick row highlight
+*/
+
+:root{
+  --accent: #1f6feb;           /* confident tech blue */
+  --accent-ink: #0b3aa6;       /* darker blue for text/lines */
+  --accent-soft: rgba(31,111,235,.10);
+  --accent-soft2: rgba(31,111,235,.16);
+}
+
+/* Focus ring (keyboard clarity) */
+:where(a, button, .btn, input, select, textarea):focus-visible{
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(31,111,235,.22);
+}
+
+/* Nav pills: a little more “brand” */
+.site-nav a{
+  border-color: rgba(0,0,0,.08);
+}
+.site-nav a:hover{
+  border-color: rgba(31,111,235,.35);
+  background: rgba(31,111,235,.06);
+}
+.site-nav a.active,
+.site-nav a[aria-current="page"]{
+  border-color: rgba(31,111,235,.45);
+  background: rgba(31,111,235,.10);
+  color: var(--ink);
+}
+
+/* Primary button: blue gradient-lite without shouting */
+.btn.primary{
+  background: linear-gradient(180deg, rgba(31,111,235,1) 0%, rgba(18,92,214,1) 100%);
+  border-color: rgba(18,92,214,1);
+  color: #fff;
+  box-shadow: 0 10px 22px rgba(31,111,235,.18);
+}
+.btn.primary:hover{
+  filter: brightness(1.02);
+  box-shadow: 0 12px 26px rgba(31,111,235,.22);
+}
+
+/* “Quick comparison” table: subtle blue cue */
+.compare-table thead th,
+.table-wrap thead th{
+  position: relative;
+}
+.compare-table thead th::after,
+.table-wrap thead th::after{
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -1px;
+  height: 2px;
+  background: linear-gradient(90deg, rgba(31,111,235,.75), rgba(31,111,235,0));
+}
+
+/* Top pick row highlight (only if class exists; harmless otherwise) */
+tr.best-overall,
+tr.top-pick,
+tr.is-best{
+  background: linear-gradient(90deg, rgba(31,111,235,.10), rgba(31,111,235,0) 70%);
+}
+tr.best-overall td:first-child,
+tr.top-pick td:first-child,
+tr.is-best td:first-child{
+  border-left: 3px solid rgba(31,111,235,.65);
+}
+
+/* Small accents: pills */
+.pill{
+  border-color: rgba(31,111,235,.20);
+}
+.pill strong{
+  color: var(--accent-ink);
+}
+
+/* Keep it clean on mobile */
+@media (max-width: 640px){
+  .btn.primary{ box-shadow: 0 10px 18px rgba(31,111,235,.16); }
 }
 
