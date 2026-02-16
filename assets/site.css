@@ -721,3 +721,60 @@ a:focus, .btn:focus{
   #hero.hero.panel{ padding:16px 14px 14px; }
 }
 
+/* STAGE2_16_SPACING_POLISH_V1 */
+/* Goal: tighten top-of-page rhythm so hero + first panel feel deliberate */
+
+:root{
+  --space-1:8px;
+  --space-2:12px;
+  --space-3:16px;
+  --space-4:22px;
+  --space-5:28px;
+}
+
+/* Header spacing */
+header.site-header{ padding:14px 0; }
+header.site-header .wrap{ padding:0 16px; }
+
+/* Main container rhythm */
+main{ padding-top:18px; }
+@media (max-width:640px){
+  main{ padding-top:14px; }
+}
+
+/* HERO refinement */
+#hero.hero.panel{
+  padding:20px 20px 16px;
+  border-radius:20px;
+}
+
+.hero-kicker{
+  font-size:13px;
+  line-height:1;
+}
+
+.hero-title{
+  margin:12px 0 8px 0;
+  font-size:36px;
+}
+
+.hero-sub{
+  margin:0;
+  font-size:15px;
+}
+
+/* tighten gap between hero and first section/panel */
+#hero{ margin-bottom: var(--space-4); }
+.panel{ margin: var(--space-4) 0; }
+.verdict-box.panel{ margin-top: var(--space-4); }
+
+/* Table/panel headers: slightly tighter */
+.h2-tight{ font-size:18px; }
+.row-between{ gap:10px; }
+
+/* Mobile tuning */
+@media (max-width:640px){
+  #hero.hero.panel{ padding:16px 14px 14px; border-radius:18px; }
+  .hero-title{ font-size:28px; }
+}
+
