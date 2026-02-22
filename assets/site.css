@@ -868,3 +868,80 @@ tr.is-best td:first-child{
   .btn.primary{ box-shadow: 0 10px 18px rgba(31,111,235,.16); }
 }
 
+/* STAGE2_18_VIBRANCY_UPGRADE_V1 */
+/* Goal: closer to Qwen "brighter / more eye catching" WITHOUT turning into spam.
+   Levers:
+   1) CTA pop (more contrast + lift)
+   2) Hero stronger anchor (accent presence)
+   3) Table header branded
+   4) Clearer “best row” highlight (if classes exist)
+*/
+
+/* Stronger accent tokens */
+:root{
+  --accent: #1f6feb;                 /* electric tech blue */
+  --accent-2: #1749c6;               /* deeper for gradients */
+  --accent-soft: rgba(31,111,235,.12);
+  --accent-soft2: rgba(31,111,235,.22);
+}
+
+/* Primary button: more energetic + obvious */
+.btn.primary{
+  background: linear-gradient(180deg, var(--accent) 0%, var(--accent-2) 100%);
+  border-color: rgba(23,73,198,1);
+  color:#fff;
+  font-weight:700;
+  box-shadow: 0 18px 40px rgba(31,111,235,.35);
+  transform: translateY(0);
+  transition: transform .14s ease, box-shadow .14s ease, filter .14s ease;
+}
+.btn.primary:hover{
+  filter: brightness(1.03);
+  transform: translateY(-2px);
+  box-shadow: 0 22px 50px rgba(31,111,235,.45);
+}
+
+/* Hero: make it feel branded, not grey */
+.hero.panel{
+  background:
+    radial-gradient(1000px 260px at 10% 0%, rgba(31,111,235,.18), rgba(31,111,235,0) 60%),
+    radial-gradient(800px 260px at 90% 0%, rgba(31,111,235,.10), rgba(31,111,235,0) 55%),
+    linear-gradient(180deg, #ffffff 0%, #f8fbff 100%);
+  border-color: rgba(31,111,235,.25);
+}
+
+/* Slightly bigger headline for impact */
+.hero-title{
+  font-size:40px;
+  letter-spacing:-.02em;
+}
+
+/* Table header: branded band + clearer underline */
+.compare-table thead th,
+.table-wrap thead th{
+  background: linear-gradient(180deg, #f3f8ff 0%, #eaf2ff 100%);
+}
+.compare-table thead th::after,
+.table-wrap thead th::after{
+  height: 3px;
+  background: linear-gradient(90deg, rgba(31,111,235,.95), rgba(31,111,235,0));
+}
+
+/* Best row: more visible (only if generator adds classes; otherwise harmless) */
+tr.best-overall,
+tr.top-pick,
+tr.is-best{
+  background: linear-gradient(90deg, rgba(31,111,235,.16), rgba(31,111,235,0) 72%);
+}
+tr.best-overall td:first-child,
+tr.top-pick td:first-child,
+tr.is-best td:first-child{
+  border-left: 4px solid rgba(31,111,235,.85);
+}
+
+/* Mobile: keep comfortable */
+@media (max-width: 640px){
+  .hero-title{ font-size:30px; }
+  .btn.primary{ box-shadow: 0 16px 34px rgba(31,111,235,.32); }
+}
+
