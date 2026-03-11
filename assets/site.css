@@ -245,3 +245,88 @@ main { max-width: 960px; margin: 0 auto; padding: 16px 16px 48px; }
 .content th { background: #f9fafb; font-weight: 600; text-align: left; padding: 9px 12px; border-bottom: 2px solid #e5e7eb; }
 .content td { padding: 9px 12px; border-bottom: 1px solid #f3f4f6; vertical-align: top; color: #374151; }
 .content tr:nth-child(even) td { background: #f9fafb; }
+
+/* -- Visual punch pass 2026-03-11 ------------------------------- */
+
+/* Hero — blue accent bar */
+.hero.panel {
+  border-left: 5px solid #2563eb;
+  background: linear-gradient(135deg, #eff6ff 0%, #ffffff 60%);
+  border-radius: 0 12px 12px 0;
+}
+
+.hero-kicker {
+  background: #2563eb;
+  color: #ffffff;
+  border-color: #2563eb;
+}
+
+.hero-title { color: #1e3a8a; }
+
+/* Comparison table — blue header */
+.thead-cell {
+  background: #2563eb;
+  color: #ffffff;
+  border-bottom: 2px solid #1d4ed8;
+}
+
+/* CTA buttons — brighter blue */
+.btn.primary {
+  background: #2563eb;
+  color: #ffffff;
+  border: none;
+  box-shadow: 0 2px 8px rgba(37,99,235,0.35);
+  font-size: 15px;
+  padding: 13px 18px;
+  border-radius: 8px;
+}
+.btn.primary:hover { background: #1d4ed8; filter: none; }
+
+/* Verdict box — punchy blue */
+.verdict-box {
+  border-left: 5px solid #2563eb;
+  background: linear-gradient(135deg, #eff6ff 0%, #ffffff 70%);
+}
+
+/* Pill — blue outline */
+.pill {
+  color: #2563eb;
+  border-color: #bfdbfe;
+  background: #eff6ff;
+  font-weight: 500;
+}
+
+/* -- Star ratings ----------------------------------------------- */
+/* Usage in markdown: add line like: ★★★★★ (4.8/5) */
+.content p:has(.star-rating),
+.star-rating { color: #f59e0b; font-size: 15px; font-weight: 600; }
+
+/* Auto-style ★ characters in content */
+.content p { }
+
+/* Style any paragraph that starts with ★ as a rating line */
+.content p > .stars { color: #f59e0b; letter-spacing: 1px; }
+
+/* -- Pros / Cons auto-styling ----------------------------------- */
+/* Green tick for lines starting with checkmark or "Pro" marker */
+.content ul li {
+  position: relative;
+}
+
+/* If markdown uses ✓ prefix in list items */
+.content ul li:first-child { }
+
+/* Explicit pros/cons via CSS — target lists under h3 "Pros"/"Cons" */
+.content h3 + ul li::marker { color: #16a34a; }
+
+/* We inject JS-based class toggling via a style block */
+/* Pros list items get green, Cons get red */
+.pros-list li { list-style: none; padding-left: 4px; }
+.pros-list li::before { content: "✓ "; color: #16a34a; font-weight: 700; }
+
+.cons-list li { list-style: none; padding-left: 4px; }
+.cons-list li::before { content: "✗ "; color: #dc2626; font-weight: 700; }
+
+/* Star rating line styling */
+.rating-line { color: #f59e0b; font-weight: 600; font-size: 15px; margin: 4px 0 8px; }
+.rating-line .rating-score { color: #374151; font-size: 13px; font-weight: 500; margin-left: 4px; }
