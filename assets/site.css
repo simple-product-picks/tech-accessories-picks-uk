@@ -136,3 +136,112 @@ footer { border-top: 1px solid #e5e7eb; padding: 20px 0; font-size: 13px; color:
 /* -- Code ------------------------------------------------------- */
 .content code { background: #f3f4f6; padding: 2px 5px; border-radius: 4px; font-size: 13px; }
 .content pre  { background: #f3f4f6; padding: 14px; border-radius: 8px; overflow-x: auto; }
+
+/* -- Post page classes (pre-built HTML) ------------------------- */
+main { max-width: 960px; margin: 0 auto; padding: 16px 16px 48px; }
+
+.panel {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 20px;
+  margin: 16px 0;
+}
+
+.row-between {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-bottom: 6px;
+}
+
+.h2-tight { font-size: 18px; font-weight: 700; margin: 0; color: #111827; }
+.h2-block { font-size: 18px; font-weight: 700; margin: 0 0 12px; color: #111827; }
+.m0 { margin: 0; }
+.mt-8 { margin-top: 8px; }
+.fw-600 { font-weight: 600; }
+
+/* -- Comparison table ------------------------------------------- */
+.table-wrap { overflow-x: auto; margin-top: 12px; }
+
+.compare-table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 14px;
+  min-width: 500px;
+}
+
+.thead-cell {
+  background: #f9fafb;
+  color: #374151;
+  font-weight: 600;
+  text-align: left;
+  padding: 10px 12px;
+  border-bottom: 2px solid #e5e7eb;
+  white-space: nowrap;
+}
+
+.cell-row, .cell {
+  padding: 10px 12px;
+  border-bottom: 1px solid #f3f4f6;
+  vertical-align: top;
+  color: #374151;
+  font-size: 14px;
+}
+
+.compare-table tbody tr:nth-child(even) td,
+.compare-table tbody tr:nth-child(even) .cell-row,
+.compare-table tbody tr:nth-child(even) .cell { background: #f9fafb; }
+
+.compare-table tbody tr:hover td,
+.compare-table tbody tr:hover .cell-row,
+.compare-table tbody tr:hover .cell { background: #f0f9ff; }
+
+/* -- Verdict box ------------------------------------------------- */
+.verdict-box {
+  border-left: 4px solid #2563eb;
+  background: #f8faff;
+  border-radius: 0 12px 12px 0;
+  border-top: 1px solid #e5e7eb;
+  border-right: 1px solid #e5e7eb;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.grid1 { display: flex; flex-direction: column; gap: 10px; margin-top: 14px; }
+
+.note-box {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 12px 14px;
+}
+
+.pill {
+  display: inline-block;
+  font-size: 12px;
+  color: #9ca3af;
+  border: 1px solid #e5e7eb;
+  border-radius: 20px;
+  padding: 2px 10px;
+}
+
+/* -- Section divider -------------------------------------------- */
+.section-divider {
+  margin: 24px 0;
+  padding-top: 8px;
+  border-top: 1px solid #e5e7eb;
+}
+
+/* -- Content (markdown injected) -------------------------------- */
+.content h1 { font-size: 24px; font-weight: 700; margin: 0 0 12px; line-height: 1.2; }
+.content h2 { font-size: 19px; font-weight: 700; margin: 24px 0 8px; }
+.content h3 { font-size: 15px; font-weight: 600; margin: 16px 0 6px; }
+.content p, .content li { font-size: 15px; line-height: 1.7; color: #374151; }
+.content ul, .content ol { padding-left: 20px; margin: 8px 0 14px; }
+.content li { margin-bottom: 4px; }
+.content table { border-collapse: collapse; width: 100%; font-size: 14px; margin: 12px 0; overflow-x: auto; display: block; }
+.content th { background: #f9fafb; font-weight: 600; text-align: left; padding: 9px 12px; border-bottom: 2px solid #e5e7eb; }
+.content td { padding: 9px 12px; border-bottom: 1px solid #f3f4f6; vertical-align: top; color: #374151; }
+.content tr:nth-child(even) td { background: #f9fafb; }
