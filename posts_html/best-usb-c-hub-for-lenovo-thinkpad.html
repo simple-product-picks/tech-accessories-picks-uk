@@ -113,9 +113,9 @@
         ul.querySelectorAll("li").forEach(li => {
           const t = li.textContent.trim();
           if (t.startsWith("âœ“")) {
-            li.style.cssText = "list-style:none;color:#16a34a;font-weight:500";
+            li.style.cssText = "list-style:none;color:#16a34a;font-weight:500;font-size:16px";
           } else if (t.startsWith("âœ—")) {
-            li.style.cssText = "list-style:none;color:#dc2626;font-weight:500";
+            li.style.cssText = "list-style:none;color:#dc2626;font-weight:500;font-size:16px";
           }
         });
       });
@@ -123,7 +123,7 @@
       // Style star rating paragraphs amber
       contentEl.querySelectorAll("p").forEach(p => {
         if (p.textContent.trim().match(/^[â˜…â˜†]+\s*\(/)) {
-          p.style.cssText = "color:#f59e0b;font-weight:600;font-size:15px;margin:4px 0 10px";
+          p.style.cssText = "color:#f59e0b;font-weight:700;font-size:22px;margin:4px 0 10px";
         }
       });
 
