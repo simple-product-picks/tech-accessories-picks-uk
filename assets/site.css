@@ -257,6 +257,7 @@ main  { max-width: 960px; margin: 0 auto; padding: 16px 16px 48px; }
 
 /* -- Note / muted ----------------------------------------------- */
 .note  { font-size: 12px; color: var(--muted); line-height: 1.5; margin-top: 6px; }
+.price-note { font-size: 12px; color: var(--muted); margin: 0 0 8px; font-style: italic; }
 .muted { color: var(--muted); font-size: 13px; }
 
 /* -- Footer ----------------------------------------------------- */
