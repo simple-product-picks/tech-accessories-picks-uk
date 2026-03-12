@@ -4,42 +4,42 @@ Looking for the gan charger for macbook pro in the UK? We've tested and compared
 
 ## Top picks
 
-### 1. Anker 100W USB C Charger (3-Port GaN, Smart Display) â€” Best Overall
+### 1. Anker 100W USB C Charger (3-Port GaN, Smart Display) — Best Overall
 
-â˜…â˜…â˜…â˜…â˜… (4.8/5)
+★★★★★ (4.8/5)
 
-The Anker 100W USB C Charger is a powerhouse for UK users needing to rapidly charge laptops and multiple devices, costing around £44.99. Its key feature is delivering a full 100W via USB-C – perfect for MacBook Pro 14/16 inch models – alongside a smart display showing real-time wattage output and a convenient foldable UK plug. This GaN charger significantly reduces charging times while remaining remarkably compact for travel or desk use.
+The Anker 100W USB C Charger is a powerhouse for UK users needing to rapidly charge laptops and multiple devices, costing around �44.99. Its key feature is delivering a full 100W via USB-C � perfect for MacBook Pro 14/16 inch models � alongside a smart display showing real-time wattage output and a convenient foldable UK plug. This GaN charger significantly reduces charging times while remaining remarkably compact for travel or desk use.
 
 **Pros**
-- âœ“ Powers even demanding laptops at full speed (100W)
-- âœ“ Smart digital display provides clear power usage information 
-- âœ“ Compact and portable design with foldable UK plug – ideal for travelling
+- ✓ Powers even demanding laptops at full speed (100W)
+- ✓ Smart digital display provides clear power usage information 
+- ✓ Compact and portable design with foldable UK plug � ideal for travelling
 
 **Cons**
-- âœ— Can get slightly warm during heavy use, but this is normal for high wattage chargers.
-- âœ— USB-A port has slower charging speeds compared to the USB-C ports. 
+- ✗ Can get slightly warm during heavy use, but this is normal for high wattage chargers.
+- ✗ USB-A port has slower charging speeds compared to the USB-C ports. 
 
 **Who it's for:** Professionals and students in the UK who need a reliable, fast charger for laptops, tablets, and phones.
-**Who it's not for:** Users only needing to charge basic smartphones or devices that don’t support Power Delivery (PD).
+**Who it's not for:** Users only needing to charge basic smartphones or devices that don�t support Power Delivery (PD).
 
 [Check price on Amazon UK](https://www.amazon.co.uk/dp/B0FL2DR4TH?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
-### 2. UGREEN USB C Charger 65W GaN 2-Port â€” Best Budget
+### 2. UGREEN USB C Charger 65W GaN 2-Port — Best Budget
 
-â˜…â˜…â˜…â˜…â˜… (4.8/5)
+★★★★★ (4.8/5)
 
-The UGREEN 65W GaN 2-Port USB C Charger is a compact and powerful solution for charging your devices in the UK, offering fantastic value at just £19.97. Its key feature is the ability to rapidly charge even demanding laptops like the MacBook Pro 13-inch and M2 models at full speed, while its GaN technology keeps it cool and small. This charger provides a convenient dual-port setup for powering multiple devices simultaneously.
+The UGREEN 65W GaN 2-Port USB C Charger is a compact and powerful solution for charging your devices in the UK, offering fantastic value at just �19.97. Its key feature is the ability to rapidly charge even demanding laptops like the MacBook Pro 13-inch and M2 models at full speed, while its GaN technology keeps it cool and small. This charger provides a convenient dual-port setup for powering multiple devices simultaneously.
 
 **Pros**
-- âœ“ Remarkably fast charging for MacBooks and phones.
-- âœ“ Compact and lightweight design – perfect for travel.
-- âœ“ Excellent value for money compared to Apple’s official chargers.
+- ✓ Remarkably fast charging for MacBooks and phones.
+- ✓ Compact and lightweight design � perfect for travel.
+- ✓ Excellent value for money compared to Apple�s official chargers.
 
 **Cons**
-- âœ— Cable not included - you'll need your own USB-C to USB-C cable.
-- âœ— Only two ports, may be limiting for users with many devices. 
+- ✗ Cable not included - you'll need your own USB-C to USB-C cable.
+- ✗ Only two ports, may be limiting for users with many devices. 
 
 **Who it's for:** UK MacBook Pro or M2 owners looking for a fast and affordable replacement charger or a convenient travel companion.
 **Who it's not for:** Users needing more than two charging ports simultaneously or those who prefer wireless charging solutions.
@@ -48,20 +48,20 @@ The UGREEN 65W GaN 2-Port USB C Charger is a compact and powerful solution for c
 
 ---
 
-### 3. UGREEN Nexode Pro 100W 3-Port GaN Charger â€” Best Premium
+### 3. UGREEN Nexode Pro 100W 3-Port GaN Charger — Best Premium
 
-â˜…â˜…â˜…â˜…â˜… (4.8/5)
+★★★★★ (4.8/5)
 
-The UGREEN Nexode Pro 100W GaN Charger is a powerhouse for all your charging needs, delivering incredibly fast power to laptops and phones alike – expect to pay around £39.99. Its key feature, the GaNInfinity chip, allows it to rapidly charge devices like a MacBook Pro 14 from 0-50% in just 27 minutes, while remaining compact and efficient. This charger boasts two USB-C ports and one USB-A port for versatile connectivity.
+The UGREEN Nexode Pro 100W GaN Charger is a powerhouse for all your charging needs, delivering incredibly fast power to laptops and phones alike � expect to pay around �39.99. Its key feature, the GaNInfinity chip, allows it to rapidly charge devices like a MacBook Pro 14 from 0-50% in just 27 minutes, while remaining compact and efficient. This charger boasts two USB-C ports and one USB-A port for versatile connectivity.
 
 **Pros**
-- âœ“ Exceptionally fast charging speeds thanks to the 100W power delivery.
-- âœ“ Compact and lightweight design – perfect for travel or small workspaces.
-- âœ“ GaN technology ensures efficient operation and reduced heat output.
+- ✓ Exceptionally fast charging speeds thanks to the 100W power delivery.
+- ✓ Compact and lightweight design � perfect for travel or small workspaces.
+- ✓ GaN technology ensures efficient operation and reduced heat output.
 
 **Cons**
-- âœ— Price is higher than some basic USB-C chargers on the market.
-- âœ— Cable not included, adding to the overall cost. 
+- ✗ Price is higher than some basic USB-C chargers on the market.
+- ✗ Cable not included, adding to the overall cost. 
 
 **Who it's for:** UK users who need a fast, reliable, and versatile charger for their laptops, tablets, and smartphones.
 **Who it's not for:** Those only needing to charge basic mobile phones or who are on a very tight budget.
@@ -72,7 +72,7 @@ The UGREEN Nexode Pro 100W GaN Charger is a powerhouse for all your charging nee
 
 ## Quick verdict
 
-The **Anker 100W USB C Charger (3-Port GaN, Smart Display)** is our top pick for best gan charger for macbook pro â€” it hits the sweet spot of features and value. On a tighter budget, the **UGREEN USB C Charger 65W GaN 2-Port** at £19.97 delivers excellent performance for the price.
+The **Anker 100W USB C Charger (3-Port GaN, Smart Display)** is our top pick for best gan charger for macbook pro — it hits the sweet spot of features and value. On a tighter budget, the **UGREEN USB C Charger 65W GaN 2-Port** at �19.97 delivers excellent performance for the price.
 
 ## How we chose
 
@@ -87,7 +87,7 @@ A: Most modern Macbook Pros require at least 61W to charge, but an 87W or 96W ch
 A: Yes, GaN (Gallium Nitride) chargers are more efficient and generate less heat, allowing for a smaller and lighter design while delivering the same or greater power output. The UGREEN USB C Charger 65W GaN 2-Port is a great example of this compact technology.
 
 **Q: Can I use a single Gan charger to charge my Macbook *and* iPhone?**
-A: Absolutely! Many GaN chargers, such as the Anker and UGREEN models, feature multiple USB-C ports allowing simultaneous charging of various devices – perfect for your Macbook Pro and iPhone alongside other gadgets.
+A: Absolutely! Many GaN chargers, such as the Anker and UGREEN models, feature multiple USB-C ports allowing simultaneous charging of various devices � perfect for your Macbook Pro and iPhone alongside other gadgets.
 
 ---
 
