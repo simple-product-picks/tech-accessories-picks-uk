@@ -2,80 +2,85 @@
 
 1.  **Analyze the Request:**
     *   **Topic:** Best GaN charger for MacBook Pro (UK, 2026).
-    *   **Role:** UK buyer-intent affiliate content writer.
-    *   **Year:** 2026 (Future context, need to ensure pricing and models feel plausible for 2026, though current models often persist).
-    *   **Format:** Valid markdown only. No code fences. No preamble. No explanation.
-    *   **Structure:** Strict adherence to the provided template (Title, Intro, Quick Comparison Table, Top Picks with specific subsections, Quick Verdict, How We Chose, FAQ, Disclosure).
-    *   **Affiliate Tag:** `souvlakia-21` (must be included in Amazon links).
-    *   **Language:** UK English (currency in £, spelling like "programme" if applicable, though tech terms are usually standard).
-    *   **Content:** 3 products (Best Overall, Best Budget, Best Premium).
+    *   **Role:** UK buyer-intent affiliate content writer for a product review blog.
+    *   **Year:** 2026 (future context, need to ensure pricing and models feel plausible for 2026).
+    *   **Format:** EXACTLY as specified (Markdown, no code fences, no preamble, specific structure).
+    *   **Constraints:** Output ONLY valid markdown. No code fences. No preamble. No explanation.
+    *   **Specific Structure:**
+        *   H1 Title (including 2026 and UK).
+        *   2-3 sentence intro.
+        *   H2 Quick comparison (Table with specific columns: Pick, Model, Key feature, Price range, Rating).
+        *   H2 Top picks (3 sections: Best overall, Best budget, Best premium).
+        *   Each pick needs: H3 Title, Star rating (text + score), 2-3 sentence description, Pros (3), Cons (2), Who it's for, Who it's not for, Affiliate link (Amazon UK with specific tag).
+        *   H2 Quick verdict (2-3 sentences).
+        *   H2 How we chose (3-4 sentences).
+        *   H2 FAQ (3 Q&A pairs).
+        *   Footer Disclosure.
+    *   **Affiliate Tag:** `souvlakia-21`.
+    *   **Currency:** GBP (£).
+    *   **Language:** UK English.
 
-2.  **Determine Products (2026 Context):**
-    *   Since it's 2026, I need to select chargers that are likely to still be relevant or represent the state of the art.
-    *   *Best Overall:* Anker 737 (or a 2026 equivalent like Anker 737 Gen 2). Let's stick with the Anker 737 140W as it's a solid benchmark for MacBook Pro M3/M4 era.
-    *   *Best Budget:* Baseus 65W or 100W GaN. Let's go with Baseus 100W for better compatibility with Pros.
-    *   *Best Premium:* UGREEN Nexode 140W or 160W. Let's go with UGREEN 160W Nexode for the "Premium" slot.
-    *   *Pricing:* Adjust for 2026 inflation/tech trends.
-        *   Anker 737: ~£90-110.
-        *   Baseus: ~£40-50.
-        *   UGREEN: ~£100-120.
+2.  **Determine Content for 2026:**
+    *   *MacBook Pro Context:* By 2026, M4/M5 chips are likely standard. Power requirements might be 70W, 96W, or 140W depending on the model. GaN technology is mature.
+    *   *Products:* Need realistic-sounding models. Anker, UGREEN, Baseus are common players. Let's use updated model names or plausible successors.
+        *   Best Overall: Anker 737 (or similar successor, let's say Anker 747 GaNPrime).
+        *   Best Budget: UGREEN Nexode 65W (or similar).
+        *   Best Premium: Satechi or a high-end Anker 140W+ model. Let's go with Anker 747 (140W) for premium and maybe a Baseus for budget. Actually, to differentiate:
+            *   Overall: Anker 737 100W (Classic reliable choice).
+            *   Budget: UGREEN 65W GaN.
+            *   Premium: Anker 747 140W (for 16-inch Pros).
+    *   *Pricing:* Adjusted for 2026 inflation/tech maturity.
+        *   Budget: £30-£40.
+        *   Overall: £50-£70.
+        *   Premium: £80-£100.
+    *   *Links:* Must use the provided template with URL encoding.
 
-3.  **Drafting Content - Section by Section:**
+3.  **Drafting - Section by Section:**
 
     *   **Title:** # Best GaN Charger for MacBook Pro (UK, 2026)
-    *   **Intro:** 2-3 sentences. Mention power delivery, portability, and 2026 context.
-    *   **Quick Comparison:** Table with specific columns.
+    *   **Intro:** Need 2-3 sentences. Focus on portability and speed for UK buyers.
+    *   **Table:** Fill in the picks.
     *   **Top Picks:**
-        *   *Product 1 (Anker):* 140W, foldable plug, 3 ports.
-        *   *Product 2 (Baseus):* 100W, compact, value.
-        *   *Product 3 (UGREEN):* 160W, max power, durability.
-        *   *Links:* Must use `https://www.amazon.co.uk/s?k=[url-encoded-product-name]&tag=souvlakia-21`.
-        *   *Rating:* Use the star emoji `?????` as per template (actually the template shows `?????` but usually means stars. I will use the literal text from the template `?????` or standard unicode stars? The template shows `????? (4.8/5)`. I should replicate the template exactly. Wait, looking closely at the prompt: `????? (4.8/5)`. It seems the user wants me to fill in the stars or keep the placeholder? Usually, in these tasks, I should render the stars. However, the prompt says "Structure your output EXACTLY as follows". The template shows `?????`. I will use actual star characters `★★★★★` to make it readable, or follow the literal `?????` if it implies a placeholder. Given the instruction "Output ONLY valid markdown", I should probably render the stars for a finished article. Let's look at the template again: `????? (4.8/5)`. I will replace `?????` with `★★★★★` for visual appeal, as `?????` looks like a rendering error in the prompt's representation of stars. Actually, to be safe on "EXACTLY as follows", I will use the star characters `★★★★★` because `?????` is likely a mojibake for stars in the prompt description. I'll use standard unicode stars.)
-        *   *Correction:* The prompt template shows `?????`. I will interpret this as "Stars". I will use `★★★★★`.
-        *   *Pros/Cons:* Use `?` as the bullet point? The template shows `- ? [pro 1]`. I should probably replace `?` with a bullet or checkmark. The template says `- ? [pro 1]`. I will use `- ✔ [pro 1]` or just `- [pro 1]`. To be safe and clean, I will use standard bullets `-` but the template explicitly has `?`. I will replace `?` with a checkmark `✔` for Pros and a cross `✖` for Cons to make it look professional, or just follow the text. Let's look at the instruction: "Structure your output EXACTLY as follows". I will replace the `?` with appropriate symbols for a finished article (✔/✖) because `?` looks like a placeholder.
-        *   *Wait, re-reading:* "Structure your output EXACTLY as follows". If I change `?` to `✔`, is that violating "EXACTLY"? Usually, these templates imply placeholders. I will use `✔` and `✖` for clarity as a finished article.
-        *   *Links:* Need URL encoding for product names.
-            *   Anker 737 140W -> `Anker+737+140W`
-            *   Baseus 100W -> `Baseus+100W`
-            *   UGREEN 160W -> `UGREEN+160W`
-    *   **Quick Verdict:** 2-3 sentences.
-    *   **How We Chose:** 3-4 sentences.
-    *   **FAQ:** 3 Q&A pairs.
+        *   *Pick 1 (Overall):* Anker 737 100W. Pros: Compact, fast charging, multi-port. Cons: Price, cable not included sometimes.
+        *   *Pick 2 (Budget):* UGREEN 65W Nexode. Pros: Cheap, reliable, small. Cons: Slower on 16-inch, no AC plug.
+        *   *Pick 3 (Premium):* Anker 747 140W. Pros: Max power, digital display, durable. Cons: Expensive, bulky.
+        *   *Links:* Need to URL encode product names.
+            *   Anker 737 100W GaN Charger -> `Anker+737+100W+GaN+Charger`
+            *   UGREEN 65W GaN Charger -> `UGREEN+65W+GaN+Charger`
+            *   Anker 747 140W GaN Charger -> `Anker+747+140W+GaN+Charger`
+    *   **Verdict:** Summarize.
+    *   **How we chose:** Criteria (power delivery, size, safety).
+    *   **FAQ:** Warranty, compatibility, cable included.
     *   **Disclosure:** Exact text provided.
 
-4.  **Refining for 2026/UK Context:**
-    *   Currency: £.
-    *   Spelling: "programme" (if used), "colour" (if used).
-    *   Tech: Mention M4 chips or 2026 MacBook Pro models implicitly.
-    *   Affiliate Tag: `souvlakia-21`.
-
-5.  **Final Review against Constraints:**
-    *   No code fences.
+4.  **Review against Constraints:**
+    *   No code fences (```markdown).
     *   No preamble.
     *   Valid markdown.
-    *   Exact structure.
+    *   UK English (colour, £, etc.).
+    *   Year 2026 context.
+    *   Affiliate tag `souvlakia-21`.
+    *   Star rating format: ????? (X.X/5).
+    *   Pros/Cons bullets: `- ? [text]`. Wait, the prompt says `- ? [pro 1]`. I should follow the template exactly. The template shows `- ? [pro 1]`. I will replace `[pro 1]` with actual text but keep the `- ? ` prefix if that's what the template implies, or does it mean "replace ? with a bullet"? Looking closely at the template:
+        `**Pros**`
+        `- ? [pro 1]`
+        Usually, this means I should use a bullet point. The `?` might be a placeholder for a checkmark or just a typo in the prompt's template representation. However, strict adherence suggests I should follow the visual structure. Let's look at the instruction: "Structure your output EXACTLY as follows".
+        The template shows: `- ? [pro 1]`.
+        If I write `- ? Fast charging`, it looks weird.
+        If I write `- Fast charging`, it looks like standard markdown.
+        Given "Output ONLY valid markdown", standard bullets are `- Text`. The `?` in the template likely represents a placeholder for the content. I will interpret `- ? [pro 1]` as `- [pro 1]` but the prompt explicitly has a question mark.
+        Re-reading: `**Pros**` then `- ? [pro 1]`.
+        Okay, I will treat the `?` as a placeholder for the bullet character or just part of the text to be replaced. Actually, looking at the rating line: `????? (4.8/5)`. This clearly means replace `?????` with stars.
+        So for Pros: `- ? [pro 1]` likely means `- [pro 1]`. But to be safe and "EXACTLY as follows", I should probably keep the structure but fill the content.
+        Wait, `????? (4.8/5)` implies I need to put stars there.
+        For Pros/Cons, `- ? [pro 1]` implies I should put a bullet and the text. I will use standard markdown bullets `-` followed by the text. I will omit the literal `?` if it's a placeholder, but if it's a required character...
+        Let's look at the rating line again: `????? (4.8/5)`. I will replace `?????` with `★★★★★`.
+        For Pros: `- ? [pro 1]`. I will replace `? [pro 1]` with the actual text. I will use `-` as the bullet. I won't include a literal `?` unless it looks like a specific style requirement. Usually, templates like this mean "replace the bracketed text". The `?` might be a placeholder for a checkmark icon or just noise. I will use standard markdown list syntax `- Text` to ensure valid markdown, as `- ? Text` is valid but odd. However, to be safest with "EXACTLY as follows", I will interpret `?` as a placeholder for the content start. I will just write `- [Text]`.
+        Actually, looking at the rating line `????? (4.8/5)`, it clearly wants stars.
+        For the Pros, I will use `- [Text]`.
+        Wait, I need to check the link format. `[Check price on Amazon UK](https://www.amazon.co.uk/s?k=[url-encoded-product-name]&tag=souvlakia-21)`. I must URL encode the product name.
 
-    *Self-Correction on Template Placeholders:* The prompt shows `?????` and `- ?`. I should probably render these as actual stars and bullets/checks for a usable article, as `?????` is clearly a placeholder for stars in the prompt's view. I will use `★★★★★` and `✔`/`✖`.
-    *Wait, one more check:* "Output ONLY valid markdown. No code fences."
-    *Link Format:* `https://www.amazon.co.uk/s?k=[url-encoded-product-name]&tag=souvlakia-21`. I need to make sure the product name is URL encoded.
-
-    *Let's finalize the product names for the links:*
-    1. Anker 737 140W GaN Charger
-    2. Baseus 100W GaN Charger
-    3. UGREEN 160W Nexode Charger
-
-    *URL Encoding:*
-    1. `Anker+737+140W+GaN+Charger`
-    2. `Baseus+100W+GaN+Charger`
-    3. `UGREEN+160W+Nexode+Charger`
-
-    *Wait, looking at the template again:*
-    `| Best overall | [product name] | [one feature] | [�XX-XX] | ????? (4.8/5) |`
-    The currency symbol in the template is `�`. I should fix this to `£`.
-    The stars are `?????`. I will use `★★★★★`.
-    The bullets are `- ?`. I will use `- ✔` and `- ✖`.
-
-    *Wait, strict instruction:* "Structure your output EXACTLY as follows".
-    If I change `?` to `✔`, am I violating? Usually, placeholders like `[product name]` must be filled. Symbols like `?` in a template often indicate "put a bullet here". I will use standard markdown bullets `-` for safety, or checkmarks. I'll use checkmarks for Pros and crosses for Cons to enhance the affiliate style.
-    Actually, to be safest with "EXACTLY", I will keep the structure but fill the brackets. I will interpret
+    *   *Self-Correction on Template:* The prompt says "Structure your output EXACTLY as follows".
+        If I change `- ? [pro 1]` to `- Fast charging`, is that exact?
+        The `?` is likely a placeholder for the bullet point style or just a typo in the prompt
 
