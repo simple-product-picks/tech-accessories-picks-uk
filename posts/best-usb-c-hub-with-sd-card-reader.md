@@ -4,20 +4,20 @@ Looking for the usb c hub with sd card reader in the UK? We've tested and compar
 
 ## Top picks
 
-### 1. UGREEN USB C Hub 8-in-1 with 170MB/s SD Card Reader â€” Best Overall
+### 1. UGREEN USB C Hub 8-in-1 with 170MB/s SD Card Reader — Best Overall
 
-â˜…â˜…â˜…â˜…â˜… (4.8/5)
+★★★★★ (4.8/5)
 
-The UGREEN 8-in-1 USB C Hub is a fantastic all-rounder for UK users needing to expand their laptop connectivity, currently available for around £15.17 from Amazon UK. Its standout feature is the incredibly fast 170MB/s SD and microSD card reader, ideal for photographers and videographers, alongside speedy data transfer via three 10Gbps USB ports.
+The UGREEN 8-in-1 USB C Hub is a fantastic all-rounder for UK users needing to expand their laptop connectivity, currently available for around �15.17 from Amazon UK. Its standout feature is the incredibly fast 170MB/s SD and microSD card reader, ideal for photographers and videographers, alongside speedy data transfer via three 10Gbps USB ports.
 
 **Pros**
-- âœ“ Blazing-fast SD card read speeds – significantly faster than many competitors.
-- âœ“ Versatile port selection including HDMI (4K 60Hz) and high-speed USB connections.
-- âœ“ Supports 100W Power Delivery, keeping your laptop charged while connected.
+- ✓ Blazing-fast SD card read speeds � significantly faster than many competitors.
+- ✓ Versatile port selection including HDMI (4K 60Hz) and high-speed USB connections.
+- ✓ Supports 100W Power Delivery, keeping your laptop charged while connected.
 
 **Cons**
-- âœ— Can be bulky compared to more minimalist hubs.
-- âœ— The grey finish may not match all laptops aesthetically.
+- ✗ Can be bulky compared to more minimalist hubs.
+- ✗ The grey finish may not match all laptops aesthetically.
 
 **Who it's for:** This hub is perfect for UK professionals and creatives who regularly transfer large files from SD cards and need a reliable, multi-port solution.
 **Who it's not for:** Users only needing basic connectivity (like just one USB port) will find this hub overkill.
@@ -26,20 +26,20 @@ The UGREEN 8-in-1 USB C Hub is a fantastic all-rounder for UK users needing to e
 
 ---
 
-### 2. Anker 547 USB C Hub (7-in-2) for MacBook with SD Card â€” Best Budget
+### 2. Anker 547 USB C Hub (7-in-2) for MacBook with SD Card — Best Budget
 
-â˜…â˜…â˜…â˜…â˜… (4.8/5)
+★★★★★ (4.8/5)
 
-The Anker 547 USB-C Hub is a fantastic, budget-friendly solution for MacBook owners needing to expand connectivity, currently priced at £24.48. Its key feature – a dual-plug design optimised for MacBooks – combined with 4K HDMI and SD card slots makes it perfect for content creators and professionals on the go.  It delivers impressive data transfer speeds via its 40Gbps USB-C port, whilst also providing 100W Power Delivery to keep your laptop charged.
+The Anker 547 USB-C Hub is a fantastic, budget-friendly solution for MacBook owners needing to expand connectivity, currently priced at �24.48. Its key feature � a dual-plug design optimised for MacBooks � combined with 4K HDMI and SD card slots makes it perfect for content creators and professionals on the go.  It delivers impressive data transfer speeds via its 40Gbps USB-C port, whilst also providing 100W Power Delivery to keep your laptop charged.
 
 **Pros**
-- âœ“ Excellent value for money – a feature-rich hub at an affordable price.
-- âœ“ MacBook-optimised design ensures a secure and stable connection.
-- âœ“ Versatile port selection including HDMI, USB-A & dual SD card slots. 
+- ✓ Excellent value for money � a feature-rich hub at an affordable price.
+- ✓ MacBook-optimised design ensures a secure and stable connection.
+- ✓ Versatile port selection including HDMI, USB-A & dual SD card slots. 
 
 **Cons**
-- âœ—  USB-A ports aren't the fastest available – limited to USB 3.0 speeds.
-- âœ— Hub can get slightly warm during prolonged heavy use.
+- ✗  USB-A ports aren't the fastest available � limited to USB 3.0 speeds.
+- ✗ Hub can get slightly warm during prolonged heavy use.
 
 **Who it's for:** UK MacBook users who need a reliable and affordable way to add extra ports, especially those working with photos or videos.
 **Who it's not for:** Users needing Thunderbolt 4 speeds on all ports or extensive cooling capabilities.
@@ -48,22 +48,22 @@ The Anker 547 USB-C Hub is a fantastic, budget-friendly solution for MacBook own
 
 ---
 
-### 3. Anker USB C Hub 8-in-1 with Ethernet and 10Gbps â€” Best Premium
+### 3. Anker USB C Hub 8-in-1 with Ethernet and 10Gbps — Best Premium
 
-â˜…â˜…â˜…â˜…â˜… (4.8/5)
+★★★★★ (4.8/5)
 
-The Anker USB C Hub 8-in-1 is a premium solution for expanding connectivity on your laptop, offering incredible speed and versatility for £34.97. It’s perfect for professionals and creatives needing to transfer large files quickly thanks to its standout feature: blazing fast 10Gbps data transfer speeds alongside an SD/microSD card reader capable of 104MB/s. This hub transforms a single USB-C port into a powerful workstation, supporting dual displays and rapid charging.
+The Anker USB C Hub 8-in-1 is a premium solution for expanding connectivity on your laptop, offering incredible speed and versatility for �34.97. It�s perfect for professionals and creatives needing to transfer large files quickly thanks to its standout feature: blazing fast 10Gbps data transfer speeds alongside an SD/microSD card reader capable of 104MB/s. This hub transforms a single USB-C port into a powerful workstation, supporting dual displays and rapid charging.
 
 **Pros**
-- âœ“ Superfast Data Transfer - The 10Gbps ports significantly reduce file transfer times.
-- âœ“ Versatile Connectivity – Offers all the essential ports including HDMI, Ethernet, and SD card slots.
-- âœ“ Reliable Power Delivery – Supports up to 85W power delivery, keeping your laptop charged while in use.
+- ✓ Superfast Data Transfer - The 10Gbps ports significantly reduce file transfer times.
+- ✓ Versatile Connectivity � Offers all the essential ports including HDMI, Ethernet, and SD card slots.
+- ✓ Reliable Power Delivery � Supports up to 85W power delivery, keeping your laptop charged while in use.
 
 **Cons**
-- âœ— Pricey - It’s more expensive than basic USB-C hubs available on the market.
-- âœ— Bulky Design - Not as compact as some other options, potentially less ideal for ultra-portable setups. 
+- ✗ Pricey - It�s more expensive than basic USB-C hubs available on the market.
+- ✗ Bulky Design - Not as compact as some other options, potentially less ideal for ultra-portable setups. 
 
-**Who it's for:** UK users who need a powerful and reliable hub to expand their laptop’s connectivity for demanding tasks like video editing or large file transfers.
+**Who it's for:** UK users who need a powerful and reliable hub to expand their laptop�s connectivity for demanding tasks like video editing or large file transfers.
 **Who it's not for:** Those simply needing basic charging or single port expansion on a budget.
 
 [Check price on Amazon UK](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21)
@@ -72,7 +72,7 @@ The Anker USB C Hub 8-in-1 is a premium solution for expanding connectivity on y
 
 ## Quick verdict
 
-The **UGREEN USB C Hub 8-in-1 with 170MB/s SD Card Reader** is our top pick for best usb c hub with sd card reader â€” it hits the sweet spot of features and value. On a tighter budget, the **Anker 547 USB C Hub (7-in-2) for MacBook with SD Card** at £24.48 delivers excellent performance for the price.
+The **UGREEN USB C Hub 8-in-1 with 170MB/s SD Card Reader** is our top pick for best usb c hub with sd card reader — it hits the sweet spot of features and value. On a tighter budget, the **Anker 547 USB C Hub (7-in-2) for MacBook with SD Card** at �24.48 delivers excellent performance for the price.
 
 ## How we chose
 
