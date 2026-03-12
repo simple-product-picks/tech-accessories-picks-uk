@@ -4,7 +4,7 @@ Looking for the usb c hub for steam deck in the UK? We've tested and compared th
 
 ## Top picks
 
-### 1. UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet — Best Overall
+### 1. [UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet](https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21) — Best Overall
 
 ★★★★★ (4.8/5)
 
@@ -26,7 +26,7 @@ The UGREEN Revodok 7-in-1 USB C Hub is a fantastic all-rounder, expanding your c
 
 ---
 
-### 2. Anker USB C Hub 5-in-1 with 4K HDMI — Best Budget
+### 2. [Anker USB C Hub 5-in-1 with 4K HDMI](https://www.amazon.co.uk/dp/B0BQLLB61B?linkCode=ll2&tag=souvlakia-21) — Best Budget
 
 ★★★★★ (4.8/5)
 
@@ -48,7 +48,7 @@ The Anker USB C Hub 5-in-1 is a fantastic, affordable solution for Steam Deck ow
 
 ---
 
-### 3. UGREEN Revodok Pro 210 USB C Docking Station (10-in-1) — Best Premium
+### 3. [UGREEN Revodok Pro 210 USB C Docking Station (10-in-1)](https://www.amazon.co.uk/dp/B0BXDQS4BD?linkCode=ll2&tag=souvlakia-21) — Best Premium
 
 ★★★★★ (4.8/5)
 
@@ -72,7 +72,7 @@ The UGREEN Revodok Pro 210 is a premium USB-C docking station designed to transf
 
 ## Quick verdict
 
-The **UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet** is our top pick for best usb c hub for steam deck — it hits the sweet spot of features and value. On a tighter budget, the **Anker USB C Hub 5-in-1 with 4K HDMI** at £12.98 delivers excellent performance for the price.
+The **[UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet](https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21)** is our top pick for best usb c hub for steam deck — it hits the sweet spot of features and value. On a tighter budget, the **[Anker USB C Hub 5-in-1 with 4K HDMI](https://www.amazon.co.uk/dp/B0BQLLB61B?linkCode=ll2&tag=souvlakia-21)** at £12.98 delivers excellent performance for the price.
 
 ## How we chose
 

@@ -4,7 +4,7 @@ Looking for the usb c to displayport adapter in the UK? We've tested and compare
 
 ## Top picks
 
-### 1. UGREEN USB C to DisplayPort 1.4 Adapter — Best Overall
+### 1. [UGREEN USB C to DisplayPort 1.4 Adapter](https://www.amazon.co.uk/dp/B0C4DC6P4H?linkCode=ll2&tag=souvlakia-21) — Best Overall
 
 ★★★★★ (4.8/5)
 
@@ -26,7 +26,7 @@ The UGREEN USB C to DisplayPort 1.4 Adapter is a fantastic way to connect your l
 
 ---
 
-### 2. Anker USB C to DisplayPort Adapter 4K — Best Budget
+### 2. [Anker USB C to DisplayPort Adapter 4K](https://www.amazon.co.uk/dp/B09Z4C73K4?linkCode=ll2&tag=souvlakia-21) — Best Budget
 
 ★★★★★ (4.8/5)
 
@@ -48,7 +48,7 @@ The Anker USB C to DisplayPort Adapter is a fantastic, affordable way to connect
 
 ---
 
-### 3. Cable Matters USB C to DisplayPort 1.4 Cable — Best Premium
+### 3. [Cable Matters USB C to DisplayPort 1.4 Cable](https://www.amazon.co.uk/dp/B07FJR7LGW?linkCode=ll2&tag=souvlakia-21) — Best Premium
 
 ★★★★★ (4.8/5)
 
@@ -72,7 +72,7 @@ The Cable Matters USB C to DisplayPort 1.4 cable is a premium, direct connection
 
 ## Quick verdict
 
-The **UGREEN USB C to DisplayPort 1.4 Adapter** is our top pick for best usb c to displayport adapter — it hits the sweet spot of features and value. On a tighter budget, the **Anker USB C to DisplayPort Adapter 4K** at £11.99 delivers excellent performance for the price.
+The **[UGREEN USB C to DisplayPort 1.4 Adapter](https://www.amazon.co.uk/dp/B0C4DC6P4H?linkCode=ll2&tag=souvlakia-21)** is our top pick for best usb c to displayport adapter — it hits the sweet spot of features and value. On a tighter budget, the **[Anker USB C to DisplayPort Adapter 4K](https://www.amazon.co.uk/dp/B09Z4C73K4?linkCode=ll2&tag=souvlakia-21)** at £11.99 delivers excellent performance for the price.
 
 ## How we chose
 

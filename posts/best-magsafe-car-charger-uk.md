@@ -4,7 +4,7 @@ Looking for the magsafe car charger in the UK? We've tested and compared the top
 
 ## Top picks
 
-### 1. Anker MagSafe Car Charger 15W — Best Overall
+### 1. [Anker MagSafe Car Charger 15W](https://www.amazon.co.uk/dp/B0BXVQNGKB?linkCode=ll2&tag=souvlakia-21) — Best Overall
 
 ★★★★★ (4.8/5)
 
@@ -26,7 +26,7 @@ The Anker MagSafe Car Charger is a premium option for iPhone users looking for s
 
 ---
 
-### 2. ESR MagSafe Car Charger 15W — Best Budget
+### 2. [ESR MagSafe Car Charger 15W](https://www.amazon.co.uk/dp/B0B38P9TF8?linkCode=ll2&tag=souvlakia-21) — Best Budget
 
 ★★★★★ (4.8/5)
 
@@ -48,7 +48,7 @@ The ESR MagSafe Car Charger is a fantastic budget-friendly option for UK drivers
 
 ---
 
-### 3. Belkin BoostCharge Pro MagSafe Car Vent Mount — Best Premium
+### 3. [Belkin BoostCharge Pro MagSafe Car Vent Mount](https://www.amazon.co.uk/dp/B0CP95233P?linkCode=ll2&tag=souvlakia-21) — Best Premium
 
 ★★★★★ (4.8/5)
 
@@ -72,7 +72,7 @@ The Belkin BoostCharge Pro MagSafe Car Vent Mount offers a premium and incredibl
 
 ## Quick verdict
 
-The **Anker MagSafe Car Charger 15W** is our top pick for best magsafe car charger uk — it hits the sweet spot of features and value. On a tighter budget, the **ESR MagSafe Car Charger 15W** at £17.99 delivers excellent performance for the price.
+The **[Anker MagSafe Car Charger 15W](https://www.amazon.co.uk/dp/B0BXVQNGKB?linkCode=ll2&tag=souvlakia-21)** is our top pick for best magsafe car charger uk — it hits the sweet spot of features and value. On a tighter budget, the **[ESR MagSafe Car Charger 15W](https://www.amazon.co.uk/dp/B0B38P9TF8?linkCode=ll2&tag=souvlakia-21)** at £17.99 delivers excellent performance for the price.
 
 ## How we chose
 

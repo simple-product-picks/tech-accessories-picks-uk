@@ -4,7 +4,7 @@ Looking for the usb c to hdmi adapter in the UK? We've tested and compared the t
 
 ## Top picks
 
-### 1. Anker USB C to HDMI Adapter 4K 60Hz — Best Overall
+### 1. [Anker USB C to HDMI Adapter 4K 60Hz](https://www.amazon.co.uk/dp/B0DCV753MN?linkCode=ll2&tag=souvlakia-21) — Best Overall
 
 ★★★★★ (4.8/5)
 
@@ -26,7 +26,7 @@ The Anker USB C to HDMI Adapter is a fantastic solution for UK users needing to 
 
 ---
 
-### 2. UGREEN USB C to HDMI Adapter 4K — Best Budget
+### 2. [UGREEN USB C to HDMI Adapter 4K](https://www.amazon.co.uk/dp/B07HSY63VQ?linkCode=ll2&tag=souvlakia-21) — Best Budget
 
 ★★★★★ (4.8/5)
 
@@ -48,7 +48,7 @@ The UGREEN USB C to HDMI Adapter is a fantastic, affordable way to connect your 
 
 ---
 
-### 3. Anker USB C Hub 8-in-1 with Ethernet and 10Gbps — Best Premium
+### 3. [Anker USB C Hub 8-in-1 with Ethernet and 10Gbps](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21) — Best Premium
 
 ★★★★★ (4.8/5)
 
@@ -72,7 +72,7 @@ The Anker USB C Hub 8-in-1 is a premium option for UK users needing versatile co
 
 ## Quick verdict
 
-The **Anker USB C to HDMI Adapter 4K 60Hz** is our top pick for best usb c to hdmi adapter — it hits the sweet spot of features and value. On a tighter budget, the **UGREEN USB C to HDMI Adapter 4K** at £9.99 delivers excellent performance for the price.
+The **[Anker USB C to HDMI Adapter 4K 60Hz](https://www.amazon.co.uk/dp/B0DCV753MN?linkCode=ll2&tag=souvlakia-21)** is our top pick for best usb c to hdmi adapter — it hits the sweet spot of features and value. On a tighter budget, the **[UGREEN USB C to HDMI Adapter 4K](https://www.amazon.co.uk/dp/B07HSY63VQ?linkCode=ll2&tag=souvlakia-21)** at £9.99 delivers excellent performance for the price.
 
 ## How we chose
 

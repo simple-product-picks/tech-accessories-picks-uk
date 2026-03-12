@@ -4,7 +4,7 @@ Looking for the power bank for iphone 15 in the UK? We've tested and compared th
 
 ## Top picks
 
-### 1. Anker Nano Power Bank 10000mAh 30W — Best Overall
+### 1. [Anker Nano Power Bank 10000mAh 30W](https://www.amazon.co.uk/dp/B0C9CJKCH3?linkCode=ll2&tag=souvlakia-21) — Best Overall
 
 ★★★★★ (4.8/5)
 
@@ -26,7 +26,7 @@ The Anker Nano Power Bank is a fantastic portable charger for iPhone and Android
 
 ---
 
-### 2. Anker Power Bank 10000mAh — Best Budget
+### 2. [Anker Power Bank 10000mAh](https://www.amazon.co.uk/dp/B0CZ9M6X8Q?linkCode=ll2&tag=souvlakia-21) — Best Budget
 
 ★★★★★ (4.8/5)
 
@@ -48,7 +48,7 @@ The Anker Power Bank 10000mAh is a fantastic, reliable portable charger perfect 
 
 ---
 
-### 3. Anker MagGo Power Bank 10000mAh Qi2 — Best Premium
+### 3. [Anker MagGo Power Bank 10000mAh Qi2](https://www.amazon.co.uk/dp/B0DGKWTQQC?linkCode=ll2&tag=souvlakia-21) — Best Premium
 
 ★★★★★ (4.8/5)
 
@@ -72,7 +72,7 @@ The Anker MagGo Power Bank 10000mAh is a premium portable charger designed speci
 
 ## Quick verdict
 
-The **Anker Nano Power Bank 10000mAh 30W** is our top pick for best power bank for iphone 15 — it hits the sweet spot of features and value. On a tighter budget, the **Anker Power Bank 10000mAh** at £13.98 delivers excellent performance for the price.
+The **[Anker Nano Power Bank 10000mAh 30W](https://www.amazon.co.uk/dp/B0C9CJKCH3?linkCode=ll2&tag=souvlakia-21)** is our top pick for best power bank for iphone 15 — it hits the sweet spot of features and value. On a tighter budget, the **[Anker Power Bank 10000mAh](https://www.amazon.co.uk/dp/B0CZ9M6X8Q?linkCode=ll2&tag=souvlakia-21)** at £13.98 delivers excellent performance for the price.
 
 ## How we chose
 

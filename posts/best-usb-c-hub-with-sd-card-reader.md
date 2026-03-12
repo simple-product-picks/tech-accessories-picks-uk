@@ -4,7 +4,7 @@ Looking for the usb c hub with sd card reader in the UK? We've tested and compar
 
 ## Top picks
 
-### 1. UGREEN USB C Hub 8-in-1 with 170MB/s SD Card Reader — Best Overall
+### 1. [UGREEN USB C Hub 8-in-1 with 170MB/s SD Card Reader](https://www.amazon.co.uk/dp/B0DY1BD3T2?linkCode=ll2&tag=souvlakia-21) — Best Overall
 
 ★★★★★ (4.8/5)
 
@@ -26,7 +26,7 @@ The UGREEN 8-in-1 USB C Hub is a powerhouse for connectivity, offering incredibl
 
 ---
 
-### 2. Anker 547 USB C Hub (7-in-2) for MacBook with SD Card — Best Budget
+### 2. [Anker 547 USB C Hub (7-in-2) for MacBook with SD Card](https://www.amazon.co.uk/dp/B0BNZ5V1TF?linkCode=ll2&tag=souvlakia-21) — Best Budget
 
 ★★★★★ (4.8/5)
 
@@ -48,7 +48,7 @@ The Anker 547 USB-C Hub is a fantastic budget option for MacBook users needing t
 
 ---
 
-### 3. Anker USB C Hub 8-in-1 with Ethernet and 10Gbps — Best Premium
+### 3. [Anker USB C Hub 8-in-1 with Ethernet and 10Gbps](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21) — Best Premium
 
 ★★★★★ (4.8/5)
 
@@ -72,7 +72,7 @@ The Anker USB C Hub 8-in-1 is a premium option for UK professionals and creative
 
 ## Quick verdict
 
-The **UGREEN USB C Hub 8-in-1 with 170MB/s SD Card Reader** is our top pick for best usb c hub with sd card reader — it hits the sweet spot of features and value. On a tighter budget, the **Anker 547 USB C Hub (7-in-2) for MacBook with SD Card** at £24.48 delivers excellent performance for the price.
+The **[UGREEN USB C Hub 8-in-1 with 170MB/s SD Card Reader](https://www.amazon.co.uk/dp/B0DY1BD3T2?linkCode=ll2&tag=souvlakia-21)** is our top pick for best usb c hub with sd card reader — it hits the sweet spot of features and value. On a tighter budget, the **[Anker 547 USB C Hub (7-in-2) for MacBook with SD Card](https://www.amazon.co.uk/dp/B0BNZ5V1TF?linkCode=ll2&tag=souvlakia-21)** at £24.48 delivers excellent performance for the price.
 
 ## How we chose
 

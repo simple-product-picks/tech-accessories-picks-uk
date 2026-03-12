@@ -4,7 +4,7 @@ Looking for the power bank under 30 in the UK? We've tested and compared the top
 
 ## Top picks
 
-### 1. Anker Power Bank 10000mAh Slim — Best Overall
+### 1. [Anker Power Bank 10000mAh Slim](https://www.amazon.co.uk/dp/B0FQVFFPKJ?linkCode=ll2&tag=souvlakia-21) — Best Overall
 
 ★★★★★ (4.8/5)
 
@@ -26,7 +26,7 @@ The Anker Power Bank 10000mAh Slim is a fantastic portable charger for UK users 
 
 ---
 
-### 2. Anker Power Bank 10000mAh — Best Budget
+### 2. [Anker Power Bank 10000mAh](https://www.amazon.co.uk/dp/B0CZ9M6X8Q?linkCode=ll2&tag=souvlakia-21) — Best Budget
 
 ★★★★★ (4.8/5)
 
@@ -48,7 +48,7 @@ The Anker Power Bank 10000mAh is a fantastic, reliable portable charger for UK u
 
 ---
 
-### 3. UGREEN Power Bank 10000mAh 25W — Best Premium
+### 3. [UGREEN Power Bank 10000mAh 25W](https://www.amazon.co.uk/dp/B0C9CSG3B7?linkCode=ll2&tag=souvlakia-21) — Best Premium
 
 ★★★★★ (4.8/5)
 
@@ -72,7 +72,7 @@ The UGREEN Power Bank 10000mAh is a fantastic, compact charging solution for UK 
 
 ## Quick verdict
 
-The **Anker Power Bank 10000mAh Slim** is our top pick for best power bank under 30 uk — it hits the sweet spot of features and value. On a tighter budget, the **Anker Power Bank 10000mAh** at £13.98 delivers excellent performance for the price.
+The **[Anker Power Bank 10000mAh Slim](https://www.amazon.co.uk/dp/B0FQVFFPKJ?linkCode=ll2&tag=souvlakia-21)** is our top pick for best power bank under 30 uk — it hits the sweet spot of features and value. On a tighter budget, the **[Anker Power Bank 10000mAh](https://www.amazon.co.uk/dp/B0CZ9M6X8Q?linkCode=ll2&tag=souvlakia-21)** at £13.98 delivers excellent performance for the price.
 
 ## How we chose
 

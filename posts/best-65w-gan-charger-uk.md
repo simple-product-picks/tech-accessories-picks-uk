@@ -4,7 +4,7 @@ Looking for the 65w gan charger in the UK? We've tested and compared the top opt
 
 ## Top picks
 
-### 1. Anker Prime 67W GaN Wall Charger (3 Ports) — Best Overall
+### 1. [Anker Prime 67W GaN Wall Charger (3 Ports)](https://www.amazon.co.uk/dp/B0C4Y1FFQH?linkCode=ll2&tag=souvlakia-21) — Best Overall
 
 ★★★★★ (4.8/5)
 
@@ -26,7 +26,7 @@ The Anker Prime 67W GaN Wall Charger is a powerhouse for charging all your devic
 
 ---
 
-### 2. UGREEN USB C Charger 65W GaN 2-Port — Best Budget
+### 2. [UGREEN USB C Charger 65W GaN 2-Port](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21) — Best Budget
 
 ★★★★★ (4.8/5)
 
@@ -48,7 +48,7 @@ The UGREEN 65W GaN 2-Port Charger is a fantastic, compact solution for powering 
 
 ---
 
-### 3. Anker Nano II 65W USB C Charger — Best Premium
+### 3. [Anker Nano II 65W USB C Charger](https://www.amazon.co.uk/dp/B091KQ39FM?linkCode=ll2&tag=souvlakia-21) — Best Premium
 
 ★★★★★ (4.8/5)
 
@@ -72,7 +72,7 @@ The Anker Nano II 65W is a powerhouse of charging packed into an incredibly smal
 
 ## Quick verdict
 
-The **Anker Prime 67W GaN Wall Charger (3 Ports)** is our top pick for best 65w gan charger uk — it hits the sweet spot of features and value. On a tighter budget, the **UGREEN USB C Charger 65W GaN 2-Port** at £19.97 delivers excellent performance for the price.
+The **[Anker Prime 67W GaN Wall Charger (3 Ports)](https://www.amazon.co.uk/dp/B0C4Y1FFQH?linkCode=ll2&tag=souvlakia-21)** is our top pick for best 65w gan charger uk — it hits the sweet spot of features and value. On a tighter budget, the **[UGREEN USB C Charger 65W GaN 2-Port](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21)** at £19.97 delivers excellent performance for the price.
 
 ## How we chose
 

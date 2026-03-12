@@ -4,7 +4,7 @@ Looking for the usb c hub vs docking station in the UK? We've tested and compare
 
 ## Top picks
 
-### 1. UGREEN Revodok Pro 210 USB C Docking Station 10-in-1 — Best Overall
+### 1. [UGREEN Revodok Pro 210 USB C Docking Station 10-in-1](https://www.amazon.co.uk/dp/B0BXDQS4BD?linkCode=ll2&tag=souvlakia-21) — Best Overall
 
 ★★★★★ (4.8/5)
 
@@ -26,7 +26,7 @@ The UGREEN Revodok Pro 210 is a versatile 10-in-1 USB C docking station perfect 
 
 ---
 
-### 2. Anker USB C Hub 7-in-1 with 4K HDMI and 85W PD — Best Budget
+### 2. [Anker USB C Hub 7-in-1 with 4K HDMI and 85W PD](https://www.amazon.co.uk/dp/B07ZVKTP53?linkCode=ll2&tag=souvlakia-21) — Best Budget
 
 ★★★★★ (4.8/5)
 
@@ -48,7 +48,7 @@ The Anker USB C Hub 7-in-1 is a fantastic and affordable solution for expanding 
 
 ---
 
-### 3. Anker USB C Hub 8-in-1 with Ethernet and 10Gbps — Best Premium
+### 3. [Anker USB C Hub 8-in-1 with Ethernet and 10Gbps](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21) — Best Premium
 
 ★★★★★ (4.8/5)
 
@@ -72,7 +72,7 @@ The Anker USB C Hub 8-in-1 is a premium solution for expanding connectivity on y
 
 ## Quick verdict
 
-The **UGREEN Revodok Pro 210 USB C Docking Station 10-in-1** is our top pick for usb c hub vs docking station — it hits the sweet spot of features and value. On a tighter budget, the **Anker USB C Hub 7-in-1 with 4K HDMI and 85W PD** at £22.98 delivers excellent performance for the price.
+The **[UGREEN Revodok Pro 210 USB C Docking Station 10-in-1](https://www.amazon.co.uk/dp/B0BXDQS4BD?linkCode=ll2&tag=souvlakia-21)** is our top pick for usb c hub vs docking station — it hits the sweet spot of features and value. On a tighter budget, the **[Anker USB C Hub 7-in-1 with 4K HDMI and 85W PD](https://www.amazon.co.uk/dp/B07ZVKTP53?linkCode=ll2&tag=souvlakia-21)** at £22.98 delivers excellent performance for the price.
 
 ## How we chose
 

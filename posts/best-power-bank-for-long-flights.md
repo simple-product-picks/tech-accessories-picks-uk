@@ -4,7 +4,7 @@ Looking for the power bank for long flights in the UK? We've tested and compared
 
 ## Top picks
 
-### 1. Anker Power Bank 20000mAh 30W — Best Overall
+### 1. [Anker Power Bank 20000mAh 30W](https://www.amazon.co.uk/dp/B0DCBB2YTR?linkCode=ll2&tag=souvlakia-21) — Best Overall
 
 ★★★★★ (4.8/5)
 
@@ -26,7 +26,7 @@ The Anker Power Bank 20000mAh is a powerhouse for keeping your devices charged o
 
 ---
 
-### 2. INIU Power Bank 20000mAh 22.5W — Best Budget
+### 2. [INIU Power Bank 20000mAh 22.5W](https://www.amazon.co.uk/dp/B0CXDXP8VR?linkCode=ll2&tag=souvlakia-21) — Best Budget
 
 ★★★★★ (4.8/5)
 
@@ -48,7 +48,7 @@ The INIU Power Bank 20000mAh is a reliable and affordable solution for keeping y
 
 ---
 
-### 3. Anker Prime Power Bank 27650mAh 250W — Best Premium
+### 3. [Anker Prime Power Bank 27650mAh 250W](https://www.amazon.co.uk/dp/B0F936ZL31?linkCode=ll2&tag=souvlakia-21) — Best Premium
 
 ★★★★★ (4.8/5)
 
@@ -72,7 +72,7 @@ The Anker Prime Power Bank is a powerhouse for UK travellers and professionals n
 
 ## Quick verdict
 
-The **Anker Power Bank 20000mAh 30W** is our top pick for best power bank for long flights — it hits the sweet spot of features and value. On a tighter budget, the **INIU Power Bank 20000mAh 22.5W** at £25.99 delivers excellent performance for the price.
+The **[Anker Power Bank 20000mAh 30W](https://www.amazon.co.uk/dp/B0DCBB2YTR?linkCode=ll2&tag=souvlakia-21)** is our top pick for best power bank for long flights — it hits the sweet spot of features and value. On a tighter budget, the **[INIU Power Bank 20000mAh 22.5W](https://www.amazon.co.uk/dp/B0CXDXP8VR?linkCode=ll2&tag=souvlakia-21)** at £25.99 delivers excellent performance for the price.
 
 ## How we chose
 

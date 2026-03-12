@@ -4,7 +4,7 @@ Looking for the power bank with usb c output in the UK? We've tested and compare
 
 ## Top picks
 
-### 1. Anker Power Bank 20000mAh 140W — Best Overall
+### 1. [Anker Power Bank 20000mAh 140W](https://www.amazon.co.uk/dp/B0DSPXHFBM?linkCode=ll2&tag=souvlakia-21) — Best Overall
 
 ★★★★★ (4.8/5)
 
@@ -26,7 +26,7 @@ The Anker Power Bank 20000mAh 140W is a powerhouse for all your charging needs, 
 
 ---
 
-### 2. Anker Power Bank 10000mAh — Best Budget
+### 2. [Anker Power Bank 10000mAh](https://www.amazon.co.uk/dp/B0CZ9M6X8Q?linkCode=ll2&tag=souvlakia-21) — Best Budget
 
 ★★★★★ (4.8/5)
 
@@ -48,7 +48,7 @@ The Anker Power Bank 10000mAh is a fantastic, reliable portable charger for UK u
 
 ---
 
-### 3. Anker Prime Power Bank 27650mAh 250W — Best Premium
+### 3. [Anker Prime Power Bank 27650mAh 250W](https://www.amazon.co.uk/dp/B0F936ZL31?linkCode=ll2&tag=souvlakia-21) — Best Premium
 
 ★★★★★ (4.8/5)
 
@@ -72,7 +72,7 @@ The Anker Prime Power Bank is a powerhouse for UK users needing to charge laptop
 
 ## Quick verdict
 
-The **Anker Power Bank 20000mAh 140W** is our top pick for best power bank with usb c output — it hits the sweet spot of features and value. On a tighter budget, the **Anker Power Bank 10000mAh** at £13.98 delivers excellent performance for the price.
+The **[Anker Power Bank 20000mAh 140W](https://www.amazon.co.uk/dp/B0DSPXHFBM?linkCode=ll2&tag=souvlakia-21)** is our top pick for best power bank with usb c output — it hits the sweet spot of features and value. On a tighter budget, the **[Anker Power Bank 10000mAh](https://www.amazon.co.uk/dp/B0CZ9M6X8Q?linkCode=ll2&tag=souvlakia-21)** at £13.98 delivers excellent performance for the price.
 
 ## How we chose
 

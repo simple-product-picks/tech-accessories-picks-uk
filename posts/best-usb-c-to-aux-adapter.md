@@ -4,7 +4,7 @@ Looking for the usb c to aux adapter in the UK? We've tested and compared the to
 
 ## Top picks
 
-### 1. UGREEN USB C to 3.5mm Audio Adapter — Best Overall
+### 1. [UGREEN USB C to 3.5mm Audio Adapter](https://www.amazon.co.uk/dp/B082WG5VTK?linkCode=ll2&tag=souvlakia-21) — Best Overall
 
 ★★★★★ (4.8/5)
 
@@ -26,7 +26,7 @@ The UGREEN USB C to 3.5mm Audio Adapter is a brilliant solution for anyone with 
 
 ---
 
-### 2. UGREEN USB C to 3.5mm Adapter Compact — Best Budget
+### 2. [UGREEN USB C to 3.5mm Adapter Compact](https://www.amazon.co.uk/dp/B07Z7CMZ6S?linkCode=ll2&tag=souvlakia-21) — Best Budget
 
 ★★★★★ (4.8/5)
 
@@ -48,7 +48,7 @@ The UGREEN USB C to 3.5mm Adapter is a brilliant little dongle for anyone with a
 
 ---
 
-### 3. Apple USB-C to 3.5mm Headphone Jack Adapter — Best Premium
+### 3. [Apple USB-C to 3.5mm Headphone Jack Adapter](https://www.amazon.co.uk/dp/B0B5XY4GRZ?linkCode=ll2&tag=souvlakia-21) — Best Premium
 
 ★★★★★ (4.8/5)
 
@@ -72,7 +72,7 @@ The official Apple USB-C to 3.5mm Headphone Jack Adapter is a simple but essenti
 
 ## Quick verdict
 
-The **UGREEN USB C to 3.5mm Audio Adapter** is our top pick for best usb c to aux adapter — it hits the sweet spot of features and value. On a tighter budget, the **UGREEN USB C to 3.5mm Adapter Compact** at £5.99 delivers excellent performance for the price.
+The **[UGREEN USB C to 3.5mm Audio Adapter](https://www.amazon.co.uk/dp/B082WG5VTK?linkCode=ll2&tag=souvlakia-21)** is our top pick for best usb c to aux adapter — it hits the sweet spot of features and value. On a tighter budget, the **[UGREEN USB C to 3.5mm Adapter Compact](https://www.amazon.co.uk/dp/B07Z7CMZ6S?linkCode=ll2&tag=souvlakia-21)** at £5.99 delivers excellent performance for the price.
 
 ## How we chose
 

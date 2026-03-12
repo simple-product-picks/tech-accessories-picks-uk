@@ -4,7 +4,7 @@ Looking for the usb c ethernet adapter in the UK? We've tested and compared the 
 
 ## Top picks
 
-### 1. UGREEN USB C to Gigabit Ethernet Adapter — Best Overall
+### 1. [UGREEN USB C to Gigabit Ethernet Adapter](https://www.amazon.co.uk/dp/B0CD1FDKT1?linkCode=ll2&tag=souvlakia-21) — Best Overall
 
 ★★★★★ (4.8/5)
 
@@ -26,7 +26,7 @@ The UGREEN USB C to Gigabit Ethernet Adapter is a fantastic solution for anyone 
 
 ---
 
-### 2. USB C Ethernet Adapter Gigabit Budget — Best Budget
+### 2. [USB C Ethernet Adapter Gigabit Budget](https://www.amazon.co.uk/dp/B0DP2X4LW3?linkCode=ll2&tag=souvlakia-21) — Best Budget
 
 ★★★★★ (4.8/5)
 
@@ -48,7 +48,7 @@ This USB C Ethernet Adapter offers a reliable gigabit connection for your laptop
 
 ---
 
-### 3. Belkin USB-C to 2.5G Ethernet Adapter — Best Premium
+### 3. [Belkin USB-C to 2.5G Ethernet Adapter](https://www.amazon.co.uk/dp/B0DNSTHRGQ?linkCode=ll2&tag=souvlakia-21) — Best Premium
 
 ★★★★★ (4.8/5)
 
@@ -72,7 +72,7 @@ The Belkin USB-C to 2.5G Ethernet Adapter is a premium solution for UK users nee
 
 ## Quick verdict
 
-The **UGREEN USB C to Gigabit Ethernet Adapter** is our top pick for best usb c ethernet adapter — it hits the sweet spot of features and value. On a tighter budget, the **USB C Ethernet Adapter Gigabit Budget** at £7.99 delivers excellent performance for the price.
+The **[UGREEN USB C to Gigabit Ethernet Adapter](https://www.amazon.co.uk/dp/B0CD1FDKT1?linkCode=ll2&tag=souvlakia-21)** is our top pick for best usb c ethernet adapter — it hits the sweet spot of features and value. On a tighter budget, the **[USB C Ethernet Adapter Gigabit Budget](https://www.amazon.co.uk/dp/B0DP2X4LW3?linkCode=ll2&tag=souvlakia-21)** at £7.99 delivers excellent performance for the price.
 
 ## How we chose
 

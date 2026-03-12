@@ -4,7 +4,7 @@ Looking for the usb c hub with ethernet in the UK? We've tested and compared the
 
 ## Top picks
 
-### 1. UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet — Best Overall
+### 1. [UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet](https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21) — Best Overall
 
 ★★★★★ (4.8/5)
 
@@ -26,7 +26,7 @@ The UGREEN Revodok 7-in-1 USB C Hub is a robust and versatile solution for expan
 
 ---
 
-### 2. Anker USB C Hub PowerExpand 6-in-1 with Ethernet — Best Budget
+### 2. [Anker USB C Hub PowerExpand 6-in-1 with Ethernet](https://www.amazon.co.uk/dp/B08CKXNJZS?linkCode=ll2&tag=souvlakia-21) — Best Budget
 
 ★★★★★ (4.8/5)
 
@@ -48,7 +48,7 @@ The Anker PowerExpand 6-in-1 USB C Hub is a fantastic, affordable solution for e
 
 ---
 
-### 3. Anker USB C Hub 8-in-1 with Ethernet and 10Gbps — Best Premium
+### 3. [Anker USB C Hub 8-in-1 with Ethernet and 10Gbps](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21) — Best Premium
 
 ★★★★★ (4.8/5)
 
@@ -72,7 +72,7 @@ The Anker 8-in-1 USB C Hub is a premium solution for expanding connectivity on y
 
 ## Quick verdict
 
-The **UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet** is our top pick for best usb c hub with ethernet — it hits the sweet spot of features and value. On a tighter budget, the **Anker USB C Hub PowerExpand 6-in-1 with Ethernet** at £21.99 delivers excellent performance for the price.
+The **[UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet](https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21)** is our top pick for best usb c hub with ethernet — it hits the sweet spot of features and value. On a tighter budget, the **[Anker USB C Hub PowerExpand 6-in-1 with Ethernet](https://www.amazon.co.uk/dp/B08CKXNJZS?linkCode=ll2&tag=souvlakia-21)** at £21.99 delivers excellent performance for the price.
 
 ## How we chose
 

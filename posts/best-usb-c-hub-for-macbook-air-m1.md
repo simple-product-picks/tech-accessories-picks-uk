@@ -4,7 +4,7 @@ Looking for the usb c hub for macbook air m1 in the UK? We've tested and compare
 
 ## Top picks
 
-### 1. Anker USB C Hub (7-in-1) with 4K HDMI, 85W PD and SD Card — Best Overall
+### 1. [Anker USB C Hub (7-in-1) with 4K HDMI, 85W PD and SD Card](https://www.amazon.co.uk/dp/B07ZVKTP53?linkCode=ll2&tag=souvlakia-21) — Best Overall
 
 ★★★★★ (4.8/5)
 
@@ -26,7 +26,7 @@ The Anker USB C Hub is a fantastic addition to any MacBook Air M1 owner, expandi
 
 ---
 
-### 2. UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet — Best Budget
+### 2. [UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet](https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21) — Best Budget
 
 ★★★★★ (4.8/5)
 
@@ -48,7 +48,7 @@ The UGREEN Revodok 7-in-1 USB C Hub is a fantastic all-rounder, expanding your M
 
 ---
 
-### 3. Anker USB C Hub 8-in-1 with Ethernet and 10Gbps — Best Premium
+### 3. [Anker USB C Hub 8-in-1 with Ethernet and 10Gbps](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21) — Best Premium
 
 ★★★★★ (4.8/5)
 
@@ -72,7 +72,7 @@ The Anker 8-in-1 USB-C Hub is a premium solution for expanding connectivity on y
 
 ## Quick verdict
 
-The **Anker USB C Hub (7-in-1) with 4K HDMI, 85W PD and SD Card** is our top pick for best usb c hub for macbook air m1 — it hits the sweet spot of features and value. On a tighter budget, the **UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet** at £53.20 delivers excellent performance for the price.
+The **[Anker USB C Hub (7-in-1) with 4K HDMI, 85W PD and SD Card](https://www.amazon.co.uk/dp/B07ZVKTP53?linkCode=ll2&tag=souvlakia-21)** is our top pick for best usb c hub for macbook air m1 — it hits the sweet spot of features and value. On a tighter budget, the **[UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet](https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21)** at £53.20 delivers excellent performance for the price.
 
 ## How we chose
 

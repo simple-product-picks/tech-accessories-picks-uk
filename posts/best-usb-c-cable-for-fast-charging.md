@@ -4,7 +4,7 @@ Looking for the usb c cable for fast charging in the UK? We've tested and compar
 
 ## Top picks
 
-### 1. Anker USB C Cable 100W Braided — Best Overall
+### 1. [Anker USB C Cable 100W Braided](https://www.amazon.co.uk/dp/B08D6NCQ1Z?linkCode=ll2&tag=souvlakia-21) — Best Overall
 
 ★★★★★ (4.8/5)
 
@@ -26,7 +26,7 @@ The Anker USB C Cable 100W Braided is a premium, durable cable perfect for quick
 
 ---
 
-### 2. UGREEN USB C Cable 60W Braided — Best Budget
+### 2. [UGREEN USB C Cable 60W Braided](https://www.amazon.co.uk/dp/B08LTDPN9B?linkCode=ll2&tag=souvlakia-21) — Best Budget
 
 ★★★★★ (4.8/5)
 
@@ -48,7 +48,7 @@ The UGREEN USB C Cable offers incredibly reliable and speedy 60W fast charging f
 
 ---
 
-### 3. Anker USB C Cable 240W Braided — Best Premium
+### 3. [Anker USB C Cable 240W Braided](https://www.amazon.co.uk/dp/B0DC3BWMLV?linkCode=ll2&tag=souvlakia-21) — Best Premium
 
 ★★★★★ (4.8/5)
 
@@ -72,7 +72,7 @@ The Anker USB C Cable 240W Braided is a premium, incredibly durable cable perfec
 
 ## Quick verdict
 
-The **Anker USB C Cable 100W Braided** is our top pick for best usb c cable for fast charging — it hits the sweet spot of features and value. On a tighter budget, the **UGREEN USB C Cable 60W Braided** at £8.99 delivers excellent performance for the price.
+The **[Anker USB C Cable 100W Braided](https://www.amazon.co.uk/dp/B08D6NCQ1Z?linkCode=ll2&tag=souvlakia-21)** is our top pick for best usb c cable for fast charging — it hits the sweet spot of features and value. On a tighter budget, the **[UGREEN USB C Cable 60W Braided](https://www.amazon.co.uk/dp/B08LTDPN9B?linkCode=ll2&tag=souvlakia-21)** at £8.99 delivers excellent performance for the price.
 
 ## How we chose
 

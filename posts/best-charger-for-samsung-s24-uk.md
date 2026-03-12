@@ -4,7 +4,7 @@ Looking for the charger for samsung s24 in the UK? We've tested and compared the
 
 ## Top picks
 
-### 1. Anker Prime 67W GaN Wall Charger 3 Ports — Best Overall
+### 1. [Anker Prime 67W GaN Wall Charger 3 Ports](https://www.amazon.co.uk/dp/B0C4Y1FFQH?linkCode=ll2&tag=souvlakia-21) — Best Overall
 
 ★★★★★ (4.8/5)
 
@@ -26,7 +26,7 @@ The Anker Prime 67W GaN Wall Charger is a powerhouse of charging, perfect for an
 
 ---
 
-### 2. UGREEN USB C Charger 65W GaN 2-Port — Best Budget
+### 2. [UGREEN USB C Charger 65W GaN 2-Port](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21) — Best Budget
 
 ★★★★★ (4.8/5)
 
@@ -48,7 +48,7 @@ The UGREEN 65W GaN 2-Port Charger is a fantastic option for UK Samsung S24 owner
 
 ---
 
-### 3. UGREEN Nexode Pro 100W 3-Port GaN Charger — Best Premium
+### 3. [UGREEN Nexode Pro 100W 3-Port GaN Charger](https://www.amazon.co.uk/dp/B0CCVDXHM6?linkCode=ll2&tag=souvlakia-21) — Best Premium
 
 ★★★★★ (4.8/5)
 
@@ -72,7 +72,7 @@ The UGREEN Nexode Pro 100W GaN Charger is a powerhouse, delivering incredibly fa
 
 ## Quick verdict
 
-The **Anker Prime 67W GaN Wall Charger 3 Ports** is our top pick for best charger for samsung s24 uk — it hits the sweet spot of features and value. On a tighter budget, the **UGREEN USB C Charger 65W GaN 2-Port** at £19.97 delivers excellent performance for the price.
+The **[Anker Prime 67W GaN Wall Charger 3 Ports](https://www.amazon.co.uk/dp/B0C4Y1FFQH?linkCode=ll2&tag=souvlakia-21)** is our top pick for best charger for samsung s24 uk — it hits the sweet spot of features and value. On a tighter budget, the **[UGREEN USB C Charger 65W GaN 2-Port](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21)** at £19.97 delivers excellent performance for the price.
 
 ## How we chose
 

@@ -4,7 +4,7 @@ Looking for the 100w gan charger in the UK? We've tested and compared the top op
 
 ## Top picks
 
-### 1. Anker 100W USB C Charger (3-Port GaN, Smart Display) — Best Overall
+### 1. [Anker 100W USB C Charger (3-Port GaN, Smart Display)](https://www.amazon.co.uk/dp/B0FL2DR4TH?linkCode=ll2&tag=souvlakia-21) — Best Overall
 
 ★★★★★ (4.8/5)
 
@@ -26,7 +26,7 @@ The Anker 100W USB C Charger is a powerhouse for all your charging needs, delive
 
 ---
 
-### 2. UGREEN Nexode 100W USB C Charger 4-Port GaN — Best Budget
+### 2. [UGREEN Nexode 100W USB C Charger 4-Port GaN](https://www.amazon.co.uk/s?k=UGREEN+Nexode+100W+4+Port+GaN+charger&tag=souvlakia-21) — Best Budget
 
 ★★★★★ (4.8/5)
 
@@ -48,7 +48,7 @@ The UGREEN Nexode 100W USB C Charger is a powerhouse for charging multiple devic
 
 ---
 
-### 3. UGREEN Nexode Pro 100W 3-Port GaN Charger — Best Premium
+### 3. [UGREEN Nexode Pro 100W 3-Port GaN Charger](https://www.amazon.co.uk/dp/B0CCVDXHM6?linkCode=ll2&tag=souvlakia-21) — Best Premium
 
 ★★★★★ (4.8/5)
 
@@ -72,7 +72,7 @@ The UGREEN Nexode Pro is a powerhouse of a charger for UK homes and offices, del
 
 ## Quick verdict
 
-The **Anker 100W USB C Charger (3-Port GaN, Smart Display)** is our top pick for best 100w gan charger uk — it hits the sweet spot of features and value. On a tighter budget, the **UGREEN Nexode 100W USB C Charger 4-Port GaN** at £35-£45 delivers excellent performance for the price.
+The **[Anker 100W USB C Charger (3-Port GaN, Smart Display)](https://www.amazon.co.uk/dp/B0FL2DR4TH?linkCode=ll2&tag=souvlakia-21)** is our top pick for best 100w gan charger uk — it hits the sweet spot of features and value. On a tighter budget, the **[UGREEN Nexode 100W USB C Charger 4-Port GaN](https://www.amazon.co.uk/s?k=UGREEN+Nexode+100W+4+Port+GaN+charger&tag=souvlakia-21)** at £35-£45 delivers excellent performance for the price.
 
 ## How we chose
 

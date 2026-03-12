@@ -4,7 +4,7 @@ Looking for the usb c hub for dual monitors in the UK? We've tested and compared
 
 ## Top picks
 
-### 1. UGREEN Revodok Pro 210 USB C Docking Station (10-in-1) — Best Overall
+### 1. [UGREEN Revodok Pro 210 USB C Docking Station (10-in-1)](https://www.amazon.co.uk/dp/B0BXDQS4BD?linkCode=ll2&tag=souvlakia-21) — Best Overall
 
 ★★★★★ (4.8/5)
 
@@ -26,7 +26,7 @@ The UGREEN Revodok Pro 210 is a powerful and versatile USB-C docking station, pe
 
 ---
 
-### 2. Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD — Best Budget
+### 2. [Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD](https://www.amazon.co.uk/dp/B07ZVKTP53?linkCode=ll2&tag=souvlakia-21) — Best Budget
 
 ★★★★★ (4.8/5)
 
@@ -48,7 +48,7 @@ The Anker USB C Hub is a fantastic and affordable solution for expanding connect
 
 ---
 
-### 3. Anker 7-in-1 USB C Hub Dual Monitor (2x HDMI, 100W PD) — Best Premium
+### 3. [Anker 7-in-1 USB C Hub Dual Monitor (2x HDMI, 100W PD)](https://www.amazon.co.uk/dp/B0D3TK3XHS?linkCode=ll2&tag=souvlakia-21) — Best Premium
 
 ★★★★★ (4.8/5)
 
@@ -72,7 +72,7 @@ The Anker 7-in-1 USB C Hub is a premium solution for expanding your laptop—s c
 
 ## Quick verdict
 
-The **UGREEN Revodok Pro 210 USB C Docking Station (10-in-1)** is our top pick for best usb c hub for dual monitors — it hits the sweet spot of features and value. On a tighter budget, the **Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD** at £22.98 delivers excellent performance for the price.
+The **[UGREEN Revodok Pro 210 USB C Docking Station (10-in-1)](https://www.amazon.co.uk/dp/B0BXDQS4BD?linkCode=ll2&tag=souvlakia-21)** is our top pick for best usb c hub for dual monitors — it hits the sweet spot of features and value. On a tighter budget, the **[Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD](https://www.amazon.co.uk/dp/B07ZVKTP53?linkCode=ll2&tag=souvlakia-21)** at £22.98 delivers excellent performance for the price.
 
 ## How we chose
 

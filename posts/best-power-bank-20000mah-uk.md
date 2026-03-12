@@ -4,7 +4,7 @@ Looking for the power bank 20000mah in the UK? We've tested and compared the top
 
 ## Top picks
 
-### 1. Anker Power Bank 20000mAh 30W — Best Overall
+### 1. [Anker Power Bank 20000mAh 30W](https://www.amazon.co.uk/dp/B0DB89DSHV?linkCode=ll2&tag=souvlakia-21) — Best Overall
 
 ★★★★★ (4.8/5)
 
@@ -26,7 +26,7 @@ The Anker Power Bank 20000mAh is a powerhouse for keeping your devices charged o
 
 ---
 
-### 2. INIU Power Bank 20000mAh — Best Budget
+### 2. [INIU Power Bank 20000mAh](https://www.amazon.co.uk/dp/B0DCZ82MGG?linkCode=ll2&tag=souvlakia-21) — Best Budget
 
 ★★★★★ (4.8/5)
 
@@ -48,7 +48,7 @@ The INIU Power Bank 20000mAh is a fantastic portable charger for UK users needin
 
 ---
 
-### 3. Anker Power Bank 20000mAh 140W — Best Premium
+### 3. [Anker Power Bank 20000mAh 140W](https://www.amazon.co.uk/dp/B0DSPXHFBM?linkCode=ll2&tag=souvlakia-21) — Best Premium
 
 ★★★★★ (4.8/5)
 
@@ -72,7 +72,7 @@ The Anker Power Bank 20000mAh 140W is a powerhouse for all your charging needs, 
 
 ## Quick verdict
 
-The **Anker Power Bank 20000mAh 30W** is our top pick for best power bank 20000mah uk — it hits the sweet spot of features and value. On a tighter budget, the **INIU Power Bank 20000mAh** at £22.99 delivers excellent performance for the price.
+The **[Anker Power Bank 20000mAh 30W](https://www.amazon.co.uk/dp/B0DB89DSHV?linkCode=ll2&tag=souvlakia-21)** is our top pick for best power bank 20000mah uk — it hits the sweet spot of features and value. On a tighter budget, the **[INIU Power Bank 20000mAh](https://www.amazon.co.uk/dp/B0DCZ82MGG?linkCode=ll2&tag=souvlakia-21)** at £22.99 delivers excellent performance for the price.
 
 ## How we chose
 

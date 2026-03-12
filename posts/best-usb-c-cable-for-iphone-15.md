@@ -4,7 +4,7 @@ Looking for the usb c cable for iphone 15 in the UK? We've tested and compared t
 
 ## Top picks
 
-### 1. Anker USB C Cable 100W Braided — Best Overall
+### 1. [Anker USB C Cable 100W Braided](https://www.amazon.co.uk/dp/B094CKL8LQ?linkCode=ll2&tag=souvlakia-21) — Best Overall
 
 ★★★★★ (4.8/5)
 
@@ -26,7 +26,7 @@ The Anker USB C Cable 100W Braided is a robust and reliable charging cable, perf
 
 ---
 
-### 2. UGREEN USB C Cable Braided 2-Pack — Best Budget
+### 2. [UGREEN USB C Cable Braided 2-Pack](https://www.amazon.co.uk/dp/B0DRYM33FH?linkCode=ll2&tag=souvlakia-21) — Best Budget
 
 ★★★★★ (4.8/5)
 
@@ -48,7 +48,7 @@ The UGREEN USB C Cable 2-Pack offers fantastic value for money at just £8.99, p
 
 ---
 
-### 3. Apple USB-C Charge Cable 2m — Best Premium
+### 3. [Apple USB-C Charge Cable 2m](https://www.amazon.co.uk/dp/B0D2W5HTLF?linkCode=ll2&tag=souvlakia-21) — Best Premium
 
 ★★★★★ (4.8/5)
 
@@ -72,7 +72,7 @@ This official Apple USB-C charge cable is a premium option for iPhone 15 owners 
 
 ## Quick verdict
 
-The **Anker USB C Cable 100W Braided** is our top pick for best usb c cable for iphone 15 — it hits the sweet spot of features and value. On a tighter budget, the **UGREEN USB C Cable Braided 2-Pack** at £8.99 delivers excellent performance for the price.
+The **[Anker USB C Cable 100W Braided](https://www.amazon.co.uk/dp/B094CKL8LQ?linkCode=ll2&tag=souvlakia-21)** is our top pick for best usb c cable for iphone 15 — it hits the sweet spot of features and value. On a tighter budget, the **[UGREEN USB C Cable Braided 2-Pack](https://www.amazon.co.uk/dp/B0DRYM33FH?linkCode=ll2&tag=souvlakia-21)** at £8.99 delivers excellent performance for the price.
 
 ## How we chose
 
