@@ -8,7 +8,7 @@ Looking for the power bank with usb c output in the UK? We've tested and compare
 
 ★★★★★ (4.8/5)
 
-The Anker Power Bank 20000mAh 140W is a powerhouse for all your charging needs, delivering rapid power to laptops, tablets and phones while on the go � currently available for �59.99. Its key feature is the 140W USB-C output, meaning you can charge even demanding laptops at their full speed, alongside a massive 20000mAh capacity for multiple charges. This makes it perfect for commuters, students and travellers who need reliable power throughout the day.
+The Anker Power Bank 20000mAh 140W is a powerhouse for all your charging needs, delivering rapid power to laptops, tablets and phones while on the go — currently available for £59.99. Its key feature is the 140W USB-C output, meaning you can charge even demanding laptops at their full speed, alongside a massive 20000mAh capacity for multiple charges. This makes it perfect for commuters, students and travellers who need reliable power throughout the day.
 
 **Pros**
 - ✓ Charges laptops at full speed with 140W USB-C Power Delivery.
@@ -30,7 +30,7 @@ The Anker Power Bank 20000mAh 140W is a powerhouse for all your charging needs, 
 
 ★★★★★ (4.8/5)
 
-The Anker Power Bank 10000mAh is a fantastic, reliable portable charger for UK users needing to keep their devices powered on the go, costing just �13.98. It boasts USB-C input *and* output, meaning you can charge modern phones and even some laptops with a single cable, and benefits from Anker�s renowned build quality. This power bank offers excellent value for money without sacrificing performance.
+The Anker Power Bank 10000mAh is a fantastic, reliable portable charger for UK users needing to keep their devices powered on the go, costing just £13.98. It boasts USB-C input *and* output, meaning you can charge modern phones and even some laptops with a single cable, and benefits from Anker—s renowned build quality. This power bank offers excellent value for money without sacrificing performance.
 
 **Pros**
 - ✓ Extremely affordable price point for an Anker product.
@@ -39,7 +39,7 @@ The Anker Power Bank 10000mAh is a fantastic, reliable portable charger for UK u
 
 **Cons**
 - ✗ 10000mAh capacity might not fully charge larger laptops.
-- ✗ Only one USB-A port � limited for charging multiple devices simultaneously.
+- ✗ Only one USB-A port — limited for charging multiple devices simultaneously.
 
 **Who it's for:** UK smartphone users who need a dependable and affordable power boost while travelling or commuting.
 **Who it's not for:** Users requiring high-capacity charging for multiple devices or larger electronics like laptops frequently.
@@ -52,7 +52,7 @@ The Anker Power Bank 10000mAh is a fantastic, reliable portable charger for UK u
 
 ★★★★★ (4.8/5)
 
-The Anker Prime Power Bank is a powerhouse for UK users needing to charge laptops and other devices on the go, costing �119.99. Its key feature is the incredible 250W USB-C output, delivering incredibly fast charging speeds � perfect for power-hungry devices like MacBooks.  You'll be able to top up your laptop significantly even during short breaks.
+The Anker Prime Power Bank is a powerhouse for UK users needing to charge laptops and other devices on the go, costing £119.99. Its key feature is the incredible 250W USB-C output, delivering incredibly fast charging speeds — perfect for power-hungry devices like MacBooks.  You'll be able to top up your laptop significantly even during short breaks.
 
 **Pros**
 - ✓ Blazing-fast 250W charging for laptops and other demanding devices.
@@ -61,7 +61,7 @@ The Anker Prime Power Bank is a powerhouse for UK users needing to charge laptop
 
 **Cons**
 - ✗ Relatively expensive compared to standard power banks.
-- ✗ Quite heavy and bulky � not ideal for everyday carry in pockets. 
+- ✗ Quite heavy and bulky — not ideal for everyday carry in pockets. 
 
 **Who it's for:**  UK professionals and students who frequently work remotely or travel and need a reliable, high-power charging solution for their laptops.
 **Who it's not for:** Users looking for a small, lightweight power bank solely for smartphones and smaller devices.
@@ -72,7 +72,7 @@ The Anker Prime Power Bank is a powerhouse for UK users needing to charge laptop
 
 ## Quick verdict
 
-The **Anker Power Bank 20000mAh 140W** is our top pick for best power bank with usb c output — it hits the sweet spot of features and value. On a tighter budget, the **Anker Power Bank 10000mAh** at �13.98 delivers excellent performance for the price.
+The **Anker Power Bank 20000mAh 140W** is our top pick for best power bank with usb c output — it hits the sweet spot of features and value. On a tighter budget, the **Anker Power Bank 10000mAh** at £13.98 delivers excellent performance for the price.
 
 ## How we chose
 
@@ -84,10 +84,10 @@ We evaluated each product based on real-world UK availability, verified Amazon U
 A: For most users, the Anker Power Bank 10000mAh is sufficient for charging phones and smaller devices once or twice. If you regularly charge laptops or use multiple devices, consider something larger like the Anker Power Bank 20000mAh 140W.
 
 **Q: What does USB-C Power Delivery (PD) actually *do*?**
-A: PD allows for much faster charging of compatible devices � including many modern smartphones, tablets and even some laptops - compared to standard USB charging. The Anker Power Bank 20000mAh 140W is a great choice if you want fast laptop charging on the go in 2026.
+A: PD allows for much faster charging of compatible devices — including many modern smartphones, tablets and even some laptops - compared to standard USB charging. The Anker Power Bank 20000mAh 140W is a great choice if you want fast laptop charging on the go in 2026.
 
 **Q: Are power banks safe to take on flights?**
-A: Generally, yes, but there are restrictions! Most airlines allow power banks under 100Wh (Watt-hours) in carry-on baggage; the Anker Power Bank 10000mAh falls well within this limit. Check your airline�s specific rules before travelling.
+A: Generally, yes, but there are restrictions! Most airlines allow power banks under 100Wh (Watt-hours) in carry-on baggage; the Anker Power Bank 10000mAh falls well within this limit. Check your airline—s specific rules before travelling.
 
 ---
 

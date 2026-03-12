@@ -8,7 +8,7 @@ Looking for the 100w gan charger in the UK? We've tested and compared the top op
 
 ★★★★★ (4.8/5)
 
-The Anker 100W USB C Charger is a powerhouse for all your charging needs, delivering rapid power to laptops, tablets and phones � all from one compact device costing �44.99. Its key feature is the 100W single-port output combined with a smart display showing real-time power delivery, making it ideal for demanding devices like MacBooks. This GaN charger significantly reduces charging times compared to standard chargers while remaining incredibly portable.
+The Anker 100W USB C Charger is a powerhouse for all your charging needs, delivering rapid power to laptops, tablets and phones — all from one compact device costing £44.99. Its key feature is the 100W single-port output combined with a smart display showing real-time power delivery, making it ideal for demanding devices like MacBooks. This GaN charger significantly reduces charging times compared to standard chargers while remaining incredibly portable.
 
 **Pros**
 - ✓ Blazing fast 100W Power Delivery for laptops and other high-power devices.
@@ -16,7 +16,7 @@ The Anker 100W USB C Charger is a powerhouse for all your charging needs, delive
 - ✓ Compact GaN technology makes it significantly smaller than traditional chargers.
 
 **Cons**
-- ✗ Cable not included � you�ll need to purchase a compatible USB-C cable separately.
+- ✗ Cable not included — you’ll need to purchase a compatible USB-C cable separately.
 - ✗ May be overkill for users who only charge smartphones and small accessories. 
 
 **Who it's for:** UK buyers needing a versatile, fast charger for laptops, tablets and phones, especially those travelling frequently.
@@ -30,16 +30,16 @@ The Anker 100W USB C Charger is a powerhouse for all your charging needs, delive
 
 ★★★★★ (4.8/5)
 
-The UGREEN Nexode 100W USB C Charger is a powerhouse for charging multiple devices simultaneously, offering incredible value at between �35 and �45. Featuring a foldable UK plug and four ports � three USB-C and one USB-A � it�s perfect for powering laptops, phones, and tablets without clutter. Its key feature is the ability to deliver 100W of power through a single USB-C port, ideal for fast charging modern devices.
+The UGREEN Nexode 100W USB C Charger is a powerhouse for charging multiple devices simultaneously, offering incredible value at between £35 and £45. Featuring a foldable UK plug and four ports — three USB-C and one USB-A — it—s perfect for powering laptops, phones, and tablets without clutter. Its key feature is the ability to deliver 100W of power through a single USB-C port, ideal for fast charging modern devices.
 
 **Pros**
 - ✓ Rapidly charges compatible laptops with its 100W Power Delivery.
-- ✓ Compact and portable design thanks to the foldable UK plug � great for travel.
+- ✓ Compact and portable design thanks to the foldable UK plug — great for travel.
 - ✓ Charges up to four devices at once, reducing cable clutter.
 
 **Cons**
 - ✗ The USB-A port has a lower output than the USB-C ports.
-- ✗ Cable not included - you�ll need your own USB-C to USB-C cables for optimal charging speeds. 
+- ✗ Cable not included - you’ll need your own USB-C to USB-C cables for optimal charging speeds. 
 
 **Who it's for:** UK users needing a versatile and powerful charger for multiple devices, especially those who travel frequently.
 **Who it's not for:** Those only requiring a basic single-device charger or prioritising wireless charging.
@@ -52,7 +52,7 @@ The UGREEN Nexode 100W USB C Charger is a powerhouse for charging multiple devic
 
 ★★★★★ (4.8/5)
 
-The UGREEN Nexode Pro is a powerhouse of a charger for UK homes and offices, delivering up to 100W of power via its innovative GaNInfinity chip. For �39.99, you can rapidly charge your laptops � even a MacBook Pro 14� from 0-50% in just 27 minutes � alongside phones and tablets simultaneously. Its compact design makes it ideal for travel too.
+The UGREEN Nexode Pro is a powerhouse of a charger for UK homes and offices, delivering up to 100W of power via its innovative GaNInfinity chip. For £39.99, you can rapidly charge your laptops — even a MacBook Pro 14— from 0-50% in just 27 minutes — alongside phones and tablets simultaneously. Its compact design makes it ideal for travel too.
 
 **Pros**
 - ✓ Blazing fast charging speeds thanks to the 100W output.
@@ -72,7 +72,7 @@ The UGREEN Nexode Pro is a powerhouse of a charger for UK homes and offices, del
 
 ## Quick verdict
 
-The **Anker 100W USB C Charger (3-Port GaN, Smart Display)** is our top pick for best 100w gan charger uk — it hits the sweet spot of features and value. On a tighter budget, the **UGREEN Nexode 100W USB C Charger 4-Port GaN** at �35-�45 delivers excellent performance for the price.
+The **Anker 100W USB C Charger (3-Port GaN, Smart Display)** is our top pick for best 100w gan charger uk — it hits the sweet spot of features and value. On a tighter budget, the **UGREEN Nexode 100W USB C Charger 4-Port GaN** at £35-£45 delivers excellent performance for the price.
 
 ## How we chose
 
@@ -80,8 +80,8 @@ We evaluated each product based on real-world UK availability, verified Amazon U
 
 ## FAQ
 
-**Q: What does �GaN� actually mean and why is it better?**
-A: GaN (Gallium Nitride) technology allows for more efficient power delivery in a smaller package, meaning these chargers are less bulky and generate less heat compared to older silicon-based chargers � ideal for travel around the UK.
+**Q: What does —GaN— actually mean and why is it better?**
+A: GaN (Gallium Nitride) technology allows for more efficient power delivery in a smaller package, meaning these chargers are less bulky and generate less heat compared to older silicon-based chargers — ideal for travel around the UK.
 
 **Q: I have an Anker 100W USB C Charger (3-Port GaN, Smart Display). Is it still worth upgrading if I see a newer model?**
 A: While the Anker is excellent, newer models like the UGREEN Nexode 100W USB C Charger 4-Port GaN offer increased port availability which can be useful for charging multiple devices simultaneously.
