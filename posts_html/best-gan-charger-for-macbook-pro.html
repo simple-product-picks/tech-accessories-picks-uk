@@ -60,19 +60,19 @@
               <td class="cell-row"><b>Best overall</b></td>
               <td class="cell-row">Anker 100W USB C Charger (3-Port GaN, Smart Display)</td>
               <td class="cell-row">£44.99</td>
-              <td class="cell-row"><a class="cta-link" href="https://www.amazon.co.uk/dp/B0FL2DR4TH?tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></td>
+              <td class="cell-row"><a class="cta-link" href="https://www.amazon.co.uk/dp/B0FL2DR4TH?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></td>
             </tr>
             <tr>
               <td class="cell-row"><b>Best budget</b></td>
               <td class="cell-row">UGREEN USB C Charger 65W GaN 2-Port</td>
               <td class="cell-row">£19.97</td>
-              <td class="cell-row"><a class="cta-link" href="https://www.amazon.co.uk/dp/B08CDDSVN4?tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></td>
+              <td class="cell-row"><a class="cta-link" href="https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></td>
             </tr>
             <tr>
               <td class="cell"><b>Best premium</b></td>
               <td class="cell">UGREEN Nexode Pro 100W 3-Port GaN Charger</td>
               <td class="cell">£39.99</td>
-              <td class="cell"><a class="cta-link" href="https://www.amazon.co.uk/dp/B0CCVDXHM6?tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></td>
+              <td class="cell"><a class="cta-link" href="https://www.amazon.co.uk/dp/B0CCVDXHM6?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></td>
             </tr>
           </tbody>
         </table>
@@ -100,7 +100,9 @@
     const slug = "best-gan-charger-for-macbook-pro";
     const mdPath = "../posts/" + slug + ".md";
     try {
-      const md  = await (await fetch(mdPath, {cache:"no-store"})).text();
+      const resp = await fetch(mdPath, {cache:"no-store"});
+      const buf  = await resp.arrayBuffer();
+      const md   = new TextDecoder("utf-8").decode(buf);
       const html = marked.parse(md, {mangle:false, headerIds:true});
       const safe = DOMPurify.sanitize(html, {USE_PROFILES:{html:true}});
       const contentEl = document.getElementById("content");

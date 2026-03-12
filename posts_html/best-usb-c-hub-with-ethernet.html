@@ -60,19 +60,19 @@
               <td class="cell-row"><b>Best overall</b></td>
               <td class="cell-row">UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet</td>
               <td class="cell-row">£53.20</td>
-              <td class="cell-row"><a class="cta-link" href="https://www.amazon.co.uk/dp/B09XZTG91F?tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></td>
+              <td class="cell-row"><a class="cta-link" href="https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></td>
             </tr>
             <tr>
               <td class="cell-row"><b>Best budget</b></td>
               <td class="cell-row">Anker USB C Hub PowerExpand 6-in-1 with Ethernet</td>
               <td class="cell-row">£21.99</td>
-              <td class="cell-row"><a class="cta-link" href="https://www.amazon.co.uk/dp/B08CKXNJZS?tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></td>
+              <td class="cell-row"><a class="cta-link" href="https://www.amazon.co.uk/dp/B08CKXNJZS?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></td>
             </tr>
             <tr>
               <td class="cell"><b>Best premium</b></td>
               <td class="cell">Anker USB C Hub 8-in-1 with Ethernet and 10Gbps</td>
               <td class="cell">£34.97</td>
-              <td class="cell"><a class="cta-link" href="https://www.amazon.co.uk/dp/B087QZVQJX?tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></td>
+              <td class="cell"><a class="cta-link" href="https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></td>
             </tr>
           </tbody>
         </table>
@@ -100,7 +100,9 @@
     const slug = "best-usb-c-hub-with-ethernet";
     const mdPath = "../posts/" + slug + ".md";
     try {
-      const md  = await (await fetch(mdPath, {cache:"no-store"})).text();
+      const resp = await fetch(mdPath, {cache:"no-store"});
+      const buf  = await resp.arrayBuffer();
+      const md   = new TextDecoder("utf-8").decode(buf);
       const html = marked.parse(md, {mangle:false, headerIds:true});
       const safe = DOMPurify.sanitize(html, {USE_PROFILES:{html:true}});
       const contentEl = document.getElementById("content");
