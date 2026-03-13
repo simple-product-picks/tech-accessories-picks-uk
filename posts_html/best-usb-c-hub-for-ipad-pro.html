@@ -14,6 +14,22 @@
   <meta name="twitter:title" content="Best USB C Hub For iPad Pro UK 2026" />
   <meta name="twitter:description" content="Best usb c hub for ipad pro in the UK for 2026. Verified in-stock picks with prices on Amazon UK." />
   <link rel="stylesheet" href="../assets/site.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Best USB C Hub For iPad Pro UK 2026",
+    "description": "Best usb c hub for ipad pro in the UK for 2026. Verified in-stock picks with prices on Amazon UK.",
+    "url": "https://simple-product-picks.github.io/tech-accessories-picks-uk/posts_html/best-usb-c-hub-for-ipad-pro.html",
+    "dateModified": "2026-03-13",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Simple Product Picks",
+      "url": "https://simple-product-picks.github.io/tech-accessories-picks-uk"
+    },
+    "mainEntityOfPage": "https://simple-product-picks.github.io/tech-accessories-picks-uk/posts_html/best-usb-c-hub-for-ipad-pro.html"
+  }
+  </script>
 </head>
 <body>
   <header class="site-header">
@@ -87,6 +103,14 @@
     </section>
   </main>
 
+  <!-- Sticky bottom CTA -->
+  <div id="sticky-cta" class="sticky-cta" aria-hidden="true">
+    <div class="sticky-cta-inner wrap">
+      <span class="sticky-cta-label" id="sticky-label">Our top pick</span>
+      <a class="sticky-cta-btn" id="sticky-btn" href="#comparison">Check price on Amazon UK &#x2192;</a>
+    </div>
+  </div>
+
   <footer>
     <div class="wrap">
       &copy; 2026 Simple Product Picks (UK). Some links are affiliate links; this site may earn a commission at no extra cost to you.
@@ -107,6 +131,24 @@
       const safe = DOMPurify.sanitize(html, {USE_PROFILES:{html:true}});
       const contentEl = document.getElementById("content");
       contentEl.innerHTML = safe;
+
+      // Populate sticky bar with best overall product
+      try {
+        const rows = document.querySelectorAll("#comparison table tbody tr");
+        if (rows.length > 0) {
+          const firstRow = rows[0];
+          const cells = firstRow.querySelectorAll("td");
+          if (cells.length >= 4) {
+            const name = cells[1] ? cells[1].textContent.trim() : "";
+            const price = cells[2] ? cells[2].textContent.trim() : "";
+            const link = cells[3] ? cells[3].querySelector("a") : null;
+            const labelEl = document.getElementById("sticky-label");
+            const btnEl = document.getElementById("sticky-btn");
+            if (labelEl && name) labelEl.textContent = name + (price ? "  \u00b7  " + price : "");
+            if (btnEl && link) btnEl.href = link.href;
+          }
+        }
+      } catch(_) {}
 
       // Tag standalone CTA links with .cta-btn class (not heading/verdict links)
       contentEl.querySelectorAll("p > a[href*='amazon.co.uk']").forEach(a => {
@@ -165,6 +207,18 @@
       listEl.innerHTML = "";
       listEl.appendChild(ul);
     } catch(_) {}
+
+    // Sticky bottom CTA - appears when comparison table scrolls out of view
+    const stickyBar = document.getElementById("sticky-cta");
+    if (stickyBar && window.IntersectionObserver) {
+      const obs = new IntersectionObserver(entries => {
+        entries.forEach(e => {
+          stickyBar.classList.toggle("sticky-visible", !e.isIntersecting);
+        });
+      }, { threshold: 0, rootMargin: "0px 0px -100% 0px" });
+      const compSection = document.getElementById("comparison");
+      if (compSection) obs.observe(compSection);
+    }
   })();
   </script>
 </body>
