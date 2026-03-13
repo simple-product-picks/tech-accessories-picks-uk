@@ -31,7 +31,12 @@
   <section class="hero panel" id="hero">
     <div class="hero-kicker muted">Updated picks &bull; UK &bull; 2026</div>
     <h1 class="hero-title">Best Power Bank 20000mAh UK 2026</h1>
-    <div class="hero-sub muted">Verified in-stock on Amazon UK. Affiliate links below.</div>
+    <div class="hero-sub muted">Verified in-stock on Amazon UK &bull; Honest reviews &bull; Affiliate links</div>
+    <div class="trust-bar">
+      <span class="trust-item">&#10003; Prices checked March 2026</span>
+      <span class="trust-item">&#10003; Amazon UK affiliate links</span>
+      <span class="trust-item">&#10003; Real verified ratings</span>
+    </div>
   </section>
 
   <main>
@@ -103,7 +108,14 @@
       const contentEl = document.getElementById("content");
       contentEl.innerHTML = safe;
 
-      // Style pros/cons and star ratings
+      // Tag standalone CTA links with .cta-btn class (not heading/verdict links)
+      contentEl.querySelectorAll("p > a[href*='amazon.co.uk']").forEach(a => {
+        if (a.textContent.trim().startsWith("Check price")) {
+          a.classList.add("cta-btn");
+        }
+      });
+
+      // Style pros/cons
       contentEl.querySelectorAll("ul").forEach(ul => {
         ul.querySelectorAll("li").forEach(li => {
           const t = li.textContent.trim();
@@ -115,7 +127,7 @@
         });
       });
 
-      // Style star rating paragraphs amber (match star chars and variants)
+      // Style star rating paragraphs amber
       contentEl.querySelectorAll("p").forEach(p => {
         const t = p.textContent.trim();
         if (t.match(/^[\u2605\u2606\u2B50\u2764\u00BD\u272A\u2730\uFE0F]+[\s\[\(]/)) {
