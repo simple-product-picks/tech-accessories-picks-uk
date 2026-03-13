@@ -38,8 +38,8 @@ a { color: inherit; text-decoration: none; }
 a:hover { text-decoration: underline; }
 
 /* -- Layout ------------------------------------------------------ */
-.wrap { max-width: 960px; margin: 0 auto; padding: 0 16px; }
-main  { max-width: 960px; margin: 0 auto; padding: 16px 16px 48px; }
+.wrap { max-width: 960px; margin: 0 auto; padding: 0 20px; }
+main  { max-width: 780px; margin: 0 auto; padding: 16px 20px 64px; }
 
 /* -- Header / Nav ------------------------------------------------ */
 .site-header {
@@ -112,7 +112,17 @@ main  { max-width: 960px; margin: 0 auto; padding: 16px 16px 48px; }
   margin: 0 0 12px; line-height: 1.15; color: var(--blue-deep);
 }
 
-.hero-sub { font-size: 14px; color: var(--muted); margin: 0; }
+.hero-sub { font-size: 14px; color: var(--muted); margin: 6px 0 0; }
+.trust-bar {
+  display: flex; flex-wrap: wrap; gap: 8px 16px;
+  margin-top: 14px; padding-top: 14px;
+  border-top: 1px solid var(--border);
+}
+.trust-item {
+  font-size: 13px; font-weight: 600; color: var(--text-soft);
+  display: inline-flex; align-items: center; gap: 5px;
+}
+.trust-item::before { color: var(--green); font-size: 14px; }
 
 /* -- Homepage hero ----------------------------------------------- */
 .home-hero {
@@ -237,24 +247,46 @@ main  { max-width: 960px; margin: 0 auto; padding: 16px 16px 48px; }
 .content p, .content li { font-size: 16px; line-height: 1.75; color: var(--text-soft); }
 .content ul, .content ol { padding-left: 22px; margin: 10px 0 16px; }
 .content li { margin-bottom: 6px; }
-/* Inline Amazon CTA links - orange pill button */
-.content a[href*="amazon.co.uk"] {
-  display: inline-flex; align-items: center;
+/* CTA button - only applied via JS to standalone Check price links */
+.content a.cta-btn {
+  display: inline-flex; align-items: center; gap: 6px;
   background: var(--cta); color: #ffffff !important;
   font-size: 15px; font-weight: 700;
-  padding: 10px 22px; border-radius: 6px;
-  text-decoration: none !important; margin: 14px 0 6px;
+  padding: 11px 24px; border-radius: 6px;
+  text-decoration: none !important;
+  margin: 16px 0 8px;
   box-shadow: 0 2px 8px rgba(232,93,4,.35);
-  transition: background 0.15s, transform 0.1s;
+  transition: background 0.15s, transform 0.1s, box-shadow 0.1s;
   border-bottom: 3px solid #b34500;
 }
-.content a[href*="amazon.co.uk"]:hover {
+.content a.cta-btn:hover {
   background: var(--cta-hover); text-decoration: none !important;
   transform: translateY(-1px);
-  box-shadow: 0 4px 12px rgba(232,93,4,.45);
+  box-shadow: 0 4px 14px rgba(232,93,4,.5);
 }
-.content hr { border: none; border-top: 2px solid var(--border); margin: 32px 0; }
+/* Heading and verdict links - plain styled, not buttons */
+.content h3 a, .content h2 a {
+  color: var(--text); text-decoration: none; font-weight: inherit;
+}
+.content h3 a:hover, .content h2 a:hover {
+  color: var(--blue); text-decoration: underline;
+}
+.content strong a {
+  color: var(--blue-deep); text-decoration: none; font-weight: 700;
+}
+.content strong a:hover { text-decoration: underline; }
+.content hr { border: none; border-top: 2px solid var(--border); margin: 36px 0; }
 .content strong { font-weight: 700; color: var(--text); }
+/* Product pick cards - JS adds .pick-card class to h3+content blocks */
+.pick-card {
+  background: var(--bg-soft);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--blue);
+  border-radius: 0 var(--radius) var(--radius) 0;
+  padding: 20px 24px;
+  margin: 24px 0;
+}
+.pick-card h3 { margin-top: 0; }
 
 /* -- Tables in content ------------------------------------------ */
 .content table { border-collapse: collapse; width: 100%; font-size: 14px; margin: 12px 0; overflow-x: auto; display: block; }
