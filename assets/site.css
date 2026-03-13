@@ -401,7 +401,7 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 64px; }
   box-shadow: 0 -4px 20px rgba(0,0,0,.12);
   transform: translateY(100%);
   transition: transform 0.25s ease;
-  padding: 10px 0;
+  padding: 7px 0;
 }
 .sticky-cta.sticky-visible { transform: translateY(0); }
 .sticky-cta-inner {
