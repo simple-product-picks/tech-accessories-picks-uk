@@ -210,14 +210,15 @@
 
     // Sticky bottom CTA - appears when comparison table scrolls out of view
     const stickyBar = document.getElementById("sticky-cta");
-    if (stickyBar && window.IntersectionObserver) {
-      const obs = new IntersectionObserver(entries => {
-        entries.forEach(e => {
-          stickyBar.classList.toggle("sticky-visible", !e.isIntersecting);
-        });
-      }, { threshold: 0, rootMargin: "0px 0px -100% 0px" });
+    if (stickyBar) {
       const compSection = document.getElementById("comparison");
-      if (compSection) obs.observe(compSection);
+      if (compSection) {
+        let shown = false;
+        window.addEventListener("scroll", () => {
+          const past = compSection.getBoundingClientRect().bottom < 0;
+          if (past !== shown) { shown = past; stickyBar.classList.toggle("sticky-visible", shown); }
+        }, { passive: true });
+      }
     }
   })();
   </script>
