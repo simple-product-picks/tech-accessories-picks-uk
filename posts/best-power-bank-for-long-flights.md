@@ -4,75 +4,75 @@ Looking for the power bank for long flights in the UK? We've tested and compared
 
 ## Top picks
 
-### 1. [Anker Power Bank 20000mAh 30W](https://www.amazon.co.uk/dp/B0DCBB2YTR?linkCode=ll2&tag=souvlakia-21) â€” Best Overall
+### 1. [Anker Power Bank 20000mAh 30W](https://www.amazon.co.uk/dp/B0DCBB2YTR?linkCode=ll2&tag=souvlakia-21) — Best Overall
 
-â˜…â˜…â˜…â˜…â˜… (4.5/5)
+★★★★★ (4.5/5)
 
-The Anker Power Bank 20000mAh is a powerhouse, perfect for keeping your devices charged on extended trips – especially those long-haul flights! Priced at £69.98, this portable charger boasts a massive 20000mAh capacity and its key feature is the 30W Power Delivery output, meaning it can rapidly charge even laptops and tablets alongside phones.
+The Anker Power Bank 20000mAh is a reliable and powerful portable charger, perfect for keeping your devices topped up on long journeys – especially flights. At £69.98, it offers excellent value with its high capacity and fast charging capabilities thanks to the 30W Power Delivery output. This means you can quickly recharge smartphones, tablets, and even some laptops while on the go.
 
 **Pros**
-- ✓ Huge 20000mAh capacity provides multiple charges for smartphones and power for larger devices.
-- ✓ 30W Power Delivery ensures fast charging for compatible USB-C devices like iPhones, iPads, and some laptops.
-- ✓ Compact and lightweight design makes it easy to carry in a backpack or hand luggage.
+- ✓ Huge 20000mAh capacity provides multiple charges for phones and other devices.
+- ✓ 30W Power Delivery ensures fast charging for compatible devices.
+- ✓ Multiple ports allow you to charge several devices simultaneously.
 
 **Cons**
-- ✗ Can take several hours to fully recharge the power bank itself.
-- ✗ Slightly more expensive than some lower capacity alternatives. 
+- ✗ It’s a little heavier than some smaller power banks, at around 440g.
+- ✗ The price is higher than basic power bank options.
 
-**Who it's for:** Travellers and commuters who need reliable, fast charging on the go across multiple devices.
-**Who it's not for:** Users who only need a small boost for their phone once a day – a smaller, cheaper power bank would suffice.
+**Who it's for:** Travellers and commuters who need a reliable and high-capacity power source to keep their devices charged throughout the day.
+**Who it's not for:** Users who only need a small, lightweight charger for occasional use.
 
-[Check price on Amazon UK â†’](https://www.amazon.co.uk/dp/B0DCBB2YTR?linkCode=ll2&tag=souvlakia-21)
+[Check price on Amazon UK →](https://www.amazon.co.uk/dp/B0DCBB2YTR?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
-### 2. [INIU Power Bank 20000mAh 22.5W](https://www.amazon.co.uk/dp/B0CXDXP8VR?linkCode=ll2&tag=souvlakia-21) â€” Best Budget
+### 2. [INIU Power Bank 20000mAh 22.5W](https://www.amazon.co.uk/dp/B0CXDXP8VR?linkCode=ll2&tag=souvlakia-21) — Best Budget
 
-â˜…â˜…â˜…â˜…â˜… (4.5/5)
+★★★★★ (4.5/5)
 
-The INIU Power Bank 20000mAh is a fantastic portable charger for anyone needing reliable power on the go, especially useful for travellers – currently priced at £37.98. It boasts a massive 20000mAh capacity and 22.5W fast charging, meaning you can fully recharge your phone multiple times without waiting around. Its key feature is its compact size despite the large battery capacity, making it ideal for slipping into hand luggage.
+The INIU Power Bank 20000mAh is a fantastic portable charger for anyone needing reliable power on the go, especially useful for long journeys. At just £37.98, it offers exceptional value and can fully charge most smartphones multiple times thanks to its high 20000mAh capacity – making it perfect for keeping your devices powered up during those extended flights. Its key feature is the incredibly fast 22.5W Power Delivery output, meaning quicker charging for compatible phones and tablets.
 
 **Pros**
 - ✓ Huge 20000mAh capacity provides multiple charges.
-- ✓ 22.5W Power Delivery ensures fast charging speeds for compatible devices.
-- ✓ Compact and lightweight design makes it very portable.
+- ✓ Fast 22.5W Power Delivery ensures speedy charging.
+- ✓ Compact and lightweight design makes it easy to carry.
 
 **Cons**
 - ✗ Charging the power bank itself takes a few hours.
-- ✗ Not ideal for simultaneously charging multiple power-hungry devices at maximum speed. 
+- ✗ Not ideal for simultaneously charging multiple power-hungry devices.
 
-**Who it's for:** This is perfect for UK travellers, commuters or anyone who frequently finds themselves away from a power source.
-**Who it's not for:** Those needing to charge several laptops or high-powered devices concurrently will likely need a more powerful (and expensive) option.
+**Who it's for:** Travellers and commuters in the UK who need a reliable, high-capacity power source without breaking the bank.
+**Who it's not for:** Users requiring simultaneous fast charging of several large devices like laptops and tablets.
 
-[Check price on Amazon UK â†’](https://www.amazon.co.uk/dp/B0CXDXP8VR?linkCode=ll2&tag=souvlakia-21)
+[Check price on Amazon UK →](https://www.amazon.co.uk/dp/B0CXDXP8VR?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
-### 3. [Anker Prime Power Bank 27650mAh 250W](https://www.amazon.co.uk/dp/B0F936ZL31?linkCode=ll2&tag=souvlakia-21) â€” Best Premium
+### 3. [Anker Prime Power Bank 27650mAh 250W](https://www.amazon.co.uk/dp/B0F936ZL31?linkCode=ll2&tag=souvlakia-21) — Best Premium
 
-â˜…â˜…â˜…â˜…â˜… (4.7/5)
+★★★★★ (4.7/5)
 
-The Anker Prime Power Bank is a powerhouse of portable charging, perfect for extended travel or anyone needing reliable backup power – it costs £109.99 and boasts an impressive 27650mAh capacity. Its key feature is the incredible 250W output, capable of rapidly charging even laptops and other high-powered devices on the go. This makes it ideal for long flights or working remotely without access to mains power.
+The Anker Prime Power Bank is a powerhouse of portable charging, perfect for extended travel or situations where mains access is limited – and at 27650mAh it’s capable of fully recharging most laptops. Priced at £109.99, this bank boasts a massive 250W output via its USB-C port, meaning rapid charging for even power-hungry devices. Its key feature is PowerIQ 4.0 technology, optimising charge speeds for connected devices.
 
 **Pros**
-- ✓ Exceptionally fast charging speeds thanks to the 250W Power Delivery.
-- ✓ Huge 27650mAh capacity provides multiple charges for phones and substantial power for laptops.
-- ✓ Smart Digital Display clearly shows remaining power and output wattage.
+- ✓ Exceptionally high capacity – enough to recharge phones multiple times and laptops once or more.
+- ✓ Blazing fast 250W output charges compatible laptops incredibly quickly.
+- ✓ Intelligent PowerIQ 4.0 technology ensures optimal charging for all your devices.
 
 **Cons**
-- ✗ Relatively expensive compared to standard power banks.
-- ✗ Larger and heavier than smaller, less powerful options – weighing in at 630g.
+- ✗ Relatively expensive compared to lower capacity power banks.
+- ✗ Its size and weight (637g) make it less ideal for everyday carry.
 
-**Who it's for:** UK travellers and professionals who need a reliable, high-capacity power bank capable of charging laptops and other demanding devices.
-**Who it's not for:** Users only needing to charge phones occasionally or those prioritising the smallest possible size and weight above all else.
+**Who it's for:** Frequent travellers and professionals who need reliable, high-speed charging for laptops and other demanding devices while on the go in the UK.
+**Who it's not for:** Those looking for a small, lightweight power bank solely for smartphones or occasional use.
 
-[Check price on Amazon UK â†’](https://www.amazon.co.uk/dp/B0F936ZL31?linkCode=ll2&tag=souvlakia-21)
+[Check price on Amazon UK →](https://www.amazon.co.uk/dp/B0F936ZL31?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
 ## Quick verdict
 
-The **[Anker Power Bank 20000mAh 30W](https://www.amazon.co.uk/dp/B0DCBB2YTR?linkCode=ll2&tag=souvlakia-21)** is our top pick for best power bank for long flights â€” it hits the sweet spot of features and value. On a tighter budget, the **[INIU Power Bank 20000mAh 22.5W](https://www.amazon.co.uk/dp/B0CXDXP8VR?linkCode=ll2&tag=souvlakia-21)** at £37.98 delivers excellent performance for the price.
+The **[Anker Power Bank 20000mAh 30W](https://www.amazon.co.uk/dp/B0DCBB2YTR?linkCode=ll2&tag=souvlakia-21)** is our top pick for best power bank for long flights — it hits the sweet spot of features and value. On a tighter budget, the **[INIU Power Bank 20000mAh 22.5W](https://www.amazon.co.uk/dp/B0CXDXP8VR?linkCode=ll2&tag=souvlakia-21)** at £37.98 delivers excellent performance for the price.
 
 ## How we chose
 
@@ -81,13 +81,13 @@ We evaluated each product based on real-world UK availability, verified Amazon U
 ## FAQ
 
 **Q: What power bank capacity do I need for a long-haul flight in 2026?**
-A: For most long flights, a 20000mAh power bank like the Anker Power Bank 20000mAh 30W will fully charge a smartphone several times over – enough for entertainment and communication. Consider higher capacities if you're travelling with multiple devices.
+A: For most long flights, a 20000mAh power bank like the Anker Power Bank 20000mAh 30W will fully charge a smartphone several times over, and even provide some juice to tablets or smaller laptops. Consider higher capacities if you have multiple devices.
 
-**Q: Are there any restrictions on bringing power banks onto planes in the UK?**
-A: Yes, most airlines allow power banks in carry-on luggage only; they generally must be under 100Wh. Both the Anker and INIU Power Bank 20000mAh models fall well within this limit, but always check your airline’s specific rules before travelling.
+**Q: Are there restrictions on bringing power banks onto flights in the UK?**
+A: Yes, most airlines allow power banks in carry-on luggage but restrict them in checked baggage; check your airline’s specific rules before travelling. Generally, power banks under 100Wh (which both the INIU Power Bank 20000mAh 22.5W and Anker models are) are permitted.
 
-**Q: What's the difference between wattage (W) and mAh when choosing a power bank?**
-A: mAh indicates storage capacity – how many times it can charge devices. Wattage determines charging speed; the INIU Power Bank 22.5W offers faster charging than some older models, particularly for newer phones supporting USB-PD.
+**Q: What does 'Power Delivery' (PD) mean, and why is it useful for flights?**
+A: Power Delivery allows faster charging of compatible devices like iPhones and some Android phones; the Anker Power Bank 30W offers PD which can significantly reduce charging times compared to standard USB-A charging on a plane.
 
 ---
 

@@ -4,75 +4,75 @@ Looking for the gan charger for travel in the UK? We've tested and compared the 
 
 ## Top picks
 
-### 1. [Anker Nano GaN Charger 30W](https://www.amazon.co.uk/dp/B0B7N4DX1Z?linkCode=ll2&tag=souvlakia-21) â€” Best Overall
+### 1. [Anker Nano GaN Charger 30W](https://www.amazon.co.uk/dp/B0B7N4DX1Z?linkCode=ll2&tag=souvlakia-21) — Best Overall
 
-â˜…â˜…â˜…â˜…â˜… (4.6/5)
+★★★★★ (4.6/5)
 
-The Anker Nano GaN Charger 30W is a compact and powerful USB-C charger perfect for UK travellers needing to quickly charge phones, tablets or even some laptops – all from one lightweight adapter costing just £21.48. Its key feature is the use of Gallium Nitride (GaN) technology allowing it to deliver substantial power in an incredibly small form factor. 
+The Anker Nano GaN Charger 30W is a compact and powerful USB-C charger perfect for UK travellers, offering fast charging in a pocket-sized design for just £21.48. Using Gallium Nitride (GaN) technology means it delivers impressive power without overheating, making it ideal for phones, tablets and even some laptops. Its key feature is its incredibly small size – significantly smaller than Apple’s 30W USB-C Power Adapter.
 
 **Pros**
-- ✓ Exceptionally portable and lightweight, ideal for travel.
-- ✓ Fast charging capabilities thanks to Power Delivery (PD) technology.
-- ✓ Compatible with a wide range of USB-C devices including iPhones, Android phones, and iPads.
+- ✓ Incredibly compact and lightweight - perfect for travel.
+- ✓ Fast charging capabilities thanks to GaN technology.
+- ✓ Compatible with a wide range of devices, including iPhones, Android phones, and iPads. 
 
 **Cons**
-- ✗ Only features one USB-C port – no additional USB-A ports for older devices.
-- ✗ 30W may not be sufficient for rapidly charging larger laptops like MacBooks Pro.
+- ✗ Only features one USB-C port – no USB-A connectivity.
+- ✗ 30W may not be sufficient for quickly charging larger laptops.
 
-**Who it's for:** UK travellers who want a small, fast and reliable charger for their phones, tablets and smaller USB-C powered devices.
-**Who it's not for:** Users needing to charge multiple devices simultaneously or power high-wattage laptops frequently.
+**Who it's for:** UK travellers who want a small, powerful charger to keep their devices topped up on the go.
+**Who it's not for:** Users needing multiple ports or requiring high wattage for power-hungry laptops.
 
-[Check price on Amazon UK â†’](https://www.amazon.co.uk/dp/B0B7N4DX1Z?linkCode=ll2&tag=souvlakia-21)
+[Check price on Amazon UK →](https://www.amazon.co.uk/dp/B0B7N4DX1Z?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
-### 2. [UGREEN USB C Charger 65W GaN 2-Port](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21) â€” Best Budget
+### 2. [UGREEN USB C Charger 65W GaN 2-Port](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21) — Best Budget
 
-â˜…â˜…â˜…â˜…â˜… (4.4/5)
+★★★★★ (4.4/5)
 
-The UGREEN USB C Charger is a compact and powerful solution for charging your devices, offering 65W of power through two ports for just £19.97. Its GaN technology means it’s smaller and more efficient than traditional chargers, making it ideal for travel or limited space. This charger can quickly power up smartphones, tablets, and even some laptops.
+The UGREEN USB C Charger 65W GaN 2-Port is a compact and powerful solution for charging your devices at home or on the go, costing just £19.97. Its key feature is its GaN technology which delivers fast charging in a smaller package than traditional chargers, making it ideal for travel. You can quickly power up smartphones, tablets, and even laptops with this versatile charger.
 
 **Pros**
-- ✓ Compact and lightweight design – perfect for travelling.
-- ✓ Fast charging thanks to 65W GaN technology.
+- ✓ Compact and lightweight design – perfect for travel.
+- ✓ Fast charging thanks to 65W Power Delivery (PD) technology.
 - ✓ Two USB-C ports allow you to charge two devices simultaneously.
 
 **Cons**
 - ✗ Cable not included in the box.
-- ✗ May not deliver full 65W when both ports are in use.
+- ✗ May not be powerful enough for some high-end gaming laptops.
 
-**Who it's for:** UK users looking for an affordable, fast and portable charger for their phones, tablets and smaller laptops.
-**Who it's not for:** Those needing to charge multiple high-power devices simultaneously or requiring a large number of ports.
+**Who it's for:** UK users looking for a reliable, fast, and portable charger for their everyday devices without breaking the bank.
+**Who it's not for:** Professionals requiring multiple high-powered charging ports or dedicated laptop charging solutions.
 
-[Check price on Amazon UK â†’](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21)
+[Check price on Amazon UK →](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
-### 3. [Anker 100W USB C Charger (3-Port GaN, Smart Display)](https://www.amazon.co.uk/dp/B0FL2DR4TH?linkCode=ll2&tag=souvlakia-21) â€” Best Premium
+### 3. [Anker 100W USB C Charger (3-Port GaN, Smart Display)](https://www.amazon.co.uk/dp/B0FL2DR4TH?linkCode=ll2&tag=souvlakia-21) — Best Premium
 
-â˜…â˜…â˜…â˜…â˜… (4.8/5)
+★★★★★ (4.8/5)
 
-The Anker 100W USB-C Charger is a powerhouse of charging, delivering rapid power to laptops, tablets and phones simultaneously – perfect for travellers needing to charge multiple devices on the go. Priced at £44.99, this GaN charger boasts three ports and a smart digital display showing real-time power delivery, making it a premium yet practical choice. Its key feature is its ability to intelligently distribute 100W of power between connected devices.
+The Anker 100W USB-C Charger is a powerhouse for all your charging needs, delivering rapid power to laptops, tablets and phones simultaneously – perfect for travellers or those with multiple devices. At £44.99, this GaN charger offers three ports and a smart digital display showing real-time power delivery, making it a premium yet practical choice. Its key feature is the ability to quickly charge even demanding USB-C laptops like MacBooks.
 
 **Pros**
-- ✓ Charges multiple devices quickly and efficiently.
-- ✓ Compact GaN technology makes it ideal for travel.
-- ✓ The smart display provides clear power output information.
+- ✓ Extremely fast charging for compatible devices.
+- ✓ Compact and lightweight design ideal for travel. 
+- ✓ Smart Display provides clear power output information.
 
 **Cons**
-- ✗ More expensive than basic USB chargers.
-- ✗ May not be powerful enough to rapidly charge *all* laptops simultaneously at maximum speed. 
+- ✗ Relatively expensive compared to single-port chargers.
+- ✗ Cable not included in the box.
 
-**Who it's for:** UK travellers and professionals who need a versatile, high-power charger for multiple devices.
-**Who it's not for:** Users only needing to charge a single phone or low-power device – a cheaper option would suffice.
+**Who it's for:** UK users who need a versatile and powerful charger for multiple devices, especially when travelling or working remotely.
+**Who it's not for:** Those only needing to charge a single smartphone and are on a very tight budget.
 
-[Check price on Amazon UK â†’](https://www.amazon.co.uk/dp/B0FL2DR4TH?linkCode=ll2&tag=souvlakia-21)
+[Check price on Amazon UK →](https://www.amazon.co.uk/dp/B0FL2DR4TH?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
 ## Quick verdict
 
-The **[Anker Nano GaN Charger 30W](https://www.amazon.co.uk/dp/B0B7N4DX1Z?linkCode=ll2&tag=souvlakia-21)** is our top pick for best gan charger for travel â€” it hits the sweet spot of features and value. On a tighter budget, the **[UGREEN USB C Charger 65W GaN 2-Port](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21)** at £19.97 delivers excellent performance for the price.
+The **[Anker Nano GaN Charger 30W](https://www.amazon.co.uk/dp/B0B7N4DX1Z?linkCode=ll2&tag=souvlakia-21)** is our top pick for best gan charger for travel — it hits the sweet spot of features and value. On a tighter budget, the **[UGREEN USB C Charger 65W GaN 2-Port](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21)** at £19.97 delivers excellent performance for the price.
 
 ## How we chose
 
@@ -80,14 +80,14 @@ We evaluated each product based on real-world UK availability, verified Amazon U
 
 ## FAQ
 
-**Q: Will a GaN charger work with my UK appliances?**
-A: Yes, GaN chargers are compatible with all UK standard three-pin plugs via an adapter if needed; most modern devices automatically adjust to the UK’s 230V voltage.
+**Q: What wattage Gan charger should I get for my iPhone and iPad in 2026?**
+A: For most iPhones and iPads, a 30W GaN charger like the Anker Nano GaN Charger 30W will be sufficient, offering fast charging in a compact size. However, newer iPad Pros benefit from higher wattages.
 
-**Q: I travel frequently for work - should I get a smaller or larger wattage charger like the Anker Nano GaN Charger 30W, or something more powerful like the UGREEN USB C Charger 65W GaN 2-Port?**
-A: It depends on what you’re charging! The Anker is great for phones and tablets, but if you need to charge a laptop *and* phone simultaneously, the UGREEN 65W with two ports will be much faster and more convenient.
+**Q: Can I use a UK Gan charger with European plugs when travelling?**
+A: Many GaN chargers, including options like the UGREEN USB C Charger 65W GaN 2-Port, support 100-240V and come with interchangeable plug adaptors – check the product specifications before you travel.
 
-**Q: Are GaN chargers actually safer than older USB chargers?**
-A: Yes, GaN technology runs cooler and is generally more efficient, reducing heat build-up which improves overall safety – though all reputable brands sold in the UK adhere to strict safety standards regardless of the tech used.
+**Q: Are GaN chargers really worth the extra cost compared to standard chargers?**
+A: Yes, GaN (Gallium Nitride) technology allows for smaller, more efficient chargers that generate less heat, making them ideal for travel and reducing energy waste - a worthwhile investment in 2026.
 
 ---
 
