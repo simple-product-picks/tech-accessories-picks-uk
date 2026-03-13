@@ -22,8 +22,8 @@
     </div>
   </header>
 
-    <section class="hero panel" id="hero">
-    <div class="hero-kicker">25 guides &bull; March 2026</div>
+    <section class="page-hero" id="hero">
+    <div class="hero-kicker">25 Guides &bull; March 2026</div>
     <h1 class="hero-title">All Buying Guides</h1>
     <div class="hero-sub muted">Every guide on the site &mdash; verified in-stock picks on Amazon UK.</div>
   </section>
@@ -57,7 +57,14 @@
         const a = document.createElement("a");
         a.className = "post-card";
         a.href = "./posts_html/" + encodeURIComponent(x.slug) + ".html";
-        a.innerHTML = "<strong>" + x.title + "</strong><div class='slug'>" + x.slug + "</div>";
+        const cat = x.slug.includes('charger') || x.slug.includes('gan') ? 'Chargers'
+            : x.slug.includes('hub') || x.slug.includes('docking') ? 'Hubs & Docks'
+            : x.slug.includes('power-bank') ? 'Power Banks'
+            : x.slug.includes('cable') ? 'Cables'
+            : x.slug.includes('adapter') || x.slug.includes('hdmi') || x.slug.includes('displayport') || x.slug.includes('ethernet') || x.slug.includes('aux') ? 'Adapters'
+            : x.slug.includes('magsafe') ? 'Chargers'
+            : 'Accessories';
+          a.innerHTML = "<div class='card-cat'>" + cat + "</div><strong>" + x.title + "</strong><span class='card-arrow'>Read guide →</span>";
         el.appendChild(a);
       });
     } catch(e) {

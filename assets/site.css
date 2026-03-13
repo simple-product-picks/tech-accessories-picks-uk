@@ -156,7 +156,7 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 64px; }
   background: var(--bg);
   border: 1px solid var(--border);
   border-radius: var(--radius);
-  padding: 16px;
+  padding: 18px 20px;
   transition: box-shadow 0.15s, border-color 0.15s, transform 0.15s;
   border-left: 4px solid var(--blue);
 }
@@ -166,8 +166,11 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 64px; }
   transform: translateY(-2px);
   text-decoration: none;
 }
-.post-card strong { display: block; font-size: 14px; font-weight: 700; color: var(--blue-deep); margin-bottom: 4px; line-height: 1.4; }
-.post-card .slug  { font-size: 12px; color: var(--muted); }
+.post-card strong { display: block; font-size: 15px; font-weight: 700; color: var(--blue-deep); margin-bottom: 6px; line-height: 1.35; }
+.post-card .card-cat { font-size: 12px; font-weight: 600; color: var(--blue); text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 4px; }
+.post-card .card-arrow { display: block; font-size: 12px; color: var(--muted); margin-top: 8px; transition: color 0.15s; }
+.post-card:hover .card-arrow { color: var(--blue); }
+.post-card .slug  { display: none; }
 
 /* -- Panels ------------------------------------------------------ */
 .panel {
@@ -290,6 +293,31 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 64px; }
   margin: 24px 0;
 }
 .pick-card h3 { margin-top: 0; }
+
+/* Page-level hero (non-post pages) - clean, no left border */
+.page-hero {
+  background: #ffffff;
+  border-bottom: 1px solid var(--border);
+  padding: 36px 20px 28px;
+  max-width: 960px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+.page-hero .hero-kicker {
+  display: inline-block;
+  background: var(--amber);
+  color: #1a1a1a;
+  font-size: 12px; font-weight: 700;
+  letter-spacing: 0.08em; text-transform: uppercase;
+  padding: 4px 10px; border-radius: 4px;
+  margin-bottom: 12px;
+}
+.page-hero .hero-title {
+  font-size: 32px; font-weight: 800;
+  color: var(--blue-deep); margin: 0 0 8px;
+  letter-spacing: -0.02em; line-height: 1.15;
+}
+.page-hero .hero-sub { font-size: 15px; color: var(--muted); margin: 0; }
 
 /* -- Tables in content ------------------------------------------ */
 .content table { border-collapse: collapse; width: 100%; font-size: 14px; margin: 12px 0; overflow-x: auto; display: block; }
