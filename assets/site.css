@@ -169,7 +169,7 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 64px; }
 }
 .hero-cat:hover { background: rgba(255,255,255,.22); text-decoration: none; color: #ffffff; }
 /* Home category section headings */
-.cat-section { margin: 32px 0 0; }
+.cat-section { margin: 32px 0 0; scroll-margin-top: 68px; }
 .cat-section-title {
   font-size: 11px; font-weight: 700; letter-spacing: 0.1em;
   text-transform: uppercase; color: var(--blue);
