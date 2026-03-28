@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Tech Accessories Picks UK — Best USB-C, GaN Chargers &amp; Hubs 2026</title>
+  <meta name="description" content="Fast, no-nonsense comparison pages for the best tech accessories in the UK. Verified in-stock picks on Amazon UK." />
+  <link rel="canonical" href="https://simple-product-picks.github.io/tech-accessories-picks-uk/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Tech Accessories Picks UK" />
+  <meta property="og:description" content="Fast, no-nonsense comparison pages for the best tech accessories in the UK." />
+  <meta property="og:url" content="https://simple-product-picks.github.io/tech-accessories-picks-uk/" />
+  <meta name="twitter:card" content="summary" />
+  <link rel="stylesheet" href="assets/site.css">
+</head>
+<body>
+
+    <header class="site-header">
+    <div class="wrap">
+      <span class="brand-title">Simple Product Picks</span>
+      <nav class="site-nav">
+        <a href="index.html">Home</a>
+        <a href="posts.html">All Guides</a>
+        <a href="about.html">About</a>
+        <a href="disclosure.html">Disclosure</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="home-hero">
+    <div class="wrap">
+      <div class="badge">Updated March 2026</div>
+      <h1>Best Tech Accessories UK 2026</h1>
+      <p>Verified in-stock picks on Amazon UK. No filler — just clear recommendations for USB-C chargers, hubs, cables and more.</p>
+    </div>
+  </div>
+
+  <main>
+    <div style="margin-bottom:8px">
+      <span class="pill">25 guides</span>
+      <span class="pill amber" style="margin-left:6px">All in stock &bull; Affiliate links</span>
+    </div>
+    <div class="post-grid" id="list">
+      <div class="muted">Loading guides&hellip;</div>
+    </div>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      &copy; 2026 Tech Accessories Picks UK &mdash;
+      <a href="./about.html">About</a> &middot;
+      <a href="./disclosure.html">Disclosure</a><br>
+      <span style="font-size:12px;opacity:.7">Some links are affiliate links. We may earn a commission at no extra cost to you.</span>
+    </div>
+  </footer>
+
+  <script>
+  (async () => {
+    const el = document.getElementById("list");
+    try {
+      const r = await fetch("./assets/posts_index.json", {cache:"no-store"});
+      if (!r.ok) throw new Error();
+      const buf = await r.arrayBuffer();
+      const items = JSON.parse(new TextDecoder("utf-8").decode(buf));
+      if (!items.length) { el.textContent = "No guides yet."; return; }
+      el.innerHTML = "";
+      items.forEach(x => {
+        const a = document.createElement("a");
+        a.className = "post-card";
+        a.href = "./posts_html/" + encodeURIComponent(x.slug) + ".html";
+        a.innerHTML = "<strong>" + x.title + "</strong><div class='slug'>" + x.slug + "</div>";
+        el.appendChild(a);
+      });
+    } catch(e) {
+      el.textContent = "Could not load guides.";
+    }
+  })();
+  </script>
+</body>
+</html>

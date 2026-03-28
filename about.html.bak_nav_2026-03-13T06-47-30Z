@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>About &mdash; Tech Accessories Picks UK</title>
+  <meta name="description" content="What Tech Accessories Picks UK is and how we choose recommendations." />
+  <link rel="canonical" href="https://simple-product-picks.github.io/tech-accessories-picks-uk/about.html" />
+  <link rel="stylesheet" href="assets/site.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="wrap">
+      <div class="topbar">
+        <div class="brand">
+          <a class="back-link" href="./index.html">&larr; Home</a>
+          <div class="muted" style="color:#93c5fd">Tech Accessories Picks UK</div>
+        </div>
+      </div>
+      <nav class="site-nav">
+        <a href="./index.html">Home</a>
+        <a href="./posts.html">All guides</a>
+        <span class="sep">&middot;</span>
+        <a href="./about.html">About</a>
+        <a href="./disclosure.html">Disclosure</a>
+      </nav>
+    </div>
+  </header>
+
+    <section class="hero panel" id="hero">
+    <div class="hero-kicker">About this site</div>
+    <h1 class="hero-title">About Tech Accessories Picks UK</h1>
+    <div class="hero-sub muted">How we choose recommendations and what this site is.</div>
+  </section>
+
+  <main>
+
+    <div class="page-card">
+      <h2>What this site is</h2>
+      <p>We publish short, no-nonsense comparison pages for popular tech accessories in the UK &mdash; focused on practical specs, UK availability, and common buyer pitfalls. Every product we recommend is verified in-stock on Amazon UK before publication.</p>
+    </div>
+
+    <div class="page-card">
+      <h2>How recommendations are chosen</h2>
+      <ul>
+        <li>UK availability first &mdash; only products in stock on Amazon UK.</li>
+        <li>Specs that matter: power delivery wattage, GaN technology, port selection, standards compliance.</li>
+        <li>Three tiers per guide: Best Overall, Best Budget, Best Premium &mdash; clear choices, no endless lists.</li>
+        <li>Pages are updated when standards change or better picks appear.</li>
+      </ul>
+      <p class="muted">Some links may be affiliate links. See the <a href="./disclosure.html" style="color:#2563eb">disclosure page</a>.</p>
+    </div>
+
+    <div class="page-card">
+      <h2>Important</h2>
+      <p>This site is informational only. Always confirm compatibility with your specific device and region before purchasing. We are not responsible for changes in product availability or pricing after publication.</p>
+    </div>
+
+  </main>
+
+  <footer>
+    <div class="wrap">
+      &copy; 2026 Tech Accessories Picks UK &mdash;
+      <a href="./index.html">Home</a> &middot;
+      <a href="./disclosure.html">Disclosure</a>
+    </div>
+  </footer>
+
+</body>
+</html>

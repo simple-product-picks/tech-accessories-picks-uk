@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>All Guides &mdash; Tech Accessories Picks UK 2026</title>
+  <meta name="description" content="All USB-C, GaN charger, hub and cable comparison guides for UK buyers. Verified in-stock on Amazon UK." />
+  <link rel="canonical" href="https://simple-product-picks.github.io/tech-accessories-picks-uk/posts.html" />
+  <link rel="stylesheet" href="assets/site.css">
+</head>
+<body>
+
+    <header class="site-header">
+    <div class="wrap">
+      <a class="back-link" href="index.html">&larr; Simple Product Picks</a>
+      <nav class="site-nav">
+        <a href="index.html">Home</a>
+        <a href="posts.html">All Guides</a>
+        <a href="about.html">About</a>
+        <a href="disclosure.html">Disclosure</a>
+      </nav>
+    </div>
+  </header>
+
+    <section class="page-hero" id="hero">
+    <div class="hero-kicker">25 Guides &bull; March 2026</div>
+    <h1 class="hero-title">All Buying Guides</h1>
+    <div class="hero-sub muted">Every guide on the site &mdash; verified in-stock picks on Amazon UK.</div>
+  </section>
+
+  <main>
+    <div class="post-grid" id="list">
+      <div class="muted">Loading guides&hellip;</div>
+    </div>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      &copy; 2026 Tech Accessories Picks UK &mdash;
+      <a href="./about.html">About</a> &middot;
+      <a href="./disclosure.html">Disclosure</a><br>
+      <span style="font-size:12px;opacity:.7">Some links are affiliate links. We may earn a commission at no extra cost to you.</span>
+    </div>
+  </footer>
+
+  <script>
+  (async () => {
+    const el = document.getElementById("list");
+    try {
+      const r = await fetch("./assets/posts_index.json", {cache:"no-store"});
+      if (!r.ok) throw new Error();
+      const buf = await r.arrayBuffer();
+      const items = JSON.parse(new TextDecoder("utf-8").decode(buf));
+      if (!items.length) { el.textContent = "No guides yet."; return; }
+      el.innerHTML = "";
+      items.forEach(x => {
+        const a = document.createElement("a");
+        a.className = "post-card";
+        a.href = "./posts_html/" + encodeURIComponent(x.slug) + ".html";
+        const cat = x.slug.includes('charger') || x.slug.includes('gan') ? 'Chargers'
+            : x.slug.includes('hub') || x.slug.includes('docking') ? 'Hubs & Docks'
+            : x.slug.includes('power-bank') ? 'Power Banks'
+            : x.slug.includes('cable') ? 'Cables'
+            : x.slug.includes('adapter') || x.slug.includes('hdmi') || x.slug.includes('displayport') || x.slug.includes('ethernet') || x.slug.includes('aux') ? 'Adapters'
+            : x.slug.includes('magsafe') ? 'Chargers'
+            : 'Accessories';
+          a.innerHTML = "<div class='card-cat'>" + cat + "</div><strong>" + x.title + "</strong><span class='card-arrow'>Read guide →</span>";
+        el.appendChild(a);
+      });
+    } catch(e) {
+      el.textContent = "Could not load guides.";
+    }
+  })();
+  </script>
+</body>
+</html>

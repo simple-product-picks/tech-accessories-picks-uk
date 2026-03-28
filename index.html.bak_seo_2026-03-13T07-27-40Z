@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Tech Accessories Picks UK &mdash; Best USB-C, GaN Chargers &amp; Hubs 2026</title>
+  <meta name="description" content="Fast, no-nonsense comparison pages for the best tech accessories in the UK. Verified in-stock picks on Amazon UK." />
+  <link rel="canonical" href="https://simple-product-picks.github.io/tech-accessories-picks-uk/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Tech Accessories Picks UK" />
+  <meta property="og:description" content="Fast, no-nonsense comparison pages for the best tech accessories in the UK." />
+  <meta property="og:url" content="https://simple-product-picks.github.io/tech-accessories-picks-uk/" />
+  <meta name="twitter:card" content="summary" />
+  <link rel="stylesheet" href="assets/site.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="wrap">
+      <span class="brand-title">Simple Product Picks</span>
+      <nav class="site-nav">
+        <a href="index.html">Home</a>
+        <a href="posts.html">All Guides</a>
+        <a href="about.html">About</a>
+        <a href="disclosure.html">Disclosure</a>
+      </nav>
+    </div>
+  </header>
+
+  <div class="home-hero">
+    <div class="wrap">
+      <div class="badge">Updated March 2026</div>
+      <h1>Best Tech Accessories UK 2026</h1>
+      <p>Honest, verified picks for USB-C chargers, hubs, power banks and cables &mdash; all in stock on Amazon UK, no filler.</p>
+      <a class="hero-cta" href="posts.html">All Guides &#x2192;</a>
+      <div class="hero-cats">
+        <a class="hero-cat" href="#chargers">&#x26A1; Chargers</a>
+        <a class="hero-cat" href="#hubs">&#x1F4E6; Hubs &amp; Docks</a>
+        <a class="hero-cat" href="#powerbanks">&#x1F50B; Power Banks</a>
+        <a class="hero-cat" href="#cables">&#x1F50C; Cables &amp; Adapters</a>
+      </div>
+    </div>
+  </div>
+
+  <main>
+    <div id="chargers" class="cat-section">
+      <div class="cat-section-title">Chargers</div>
+      <div class="post-grid" id="list-chargers"><div class="muted">Loading&hellip;</div></div>
+    </div>
+    <div id="hubs" class="cat-section">
+      <div class="cat-section-title">Hubs &amp; Docks</div>
+      <div class="post-grid" id="list-hubs"><div class="muted">Loading&hellip;</div></div>
+    </div>
+    <div id="powerbanks" class="cat-section">
+      <div class="cat-section-title">Power Banks</div>
+      <div class="post-grid" id="list-powerbanks"><div class="muted">Loading&hellip;</div></div>
+    </div>
+    <div id="cables" class="cat-section">
+      <div class="cat-section-title">Cables &amp; Adapters</div>
+      <div class="post-grid" id="list-cables"><div class="muted">Loading&hellip;</div></div>
+    </div>
+    <div style="text-align:center;margin:32px 0 16px">
+      <a href="posts.html" class="cta-link" style="display:inline-block">All Guides &#x2192;</a>
+    </div>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      &copy; 2026 Tech Accessories Picks UK &mdash;
+      <a href="./about.html">About</a> &middot;
+      <a href="./disclosure.html">Disclosure</a><br>
+      <span style="font-size:12px;opacity:.7">Some links are affiliate links. We may earn a commission at no extra cost to you.</span>
+    </div>
+  </footer>
+
+  <script>
+  (async () => {
+    try {
+      const r = await fetch("./assets/posts_index.json", {cache:"no-store"});
+      if (!r.ok) throw new Error();
+      const buf = await r.arrayBuffer();
+      const items = JSON.parse(new TextDecoder("utf-8").decode(buf));
+      if (!items.length) return;
+
+      function cat(slug) {
+        if (slug.includes('charger') || slug.includes('gan')) return 'chargers';
+        if (slug.includes('hub') || slug.includes('docking')) return 'hubs';
+        if (slug.includes('power-bank')) return 'powerbanks';
+        return 'cables';
+      }
+
+      function makeCard(x) {
+        const a = document.createElement("a");
+        a.className = "post-card";
+        a.href = "./posts_html/" + encodeURIComponent(x.slug) + ".html";
+        a.innerHTML = "<strong>" + x.title + "</strong><span class='card-arrow'>Read guide →</span>";
+        return a;
+      }
+
+      const buckets = {chargers:[], hubs:[], powerbanks:[], cables:[]};
+      items.forEach(x => { const c = cat(x.slug); if (buckets[c]) buckets[c].push(x); });
+
+      for (const [id, list] of Object.entries(buckets)) {
+        const el = document.getElementById("list-" + id);
+        if (!el) continue;
+        el.innerHTML = "";
+        list.forEach(x => el.appendChild(makeCard(x)));
+      }
+    } catch(e) {
+      document.getElementById("list-chargers").textContent = "Could not load guides.";
+    }
+  })();
+  </script>
+</body>
+</html>

@@ -91,4 +91,4 @@ A: Absolutely! Hubs like the UGREEN Revodok 7-in-1 include a Gigabit Ethernet po
 
 ---
 
-*Affiliate disclosure: This page contains affiliate links. If you buy through them we may earn a small commission at no extra cost to you. See our [disclosure page](https://simple-product-picks.github.io/tech-accessories-picks-uk/disclosure.html) for details.*
+*Affiliate disclosure: This page contains affiliate links. If you buy through them we may earn a small commission at no extra cost to you. See our [disclosure page](https://simpleproductpicks.co.uk/disclosure.html) for details.*
