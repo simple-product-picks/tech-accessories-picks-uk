@@ -6,6 +6,8 @@ Looking to expand the ports on your Lenovo ThinkPad? This guide covers three USB
 
 ### 1. [UGREEN Revodok Pro 210 USB C Docking Station (10-in-1)](https://www.amazon.co.uk/dp/B0BXDQS4BD?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
+**SPP Score: 9.1 / 10** - 10-in-1 connectivity, wired Ethernet. Our all-round pick.
+
 The UGREEN Revodok Pro 210 is the standout choice for ThinkPad owners who want a proper desk setup from a single cable. As a 10-in-1 docking station, it turns one USB-C port into a hub of connections, so a single plug can sit at the heart of your workstation. UGREEN is a well-established name in USB-C accessories, and a dock like this is built to keep a fixed desk tidy and consolidated.
 
 **Pros**
@@ -26,6 +28,8 @@ The UGREEN Revodok Pro 210 is the standout choice for ThinkPad owners who want a
 
 ### 2. [Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD](https://www.amazon.co.uk/dp/B07ZVKTP53?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
+**SPP Score: 8.5 / 10** - 7-in-1 connectivity. Our value pick.
+
 This Anker 7-in-1 hub is the sensible-value choice that covers the essentials without overcomplicating things. It pairs a 4K HDMI output with 85W USB-C Power Delivery, so you can drive an external display while keeping charge flowing through to your laptop. Anker is a trusted charging brand, and this hub focuses on the connections most people actually reach for day to day.
 
 **Pros**
@@ -45,6 +49,8 @@ This Anker 7-in-1 hub is the sensible-value choice that covers the essentials wi
 ---
 
 ### 3. [Anker USB C Hub 8-in-1 with Ethernet and 10Gbps](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21) - Best Premium
+
+**SPP Score: 8.9 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
 
 The Anker 8-in-1 is the do-it-all pick for ThinkPad users who want speed alongside connectivity. It combines wired Ethernet with 10Gbps data, so you get reliable networking plus fast transfers to external SSDs and drives. With eight connections in one compact unit, it handles demanding workflows without the bulk of a full desktop dock.
 

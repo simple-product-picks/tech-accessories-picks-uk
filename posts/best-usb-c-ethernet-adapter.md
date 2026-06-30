@@ -6,6 +6,8 @@ Wi-Fi dropping out mid-call or lagging during a download? A USB-C Ethernet adapt
 
 ### 1. [UGREEN USB C to Gigabit Ethernet Adapter](https://www.amazon.co.uk/dp/B0CD1FDKT1?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
+**SPP Score: 8.0 / 10** - Gigabit Ethernet, plug-and-play simplicity. Our all-round pick.
+
 UGREEN is a well-known name in connectivity accessories, and this Gigabit adapter hits the sweet spot for most people. It converts a single USB-C port into a full Gigabit Ethernet connection, which is ample headroom for UK home broadband, video calls, and large file transfers. The compact form factor makes it an easy permanent resident in a laptop bag.
 
 **Pros**
@@ -26,6 +28,8 @@ UGREEN is a well-known name in connectivity accessories, and this Gigabit adapte
 
 ### 2. [Amazon Basics USB-C to Gigabit Ethernet Adapter](https://www.amazon.co.uk/dp/B08989MYQ2?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
+**SPP Score: 7.9 / 10** - Gigabit Ethernet, plug-and-play simplicity. Our value pick.
+
 The sensible-value choice that covers the essentials without any extras you don't need. It is plug and play with no drivers to install, so you connect the USB-C end to your device and the RJ45 end to your router and you are online. A single-purpose dongle like this keeps things simple for everyday wired networking.
 
 **Pros**
@@ -45,6 +49,8 @@ The sensible-value choice that covers the essentials without any extras you don'
 ---
 
 ### 3. [Belkin USB-C to 2.5G Ethernet Adapter](https://www.amazon.co.uk/dp/B0DNSTHRGQ?linkCode=ll2&tag=souvlakia-21) - Best Premium
+
+**SPP Score: 8.0 / 10** - Gigabit Ethernet, plug-and-play simplicity. Our pick for maximum capability.
 
 Belkin is a long-established accessory brand, and this adapter steps up to 2.5 Gigabit Ethernet for the most capable connection of the three. If you are on a multi-gigabit broadband package or moving large files across a fast local network, the 2.5G ceiling gives you real headroom beyond standard Gigabit. It is the do-it-all pick for power users who want to make the most of a fast line.
 

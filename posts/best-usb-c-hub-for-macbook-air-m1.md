@@ -6,6 +6,8 @@ The MacBook Air M1 is a brilliant machine, but its single pair of USB-C ports fi
 
 ### 1. [Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD](https://www.amazon.co.uk/dp/B07ZVKTP53?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
+**SPP Score: 8.6 / 10** - 7-in-1 connectivity. Our all-round pick.
+
 This 7-in-1 Anker hub hits the sweet spot for the M1 Air, designed to work with Apple silicon and offering the ports most setups rely on day to day. The 4K HDMI output lets you run an external display, while 85W pass-through Power Delivery keeps the laptop charging through the same USB-C connection. Add two USB-A ports plus SD and microSD readers and it covers photographers, students and home-office setups alike.
 
 **Pros**
@@ -26,6 +28,8 @@ This 7-in-1 Anker hub hits the sweet spot for the M1 Air, designed to work with 
 
 ### 2. [UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet](https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
+**SPP Score: 8.6 / 10** - 7-in-1 connectivity, wired Ethernet. Our value pick.
+
 The UGREEN Revodok is the sensible-value choice that still covers the essentials, and it throws in something the overall pick leaves out: Gigabit Ethernet for a stable wired connection. You also get 4K HDMI, three USB-A ports, an SD slot and 100W pass-through Power Delivery, which is a generous spread for a no-fuss hub. UGREEN is a well-established name in charging and connectivity accessories.
 
 **Pros**
@@ -45,6 +49,8 @@ The UGREEN Revodok is the sensible-value choice that still covers the essentials
 ---
 
 ### 3. [Anker USB C Hub 8-in-1 with Ethernet and 10Gbps](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21) - Best Premium
+
+**SPP Score: 8.9 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
 
 This 8-in-1 Anker hub is the do-it-all pick, built around fast 10Gbps data transfer across its USB-C and USB-A ports. It pairs that speed with Gigabit Ethernet, HDMI, dual card slots and 85W pass-through Power Delivery, and it is designed to work with Thunderbolt-equipped Macs like the M1 Air. If you move large files and want headroom, this is the most capable option here.
 

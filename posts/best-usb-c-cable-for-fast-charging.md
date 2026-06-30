@@ -6,6 +6,8 @@ Picking a USB-C cable for fast charging is trickier than it looks, because a cab
 
 ### 1. [Anker USB C Cable 100W Braided](https://www.amazon.co.uk/dp/B08D6NCQ1Z?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
+**SPP Score: 8.2 / 10** - 100W charging headroom, a durable braided build. Our all-round pick.
+
 The Anker USB C Cable 100W Braided hits the sweet spot for most people: 100W of USB Power Delivery is enough to fast-charge phones, tablets, and even many USB-C laptops over a single cable. The braided jacket resists fraying and kinking far better than plain rubber sleeving, which is the part that usually fails first. Anker is a well-established name in charging accessories, so it is a safe default for a daily-driver cable.
 
 **Pros**
@@ -26,6 +28,8 @@ The Anker USB C Cable 100W Braided hits the sweet spot for most people: 100W of 
 
 ### 2. [UGREEN USB C Cable 60W Braided](https://www.amazon.co.uk/dp/B08LTDPN9B?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
+**SPP Score: 7.9 / 10** - 60W charging headroom, a durable braided build. Our value pick.
+
 The UGREEN USB C Cable 60W Braided is the sensible-value choice that covers the essentials. Its 60W Power Delivery rating is plenty for fast-charging phones and most tablets, and it still gets the braided-jacket durability that matters for a cable you plug in every day. UGREEN is a familiar brand for everyday charging gear, making this an easy no-fuss pick.
 
 **Pros**
@@ -45,6 +49,8 @@ The UGREEN USB C Cable 60W Braided is the sensible-value choice that covers the 
 ---
 
 ### 3. [Anker USB C Cable 240W Braided](https://www.amazon.co.uk/dp/B0DC3BWMLV?linkCode=ll2&tag=souvlakia-21) - Best Premium
+
+**SPP Score: 8.9 / 10** - 240W charging headroom, a durable braided build. Our pick for maximum capability.
 
 The Anker USB C Cable 240W Braided is the do-it-all pick for the most demanding setups. Its 240W rating, aligned with the newer USB Power Delivery EPR (Extended Power Range) standard, gives it the headroom to fast-charge high-wattage laptops, docks and accessories that would max out lesser cables. The braided build keeps it tough enough for travel and daily plugging and unplugging.
 

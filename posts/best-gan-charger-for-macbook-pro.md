@@ -6,6 +6,8 @@ Finding the right charger for a MacBook Pro means matching the wattage to your m
 
 ### 1. [Anker 100W USB C Charger (3-Port GaN, Smart Display)](https://www.amazon.co.uk/dp/B0FL2DR4TH?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
+**SPP Score: 8.8 / 10** - 100W output, 3-port layout, compact GaN build. Our all-round pick.
+
 The Anker 100W delivers the full 100W a 14-inch or 16-inch MacBook Pro wants from a single USB-C port, so you get the fastest supported charge without reaching for the bulky stock adapter. The smart display showing live wattage is a genuinely useful touch for confirming your laptop is pulling full power, and the three ports mean you can top up a phone and earbuds alongside it. GaN internals keep the whole thing foldable and travel-friendly.
 
 **Pros**
@@ -26,6 +28,8 @@ The Anker 100W delivers the full 100W a 14-inch or 16-inch MacBook Pro wants fro
 
 ### 2. [UGREEN USB C Charger 65W GaN 2-Port](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
+**SPP Score: 8.1 / 10** - 65W output, two-port design, compact GaN build. Our value pick.
+
 The UGREEN 65W is the sensible-value choice for owners of a 13-inch MacBook Pro or an M2 model, covering the essentials with a full-speed charge for those machines. Its two USB-C ports let you charge the laptop and a phone at once, and the GaN design keeps it light and pocketable for commuting. It covers the everyday charging job without anything you do not need.
 
 **Pros**
@@ -45,6 +49,8 @@ The UGREEN 65W is the sensible-value choice for owners of a 13-inch MacBook Pro 
 ---
 
 ### 3. [UGREEN Nexode Pro 100W 3-Port GaN Charger](https://www.amazon.co.uk/dp/B0CCVDXHM6?linkCode=ll2&tag=souvlakia-21) - Best Premium
+
+**SPP Score: 8.6 / 10** - 100W output, 3-port layout, compact GaN build. Our pick for maximum capability.
 
 The UGREEN Nexode Pro 100W is the do-it-all pick, pairing full 100W output with GaN internals for fast, efficient charging of even the larger MacBook Pro models. The three ports cover a laptop, phone and a third accessory at once, so it can run a whole desk or travel kit from a single plug. It is the most capable charger here for a multi-device setup.
 

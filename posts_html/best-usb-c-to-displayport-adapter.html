@@ -21,7 +21,7 @@
     "headline": "Best USB C To DisplayPort Adapter UK 2026",
     "description": "Best usb c to displayport adapter in the UK for 2026. Hand-picked and honestly compared, with direct Amazon UK links.",
     "url": "https://simpleproductpicks.co.uk/posts_html/best-usb-c-to-displayport-adapter.html",
-    "dateModified": "2026-06-29",
+    "dateModified": "2026-06-30",
     "publisher": {
       "@type": "Organization",
       "name": "Simple Product Picks",
@@ -29,6 +29,34 @@
     },
     "mainEntityOfPage": "https://simpleproductpicks.co.uk/posts_html/best-usb-c-to-displayport-adapter.html"
   }
+  </script>
+  <script type="application/ld+json">
+[
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "itemReviewed": { "@type": "Product", "name": "UGREEN USB C to DisplayPort 1.4 Adapter" },
+      "reviewRating": { "@type": "Rating", "ratingValue": "7.8", "bestRating": "10", "worstRating": "1" },
+      "author": { "@type": "Organization", "name": "Simple Product Picks" },
+      "publisher": { "@type": "Organization", "name": "Simple Product Picks" }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "itemReviewed": { "@type": "Product", "name": "Anker USB C to DisplayPort Adapter 4K" },
+      "reviewRating": { "@type": "Rating", "ratingValue": "8.0", "bestRating": "10", "worstRating": "1" },
+      "author": { "@type": "Organization", "name": "Simple Product Picks" },
+      "publisher": { "@type": "Organization", "name": "Simple Product Picks" }
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Review",
+      "itemReviewed": { "@type": "Product", "name": "Cable Matters USB C to DisplayPort 2.1 Adapter (80Gbps)" },
+      "reviewRating": { "@type": "Rating", "ratingValue": "8.0", "bestRating": "10", "worstRating": "1" },
+      "author": { "@type": "Organization", "name": "Simple Product Picks" },
+      "publisher": { "@type": "Organization", "name": "Simple Product Picks" }
+    }
+]
   </script>
 </head>
 <body>
@@ -66,6 +94,7 @@
             <tr>
               <th class="thead-cell">Pick</th>
               <th class="thead-cell">Model</th>
+              <th class="thead-cell">Our score</th>
               <th class="thead-cell">Action</th>
             </tr>
           </thead>
@@ -73,16 +102,19 @@
             <tr>
               <td class="cell-row"><b>Best overall</b></td>
               <td class="cell-row">UGREEN USB C to DisplayPort 1.4 Adapter</td>
+              <td class="cell-row"><b>7.8</b> / 10</td>
               <td class="cell-row"><a class="cta-link" href="https://www.amazon.co.uk/dp/B0C4DC6P4H?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price on Amazon UK</a></td>
             </tr>
             <tr>
               <td class="cell-row"><b>Best budget</b></td>
               <td class="cell-row">Anker USB C to DisplayPort Adapter 4K</td>
+              <td class="cell-row"><b>8.0</b> / 10</td>
               <td class="cell-row"><a class="cta-link" href="https://www.amazon.co.uk/dp/B09Z4C73K4?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price on Amazon UK</a></td>
             </tr>
             <tr>
               <td class="cell"><b>Best premium</b></td>
               <td class="cell">Cable Matters USB C to DisplayPort 2.1 Adapter (80Gbps)</td>
+              <td class="cell"><b>8.0</b> / 10</td>
               <td class="cell"><a class="cta-link" href="https://www.amazon.co.uk/dp/B0CLZ9TZ5Q?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price on Amazon UK</a></td>
             </tr>
           </tbody>
@@ -132,9 +164,9 @@
         const rows = document.querySelectorAll("#comparison table tbody tr");
         if (rows.length > 0) {
           const cells = rows[0].querySelectorAll("td");
-          if (cells.length >= 3) {
+          if (cells.length >= 4) {
             const name = cells[1] ? cells[1].textContent.trim() : "";
-            const link = cells[2] ? cells[2].querySelector("a") : null;
+            const link = cells[3] ? cells[3].querySelector("a") : null;
             const labelEl = document.getElementById("sticky-label");
             const btnEl = document.getElementById("sticky-btn");
             if (labelEl && name) labelEl.textContent = name;

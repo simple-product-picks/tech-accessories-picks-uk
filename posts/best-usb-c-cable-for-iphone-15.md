@@ -6,6 +6,8 @@ Looking for a USB-C cable that does justice to your iPhone 15? This guide covers
 
 ### 1. [Anker USB C Cable 100W Braided](https://www.amazon.co.uk/dp/B094CKL8LQ?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
+**SPP Score: 8.2 / 10** - 100W charging headroom, a durable braided build. Our all-round pick.
+
 The iPhone 15 family switched to USB-C, so a proper USB-C to USB-C cable is the modern way to charge and sync. This Anker lead is rated to carry up to 100W, which is well beyond what an iPhone draws, giving you plenty of headroom and the option to use the same cable on a laptop or tablet. The braided jacket is built to survive being coiled, bagged, and yanked from awkward sockets.
 
 **Pros**
@@ -26,6 +28,8 @@ The iPhone 15 family switched to USB-C, so a proper USB-C to USB-C cable is the 
 
 ### 2. [UGREEN USB C Cable Braided 2-Pack](https://www.amazon.co.uk/dp/B0DRYM33FH?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
+**SPP Score: 7.6 / 10** - A durable braided build. Our value pick.
+
 The sensible-value choice here is this UGREEN two-pack, which covers the essentials without fuss. Getting two braided USB-C to USB-C cables in one go means you can keep one by the bed and one in a bag, or have a spare ready when one wanders off. UGREEN is a known name in charging accessories, and the braided construction is built to last.
 
 **Pros**
@@ -45,6 +49,8 @@ The sensible-value choice here is this UGREEN two-pack, which covers the essenti
 ---
 
 ### 3. [Apple USB-C Charge Cable 2m](https://www.amazon.co.uk/dp/B0D2W5HTLF?linkCode=ll2&tag=souvlakia-21) - Best Premium
+
+**SPP Score: 7.6 / 10** - Our pick for maximum capability.
 
 If you want the cable Apple designed for its own ecosystem, this is the do-it-all pick. The 2m length gives you freedom to charge from a sofa or a desk without sitting on top of the socket, and you get full first-party compatibility with the iPhone 15 and other USB-C Apple gear. It is the no-questions option for anyone who prefers official accessories.
 

@@ -6,6 +6,8 @@ Looking for a compact charger that won't weigh down your carry-on? This guide co
 
 ### 1. [Anker Nano GaN Charger 30W](https://www.amazon.co.uk/dp/B0B7N4DX1Z?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
+**SPP Score: 7.6 / 10** - 30W output, compact GaN build. Our all-round pick.
+
 The Anker Nano packs 30W of USB-C Power Delivery into a body small enough to disappear in a coat pocket, which is exactly what you want when packing light. GaN (gallium nitride) internals let it run cooler and far smaller than older silicon bricks, and 30W is enough to fast-charge a phone or trickle a tablet while you're on the move. Anker is a well-established name in the charging space, making this an easy, no-fuss travel companion.
 
 **Pros**
@@ -26,6 +28,8 @@ The Anker Nano packs 30W of USB-C Power Delivery into a body small enough to dis
 
 ### 2. [UGREEN USB C Charger 65W GaN 2-Port](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
+**SPP Score: 7.9 / 10** - 65W output, compact GaN build. Our value pick.
+
 The UGREEN 65W GaN is the sensible-value choice, covering the essentials with two ports and enough power to handle a laptop as well as a phone. 65W is comfortably in ultrabook territory, so it can serve as a single charger for a work-and-play trip. UGREEN is a respected charging brand, and the two-port layout means you can top up a phone and a laptop from one plug.
 
 **Pros**
@@ -45,6 +49,8 @@ The UGREEN 65W GaN is the sensible-value choice, covering the essentials with tw
 ---
 
 ### 3. [Anker 100W USB C Charger (3-Port GaN, Smart Display)](https://www.amazon.co.uk/dp/B0FL2DR4TH?linkCode=ll2&tag=souvlakia-21) - Best Premium
+
+**SPP Score: 8.3 / 10** - 100W output, compact GaN build, a live wattage display. Our pick for maximum capability.
 
 This is the do-it-all pick: 100W across three ports means it can power a demanding laptop and still have headroom for a phone and a tablet. The smart display shows live output so you can see how power is being distributed, which is genuinely useful when juggling several devices in a hotel room. GaN internals keep a 100W charger this capable down to a travel-friendly size.
 

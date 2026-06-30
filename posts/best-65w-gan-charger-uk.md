@@ -6,6 +6,8 @@ Looking for a compact, fast wall charger to replace a bulky laptop brick? This U
 
 ### 1. [Anker Prime 67W GaN Wall Charger (3 Ports)](https://www.amazon.co.uk/dp/B0C4Y1FFQH?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
+**SPP Score: 8.4 / 10** - 67W output, 3-port layout, compact GaN build. Our all-round pick.
+
 The Anker Prime 67W is the most versatile pick here, packing three ports into a compact body that Anker says is around half the size of Apple's 67W brick. With three ports on a single foldable UK plug, it can keep a laptop, phone, and a third device topped up at once, and its 67W output gives plenty of headroom for fast, efficient charging across the devices most people carry.
 
 **Pros**
@@ -26,6 +28,8 @@ The Anker Prime 67W is the most versatile pick here, packing three ports into a 
 
 ### 2. [UGREEN USB C Charger 65W GaN 2-Port](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
+**SPP Score: 8.1 / 10** - 65W output, two-port design, compact GaN build. Our value pick.
+
 The UGREEN 65W GaN is the sensible-value choice that covers the essentials without fuss. Its two ports and ultra-compact UK plug make it an easy everyday carry, and its 65W output is enough to fast-charge most modern laptops, tablets, and phones. UGREEN reckons it's around half the size of a standard laptop brick, so it slips into a bag with room to spare.
 
 **Pros**
@@ -45,6 +49,8 @@ The UGREEN 65W GaN is the sensible-value choice that covers the essentials witho
 ---
 
 ### 3. [Anker Nano II 65W USB C Charger](https://www.amazon.co.uk/dp/B091KQ39FM?linkCode=ll2&tag=souvlakia-21) - Best Premium
+
+**SPP Score: 7.9 / 10** - 65W output, compact GaN build. Our pick for maximum capability.
 
 The Anker Nano II 65W is the choice for travellers who want maximum single-port performance in the smallest possible package. Its GaN II technology shrinks a full 65W output into a tiny shell, and a single dedicated USB-C port keeps power focused on one device at a time. It is a focused, single-port tool rather than a multi-device hub, which is exactly why it stays so small.
 

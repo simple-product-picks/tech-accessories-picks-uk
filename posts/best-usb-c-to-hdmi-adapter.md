@@ -6,6 +6,8 @@ Getting a USB-C laptop, tablet or phone onto a bigger screen comes down to picki
 
 ### 1. [Anker USB C to HDMI Adapter 4K 60Hz](https://www.amazon.co.uk/dp/B0DCV753MN?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
+**SPP Score: 8.1 / 10** - 4K output, plug-and-play simplicity. Our all-round pick.
+
 The Anker USB C to HDMI Adapter is our standout because it does the one job most people need and does it well: a clean USB-C to HDMI link with 4K output at a smooth 60Hz refresh rate. That 60Hz figure matters for desktop work and video, where the more common 30Hz adapters can feel laggy when moving windows or the cursor. Anker is a long-established charging and accessory brand, and a single-purpose adapter like this keeps things simple and pocketable.
 
 **Pros**
@@ -26,6 +28,8 @@ The Anker USB C to HDMI Adapter is our standout because it does the one job most
 
 ### 2. [UGREEN USB C to HDMI Adapter 4K](https://www.amazon.co.uk/dp/B07HSY63VQ?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
+**SPP Score: 8.0 / 10** - 4K output, plug-and-play simplicity. Our value pick.
+
 The UGREEN USB C to HDMI Adapter is the sensible-value choice that covers the essentials: a straightforward USB-C to HDMI connection with 4K output for hooking a laptop, phone or tablet up to a TV or monitor. UGREEN is a well-known accessories brand, and this adapter focuses on the basics rather than extra ports, which keeps it simple to live with. If you just need reliable big-screen output without the dock features, this is the easy pick.
 
 **Pros**
@@ -45,6 +49,8 @@ The UGREEN USB C to HDMI Adapter is the sensible-value choice that covers the es
 ---
 
 ### 3. [Anker USB C Hub 8-in-1 with Ethernet and 10Gbps](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21) - Best Premium
+
+**SPP Score: 8.0 / 10** - Gigabit Ethernet, plug-and-play simplicity. Our pick for maximum capability.
 
 The Anker USB C Hub 8-in-1 is the do-it-all pick for people who want one device to handle everything. Beyond HDMI output, it adds wired Ethernet for a stable network connection and 10Gbps USB data transfer for fast external drives, all from a single USB-C port. For a home-office or hot-desk setup, this turns a slim laptop into a proper workstation in one connection.
 

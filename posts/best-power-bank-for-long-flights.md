@@ -6,6 +6,8 @@ Long-haul travel drains devices fast, and most aircraft seats give you nothing r
 
 ### 1. [Anker Power Bank 20000mAh 30W](https://www.amazon.co.uk/dp/B0DCBB2YTR?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
+**SPP Score: 8.1 / 10** - 20000mAh capacity, 30W output. Our all-round pick.
+
 With a 20000mAh capacity, this Anker is sized to recharge most phones several times over the course of a long flight, and its 30W output is enough to fast-charge a phone and trickle-charge smaller devices. Anker is a well-established name in portable charging, and a 20000mAh pack sits comfortably under the typical 100Wh airline carry-on limit for spare batteries. It strikes a sensible balance between the capacity you need for a long-haul trip and a size that still fits in a seat-back pocket or carry-on.
 
 **Pros**
@@ -26,6 +28,8 @@ With a 20000mAh capacity, this Anker is sized to recharge most phones several ti
 
 ### 2. [INIU Power Bank 20000mAh 22.5W](https://www.amazon.co.uk/dp/B0CXDXP8VR?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
+**SPP Score: 7.9 / 10** - 20000mAh capacity. Our value pick.
+
 The INIU matches the 20000mAh capacity of our top pick, so you still get the multi-charge headroom that long flights demand, with a slightly lower 22.5W output that covers the essentials for phones and small devices. It is the sensible-value choice for travellers who want big capacity without the extra wattage they may not need. As with any 20000mAh pack, it sits within the usual cabin allowance for spare batteries.
 
 **Pros**
@@ -45,6 +49,8 @@ The INIU matches the 20000mAh capacity of our top pick, so you still get the mul
 ---
 
 ### 3. [Anker Prime Power Bank 27650mAh 250W](https://www.amazon.co.uk/dp/B0F936ZL31?linkCode=ll2&tag=souvlakia-21) - Best Premium
+
+**SPP Score: 8.5 / 10** - 27650mAh capacity, 250W output. Our pick for maximum capability.
 
 The Anker Prime is the do-it-all pick, pairing a large 27650mAh capacity with a hefty 250W total output that can fast-charge laptops, tablets, and phones, often several at once. That high wattage makes it a genuine in-seat charging hub for travellers carrying multiple devices, and the Prime line is Anker's flagship range for power users. Note that at 27650mAh it sits near the upper end of typical airline spare-battery limits, so it is worth confirming your carrier's policy before you fly.
 

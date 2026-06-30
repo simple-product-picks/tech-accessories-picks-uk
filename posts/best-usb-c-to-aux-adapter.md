@@ -6,6 +6,8 @@ Switching to a phone or laptop without a headphone socket means you need a relia
 
 ### 1. [UGREEN USB C to 3.5mm Audio Adapter](https://www.amazon.co.uk/dp/B082WG5VTK?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
+**SPP Score: 7.8 / 10** - Plug-and-play simplicity. Our all-round pick.
+
 UGREEN is a well-established maker of charging and audio accessories, and this USB-C to 3.5mm adapter is a dependable everyday choice. It carries an analogue headphone signal out to a 3.5mm jack, so it works neatly with wired earphones, headsets, and the aux input in many cars. The compact in-line design keeps it pocketable and out of the way when plugged in.
 
 **Pros**
@@ -26,6 +28,8 @@ UGREEN is a well-established maker of charging and audio accessories, and this U
 
 ### 2. [UGREEN USB C to 3.5mm Adapter Compact](https://www.amazon.co.uk/dp/B07Z7CMZ6S?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
+**SPP Score: 7.7 / 10** - Plug-and-play simplicity. Our value pick.
+
 This compact UGREEN adapter is the sensible-value choice when you just need the essentials covered. It does the core job of bringing a 3.5mm headphone output to a USB-C device, in an even smaller form factor that is easy to leave attached to a cable or tuck into a bag. For most everyday listening, it is all you really need.
 
 **Pros**
@@ -45,6 +49,8 @@ This compact UGREEN adapter is the sensible-value choice when you just need the 
 ---
 
 ### 3. [Apple USB-C to 3.5mm Headphone Jack Adapter](https://www.amazon.co.uk/dp/B0B5XY4GRZ?linkCode=ll2&tag=souvlakia-21) - Best Premium
+
+**SPP Score: 7.8 / 10** - Plug-and-play simplicity. Our pick for maximum capability.
 
 Apple's own USB-C to 3.5mm adapter is the do-it-all pick for anyone in the Apple ecosystem who wants guaranteed first-party compatibility. As a genuine Apple accessory it is designed to work smoothly with USB-C iPhones, iPads, and Macs, taking the guesswork out of pairing your wired headphones. It is a tidy, reliable option when you want the manufacturer's own hardware.
 

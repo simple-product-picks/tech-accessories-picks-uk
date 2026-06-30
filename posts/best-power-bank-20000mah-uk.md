@@ -6,6 +6,8 @@ A 20000mAh power bank is the sweet spot for UK travellers and heavy phone users:
 
 ### 1. [Anker Power Bank 20000mAh 30W](https://www.amazon.co.uk/dp/B0DB89DSHV?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
+**SPP Score: 8.1 / 10** - 20000mAh capacity, 30W output. Our all-round pick.
+
 The Anker Power Bank 20000mAh 30W hits the balance most people actually want: a large 20000mAh cell paired with 30W USB-C Power Delivery output that can fast-charge modern phones and many smaller tablets. Anker is a well-established name in portable charging, and 30W is plenty to keep a phone topped up quickly without the bulk of a laptop-class unit. For everyday carry, commuting, and weekends away, it covers nearly every scenario.
 
 **Pros**
@@ -26,6 +28,8 @@ The Anker Power Bank 20000mAh 30W hits the balance most people actually want: a 
 
 ### 2. [INIU Power Bank 20000mAh](https://www.amazon.co.uk/dp/B0DCZ82MGG?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
+**SPP Score: 7.9 / 10** - 20000mAh capacity. Our value pick.
+
 The INIU Power Bank 20000mAh is the sensible-value choice for anyone who just wants plenty of capacity without paying for laptop-grade wattage. It covers the essentials: a big 20000mAh cell to keep phones and earbuds going across a long day, a weekend, or a festival. INIU has built a name supplying straightforward, no-fuss portable chargers, making this an easy pick for a first power bank or a spare.
 
 **Pros**
@@ -45,6 +49,8 @@ The INIU Power Bank 20000mAh is the sensible-value choice for anyone who just wa
 ---
 
 ### 3. [Anker Power Bank 20000mAh 140W](https://www.amazon.co.uk/dp/B0DSPXHFBM?linkCode=ll2&tag=souvlakia-21) - Best Premium
+
+**SPP Score: 8.5 / 10** - 20000mAh capacity, 140W output. Our pick for maximum capability.
 
 The Anker Power Bank 20000mAh 140W is the do-it-all pick for people who charge laptops as well as phones. With up to 140W of USB-C Power Delivery output, it can fast-charge many USB-C laptops, tablets, and phones, and the high wattage means it can refill compatible devices noticeably faster than standard banks. For digital nomads, content creators, and anyone living out of a laptop bag, this is the most capable option here.
 

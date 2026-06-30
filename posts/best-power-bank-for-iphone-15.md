@@ -6,6 +6,8 @@ Picking the right power bank for your iPhone 15 comes down to capacity, charging
 
 ### 1. [Anker Nano Power Bank 10000mAh 30W](https://www.amazon.co.uk/dp/B0C9CJKCH3?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
+**SPP Score: 7.9 / 10** - 10000mAh capacity, 30W output. Our all-round pick.
+
 The Anker Nano Power Bank pairs a 10000mAh capacity with 30W USB-C Power Delivery output, which is enough to fast-charge an iPhone 15 and even top up smaller laptops or tablets. The 10000mAh cell gives you roughly a couple of full iPhone charges in a pocket-sized shell, and the 30W PD rating means you are not waiting around for a slow trickle. It is the sweet spot of speed, capacity, and portability for most iPhone 15 owners.
 
 **Pros**
@@ -26,6 +28,8 @@ The Anker Nano Power Bank pairs a 10000mAh capacity with 30W USB-C Power Deliver
 
 ### 2. [Anker Power Bank 10000mAh](https://www.amazon.co.uk/dp/B0CZ9M6X8Q?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
+**SPP Score: 7.7 / 10** - 10000mAh capacity. Our value pick.
+
 The standard Anker Power Bank covers the essentials with a 10000mAh cell that comfortably tops up an iPhone 15 once or twice between mains charges. It is the sensible-value choice for anyone who just needs reliable backup power without extra frills. Anker's reputation for solid charging gear makes this an easy everyday carry.
 
 **Pros**
@@ -45,6 +49,8 @@ The standard Anker Power Bank covers the essentials with a 10000mAh cell that co
 ---
 
 ### 3. [Anker MagGo Power Bank 10000mAh Qi2](https://www.amazon.co.uk/dp/B0DGKWTQQC?linkCode=ll2&tag=souvlakia-21) - Best Premium
+
+**SPP Score: 8.0 / 10** - 10000mAh capacity, MagSafe-style wireless. Our pick for maximum capability.
 
 The Anker MagGo is the do-it-all pick, adding Qi2 magnetic wireless charging to a 10000mAh capacity so it snaps straight onto the back of an iPhone 15 with no cable at all. Qi2 brings faster, better-aligned wireless charging than older Qi pads, and the magnetic alignment keeps the pack locked in place while you keep using your phone. For anyone who wants the cleanest, most modern charging experience, this is the standout.
 

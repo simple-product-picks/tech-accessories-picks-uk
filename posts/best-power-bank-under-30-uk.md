@@ -6,6 +6,8 @@ Looking for a compact power bank to keep your phone topped up on the go? This gu
 
 ### 1. [Anker Power Bank 10000mAh Slim](https://www.amazon.co.uk/dp/B0FQVFFPKJ?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
+**SPP Score: 7.8 / 10** - 10000mAh capacity. Our all-round pick.
+
 The Anker Power Bank 10000mAh Slim hits the sweet spot for everyday carry: a 10000mAh cell holds enough charge for a full phone top-up or more, while the slim profile slips easily into a pocket or bag. Anker is a long-established name in portable charging, and this model focuses on keeping the footprint small without dropping capacity.
 
 **Pros**
@@ -26,6 +28,8 @@ The Anker Power Bank 10000mAh Slim hits the sweet spot for everyday carry: a 100
 
 ### 2. [Anker Power Bank 10000mAh](https://www.amazon.co.uk/dp/B0CZ9M6X8Q?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
+**SPP Score: 7.7 / 10** - 10000mAh capacity. Our value pick.
+
 The standard Anker Power Bank 10000mAh is the sensible-value choice: it covers the essentials with the same dependable 10000mAh capacity, just without the slimmest possible casing. If you want a no-fuss everyday charger from a recognised brand, this one keeps things simple.
 
 **Pros**
@@ -45,6 +49,8 @@ The standard Anker Power Bank 10000mAh is the sensible-value choice: it covers t
 ---
 
 ### 3. [UGREEN Power Bank 10000mAh 25W](https://www.amazon.co.uk/dp/B0C9CSG3B7?linkCode=ll2&tag=souvlakia-21) - Best Premium
+
+**SPP Score: 7.9 / 10** - 10000mAh capacity, 25W output. Our pick for maximum capability.
 
 The UGREEN Power Bank 10000mAh 25W is the do-it-all pick thanks to its 25W output, which supports faster top-ups on compatible phones via USB Power Delivery. With the same 10000mAh capacity plus quicker charging, it suits anyone who wants to spend less time tethered to a wall.
 

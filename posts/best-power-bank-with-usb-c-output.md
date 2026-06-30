@@ -6,6 +6,8 @@ Looking for a power bank that charges your phone, tablet, or even a laptop over 
 
 ### 1. [Anker Power Bank 20000mAh 140W](https://www.amazon.co.uk/dp/B0DSPXHFBM?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
+**SPP Score: 8.5 / 10** - 20000mAh capacity, 140W output. Our all-round pick.
+
 The Anker Power Bank 20000mAh 140W hits the sweet spot for most people, pairing a generous 20000mAh capacity with up to 140W of USB-C Power Delivery output. That headroom is enough to fast-charge many USB-C laptops as well as phones and tablets, and the cell size is large enough for multiple top-ups before it needs recharging itself. For a single bank that handles a mixed kit of devices, it is the all-rounder to beat.
 
 **Pros**
@@ -26,6 +28,8 @@ The Anker Power Bank 20000mAh 140W hits the sweet spot for most people, pairing 
 
 ### 2. [Anker Power Bank 10000mAh](https://www.amazon.co.uk/dp/B0CZ9M6X8Q?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
+**SPP Score: 7.7 / 10** - 10000mAh capacity. Our value pick.
+
 The Anker Power Bank 10000mAh is the sensible-value choice that covers the essentials without the bulk. Its 10000mAh capacity is the classic everyday size, enough for roughly a couple of full phone charges while staying small enough to drop into a bag or large pocket. If you mainly need to keep a phone alive through a long day, this does the job cleanly.
 
 **Pros**
@@ -45,6 +49,8 @@ The Anker Power Bank 10000mAh is the sensible-value choice that covers the essen
 ---
 
 ### 3. [Anker Prime Power Bank 27650mAh 250W](https://www.amazon.co.uk/dp/B0F936ZL31?linkCode=ll2&tag=souvlakia-21) - Best Premium
+
+**SPP Score: 8.5 / 10** - 27650mAh capacity, 250W output. Our pick for maximum capability.
 
 The Anker Prime Power Bank 27650mAh 250W is the do-it-all, highest-capability pick, combining a large 27650mAh cell with up to 250W of total output. That much headroom is built for charging demanding laptops at full pace and running several devices at once, making it suited to heavy multi-device days and longer trips away from the mains. If you want maximum capacity and output in a single unit, this is the flagship choice.
 

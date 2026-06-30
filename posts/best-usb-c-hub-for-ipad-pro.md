@@ -6,6 +6,8 @@ Turning an iPad Pro into a proper workstation usually comes down to one accessor
 
 ### 1. [Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD](https://www.amazon.co.uk/dp/B07ZVKTP53?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
+**SPP Score: 8.6 / 10** - 7-in-1 connectivity. Our all-round pick.
+
 This 7-in-1 Anker hub hits the sweet spot for most iPad Pro owners, pairing a 4K HDMI output with 85W power delivery so your tablet can keep charging while it drives an external display. The seven-in-one layout means card transfers, drives and accessories can run through a single unit rather than a pile of separate dongles. Anker is a long-established name in charging and connectivity gear, which makes it an easy default recommendation.
 
 **Pros**
@@ -26,6 +28,8 @@ This 7-in-1 Anker hub hits the sweet spot for most iPad Pro owners, pairing a 4K
 
 ### 2. [UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet](https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
+**SPP Score: 8.6 / 10** - 7-in-1 connectivity, wired Ethernet. Our value pick.
+
 The UGREEN Revodok is the sensible-value choice that still covers the essentials, adding Gigabit Ethernet to the usual mix of HDMI output and USB-A. With 100W power delivery on its USB-C input, it has plenty of headroom to keep an iPad Pro topped up while you work. UGREEN is a well-known connectivity brand, and this hub is a practical pick for anyone who values a stable wired connection.
 
 **Pros**
@@ -45,6 +49,8 @@ The UGREEN Revodok is the sensible-value choice that still covers the essentials
 ---
 
 ### 3. [Anker USB C Hub 8-in-1 with Ethernet and 10Gbps](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21) - Best Premium
+
+**SPP Score: 8.9 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
 
 This 8-in-1 Anker hub is the do-it-all option, bringing 10Gbps USB-C and USB-A data alongside HDMI output and Gigabit Ethernet. The 10Gbps ports make a real difference when moving large files to and from an external SSD, which is where slower hubs tend to bottleneck. With eight functions in one unit, it suits demanding iPad Pro workflows that need every connection covered at once.
 

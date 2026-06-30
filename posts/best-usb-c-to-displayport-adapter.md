@@ -6,6 +6,8 @@ Looking to drive a high-refresh or high-resolution monitor from a USB-C laptop, 
 
 ### 1. [UGREEN USB C to DisplayPort 1.4 Adapter](https://www.amazon.co.uk/dp/B0C4DC6P4H?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
+**SPP Score: 7.8 / 10** - Plug-and-play simplicity. Our all-round pick.
+
 The UGREEN USB C to DisplayPort 1.4 Adapter hits the sweet spot for most setups, with DisplayPort 1.4 supporting high resolutions and high refresh rates over a single cable. DisplayPort 1.4 carries enough bandwidth for 4K at high refresh and supports HDR and Display Stream Compression, making this a strong match for gaming monitors and productivity multi-display work. UGREEN is a well-established name in charging and connectivity accessories, and the adapter relies on your device's USB-C DisplayPort Alt Mode to pass a clean video signal.
 
 **Pros**
@@ -26,6 +28,8 @@ The UGREEN USB C to DisplayPort 1.4 Adapter hits the sweet spot for most setups,
 
 ### 2. [Anker USB C to DisplayPort Adapter 4K](https://www.amazon.co.uk/dp/B09Z4C73K4?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
+**SPP Score: 8.0 / 10** - 4K output, plug-and-play simplicity. Our value pick.
+
 The Anker USB C to DisplayPort Adapter 4K is the sensible-value choice that covers the essentials: a clean 4K-capable DisplayPort output from a USB-C source. Anker is a long-trusted name in cables and charging gear, and this adapter focuses on doing one job well rather than piling on extra ports. For a straightforward single-monitor connection, it ticks the boxes without overcomplicating things.
 
 **Pros**
@@ -45,6 +49,8 @@ The Anker USB C to DisplayPort Adapter 4K is the sensible-value choice that cove
 ---
 
 ### 3. [Cable Matters USB C to DisplayPort 2.1 Adapter (80Gbps)](https://www.amazon.co.uk/dp/B0CLZ9TZ5Q?linkCode=ll2&tag=souvlakia-21) - Best Premium
+
+**SPP Score: 8.0 / 10** - DisplayPort 2.1 bandwidth, plug-and-play simplicity. Our pick for maximum capability.
 
 The Cable Matters USB C to DisplayPort 2.1 Adapter (80Gbps) is the do-it-all, future-proofed pick for demanding setups. DisplayPort 2.1 with up to 80Gbps of bandwidth, as stated in the name, opens the door to very high resolutions and refresh rates well beyond what DisplayPort 1.4 can manage, making it well suited to the newest high-end monitors. If you are building around cutting-edge display hardware, this is the adapter with the most headroom.
 

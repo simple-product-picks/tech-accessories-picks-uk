@@ -6,6 +6,8 @@ Finding a car charger that snaps cleanly onto your iPhone and holds it steady on
 
 ### 1. [Anker MagSafe Car Charger 15W](https://www.amazon.co.uk/dp/B0BXVQNGKB?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
+**SPP Score: 7.6 / 10** - 15W output. Our all-round pick.
+
 Anker is a well-established name in mobile charging, and this MagSafe car charger pairs the convenient magnetic snap-on alignment with up to 15W of wireless output for compatible iPhones. It doubles as a holder, keeping your phone within easy glance for navigation while it tops up. For most UK drivers it strikes the right balance of grip, charging speed and everyday reliability.
 
 **Pros**
@@ -26,6 +28,8 @@ Anker is a well-established name in mobile charging, and this MagSafe car charge
 
 ### 2. [ESR MagSafe Car Charger 15W](https://www.amazon.co.uk/dp/B0B38P9TF8?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
+**SPP Score: 7.6 / 10** - 15W output. Our value pick.
+
 The ESR is the sensible-value choice that covers the essentials: magnetic MagSafe alignment and up to 15W wireless output in a tidy package. It delivers the same core convenience of snapping your iPhone into place and charging hands-free without extra frills. A solid pick if you want the MagSafe experience without the extra heft of a premium build.
 
 **Pros**
@@ -45,6 +49,8 @@ The ESR is the sensible-value choice that covers the essentials: magnetic MagSaf
 ---
 
 ### 3. [Belkin BoostCharge Pro MagSafe Car Vent Mount](https://www.amazon.co.uk/dp/B0CP95233P?linkCode=ll2&tag=souvlakia-21) - Best Premium
+
+**SPP Score: 7.6 / 10** - Our pick for maximum capability.
 
 Belkin's BoostCharge Pro is the do-it-all option, built as a dedicated vent mount that clips securely to your car's air vents for a stable, eye-level position. The MagSafe magnetic hold keeps your iPhone firmly attached over bumps and corners, making it a strong choice for drivers who rely on their phone for navigation every day. Belkin's reputation for well-engineered accessories shows in the focus on secure mounting.
 

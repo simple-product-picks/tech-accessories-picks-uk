@@ -6,6 +6,8 @@ A 100W GaN charger is the sweet spot for powering a laptop, tablet and phone fro
 
 ### 1. [Anker 100W USB C Charger (3-Port GaN, Smart Display)](https://www.amazon.co.uk/dp/B0FL2DR4TH?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
+**SPP Score: 8.7 / 10** - 100W output, 3-port layout, compact GaN build. Our all-round pick.
+
 The Anker 100W is our standout because it pairs serious single-port output with genuine real-world usefulness. The built-in smart display shows live wattage so you can see exactly how power is being split across the two USB-C ports and one USB-A port, and GaN internals keep the whole thing compact enough to live in a bag. For most people charging a laptop plus a couple of accessories, this hits the right balance of power, ports and footprint.
 
 **Pros**
@@ -26,6 +28,8 @@ The Anker 100W is our standout because it pairs serious single-port output with 
 
 ### 2. [UGREEN Nexode 100W USB C Charger 4-Port GaN](https://www.amazon.co.uk/dp/B091N7FVDL?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
+**SPP Score: 8.8 / 10** - 100W output, 4-port layout, compact GaN build. Our value pick.
+
 The UGREEN Nexode 100W is the sensible-value choice that covers the essentials without fuss. With four ports (three USB-C plus one USB-A) and a foldable UK plug, it is built for travelling light while still keeping a full set of devices topped up. GaN technology keeps it compact, and the single port can still push up to 100W when you need maximum speed for a laptop.
 
 **Pros**
@@ -45,6 +49,8 @@ The UGREEN Nexode 100W is the sensible-value choice that covers the essentials w
 ---
 
 ### 3. [UGREEN Nexode Pro 100W 3-Port GaN Charger](https://www.amazon.co.uk/dp/B0CCVDXHM6?linkCode=ll2&tag=souvlakia-21) - Best Premium
+
+**SPP Score: 8.6 / 10** - 100W output, 3-port layout, compact GaN build. Our pick for maximum capability.
 
 The Nexode Pro 100W is the do-it-all pick for people who want a polished, capable charger. UGREEN's GaNInfinity chip is designed for efficient, sustained high output, which suits long laptop charging sessions. Two USB-C ports and a USB-A round out a compact package for serious laptop users who still want room for a couple of accessories.
 
