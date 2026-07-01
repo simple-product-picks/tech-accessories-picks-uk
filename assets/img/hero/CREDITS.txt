@@ -1,0 +1,11 @@
+Hero images - source and licence record
+=========================================
+All images sourced from Pexels (https://www.pexels.com/license/).
+Pexels License: free for commercial use, no attribution required, no permission needed.
+Cropped to 1200x630 and lightly adjusted for the site. Record kept for provenance.
+
+chargers.jpg    Andrey Matveev   https://www.pexels.com/photo/white-mobile-charger-and-cable-on-a-grey-surface-37421859/
+hubs.jpg        Kaboompics.com   https://www.pexels.com/photo/laptop-with-type-c-adapter-with-plugged-usb-cable-4195408/
+powerbanks.jpg  Lukas Blazek     https://www.pexels.com/photo/black-solar-power-bank-on-brown-surface-518530/
+cables.jpg      Nic Wood         https://www.pexels.com/photo/usb-2-cable-28042833/
+adapters.jpg    Anzor Dukaev     https://www.pexels.com/photo/usb-c-hub-on-dark-surface-with-usb-ports-30708285/
