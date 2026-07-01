@@ -12,8 +12,8 @@
   --amber-bg:   #fffbeb;
   --green:      #16a34a;
   --red:        #dc2626;
-  --cta:        #e85d04;
-  --cta-hover:  #c94e00;
+  --cta:        #f59e0b;
+  --cta-hover:  #d97706;
   --text:       #1a1a2e;
   --text-soft:  #374151;
   --muted:      #6b7280;
@@ -71,7 +71,7 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 64px; }
   display: inline-flex; align-items: center; gap: 6px;
   opacity: 0.85;
 }
-.back-link:hover { opacity: 1; text-decoration: none; color: #ffffff; }
+.back-link:hover { opacity: 1; text-decoration: none; color: #1a1a2e; }
 
 .site-nav {
   display: flex; align-items: center; gap: 2px;
@@ -167,7 +167,7 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 64px; }
   text-decoration: none;
   transition: background 0.15s;
 }
-.hero-cat:hover { background: rgba(255,255,255,.22); text-decoration: none; color: #ffffff; }
+.hero-cat:hover { background: rgba(255,255,255,.22); text-decoration: none; color: #1a1a2e; }
 /* Home category section headings */
 .cat-section { margin: 32px 0 0; scroll-margin-top: 68px; }
 .cat-section-title {
@@ -247,18 +247,18 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 64px; }
 /* -- CTA link (inline in table) ---------------------------------- */
 .cta-link {
   display: inline-flex; align-items: center; gap: 5px;
-  background: var(--cta); color: #ffffff;
+  background: var(--cta); color: #1a1a2e;
   font-size: 14px; font-weight: 700;
   padding: 9px 18px; border-radius: 6px;
   white-space: nowrap;
-  box-shadow: 0 2px 6px rgba(232,93,4,.35);
-  border-bottom: 3px solid #b34500;
+  box-shadow: 0 2px 6px rgba(217,119,6,.35);
+  border-bottom: 3px solid #b45309;
   transition: background 0.15s, box-shadow 0.15s, transform 0.1s;
 }
 .cta-link::after { content: " \2192"; font-size: 12px; }
 .cta-link:hover {
   background: var(--cta-hover); text-decoration: none;
-  box-shadow: 0 4px 12px rgba(232,93,4,.45);
+  box-shadow: 0 4px 12px rgba(217,119,6,.45);
   transform: translateY(-1px);
 }
 
@@ -270,8 +270,8 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 64px; }
   transition: all 0.15s; text-align: center;
 }
 .btn.primary {
-  background: var(--cta); color: #ffffff; border: none;
-  box-shadow: 0 2px 8px rgba(232,93,4,.35);
+  background: var(--cta); color: #1a1a2e; border: none;
+  box-shadow: 0 2px 8px rgba(217,119,6,.35);
 }
 .btn.primary:hover { background: var(--cta-hover); transform: translateY(-1px); text-decoration: none; }
 .btn.secondary { background: var(--bg); color: var(--blue); border: 2px solid var(--blue); }
@@ -289,19 +289,19 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 64px; }
 /* CTA button - only applied via JS to standalone Check price links */
 .content a.cta-btn {
   display: inline-flex; align-items: center; gap: 6px;
-  background: var(--cta); color: #ffffff !important;
+  background: var(--cta); color: #1a1a2e !important;
   font-size: 15px; font-weight: 700;
   padding: 11px 24px; border-radius: 6px;
   text-decoration: none !important;
   margin: 16px 0 8px;
-  box-shadow: 0 2px 8px rgba(232,93,4,.35);
+  box-shadow: 0 2px 8px rgba(217,119,6,.35);
   transition: background 0.15s, transform 0.1s, box-shadow 0.1s;
-  border-bottom: 3px solid #b34500;
+  border-bottom: 3px solid #b45309;
 }
 .content a.cta-btn:hover {
   background: var(--cta-hover); text-decoration: none !important;
   transform: translateY(-1px);
-  box-shadow: 0 4px 14px rgba(232,93,4,.5);
+  box-shadow: 0 4px 14px rgba(217,119,6,.5);
 }
 /* Heading and verdict links - plain styled, not buttons */
 .content h3 a, .content h2 a {
@@ -416,15 +416,15 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 64px; }
 }
 .sticky-cta-btn {
   display: inline-flex; align-items: center; gap: 6px;
-  background: var(--cta); color: #ffffff;
+  background: var(--cta); color: #1a1a2e;
   font-size: 14px; font-weight: 700;
   padding: 9px 20px; border-radius: 6px;
   text-decoration: none; white-space: nowrap;
-  border-bottom: 3px solid #b34500;
+  border-bottom: 3px solid #b45309;
   transition: background 0.15s;
   flex-shrink: 0;
 }
-.sticky-cta-btn:hover { background: var(--cta-hover); text-decoration: none; color: #ffffff; }
+.sticky-cta-btn:hover { background: var(--cta-hover); text-decoration: none; color: #1a1a2e; }
 
 /* -- Footer ----------------------------------------------------- */
 footer {
