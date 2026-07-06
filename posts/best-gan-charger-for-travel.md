@@ -1,26 +1,26 @@
 # Best GaN Charger For Travel UK 2026
 
-Looking for a compact charger that won't weigh down your carry-on? This guide covers the best GaN travel chargers for UK travellers, from a pocket-sized everyday pick to a do-it-all multi-port unit for charging several devices at once.
+Looking for a compact charger that won't weigh down your carry-on? This guide covers the best GaN travel chargers for UK travellers, from a versatile everyday pick to a do-it-all multi-port unit for charging several devices at once.
 
 ## Top picks
 
-### 1. [Anker Nano GaN Charger 30W](https://www.amazon.co.uk/dp/B0B7N4DX1Z?linkCode=ll2&tag=souvlakia-21) - Best Overall
+### 1. [UGREEN Nexode 65W GaN Charger (3-Port)](https://www.amazon.co.uk/dp/B0B7N4DX1Z?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
-**SPP Score: 7.6 / 10** - 30W output, compact GaN build. Our all-round pick.
+**SPP Score: 8.4 / 10** - 65W output, three ports, GaN build. Our all-round pick.
 
-The Anker Nano packs 30W of USB-C Power Delivery into a body small enough to disappear in a coat pocket, which is exactly what you want when packing light. GaN (gallium nitride) internals let it run cooler and far smaller than older silicon bricks, and 30W is enough to fast-charge a phone or trickle a tablet while you're on the move. Anker is a well-established name in the charging space, making this an easy, no-fuss travel companion.
+The UGREEN Nexode delivers 65W across three ports, so it can serve as a single charger for a laptop plus a phone and one more device on the move. With two USB-C ports and one USB-A, it plays nicely with modern and older cables alike, and the foldable UK plug tucks flat into a bag. GaN (gallium nitride) internals keep it compact and cooler than an older silicon brick, while PD 3.0 and PPS support means it can fast-charge a wide range of phones and ultrabooks.
 
 **Pros**
-- ✓ GaN design keeps it remarkably compact and light for a carry-on
-- ✓ 30W USB-C Power Delivery fast-charges most phones quickly
-- ✓ Single-port simplicity means nothing to fiddle with on the road
+- ✓ 65W output can charge many ultrabooks alongside a phone
+- ✓ Three ports (2x USB-C, 1x USB-A) cover a mix of devices at once
+- ✓ Foldable UK plug and GaN build keep it travel-friendly
 
 **Cons**
-- ✗ Single port can only charge one device at a time
-- ✗ USB-C cable is typically not included, so you may need your own
+- ✗ Total wattage is shared, so charging several devices splits the available power
+- ✗ Cables are typically supplied separately
 
-**Who it's for:** Light packers who want one tiny charger for a phone and the occasional tablet.
-**Who it's not for:** Travellers needing to charge a laptop and phone together.
+**Who it's for:** Travellers who want one charger to handle a laptop, phone and a third device from a single wall socket.
+**Who it's not for:** Minimalists who only ever need to charge a single phone.
 
 [Check price on Amazon UK](https://www.amazon.co.uk/dp/B0B7N4DX1Z?linkCode=ll2&tag=souvlakia-21)
 
@@ -73,7 +73,7 @@ This is the do-it-all pick: 100W across three ports means it can power a demandi
 
 ## Quick verdict
 
-For most travellers the **[Anker Nano GaN Charger 30W](https://www.amazon.co.uk/dp/B0B7N4DX1Z?linkCode=ll2&tag=souvlakia-21)** is the easy choice: tiny, light and powerful enough for everyday phone and tablet duties. If you need to cover a laptop too, the **[UGREEN USB C Charger 65W GaN 2-Port](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21)** is the value pick, while the three-port 100W Anker is there when you want to charge everything at once.
+For most travellers the **[UGREEN Nexode 65W GaN Charger (3-Port)](https://www.amazon.co.uk/dp/B0B7N4DX1Z?linkCode=ll2&tag=souvlakia-21)** is the easy choice: three ports and 65W cover a laptop, phone and a third device from one compact plug. If you want a simpler two-port option, the **[UGREEN USB C Charger 65W GaN 2-Port](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21)** is the value pick, while the three-port 100W Anker is there when you want maximum power for everything at once.
 
 ## How we chose
 

@@ -4,23 +4,23 @@ Wi-Fi dropping out mid-call or lagging during a download? A USB-C Ethernet adapt
 
 ## Top picks
 
-### 1. [UGREEN USB C to Gigabit Ethernet Adapter](https://www.amazon.co.uk/dp/B0CD1FDKT1?linkCode=ll2&tag=souvlakia-21) - Best Overall
+### 1. [UGREEN USB C to 2.5G Ethernet Adapter](https://www.amazon.co.uk/dp/B0CD1FDKT1?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
-**SPP Score: 8.0 / 10** - Gigabit Ethernet, plug-and-play simplicity. Our all-round pick.
+**SPP Score: 8.1 / 10** - 2.5Gbps wired Ethernet over a single USB-C connector, plug-and-play. Our all-round pick.
 
-UGREEN is a well-known name in connectivity accessories, and this Gigabit adapter hits the sweet spot for most people. It converts a single USB-C port into a full Gigabit Ethernet connection, which is ample headroom for UK home broadband, video calls, and large file transfers. The compact form factor makes it an easy permanent resident in a laptop bag.
+UGREEN is a well-known name in connectivity accessories, and this 2.5G adapter hits the sweet spot for most people. It converts a single USB-C port into a 2.5Gbps RJ45 Ethernet connection, giving you headroom beyond standard Gigabit for UK home broadband, video calls, and large file transfers. It is plug and play, and the compact form factor makes it an easy permanent resident in a laptop bag.
 
 **Pros**
-- ✓ Gigabit Ethernet keeps pace with fast UK fibre connections
+- ✓ 2.5Gbps Ethernet gives headroom beyond standard Gigabit adapters
 - ✓ Single USB-C connector works with most modern laptops and tablets
-- ✓ Compact and portable for travel or hot-desking
+- ✓ Plug and play with a compact, portable design for travel or hot-desking
 
 **Cons**
-- ✗ Maxes out at Gigabit, so it cannot use the headroom of multi-gig broadband
+- ✗ The 2.5G ceiling only pays off if your broadband and network support it
 - ✗ A standalone adapter with no extra pass-through power or hub ports
 
-**Who it's for:** Anyone who wants a reliable, no-fuss wired connection for a USB-C laptop on a standard UK broadband line.
-**Who it's not for:** Users on multi-gigabit broadband who want to exceed Gigabit speeds.
+**Who it's for:** Anyone who wants a reliable, no-fuss wired connection for a USB-C laptop, with room to grow into faster broadband.
+**Who it's not for:** Users who need extra USB ports or a full hub from a single dongle.
 
 [Check price on Amazon UK](https://www.amazon.co.uk/dp/B0CD1FDKT1?linkCode=ll2&tag=souvlakia-21)
 
@@ -48,20 +48,20 @@ The sensible-value choice that covers the essentials without any extras you don'
 
 ---
 
-### 3. [Belkin USB-C to 2.5G Ethernet Adapter](https://www.amazon.co.uk/dp/B0DNSTHRGQ?linkCode=ll2&tag=souvlakia-21) - Best Premium
+### 3. [UGREEN USB C to 5G Ethernet Adapter](https://www.amazon.co.uk/dp/B0DNSTHRGQ?linkCode=ll2&tag=souvlakia-21) - Best Premium
 
-**SPP Score: 8.0 / 10** - Gigabit Ethernet, plug-and-play simplicity. Our pick for maximum capability.
+**SPP Score: 8.2 / 10** - 5Gbps wired Ethernet over USB-C, plug-and-play. Our pick for maximum capability.
 
-Belkin is a long-established accessory brand, and this adapter steps up to 2.5 Gigabit Ethernet for the most capable connection of the three. If you are on a multi-gigabit broadband package or moving large files across a fast local network, the 2.5G ceiling gives you real headroom beyond standard Gigabit. It is the do-it-all pick for power users who want to make the most of a fast line.
+This UGREEN adapter steps up to 5Gbps Ethernet for the most capable connection of the three. If you are on a multi-gigabit broadband package or moving large files across a fast local network, the 5G ceiling gives you real headroom beyond both standard Gigabit and 2.5G adapters. It converts a single USB-C port into a 5Gbps RJ45 connection and stays plug and play, making it the do-it-all pick for power users who want to make the most of a fast line.
 
 **Pros**
-- ✓ 2.5 Gigabit Ethernet unlocks speeds beyond standard Gigabit adapters
+- ✓ 5Gbps Ethernet unlocks speeds well beyond standard Gigabit and 2.5G adapters
+- ✓ Single USB-C connector with plug-and-play setup and no hub to manage
 - ✓ Headroom for multi-gig UK broadband and fast local file transfers
-- ✓ Trusted accessory brand with a focus on connectivity hardware
 
 **Cons**
-- ✗ The extra 2.5G capability only pays off if your network and broadband support it
-- ✗ Premium positioning over basic single-Gigabit dongles
+- ✗ The 5G capability only pays off if your network and broadband support it
+- ✗ A standalone adapter with no extra pass-through power or hub ports
 
 **Who it's for:** Power users on multi-gigabit broadband or fast local networks who want maximum wired throughput.
 **Who it's not for:** Anyone on standard Gigabit broadband, where a basic adapter delivers the same real-world speed.
@@ -72,7 +72,7 @@ Belkin is a long-established accessory brand, and this adapter steps up to 2.5 G
 
 ## Quick verdict
 
-For most people the **[UGREEN USB C to Gigabit Ethernet Adapter](https://www.amazon.co.uk/dp/B0CD1FDKT1?linkCode=ll2&tag=souvlakia-21)** is the pick to beat: it pairs Gigabit speed with a compact, travel-friendly design that suits typical UK broadband. If you want to cover the essentials without the extras, the **[Amazon Basics USB-C to Gigabit Ethernet Adapter](https://www.amazon.co.uk/dp/B08989MYQ2?linkCode=ll2&tag=souvlakia-21)** is the sensible-value choice. Step up to the Belkin only if you are on a multi-gigabit line.
+For most people the **[UGREEN USB C to 2.5G Ethernet Adapter](https://www.amazon.co.uk/dp/B0CD1FDKT1?linkCode=ll2&tag=souvlakia-21)** is the pick to beat: it pairs 2.5Gbps speed with a compact, travel-friendly design that suits typical UK broadband while leaving room to grow. If you want to cover the essentials without the extras, the **[Amazon Basics USB-C to Gigabit Ethernet Adapter](https://www.amazon.co.uk/dp/B08989MYQ2?linkCode=ll2&tag=souvlakia-21)** is the sensible-value choice. Step up to the **[UGREEN USB C to 5G Ethernet Adapter](https://www.amazon.co.uk/dp/B0DNSTHRGQ?linkCode=ll2&tag=souvlakia-21)** only if you are on a multi-gigabit line.
 
 ## How we chose
 

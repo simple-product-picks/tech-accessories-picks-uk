@@ -4,11 +4,11 @@ Looking for a compact, fast wall charger to replace a bulky laptop brick? This U
 
 ## Top picks
 
-### 1. [Anker Prime 67W GaN Wall Charger (3 Ports)](https://www.amazon.co.uk/dp/B0C4Y1FFQH?linkCode=ll2&tag=souvlakia-21) - Best Overall
+### 1. [Anker 67W GaN Wall Charger (3 Ports)](https://www.amazon.co.uk/dp/B0C4Y1FFQH?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
 **SPP Score: 8.4 / 10** - 67W output, 3-port layout, compact GaN build. Our all-round pick.
 
-The Anker Prime 67W is the most versatile pick here, packing three ports into a compact body that Anker says is around half the size of Apple's 67W brick. With three ports on a single foldable UK plug, it can keep a laptop, phone, and a third device topped up at once, and its 67W output gives plenty of headroom for fast, efficient charging across the devices most people carry.
+The Anker 67W is the most versatile pick here, packing three ports into a compact body that Anker says is around half the size of Apple's 67W brick. Its two USB-C ports plus one USB-A sit on a single foldable UK plug, so it can keep a laptop, phone, and a third device topped up at once, and its 67W output gives plenty of headroom for fast, efficient charging across the devices most people carry. PPS support and Anker's ActiveShield 2.0 temperature monitoring round out the package.
 
 **Pros**
 - ✓ Three ports let you charge multiple devices from a single wall plug
@@ -72,7 +72,7 @@ The Anker Nano II 65W is the choice for travellers who want maximum single-port 
 
 ## Quick verdict
 
-For most people the **[Anker Prime 67W GaN Wall Charger (3 Ports)](https://www.amazon.co.uk/dp/B0C4Y1FFQH?linkCode=ll2&tag=souvlakia-21)** is the one to get, thanks to its three-port flexibility and compact GaN build. If you want a tidy, capable charger and the best everyday value, the **[UGREEN USB C Charger 65W GaN 2-Port](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21)** covers the essentials with two ports.
+For most people the **[Anker 67W GaN Wall Charger (3 Ports)](https://www.amazon.co.uk/dp/B0C4Y1FFQH?linkCode=ll2&tag=souvlakia-21)** is the one to get, thanks to its three-port flexibility and compact GaN build. If you want a tidy, capable charger and the best everyday value, the **[UGREEN USB C Charger 65W GaN 2-Port](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21)** covers the essentials with two ports.
 
 ## How we chose
 

@@ -4,51 +4,51 @@ Finding a car charger that snaps cleanly onto your iPhone and holds it steady on
 
 ## Top picks
 
-### 1. [Anker MagSafe Car Charger 15W](https://www.amazon.co.uk/dp/B0BXVQNGKB?linkCode=ll2&tag=souvlakia-21) - Best Overall
+### 1. [Belkin BoostCharge Pro MagSafe Car Charger (Qi2 15W)](https://www.amazon.co.uk/dp/B0DHHJPY5M?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
-**SPP Score: 7.6 / 10** - 15W output. Our all-round pick.
+**SPP Score: 7.6 / 10** - Qi2 15W wireless charging with an air-vent mount and included 1.5m USB-C cable. Our all-round pick.
 
-Anker is a well-established name in mobile charging, and this MagSafe car charger pairs the convenient magnetic snap-on alignment with up to 15W of wireless output for compatible iPhones. It doubles as a holder, keeping your phone within easy glance for navigation while it tops up. For most UK drivers it strikes the right balance of grip, charging speed and everyday reliability.
+Belkin's BoostCharge Pro brings the newer Qi2 standard to your car, pairing convenient magnetic snap-on alignment with up to 15W of wireless output for compatible iPhones. It mounts to your car's air vent and doubles as a holder, keeping your phone within easy glance for navigation while it tops up. A 1.5m USB-C cable is included in the box, and the MagSafe-compatible magnetic hold keeps the phone in the optimal charging position. For most UK drivers it strikes the right balance of grip, charging speed and everyday reliability.
 
 **Pros**
-- ✓ Magnetic MagSafe alignment snaps the phone into the optimal charging position every time
-- ✓ Up to 15W wireless output suits compatible iPhone models for steady top-ups on longer drives
-- ✓ Acts as both charger and hands-free mount for sat-nav use
+- ✓ Qi2 15W wireless output suits compatible iPhone models for steady top-ups on longer drives
+- ✓ Magnetic MagSafe-compatible alignment snaps the phone into the optimal charging position every time
+- ✓ Air-vent mount doubles as a hands-free holder for sat-nav use, with a 1.5m USB-C cable included
 
 **Cons**
 - ✗ Wireless charging is generally slower than a wired connection for rapid top-ups
-- ✗ A USB car adapter and cable may be needed and are not always included in the box
+- ✗ A USB-C power source in the car is still needed to supply the charger
 
-**Who it's for:** Drivers who want a dependable snap-on charger and mount from a familiar charging brand.
+**Who it's for:** Drivers who want a dependable Qi2 snap-on charger and vent mount from a familiar charging brand.
 **Who it's not for:** Anyone needing the absolute fastest charge, who may prefer a wired fast-charge cable.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0BXVQNGKB?linkCode=ll2&tag=souvlakia-21)
+[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0DHHJPY5M?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
-### 2. [ESR MagSafe Car Charger 15W](https://www.amazon.co.uk/dp/B0B38P9TF8?linkCode=ll2&tag=souvlakia-21) - Best Budget
+### 2. [ESR HaloLock MagSafe Car Charger 15W](https://www.amazon.co.uk/dp/B08HNBHSQV?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
-**SPP Score: 7.6 / 10** - 15W output. Our value pick.
+**SPP Score: 7.5 / 10** - 15W fast wireless with strong magnets and both air-vent and dashboard mounts. Our value pick.
 
-The ESR is the sensible-value choice that covers the essentials: magnetic MagSafe alignment and up to 15W wireless output in a tidy package. It delivers the same core convenience of snapping your iPhone into place and charging hands-free without extra frills. A solid pick if you want the MagSafe experience without the extra heft of a premium build.
+The ESR HaloLock is the sensible-value choice that covers the essentials: MagSafe-compatible magnetic alignment and up to 15W of fast wireless output in a tidy package. Strong magnets keep your iPhone snapped firmly in place, and it ships with both air-vent and dashboard mounting options so you can position it where it suits your car. It delivers the core convenience of snapping your iPhone into place and charging hands-free without extra frills.
 
 **Pros**
-- ✓ MagSafe magnetic mounting for quick, fumble-free attachment
-- ✓ Up to 15W wireless charging for compatible iPhone models
-- ✓ Covers the core charge-and-mount essentials in a compact form
+- ✓ 15W fast wireless charging for compatible iPhone models
+- ✓ Strong magnets give a secure MagSafe-compatible hold on rough roads
+- ✓ Air-vent and dashboard mounts included for flexible positioning
 
 **Cons**
-- ✗ May lack some of the heavier-duty mounting refinements of premium rivals
-- ✗ As with most wireless chargers, a suitable car adapter and cable may be required separately
+- ✗ As with most wireless chargers, it is generally slower than a wired connection for rapid top-ups
+- ✗ A USB-C power source in the car is still needed to supply the charger
 
-**Who it's for:** Buyers who want straightforward MagSafe charging and mounting without extras.
-**Who it's not for:** Drivers wanting the most robust vent mount or the widest device support.
+**Who it's for:** Buyers who want straightforward MagSafe charging with a choice of vent or dashboard mounting.
+**Who it's not for:** Drivers wanting the newest Qi2 standard or the widest device support.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0B38P9TF8?linkCode=ll2&tag=souvlakia-21)
+[Check price on Amazon UK](https://www.amazon.co.uk/dp/B08HNBHSQV?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
-### 3. [Belkin BoostCharge Pro MagSafe Car Vent Mount](https://www.amazon.co.uk/dp/B0CP95233P?linkCode=ll2&tag=souvlakia-21) - Best Premium
+### 3. [Belkin BoostCharge Pro MagSafe Car Vent Mount](https://www.amazon.co.uk/s?k=Belkin+BoostCharge+Pro+MagSafe+Car+Vent+Mount&tag=souvlakia-21) - Best Premium
 
 **SPP Score: 7.6 / 10** - Our pick for maximum capability.
 
@@ -66,17 +66,17 @@ Belkin's BoostCharge Pro is the do-it-all option, built as a dedicated vent moun
 **Who it's for:** Daily drivers who want the most secure, navigation-friendly vent mount with MagSafe hold.
 **Who it's not for:** Those who prefer a dash or windscreen mount, or whose car vents are unsuitable.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0CP95233P?linkCode=ll2&tag=souvlakia-21)
+[Check price on Amazon UK](https://www.amazon.co.uk/s?k=Belkin+BoostCharge+Pro+MagSafe+Car+Vent+Mount&tag=souvlakia-21)
 
 ---
 
 ## Quick verdict
 
-For most UK drivers, the **[Anker MagSafe Car Charger 15W](https://www.amazon.co.uk/dp/B0BXVQNGKB?linkCode=ll2&tag=souvlakia-21)** is the standout all-rounder, combining magnetic alignment, 15W output and a familiar charging brand. If you want the essentials for less effort, the **[ESR MagSafe Car Charger 15W](https://www.amazon.co.uk/dp/B0B38P9TF8?linkCode=ll2&tag=souvlakia-21)** covers the core charge-and-mount experience as the sensible-value choice. Drivers who prioritise a rock-solid vent mount should look to the **[Belkin BoostCharge Pro MagSafe Car Vent Mount](https://www.amazon.co.uk/dp/B0CP95233P?linkCode=ll2&tag=souvlakia-21)**.
+For most UK drivers, the **[Belkin BoostCharge Pro MagSafe Car Charger (Qi2 15W)](https://www.amazon.co.uk/dp/B0DHHJPY5M?linkCode=ll2&tag=souvlakia-21)** is the standout all-rounder, combining Qi2 15W wireless output, magnetic alignment and an air-vent mount with an included USB-C cable. If you want the essentials for less effort, the **[ESR HaloLock MagSafe Car Charger 15W](https://www.amazon.co.uk/dp/B08HNBHSQV?linkCode=ll2&tag=souvlakia-21)** covers the core charge-and-mount experience with strong magnets and a choice of mounts as the sensible-value choice. Drivers who prioritise a rock-solid vent mount should look to the **[Belkin BoostCharge Pro MagSafe Car Vent Mount](https://www.amazon.co.uk/s?k=Belkin+BoostCharge+Pro+MagSafe+Car+Vent+Mount&tag=souvlakia-21)**.
 
 ## How we chose
 
-We focused on the specs that actually matter for a MagSafe car charger: wireless output (up to 15W on the Anker and ESR), the strength and reliability of the magnetic MagSafe hold, mounting style, and how well each suits everyday UK driving and sat-nav use. We weighed build quality and brand track record against straightforward value. Every pick links straight to Amazon UK so you can check the latest price and availability for yourself.
+We focused on the specs that actually matter for a MagSafe car charger: wireless output (up to 15W across our picks, with Qi2 support on the overall pick), the strength and reliability of the magnetic MagSafe hold, mounting style, and how well each suits everyday UK driving and sat-nav use. We weighed build quality and brand track record against straightforward value. Every pick links straight to Amazon UK so you can check the current details for yourself.
 
 ## FAQ
 

@@ -4,11 +4,11 @@ Looking for a charger that keeps your Samsung Galaxy S24 topped up quickly and s
 
 ## Top picks
 
-### 1. [Anker Prime 67W GaN Wall Charger (3 Ports)](https://www.amazon.co.uk/dp/B0C4Y1FFQH?linkCode=ll2&tag=souvlakia-21) - Best Overall
+### 1. [Anker 67W GaN Wall Charger (3 Ports)](https://www.amazon.co.uk/dp/B0C4Y1FFQH?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
-**SPP Score: 7.8 / 10** - 67W output, compact GaN build. Our all-round pick.
+**SPP Score: 8.4 / 10** - 67W output, compact GaN build. Our all-round pick.
 
-The Anker Prime 67W is the pick we would hand most S24 owners. With 67W on tap across three ports and GaN internals, it can fast-charge your S24 while still leaving headroom to top up earbuds, a watch, or a tablet at the same time. Anker is a well-established name in charging, and USB-C Power Delivery means it plays nicely with the S24's fast-charge standard.
+The Anker 67W is the pick we would hand most S24 owners. With 67W on tap across three ports and GaN internals, it can fast-charge your S24 while still leaving headroom to top up earbuds, a watch, or a tablet at the same time. Anker is a well-established name in charging, and USB-C Power Delivery means it plays nicely with the S24's fast-charge standard.
 
 **Pros**
 - ✓ 67W of total output handles the S24 plus a second or third device
@@ -72,7 +72,7 @@ The UGREEN Nexode Pro 100W is the do-it-all pick for a busier setup. Its 100W ce
 
 ## Quick verdict
 
-For most Samsung S24 owners, the **[Anker Prime 67W GaN Wall Charger (3 Ports)](https://www.amazon.co.uk/dp/B0C4Y1FFQH?linkCode=ll2&tag=souvlakia-21)** strikes the best balance of fast charging, multiple ports and a compact GaN build. If you want dependable fast charging for the S24 and one extra device at a sensible value, the **[UGREEN USB C Charger 65W GaN 2-Port](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21)** covers the essentials nicely.
+For most Samsung S24 owners, the **[Anker 67W GaN Wall Charger (3 Ports)](https://www.amazon.co.uk/dp/B0C4Y1FFQH?linkCode=ll2&tag=souvlakia-21)** strikes the best balance of fast charging, multiple ports and a compact GaN build. If you want dependable fast charging for the S24 and one extra device at a sensible value, the **[UGREEN USB C Charger 65W GaN 2-Port](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21)** covers the essentials nicely.
 
 ## How we chose
 

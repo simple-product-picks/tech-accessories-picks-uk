@@ -4,7 +4,7 @@ Getting a USB-C laptop, tablet or phone onto a bigger screen comes down to picki
 
 ## Top picks
 
-### 1. [Anker USB C to HDMI Adapter 4K 60Hz](https://www.amazon.co.uk/dp/B0DCV753MN?linkCode=ll2&tag=souvlakia-21) - Best Overall
+### 1. [Anker USB C to HDMI Adapter 4K 60Hz](https://www.amazon.co.uk/s?k=Anker+USB+C+to+HDMI+Adapter+4K+60Hz&tag=souvlakia-21) - Best Overall
 
 **SPP Score: 8.1 / 10** - 4K output, plug-and-play simplicity. Our all-round pick.
 
@@ -22,29 +22,29 @@ The Anker USB C to HDMI Adapter is our standout because it does the one job most
 **Who it's for:** Anyone who mainly needs to mirror or extend a USB-C laptop or tablet to one HDMI display.
 **Who it's not for:** People who want one dongle to add multiple ports and charging at once.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0DCV753MN?linkCode=ll2&tag=souvlakia-21)
+[Check price on Amazon UK](https://www.amazon.co.uk/s?k=Anker+USB+C+to+HDMI+Adapter+4K+60Hz&tag=souvlakia-21)
 
 ---
 
-### 2. [UGREEN USB C to HDMI Adapter 4K](https://www.amazon.co.uk/dp/B07HSY63VQ?linkCode=ll2&tag=souvlakia-21) - Best Budget
+### 2. [UGREEN USB C to HDMI Adapter 4K@60Hz](https://www.amazon.co.uk/dp/B07X25ZR56?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
-**SPP Score: 8.0 / 10** - 4K output, plug-and-play simplicity. Our value pick.
+**SPP Score: 7.9 / 10** - 4K at 60Hz with HDR and Thunderbolt 3/4 compatibility. Our value pick.
 
-The UGREEN USB C to HDMI Adapter is the sensible-value choice that covers the essentials: a straightforward USB-C to HDMI connection with 4K output for hooking a laptop, phone or tablet up to a TV or monitor. UGREEN is a well-known accessories brand, and this adapter focuses on the basics rather than extra ports, which keeps it simple to live with. If you just need reliable big-screen output without the dock features, this is the easy pick.
+The UGREEN USB C to HDMI Adapter is the sensible-value choice that still covers the specs that matter: a straightforward USB-C to HDMI connection running 4K at a smooth 60Hz, with HDR support for richer contrast on a compatible screen. It is Thunderbolt 3 and 4 compatible, so it slots neatly into modern laptops, and the aluminium shell helps it shrug off life in a bag. UGREEN is a well-known accessories brand, and this adapter focuses on the essentials rather than extra ports, which keeps it simple to live with.
 
 **Pros**
-- ✓ 4K output for crisp picture on a modern TV or monitor
-- ✓ No-fuss single-cable design that works without software
-- ✓ Small and travel-friendly for occasional presentations or films
+- ✓ 4K at 60Hz for smooth, sharp motion on a modern TV or monitor
+- ✓ HDR support for richer contrast and colour on a compatible display
+- ✓ Thunderbolt 3 and 4 compatible, with a durable aluminium shell
 
 **Cons**
-- ✗ Confirm the supported refresh rate for your use before buying, as basic 4K adapters can run at 30Hz
 - ✗ HDMI only, with no added USB ports or passthrough charging
+- ✗ A single-purpose adapter, so it will not replace a full docking hub
 
-**Who it's for:** Buyers who want a no-frills, dependable way to get USB-C to HDMI.
-**Who it's not for:** Anyone needing a high refresh rate for fast on-screen motion or a multi-port hub.
+**Who it's for:** Buyers who want a compact, dependable USB-C to HDMI link that still hits 4K at 60Hz.
+**Who it's not for:** Anyone needing a multi-port hub with Ethernet and extra USB.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B07HSY63VQ?linkCode=ll2&tag=souvlakia-21)
+[Check price on Amazon UK](https://www.amazon.co.uk/dp/B07X25ZR56?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
@@ -72,7 +72,7 @@ The Anker USB C Hub 8-in-1 is the do-it-all pick for people who want one device 
 
 ## Quick verdict
 
-For most people the **[Anker USB C to HDMI Adapter 4K 60Hz](https://www.amazon.co.uk/dp/B0DCV753MN?linkCode=ll2&tag=souvlakia-21)** is the one to get, pairing a simple design with a smooth 60Hz 4K output. If you want a straightforward, value-focused option, the **[UGREEN USB C to HDMI Adapter 4K](https://www.amazon.co.uk/dp/B07HSY63VQ?linkCode=ll2&tag=souvlakia-21)** covers the essentials, while the **[Anker USB C Hub 8-in-1 with Ethernet and 10Gbps](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21)** is the choice when you want display, networking and storage from one hub.
+For most people the **[Anker USB C to HDMI Adapter 4K 60Hz](https://www.amazon.co.uk/s?k=Anker+USB+C+to+HDMI+Adapter+4K+60Hz&tag=souvlakia-21)** is the one to get, pairing a simple design with a smooth 60Hz 4K output. If you want a straightforward, value-focused option, the **[UGREEN USB C to HDMI Adapter 4K@60Hz](https://www.amazon.co.uk/dp/B07X25ZR56?linkCode=ll2&tag=souvlakia-21)** covers the essentials, while the **[Anker USB C Hub 8-in-1 with Ethernet and 10Gbps](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21)** is the choice when you want display, networking and storage from one hub.
 
 ## How we chose
 

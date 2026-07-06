@@ -4,51 +4,51 @@ Looking for a compact power bank to keep your phone topped up on the go? This gu
 
 ## Top picks
 
-### 1. [Anker Power Bank 10000mAh Slim](https://www.amazon.co.uk/dp/B0FQVFFPKJ?linkCode=ll2&tag=souvlakia-21) - Best Overall
+### 1. [INIU Power Bank 10000mAh 22.5W Slim](https://www.amazon.co.uk/dp/B08JTQ66K7?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
-**SPP Score: 7.8 / 10** - 10000mAh capacity. Our all-round pick.
+**SPP Score: 7.8 / 10** - 10000mAh capacity, 22.5W fast charging. Our all-round pick.
 
-The Anker Power Bank 10000mAh Slim hits the sweet spot for everyday carry: a 10000mAh cell holds enough charge for a full phone top-up or more, while the slim profile slips easily into a pocket or bag. Anker is a long-established name in portable charging, and this model focuses on keeping the footprint small without dropping capacity.
+The INIU Power Bank 10000mAh 22.5W Slim hits the sweet spot for everyday carry: a 10000mAh cell holds enough charge for a full phone top-up or more, while 22.5W PD and QC fast charging shortens the time spent tethered on compatible devices. The ultra-slim casing slips easily into a pocket or bag, and USB-C in and out means you can recharge the bank and your phone through the same connector, alongside a USB-A port for a second device.
 
 **Pros**
 - ✓ 10000mAh capacity comfortably covers a full smartphone recharge
-- ✓ Slim, pocketable form factor built for everyday carry
-- ✓ Trusted, well-known charging brand with a long track record
+- ✓ 22.5W PD and QC fast charging for quicker top-ups on compatible phones
+- ✓ Ultra-slim form factor with USB-C in/out plus a USB-A port
 
 **Cons**
-- ✗ Charging cable may not be included in the box - check the listing
+- ✗ Fast charging only benefits devices that support PD or QC
 - ✗ Slim design means a single, modest-capacity cell rather than a high-capacity brick
 
-**Who it's for:** Anyone wanting a light, low-bulk power bank for daily phone top-ups.
+**Who it's for:** Anyone wanting a light, low-bulk power bank with fast charging for daily phone top-ups.
 **Who it's not for:** Heavy users who need to recharge a tablet or several devices repeatedly.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0FQVFFPKJ?linkCode=ll2&tag=souvlakia-21)
+[Check price on Amazon UK](https://www.amazon.co.uk/dp/B08JTQ66K7?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
-### 2. [Anker Power Bank 10000mAh](https://www.amazon.co.uk/dp/B0CZ9M6X8Q?linkCode=ll2&tag=souvlakia-21) - Best Budget
+### 2. [Anker Zolo Power Bank 10000mAh 30W](https://www.amazon.co.uk/dp/B0CZ9M6X8Q?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
-**SPP Score: 7.7 / 10** - 10000mAh capacity. Our value pick.
+**SPP Score: 7.7 / 10** - 10000mAh capacity, 30W high-speed charging. Our value pick.
 
-The standard Anker Power Bank 10000mAh is the sensible-value choice: it covers the essentials with the same dependable 10000mAh capacity, just without the slimmest possible casing. If you want a no-fuss everyday charger from a recognised brand, this one keeps things simple.
+The Anker Zolo Power Bank 10000mAh 30W is the sensible-value choice: it pairs a dependable 10000mAh capacity with 30W high-speed output for brisk top-ups on compatible devices. A built-in USB-C cable means there is nothing extra to carry or misplace, and the USB-C port also handles recharging the bank itself, so it stays refreshingly simple to live with.
 
 **Pros**
-- ✓ Same 10000mAh capacity for a reliable full phone top-up
-- ✓ Straightforward, no-frills design that does the core job well
-- ✓ Backed by Anker's established reputation in portable power
+- ✓ 10000mAh capacity for a reliable full phone top-up
+- ✓ 30W high-speed output for faster charging on compatible devices
+- ✓ Built-in USB-C cable plus USB-C in/out, so nothing extra to carry
 
 **Cons**
-- ✗ Slightly chunkier than the Slim version
-- ✗ Cable and wall charger may need to be supplied separately
+- ✗ High-speed charging only benefits devices that support it
+- ✗ An integrated cable cannot be swapped out if it wears
 
-**Who it's for:** Buyers who want the essentials covered without paying for extras.
-**Who it's not for:** Those who prioritise the thinnest, most pocket-friendly shape.
+**Who it's for:** Buyers who want fast charging and a built-in cable without paying for extras.
+**Who it's not for:** Those who prefer to bring their own cable or want the thinnest possible shape.
 
 [Check price on Amazon UK](https://www.amazon.co.uk/dp/B0CZ9M6X8Q?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
-### 3. [UGREEN Power Bank 10000mAh 25W](https://www.amazon.co.uk/dp/B0C9CSG3B7?linkCode=ll2&tag=souvlakia-21) - Best Premium
+### 3. [UGREEN Power Bank 10000mAh 25W](https://www.amazon.co.uk/s?k=UGREEN+Power+Bank+10000mAh+25W&tag=souvlakia-21) - Best Premium
 
 **SPP Score: 7.9 / 10** - 10000mAh capacity, 25W output. Our pick for maximum capability.
 
@@ -66,13 +66,13 @@ The UGREEN Power Bank 10000mAh 25W is the do-it-all pick thanks to its 25W outpu
 **Who it's for:** Users who want quicker top-ups and a bit more capability from a compact bank.
 **Who it's not for:** People with older phones that can't use the higher-wattage fast charging.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0C9CSG3B7?linkCode=ll2&tag=souvlakia-21)
+[Check price on Amazon UK](https://www.amazon.co.uk/s?k=UGREEN+Power+Bank+10000mAh+25W&tag=souvlakia-21)
 
 ---
 
 ## Quick verdict
 
-For most people the **[Anker Power Bank 10000mAh Slim](https://www.amazon.co.uk/dp/B0FQVFFPKJ?linkCode=ll2&tag=souvlakia-21)** is the standout, pairing a full-recharge 10000mAh cell with a genuinely pocketable shape. If you just want the essentials covered, the **[Anker Power Bank 10000mAh](https://www.amazon.co.uk/dp/B0CZ9M6X8Q?linkCode=ll2&tag=souvlakia-21)** is the sensible-value choice, while the **[UGREEN Power Bank 10000mAh 25W](https://www.amazon.co.uk/dp/B0C9CSG3B7?linkCode=ll2&tag=souvlakia-21)** adds faster 25W charging for those who want it.
+For most people the **[INIU Power Bank 10000mAh 22.5W Slim](https://www.amazon.co.uk/dp/B08JTQ66K7?linkCode=ll2&tag=souvlakia-21)** is the standout, pairing a full-recharge 10000mAh cell with 22.5W fast charging in a genuinely pocketable shape. If you want fast charging and a built-in cable with no extras to carry, the **[Anker Zolo Power Bank 10000mAh 30W](https://www.amazon.co.uk/dp/B0CZ9M6X8Q?linkCode=ll2&tag=souvlakia-21)** is the sensible-value choice, while the **[UGREEN Power Bank 10000mAh 25W](https://www.amazon.co.uk/s?k=UGREEN+Power+Bank+10000mAh+25W&tag=souvlakia-21)** adds faster 25W charging for those who want it.
 
 ## How we chose
 

@@ -26,33 +26,33 @@ UGREEN is a well-established maker of charging and audio accessories, and this U
 
 ---
 
-### 2. [UGREEN USB C to 3.5mm Adapter Compact](https://www.amazon.co.uk/dp/B07Z7CMZ6S?linkCode=ll2&tag=souvlakia-21) - Best Budget
+### 2. [Anker USB C to 3.5mm Audio Adapter](https://www.amazon.co.uk/dp/B08Z3B5QL3?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
-**SPP Score: 7.7 / 10** - Plug-and-play simplicity. Our value pick.
+**SPP Score: 7.8 / 10** - USB-C to 3.5mm with in-line controls on a nylon cable. Our value pick.
 
-This compact UGREEN adapter is the sensible-value choice when you just need the essentials covered. It does the core job of bringing a 3.5mm headphone output to a USB-C device, in an even smaller form factor that is easy to leave attached to a cable or tuck into a bag. For most everyday listening, it is all you really need.
+Anker is a familiar name in charging and audio accessories, and this USB-C to 3.5mm adapter is the sensible-value choice when you want a little more than the bare essentials. It carries an analogue headphone signal to a standard 3.5mm jack for wired earphones, headphones, and aux leads, and adds in-line controls so you can handle calls, volume, and track skips without reaching for your phone. The nylon cable gives it a bit of length and flex to sit comfortably between your device and your headphones.
 
 **Pros**
-- ✓ Extra-compact design that is easy to carry or leave permanently on an aux lead
-- ✓ Covers the core USB-C to 3.5mm headphone connection without extra bulk
-- ✓ Comes from UGREEN, a familiar name in everyday accessories
+- ✓ Brings a standard 3.5mm headphone output to a USB-C device
+- ✓ In-line controls for calls, volume, and track changes without touching your phone
+- ✓ Braided nylon cable adds length and everyday flexibility
 
 **Cons**
-- ✗ Minimal form factor means there is no charging port for pass-through power
-- ✗ A short, fixed connector offers less flexibility than a longer cabled adapter
+- ✗ No charging pass-through, so you cannot listen and charge at the same time
+- ✗ Compatibility with some manufacturers' ports can vary, so confirm your device is supported
 
-**Who it's for:** Buyers who want a no-frills, space-saving adapter for wired headphones or an aux cable.
-**Who it's not for:** Those who want extra features such as in-line controls or charge pass-through.
+**Who it's for:** Buyers who want in-line call and volume controls on a flexible cabled adapter without paying more.
+**Who it's not for:** Those who prefer the smallest possible connector or need charge pass-through.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B07Z7CMZ6S?linkCode=ll2&tag=souvlakia-21)
+[Check price on Amazon UK](https://www.amazon.co.uk/dp/B08Z3B5QL3?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
-### 3. [Apple USB-C to 3.5mm Headphone Jack Adapter](https://www.amazon.co.uk/dp/B0B5XY4GRZ?linkCode=ll2&tag=souvlakia-21) - Best Premium
+### 3. [Apple USB-C to 3.5mm Headphone Jack Adapter](https://www.amazon.co.uk/dp/B07K2NH6ZN?linkCode=ll2&tag=souvlakia-21) - Best Premium
 
-**SPP Score: 7.8 / 10** - Plug-and-play simplicity. Our pick for maximum capability.
+**SPP Score: 8.0 / 10** - Genuine Apple USB-C to 3.5mm with a built-in DAC. Our pick for maximum capability.
 
-Apple's own USB-C to 3.5mm adapter is the do-it-all pick for anyone in the Apple ecosystem who wants guaranteed first-party compatibility. As a genuine Apple accessory it is designed to work smoothly with USB-C iPhones, iPads, and Macs, taking the guesswork out of pairing your wired headphones. It is a tidy, reliable option when you want the manufacturer's own hardware.
+Apple's own USB-C to 3.5mm adapter is the do-it-all pick for anyone in the Apple ecosystem who wants guaranteed first-party compatibility. As a genuine Apple accessory it is designed to work smoothly with USB-C iPhones, iPads, and Macs, taking the guesswork out of pairing your wired headphones. A built-in DAC handles the analogue conversion, and it stays completely plug-and-play with no setup required.
 
 **Pros**
 - ✓ Genuine Apple accessory designed for seamless use with USB-C iPhones, iPads, and Macs
@@ -66,13 +66,13 @@ Apple's own USB-C to 3.5mm adapter is the do-it-all pick for anyone in the Apple
 **Who it's for:** Apple device owners who value first-party compatibility and a hassle-free fit.
 **Who it's not for:** Buyers who want the most feature-packed adapter or extras beyond a plain headphone jack.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0B5XY4GRZ?linkCode=ll2&tag=souvlakia-21)
+[Check price on Amazon UK](https://www.amazon.co.uk/dp/B07K2NH6ZN?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
 ## Quick verdict
 
-For most people the **[UGREEN USB C to 3.5mm Audio Adapter](https://www.amazon.co.uk/dp/B082WG5VTK?linkCode=ll2&tag=souvlakia-21)** is the standout all-rounder, pairing solid build with broad compatibility for wired headphones and aux leads. If you simply want the essentials in the smallest possible package, the **[UGREEN USB C to 3.5mm Adapter Compact](https://www.amazon.co.uk/dp/B07Z7CMZ6S?linkCode=ll2&tag=souvlakia-21)** is the sensible-value choice. Apple users after guaranteed first-party fit should look at the premium **[Apple USB-C to 3.5mm Headphone Jack Adapter](https://www.amazon.co.uk/dp/B0B5XY4GRZ?linkCode=ll2&tag=souvlakia-21)**.
+For most people the **[UGREEN USB C to 3.5mm Audio Adapter](https://www.amazon.co.uk/dp/B082WG5VTK?linkCode=ll2&tag=souvlakia-21)** is the standout all-rounder, pairing solid build with broad compatibility for wired headphones and aux leads. If you want handy in-line call and volume controls on a flexible cabled adapter, the **[Anker USB C to 3.5mm Audio Adapter](https://www.amazon.co.uk/dp/B08Z3B5QL3?linkCode=ll2&tag=souvlakia-21)** is the sensible-value choice. Apple users after guaranteed first-party fit should look at the premium **[Apple USB-C to 3.5mm Headphone Jack Adapter](https://www.amazon.co.uk/dp/B07K2NH6ZN?linkCode=ll2&tag=souvlakia-21)**.
 
 ## How we chose
 
