@@ -27,25 +27,26 @@ The INIU Power Bank 20000mAh 65W hits the balance most people actually want: a l
 
 ---
 
-### 2. [INIU Power Bank 20000mAh](https://www.amazon.co.uk/s?k=INIU+Power+Bank+20000mAh&tag=souvlakia-21) - Best Budget
+### 2. [INIU Power Bank 20000mAh 45W](https://www.amazon.co.uk/dp/B0DCZ82MGG?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
-**SPP Score: 7.9 / 10** - 20000mAh capacity. Our value pick.
+**SPP Score: 7.9 / 10** - 20000mAh capacity, 45W USB-C fast charging, slim body with USB-C in and out. Our value pick.
 
-The INIU Power Bank 20000mAh is the sensible-value choice for anyone who just wants plenty of capacity without paying for laptop-grade wattage. It covers the essentials: a big 20000mAh cell to keep phones and earbuds going across a long day, a weekend, or a festival. INIU has built a name supplying straightforward, no-fuss portable chargers, making this an easy pick for a first power bank or a spare.
+The INIU Power Bank 20000mAh 45W is the sensible-value choice for anyone who wants plenty of capacity plus genuinely fast charging without paying for laptop-grade wattage. Its 45W USB-C output still fast-charges phones and tablets - lower than the flagship, but ample for everyday devices - while the big 20000mAh cell keeps phones and earbuds going across a long day, a weekend, or a festival. The USB-C port handles both input and output, so the same port that charges your phone also refills the bank, and the slim body slips easily into a bag or pocket. It makes an easy pick for a first power bank or a dependable spare.
 
 **Pros**
 - ✓ Generous 20000mAh capacity for the everyday user
-- ✓ Covers phones, earbuds, and small accessories with room to spare
-- ✓ Simple, practical design suited to slipping into a bag
+- ✓ 45W USB-C fast charging is quick for phones and tablets
+- ✓ USB-C in and out - one port charges devices and refills the bank
+- ✓ Slim body slips easily into a bag or pocket
 
 **Cons**
-- ✗ Recharging a 20000mAh cell from empty takes time
-- ✗ Less suited to high-wattage devices like laptops
+- ✗ 45W is lower than the flagship, so laptops charge slower or not at all
+- ✗ Recharging a 20000mAh cell from empty still takes time
 
-**Who it's for:** Everyday users who want lots of capacity for phones and accessories without extra frills.
+**Who it's for:** Everyday users who want lots of capacity and fast phone and tablet charging without paying for laptop-class wattage.
 **Who it's not for:** Power users who need laptop-class output or the fastest possible charging.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/s?k=INIU+Power+Bank+20000mAh&tag=souvlakia-21)
+[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0DCZ82MGG?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
@@ -74,7 +75,7 @@ The UGREEN Nexode Power Bank 20000mAh 165W is the do-it-all pick for people who 
 
 ## Quick verdict
 
-For most people the **[INIU Power Bank 20000mAh 65W](https://www.amazon.co.uk/dp/B0DB89DSHV?linkCode=ll2&tag=souvlakia-21)** is the pick to beat, combining big capacity with 65W fast charging and three outputs in a compact package. If you want plenty of capacity without paying for laptop-grade output, the **[INIU Power Bank 20000mAh](https://www.amazon.co.uk/s?k=INIU+Power+Bank+20000mAh&tag=souvlakia-21)** is the value-led choice, while laptop users should look at the **[UGREEN Nexode Power Bank 20000mAh 165W](https://www.amazon.co.uk/dp/B0DSPXHFBM?linkCode=ll2&tag=souvlakia-21)** for its high-wattage output and built-in retractable cable.
+For most people the **[INIU Power Bank 20000mAh 65W](https://www.amazon.co.uk/dp/B0DB89DSHV?linkCode=ll2&tag=souvlakia-21)** is the pick to beat, combining big capacity with 65W fast charging and three outputs in a compact package. If you want plenty of capacity plus fast phone and tablet charging without paying for laptop-grade output, the **[INIU Power Bank 20000mAh 45W](https://www.amazon.co.uk/dp/B0DCZ82MGG?linkCode=ll2&tag=souvlakia-21)** is the value-led choice, while laptop users should look at the **[UGREEN Nexode Power Bank 20000mAh 165W](https://www.amazon.co.uk/dp/B0DSPXHFBM?linkCode=ll2&tag=souvlakia-21)** for its high-wattage output and built-in retractable cable.
 
 ## How we chose
 

@@ -1,6 +1,6 @@
 # Best Power Bank Under 30 UK 2026
 
-Looking for a compact power bank to keep your phone topped up on the go? This guide rounds up three solid 10000mAh picks, what each one does well, and who each suits, so you can choose with confidence and check the current price on Amazon UK.
+Looking for a compact power bank to keep your phone topped up on the go? This guide rounds up three solid 10000mAh picks - including a MagSafe-style magnetic wireless option - what each one does well, and who each suits, so you can choose with confidence and check the current price on Amazon UK.
 
 ## Top picks
 
@@ -48,31 +48,31 @@ The Anker Zolo Power Bank 10000mAh 30W is the sensible-value choice: it pairs a 
 
 ---
 
-### 3. [UGREEN Power Bank 10000mAh 25W](https://www.amazon.co.uk/s?k=UGREEN+Power+Bank+10000mAh+25W&tag=souvlakia-21) - Best Premium
+### 3. [UGREEN MagFlow MagSafe Power Bank 10000mAh (Qi2 25W)](https://www.amazon.co.uk/dp/B0G2S9LVS4?linkCode=ll2&tag=souvlakia-21) - Best Premium
 
-**SPP Score: 7.9 / 10** - 10000mAh capacity, 25W output. Our pick for maximum capability.
+**SPP Score: 7.9 / 10** - 10000mAh capacity with Qi2 25W magnetic wireless charging plus PD 30W wired. Our pick for maximum capability.
 
-The UGREEN Power Bank 10000mAh 25W is the do-it-all pick thanks to its 25W output, which supports faster top-ups on compatible phones via USB Power Delivery. With the same 10000mAh capacity plus quicker charging, it suits anyone who wants to spend less time tethered to a wall.
+The UGREEN MagFlow is the most capable pick because it charges two ways from one 10000mAh bank. It snaps magnetically onto the back of a compatible iPhone and charges wirelessly at up to Qi2 25W, so there is no cable to plug in for a quick top-up, and the magnetic hold lets you keep using the phone while it charges. When you want the fastest fill, a built-in cable delivers up to 30W wired PD, and that same connection recharges the bank itself. It is the do-it-all option for anyone who wants MagSafe-style convenience and wired speed in a single compact unit.
 
 **Pros**
-- ✓ 25W output enables faster charging on PD-compatible phones
+- ✓ Qi2 25W magnetic wireless charging snaps straight onto a compatible iPhone, no cable needed
+- ✓ Built-in cable adds up to 30W wired PD when you want the quickest top-up
 - ✓ 10000mAh capacity covers a full smartphone recharge with headroom
-- ✓ UGREEN is a respected maker of charging and connectivity gear
 
 **Cons**
-- ✗ Faster charging only benefits devices that support the standard
-- ✗ Cable may not be included - confirm on the listing
+- ✗ Full Qi2 magnetic alignment and speed depend on a MagSafe-compatible iPhone
+- ✗ Magnetic wireless charging adds a little bulk over a plain wired-only bank
 
-**Who it's for:** Users who want quicker top-ups and a bit more capability from a compact bank.
-**Who it's not for:** People with older phones that can't use the higher-wattage fast charging.
+**Who it's for:** iPhone users who want cable-free magnetic charging plus a wired fast option in one bank.
+**Who it's not for:** Android owners without magnetic alignment, or anyone who only needs simple wired charging.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/s?k=UGREEN+Power+Bank+10000mAh+25W&tag=souvlakia-21)
+[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0G2S9LVS4?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
 ## Quick verdict
 
-For most people the **[INIU Power Bank 10000mAh 22.5W Slim](https://www.amazon.co.uk/dp/B08JTQ66K7?linkCode=ll2&tag=souvlakia-21)** is the standout, pairing a full-recharge 10000mAh cell with 22.5W fast charging in a genuinely pocketable shape. If you want fast charging and a built-in cable with no extras to carry, the **[Anker Zolo Power Bank 10000mAh 30W](https://www.amazon.co.uk/dp/B0CZ9M6X8Q?linkCode=ll2&tag=souvlakia-21)** is the sensible-value choice, while the **[UGREEN Power Bank 10000mAh 25W](https://www.amazon.co.uk/s?k=UGREEN+Power+Bank+10000mAh+25W&tag=souvlakia-21)** adds faster 25W charging for those who want it.
+For most people the **[INIU Power Bank 10000mAh 22.5W Slim](https://www.amazon.co.uk/dp/B08JTQ66K7?linkCode=ll2&tag=souvlakia-21)** is the standout, pairing a full-recharge 10000mAh cell with 22.5W fast charging in a genuinely pocketable shape. If you want fast charging and a built-in cable with no extras to carry, the **[Anker Zolo Power Bank 10000mAh 30W](https://www.amazon.co.uk/dp/B0CZ9M6X8Q?linkCode=ll2&tag=souvlakia-21)** is the sensible-value choice, while the **[UGREEN MagFlow MagSafe Power Bank 10000mAh (Qi2 25W)](https://www.amazon.co.uk/dp/B0G2S9LVS4?linkCode=ll2&tag=souvlakia-21)** adds Qi2 25W magnetic wireless charging plus 30W wired PD for those who want cable-free convenience and wired speed in one.
 
 ## How we chose
 
@@ -83,8 +83,8 @@ We focused on the specs that actually matter in this category: real capacity (al
 **Q: How many phone charges does a 10000mAh power bank give?**
 A: For most modern smartphones a 10000mAh bank delivers roughly one to two full charges, depending on your phone's battery size and charging losses.
 
-**Q: What does the 25W rating on the UGREEN mean?**
-A: It refers to the maximum charging output, which supports faster top-ups on phones that accept USB Power Delivery fast charging; older devices simply charge at their normal rate.
+**Q: What does the Qi2 25W rating on the UGREEN MagFlow mean?**
+A: It refers to the maximum wireless charging output when the bank is snapped magnetically onto a Qi2 / MagSafe-compatible iPhone; the same bank also offers up to 30W wired PD via its built-in cable, and non-compatible phones simply charge at their normal rate.
 
 **Q: Can I take a 10000mAh power bank on a plane?**
 A: A 10000mAh bank is well within typical airline limits for cabin carry-on, but always check your airline's current rules and keep it in your hand luggage, never in the hold.
