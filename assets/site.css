@@ -603,3 +603,83 @@ footer a:hover { color: #ffffff; }
   .pick-card { padding: 18px 18px; }
   .panel { padding: 16px; }
 }
+
+/* -- Breadcrumbs ------------------------------------------------- */
+.breadcrumbs {
+  max-width: 960px; margin: 0 auto;
+  font-size: 13px; color: var(--muted);
+}
+.breadcrumbs .wrap {
+  display: flex; align-items: center; gap: 8px;
+  padding-top: 12px; padding-bottom: 0;
+  white-space: nowrap; overflow: hidden;
+}
+.breadcrumbs a { color: var(--blue); font-weight: 600; }
+.breadcrumbs a:hover { text-decoration: underline; }
+.breadcrumbs .bc-sep { color: var(--border-mid); font-size: 15px; }
+.breadcrumbs .bc-here { overflow: hidden; text-overflow: ellipsis; }
+
+/* -- Pros / cons list items (server-rendered classes) ------------ */
+.content li.pro { list-style: none; color: var(--green); font-weight: 500; font-size: 16px; }
+.content li.con { list-style: none; color: var(--red); font-weight: 500; font-size: 16px; }
+
+/* -- Dark mode ---------------------------------------------------- */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text:       #e7ecf5;
+    --text-soft:  #c3cbd9;
+    --muted:      #8b96a8;
+    --border:     #223052;
+    --border-mid: #2d3d63;
+    --bg:         #0b1220;
+    --bg-soft:    #0f1830;
+    --bg-grey:    #101a2e;
+    --blue-light: #14213d;
+    --blue-mid:   #2b436f;
+    --amber-bg:   #2a2109;
+    --green:      #4ade80;
+    --red:        #f87171;
+    --shadow-sm:  0 1px 2px rgba(0,0,0,.4), 0 1px 4px rgba(0,0,0,.3);
+    --shadow-md:  0 4px 10px rgba(0,0,0,.4), 0 12px 28px rgba(0,0,0,.45);
+  }
+  /* tokens used as TEXT colors on light surfaces need light equivalents */
+  .hero-title, .page-hero .hero-title, .h2-tight, .h2-block,
+  .post-card strong { color: #dbe7ff; }
+  .content h2, .page-card h2 { color: #b6ccff; }
+  .content strong a { color: #93b4ff; }
+  .content h3 a:hover, .content h2 a:hover { color: #93b4ff; }
+  .compare-table tbody td:nth-child(3) { color: #b6ccff; }
+  .breadcrumbs a { color: #7ea6ff; }
+  .post-card .card-cat { color: #7ea6ff; }
+  .cat-section-title { color: #b6ccff; }
+  .price-note { color: var(--text-soft); }
+  /* surfaces */
+  .hero.panel, .hero-section, .page-hero {
+    background: linear-gradient(180deg, #0e1730 0%, #0b1220 85%);
+  }
+  .trust-item { background: #101a30; border-color: var(--border-mid); }
+  .compare-table tbody tr:first-child .cell-row,
+  .compare-table tbody tr:first-child .cell {
+    background: var(--amber-bg); border-bottom-color: #4a3a10;
+  }
+  .compare-table tbody tr:first-child:hover .cell-row,
+  .compare-table tbody tr:first-child:hover .cell { background: #332a0d; }
+  .table-wrap {
+    background:
+      linear-gradient(to right, var(--bg) 30%, rgba(11,18,32,0)),
+      linear-gradient(to left,  var(--bg) 30%, rgba(11,18,32,0)) 100% 0,
+      radial-gradient(farthest-side at 0 50%, rgba(0,0,0,.6), transparent),
+      radial-gradient(farthest-side at 100% 50%, rgba(0,0,0,.6), transparent) 100% 0;
+    background-repeat: no-repeat;
+    background-size: 44px 100%, 44px 100%, 16px 100%, 16px 100%;
+    background-attachment: local, local, scroll, scroll;
+  }
+  .verdict-box {
+    background: linear-gradient(180deg, #14213d 0%, #101a30 100%);
+  }
+  .sticky-cta {
+    background: rgba(11,18,32,.92);
+    box-shadow: 0 -6px 24px rgba(0,0,0,.5);
+  }
+  .hero-kicker, .page-hero .hero-kicker, .home-hero .badge { color: #4a2c05; }
+}
