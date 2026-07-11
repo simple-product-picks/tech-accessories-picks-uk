@@ -46,7 +46,7 @@ The INIU Power Bank 20000mAh 45W is the sensible-value choice for anyone who wan
 **Who it's for:** Everyday users who want lots of capacity and fast phone and tablet charging without paying for laptop-class wattage.
 **Who it's not for:** Power users who need laptop-class output or the fastest possible charging.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0DCZ82MGG?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0DCZ82MGG?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
@@ -69,7 +69,7 @@ The UGREEN Nexode Power Bank 20000mAh 165W is the do-it-all pick for people who 
 **Who it's for:** Laptop users and frequent travellers who want one high-wattage bank to power everything at speed.
 **Who it's not for:** Light users who only ever charge a phone and want the smallest possible bank.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0DSPXHFBM?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0DSPXHFBM?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

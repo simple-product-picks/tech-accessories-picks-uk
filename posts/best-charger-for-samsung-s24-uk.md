@@ -44,7 +44,7 @@ The UGREEN 65W 2-Port is the sensible-value choice that covers the essentials wi
 **Who it's for:** Buyers who want dependable fast charging for the S24 and one extra device without overspending.
 **Who it's not for:** Households needing to charge three or more gadgets from a single plug.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
@@ -66,7 +66,7 @@ The UGREEN Nexode Pro 100W is the do-it-all pick for a busier setup. Its 100W ce
 **Who it's for:** S24 owners who also charge a USB-C laptop and want one charger to run everything.
 **Who it's not for:** Light users who never need more than phone-level wattage.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0CCVDXHM6?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0CCVDXHM6?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

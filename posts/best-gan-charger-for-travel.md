@@ -44,7 +44,7 @@ The UGREEN 65W GaN is the sensible-value choice, covering the essentials with tw
 **Who it's for:** Travellers who want one charger to cover a laptop plus a phone and keep their bag light.
 **Who it's not for:** Anyone needing three or more ports for a tablet, watch and earbuds too.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
@@ -67,7 +67,7 @@ This is the do-it-all pick: 100W across three ports means it can power a demandi
 **Who it's for:** Frequent travellers and remote workers charging a laptop plus multiple devices.
 **Who it's not for:** Minimalists who only ever need to charge a single phone.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0FL2DR4TH?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0FL2DR4TH?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

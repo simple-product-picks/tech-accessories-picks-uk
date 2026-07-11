@@ -44,7 +44,7 @@ The Anker Zolo Power Bank 10000mAh 30W is the sensible-value choice: it pairs a 
 **Who it's for:** Buyers who want fast charging and a built-in cable without paying for extras.
 **Who it's not for:** Those who prefer to bring their own cable or want the thinnest possible shape.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0CZ9M6X8Q?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0CZ9M6X8Q?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
@@ -66,7 +66,7 @@ The UGREEN MagFlow is the most capable pick because it charges two ways from one
 **Who it's for:** iPhone users who want cable-free magnetic charging plus a wired fast option in one bank.
 **Who it's not for:** Android owners without magnetic alignment, or anyone who only needs simple wired charging.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0G2S9LVS4?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0G2S9LVS4?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

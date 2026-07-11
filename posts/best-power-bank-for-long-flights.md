@@ -44,7 +44,7 @@ The 20000mAh capacity gives you the multi-charge headroom that long flights dema
 **Who it's for:** Budget-minded flyers who want laptop-capable charging and a built-in cable in one pack.
 **Who it's not for:** Travellers who need the very highest charge speeds or the smallest, lightest bank.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0CXDXP8VR?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0CXDXP8VR?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
@@ -66,7 +66,7 @@ The Anker Prime is the do-it-all pick, pairing a 20000mAh capacity with a 200W t
 **Who it's for:** Multi-device travellers who want the fastest in-seat charging and a live readout of what the pack is doing.
 **Who it's not for:** Light packers who only carry a phone and want the smallest possible bank.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0BYNZXFM2?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0BYNZXFM2?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

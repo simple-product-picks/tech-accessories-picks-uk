@@ -44,7 +44,7 @@ The UGREEN Nexode 100W is the sensible-value choice that covers the essentials w
 **Who it's for:** Households or travellers who need to charge several devices from one wall socket.
 **Who it's not for:** Buyers who want a power readout or only ever charge one device at a time.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B091N7FVDL?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B091N7FVDL?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
@@ -66,7 +66,7 @@ The Nexode Pro 100W is the do-it-all pick for people who want a polished, capabl
 **Who it's for:** Laptop-first users who want a refined, capable GaN charger with sustained high output.
 **Who it's not for:** People who simply need a basic top-up charger and won't use the extra capability.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0CCVDXHM6?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0CCVDXHM6?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

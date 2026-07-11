@@ -44,7 +44,7 @@ This Anker 7-in-1 hub is the sensible-value choice that covers the essentials wi
 **Who it's for:** ThinkPad owners who want a tidy, no-fuss hub for a single display and everyday peripherals.
 **Who it's not for:** Anyone needing the full connection count of a larger docking station.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B07ZVKTP53?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B07ZVKTP53?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
@@ -66,7 +66,7 @@ The Anker 8-in-1 is the do-it-all pick for ThinkPad users who want speed alongsi
 **Who it's for:** ThinkPad users who move large files and want Ethernet and fast data from a compact hub.
 **Who it's not for:** Anyone who only plugs in a mouse and one screen and wants the simplest possible option.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

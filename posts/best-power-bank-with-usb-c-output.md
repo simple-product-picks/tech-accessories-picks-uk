@@ -44,7 +44,7 @@ The Anker Zolo Power Bank 10000mAh 30W is the sensible-value choice that covers 
 **Who it's for:** Commuters and travellers who just need reliable phone top-ups with a cable built in.
 **Who it's not for:** Anyone needing to fast-charge a laptop or power several devices at once.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0CZ9M6X8Q?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0CZ9M6X8Q?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
@@ -66,7 +66,7 @@ The Anker Prime Power Bank 20000mAh 200W is the highest-capability pick, combini
 **Who it's for:** Power users and travellers charging laptops and several devices off one bank.
 **Who it's not for:** Someone who only needs occasional phone top-ups and wants to travel light.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0BYNZXFM2?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0BYNZXFM2?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

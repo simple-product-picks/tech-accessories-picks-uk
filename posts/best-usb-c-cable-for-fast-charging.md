@@ -44,7 +44,7 @@ The Anker USB C to USB C Cable 100W is the sensible-value choice that does not s
 **Who it's for:** Phone and tablet owners who want fast, certified charging in a tough braided lead without paying for extras.
 **Who it's not for:** People who need high-speed data transfer over the same cable.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B09LPXJ3RX?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B09LPXJ3RX?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
@@ -66,7 +66,7 @@ The Anker Prime USB C to USB C Cable 240W is the do-it-all pick for the most dem
 **Who it's for:** Power users with high-wattage laptops or EPR-capable gear who want maximum charging headroom.
 **Who it's not for:** Anyone whose devices top out well below 100W, where the extra capability goes unused.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0DCF9FZZ3?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0DCF9FZZ3?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

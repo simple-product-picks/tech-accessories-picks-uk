@@ -46,7 +46,7 @@ The Anker 5-in-1 is the sensible-value choice that covers the essentials for cou
 **Who it's for:** Players who mainly want HDMI, charging and a couple of USB ports in a pocketable form.
 **Who it's not for:** Anyone who needs wired Ethernet or an SD card slot.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0BQLLB61B?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0BQLLB61B?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
@@ -69,7 +69,7 @@ The Revodok Pro 210 is the do-it-all dock, turning a Steam Deck into a full desk
 **Who it's for:** Owners who use the Steam Deck as a desktop replacement with monitors, wired network and peripherals.
 **Who it's not for:** Anyone who just wants a small hub for occasional TV play.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0BXDQS4BD?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0BXDQS4BD?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

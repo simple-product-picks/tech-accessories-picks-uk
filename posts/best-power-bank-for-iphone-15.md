@@ -44,7 +44,7 @@ The Anker Zolo Power Bank keeps things simple by building the USB-C cable straig
 **Who it's for:** Buyers who want a cable-free-to-carry, all-in-one pack with fast wired charging built in.
 **Who it's not for:** Anyone who wants snap-on wireless charging or the freedom to swap cables.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0CZ9M6X8Q?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0CZ9M6X8Q?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
@@ -66,7 +66,7 @@ The Anker Nano 45W is the do-it-all pick, pairing a 10000mAh capacity with a 45W
 **Who it's for:** iPhone 15 owners who want the highest output and a tidy built-in retractable cable.
 **Who it's not for:** Minimalists happy with a plain, lower-output wired pack.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0DGKWTQQC?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0DGKWTQQC?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

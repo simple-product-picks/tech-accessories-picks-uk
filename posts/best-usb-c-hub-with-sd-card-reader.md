@@ -46,7 +46,7 @@ The Anker 547 is the sensible-value choice for MacBook owners, with a dual-plug 
 **Who it's for:** MacBook users who want a neat, essentials-covered hub with a card slot.
 **Who it's not for:** Single-port Windows laptop owners or anyone needing wired Ethernet.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0BNZ5V1TF?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0BNZ5V1TF?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
@@ -69,7 +69,7 @@ This Anker 8-in-1 is the do-it-all pick, adding Gigabit Ethernet to a full set o
 **Who it's for:** Anyone who wants one hub for the desk, including wired Ethernet and an external display.
 **Who it's not for:** Minimalists who never need Ethernet and want the smallest possible adapter.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

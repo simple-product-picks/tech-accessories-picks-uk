@@ -44,7 +44,7 @@ The ESR HaloLock is the sensible-value choice that covers the essentials: MagSaf
 **Who it's for:** Buyers who want straightforward MagSafe charging with a choice of vent or dashboard mounting.
 **Who it's not for:** Drivers wanting the newest Qi2 standard or the widest device support.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B08HNBHSQV?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B08HNBHSQV?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
@@ -66,7 +66,7 @@ Belkin's BoostCharge Pro is the step-up option, bringing the newer Qi2 standard 
 **Who it's for:** Drivers who want the newer Qi2 standard and the most capable wireless charge from a familiar brand.
 **Who it's not for:** Anyone happy with a simpler kit who does not need Qi2 or the fastest wireless output.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0DHHJPY5M?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0DHHJPY5M?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

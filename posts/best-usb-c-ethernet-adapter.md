@@ -44,7 +44,7 @@ The sensible-value choice that covers the essentials without any extras you don'
 **Who it's for:** Anyone wanting a straightforward, dependable wired connection without paying for features they won't use.
 **Who it's not for:** Users who need extra USB ports, card readers, or multi-gig speeds from one dongle.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B08989MYQ2?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B08989MYQ2?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
@@ -66,7 +66,7 @@ This UGREEN adapter steps up to 5Gbps Ethernet for the most capable connection o
 **Who it's for:** Power users on multi-gigabit broadband or fast local networks who want maximum wired throughput.
 **Who it's not for:** Anyone on standard Gigabit broadband, where a basic adapter delivers the same real-world speed.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0DNSTHRGQ?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0DNSTHRGQ?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

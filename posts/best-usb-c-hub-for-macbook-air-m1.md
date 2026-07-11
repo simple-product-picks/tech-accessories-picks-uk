@@ -44,7 +44,7 @@ The UGREEN Revodok is the sensible-value choice that still covers the essentials
 **Who it's for:** Buyers who want Ethernet and plenty of USB-A without paying for premium extras.
 **Who it's not for:** Anyone who regularly offloads from microSD cards or needs 10Gbps speeds.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
@@ -66,7 +66,7 @@ This 8-in-1 Anker hub is the do-it-all pick, built around fast 10Gbps data trans
 **Who it's for:** Power users and creators who move large files and want the broadest port selection.
 **Who it's not for:** Anyone who only needs HDMI and a USB-A port for occasional use.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

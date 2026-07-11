@@ -44,7 +44,7 @@ Anker is a familiar name in charging and audio accessories, and this USB-C to 3.
 **Who it's for:** Buyers who want in-line call and volume controls on a flexible cabled adapter without paying more.
 **Who it's not for:** Those who prefer the smallest possible connector or need charge pass-through.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B08Z3B5QL3?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B08Z3B5QL3?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
@@ -66,7 +66,7 @@ Apple's own USB-C to 3.5mm adapter is the do-it-all pick for anyone in the Apple
 **Who it's for:** Apple device owners who value first-party compatibility and a hassle-free fit.
 **Who it's not for:** Buyers who want the most feature-packed adapter or extras beyond a plain headphone jack.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B07K2NH6ZN?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B07K2NH6ZN?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

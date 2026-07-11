@@ -44,7 +44,7 @@ This Anker 7-in-1 is the sensible-value choice when you want to cover the essent
 **Who it's for:** People who want a compact, no-fuss hub and already have a USB-C-capable second monitor.
 **Who it's not for:** Anyone who needs two standard HDMI monitors driven straight from the hub.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B07ZVKTP53?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B07ZVKTP53?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
@@ -66,7 +66,7 @@ For the most capable compact option, this Anker 7-in-1 puts two HDMI outputs on 
 **Who it's for:** Users who want true two-HDMI output in a portable form factor.
 **Who it's not for:** People who need built-in Ethernet or card slots at a fixed desk.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0D3TK3XHS?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0D3TK3XHS?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

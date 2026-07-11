@@ -44,7 +44,7 @@ The UGREEN USB C to DisplayPort 1.4 Cable (8K, 2m) is the sensible-value choice,
 **Who it's for:** Buyers who want one tidy USB-C to DisplayPort cable that handles high-resolution or high-refresh output.
 **Who it's not for:** Anyone chasing DisplayPort 2.1 bandwidth or needing a cable length other than 2m.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0C4DB8MLL?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0C4DB8MLL?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
@@ -66,7 +66,7 @@ The Cable Matters USB C to DisplayPort 2.1 Adapter (80Gbps) is the do-it-all, fu
 **Who it's for:** Enthusiasts and professionals pairing a modern USB-C device with a high-end DisplayPort 2.1 monitor.
 **Who it's not for:** Anyone with a standard 1080p or basic 4K monitor who won't use the extra bandwidth.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0CLZ9TZ5Q?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0CLZ9TZ5Q?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

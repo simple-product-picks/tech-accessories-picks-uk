@@ -44,7 +44,7 @@ The UGREEN 65W GaN is the sensible-value choice that covers the essentials witho
 **Who it's for:** Buyers who want a tidy, capable two-port charger for daily use and travel.
 **Who it's not for:** Anyone who needs to power three or more devices from a single plug.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
@@ -66,7 +66,7 @@ The Anker Nano II 65W is the choice for travellers who want maximum single-port 
 **Who it's for:** Frequent travellers who charge one device at a time and prize the smallest footprint.
 **Who it's not for:** Households that need to charge several devices from a single wall plug.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B091KQ39FM?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B091KQ39FM?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

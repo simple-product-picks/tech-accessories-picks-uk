@@ -46,7 +46,7 @@ This 7-in-1 Anker hub is the sensible-value choice for most people, covering the
 **Who it's for:** Hybrid workers and students who want one tidy hub for a monitor and peripherals.
 **Who it's not for:** Anyone needing several displays or built-in wired Ethernet.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B07ZVKTP53?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B07ZVKTP53?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
@@ -68,7 +68,7 @@ For the do-it-all pick, this 8-in-1 Anker hub adds the two things travel hubs us
 **Who it's for:** Power users moving large files who also want reliable wired networking.
 **Who it's not for:** Light users who only need to add a monitor and a couple of USB ports.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

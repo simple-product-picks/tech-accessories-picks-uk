@@ -44,7 +44,7 @@ The UGREEN 65W is the sensible-value choice for owners of a 13-inch MacBook Pro 
 **Who it's for:** Owners of a 13-inch or M2 MacBook Pro who want a light, no-fuss charger for daily use.
 **Who it's not for:** Anyone running a 14-inch or 16-inch MacBook Pro who needs the full 100W.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
@@ -66,7 +66,7 @@ The UGREEN Nexode Pro 100W is the do-it-all pick, pairing full 100W output with 
 **Who it's for:** Power users who want maximum speed and enough ports to run a whole desk or travel setup from one plug.
 **Who it's not for:** Someone who only charges a single small laptop and wants the simplest option.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0CCVDXHM6?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0CCVDXHM6?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

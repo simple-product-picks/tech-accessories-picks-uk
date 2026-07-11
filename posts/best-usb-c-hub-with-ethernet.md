@@ -44,7 +44,7 @@ The Anker PowerExpand 6-in-1 is the sensible-value choice that covers the essent
 **Who it's for:** Buyers who want a dependable, no-frills hub that handles wired internet and everyday peripherals.
 **Who it's not for:** Power users who need 10Gbps transfers or a high port count.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B08CKXNJZS?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B08CKXNJZS?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
@@ -66,7 +66,7 @@ The Anker 8-in-1 is the do-it-all pick, adding 10Gbps USB ports so large file tr
 **Who it's for:** Creators and heavy multitaskers who want fast 10Gbps data and wired Ethernet in one dock.
 **Who it's not for:** Anyone who only needs Ethernet and the occasional peripheral, where a simpler hub does the job.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

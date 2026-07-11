@@ -44,7 +44,7 @@ The UGREEN USB C to HDMI Adapter is the sensible-value choice that still covers 
 **Who it's for:** Buyers who want a compact, dependable USB-C to HDMI link that still hits 4K at 60Hz.
 **Who it's not for:** Anyone needing a multi-port hub with Ethernet and extra USB.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B07X25ZR56?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B07X25ZR56?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
@@ -66,7 +66,7 @@ The Anker USB C Hub 8-in-1 is the do-it-all pick for people who want one device 
 **Who it's for:** Home or hybrid workers who want one hub for display, network and storage.
 **Who it's not for:** Travellers who just need a tiny adapter for occasional screen mirroring.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

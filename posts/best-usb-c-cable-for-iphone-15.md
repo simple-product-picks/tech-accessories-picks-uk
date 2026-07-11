@@ -44,7 +44,7 @@ The value choice here is this UGREEN two-pack, which covers the essentials witho
 **Who it's for:** Commuters and households who want a couple of tidy, short braided cables to keep in different places.
 **Who it's not for:** Anyone who needs a single long cable to reach across a room.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0BLXKTJ8P?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0BLXKTJ8P?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
@@ -66,7 +66,7 @@ If you want the cable Apple designed for its own ecosystem, this is the no-quest
 **Who it's for:** iPhone 15 owners who want the official Apple cable for charging and wired syncing.
 **Who it's not for:** Buyers after a rugged braided cable, a multipack, or 100W laptop headroom.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0DCNY4K5V?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0DCNY4K5V?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
