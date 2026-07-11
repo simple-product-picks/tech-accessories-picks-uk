@@ -22,7 +22,7 @@ The Anker USB-C to HDMI Cable is our standout because it does the one job most p
 **Who it's for:** Anyone who wants the cleanest possible way to mirror or extend a USB-C laptop or tablet to one HDMI display.
 **Who it's not for:** People who want one dongle to add multiple ports and charging at once.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0DM9BLJND?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0DM9BLJND?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

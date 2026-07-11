@@ -23,7 +23,7 @@ This UGREEN hub is the standout because it pairs a 170MB/s SD and microSD reader
 **Who it's for:** Photographers and laptop users who want fast card reads plus display and drive connections from one hub.
 **Who it's not for:** Anyone who only needs a bare SD reader and nothing else.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0DY1BD3T2?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0DY1BD3T2?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

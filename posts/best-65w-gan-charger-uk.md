@@ -22,7 +22,7 @@ The Anker 67W is the most versatile pick here, packing three ports into a compac
 **Who it's for:** Anyone who wants one charger to handle a laptop, phone, and accessory at home or on a trip.
 **Who it's not for:** Minimalists who only ever charge a single device and want the smallest possible plug.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0C4Y1FFQH?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0C4Y1FFQH?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

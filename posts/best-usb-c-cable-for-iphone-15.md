@@ -22,7 +22,7 @@ The iPhone 15 family switched to USB-C, so a proper USB-C to USB-C cable is the 
 **Who it's for:** Anyone who wants one durable, high-headroom 1m cable that works across phone, tablet, and laptop.
 **Who it's not for:** People who want several cables in one go or need a longer reach.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B07V8S73GD?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B07V8S73GD?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

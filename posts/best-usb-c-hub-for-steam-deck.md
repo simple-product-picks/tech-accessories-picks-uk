@@ -23,7 +23,7 @@ This UGREEN Revodok packs the essentials a Steam Deck owner actually needs into 
 **Who it's for:** Steam Deck owners who want one reliable hub for TV play, wired internet and charging without clutter.
 **Who it's not for:** Anyone needing two external monitors at once.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

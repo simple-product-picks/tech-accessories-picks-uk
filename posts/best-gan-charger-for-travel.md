@@ -22,7 +22,7 @@ The UGREEN Nexode delivers 65W across three ports, so it can serve as a single c
 **Who it's for:** Travellers who want one charger to handle a laptop, phone and a third device from a single wall socket.
 **Who it's not for:** Minimalists who only ever need to charge a single phone.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0B7N4DX1Z?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0B7N4DX1Z?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

@@ -22,7 +22,7 @@ The Anker 100W is our standout because it pairs serious single-port output with 
 **Who it's for:** Anyone who wants one charger to handle a laptop and accessories with clear feedback on what's being delivered.
 **Who it's not for:** Minimalists who only ever charge a single phone and don't need the display or extra ports.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0FL2DR4TH?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0FL2DR4TH?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

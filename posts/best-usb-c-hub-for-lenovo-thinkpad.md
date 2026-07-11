@@ -22,7 +22,7 @@ The UGREEN Revodok Pro 210 is the standout choice for ThinkPad owners who want a
 **Who it's for:** ThinkPad users building a fixed desk setup who want a single dock to anchor their peripherals.
 **Who it's not for:** Anyone who just needs a small hub to slip in a laptop bag for occasional use.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0BXDQS4BD?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0BXDQS4BD?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

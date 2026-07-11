@@ -22,7 +22,7 @@ The UGREEN USB C to DisplayPort 1.4 Adapter hits the sweet spot for most setups,
 **Who it's for:** Anyone wanting a reliable, single-purpose USB-C to DisplayPort link for a high-refresh or 4K monitor.
 **Who it's not for:** People who need a multi-port dock with USB, Ethernet, and passthrough charging.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0C4DC6P4H?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0C4DC6P4H?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

@@ -22,7 +22,7 @@ The Anker 100W delivers the full 100W a 14-inch or 16-inch MacBook Pro wants fro
 **Who it's for:** Anyone with a 14-inch or 16-inch MacBook Pro who wants full-speed charging plus spare ports for other kit.
 **Who it's not for:** Minimalists who only charge one device and want the smallest possible plug.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0FL2DR4TH?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0FL2DR4TH?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

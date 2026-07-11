@@ -23,7 +23,7 @@ The INIU Power Bank 20000mAh 65W hits the balance most people actually want: a l
 **Who it's for:** Phone, tablet, and light-laptop users who want one compact bank that fast-charges several devices and lasts all day.
 **Who it's not for:** Anyone needing to power the most demanding laptops at full speed.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0DB89DSHV?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0DB89DSHV?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

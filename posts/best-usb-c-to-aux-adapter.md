@@ -22,7 +22,7 @@ UGREEN is a well-established maker of charging and audio accessories, and this U
 **Who it's for:** Anyone who wants a fuss-free, well-built adapter for daily use with wired audio gear.
 **Who it's not for:** People who need to charge their device and listen through wired headphones simultaneously.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B082WG5VTK?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B082WG5VTK?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

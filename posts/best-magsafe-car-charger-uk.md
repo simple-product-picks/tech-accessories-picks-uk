@@ -22,7 +22,7 @@ Belkin's BoostCharge MagSafe Car Vent Mount is the balanced all-rounder, arrivin
 **Who it's for:** Drivers who want one complete, ready-to-use MagSafe charging kit from a familiar brand with nothing else to buy.
 **Who it's not for:** Anyone chasing the newest Qi2 standard or the absolute fastest wireless charge.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B09GRJ2S8X?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B09GRJ2S8X?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

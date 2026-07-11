@@ -22,7 +22,7 @@ UGREEN is a well-known name in connectivity accessories, and this 2.5G adapter h
 **Who it's for:** Anyone who wants a reliable, no-fuss wired connection for a USB-C laptop, with room to grow into faster broadband.
 **Who it's not for:** Users who need extra USB ports or a full hub from a single dongle.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0CD1FDKT1?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0CD1FDKT1?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

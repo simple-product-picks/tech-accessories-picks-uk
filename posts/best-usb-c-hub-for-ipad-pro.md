@@ -22,7 +22,7 @@ This 7-in-1 Anker hub hits the sweet spot for most iPad Pro owners, pairing a 4K
 **Who it's for:** iPad Pro users who want one tidy hub for display, charging and accessories.
 **Who it's not for:** Anyone who needs a wired network connection built in.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B07ZVKTP53?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B07ZVKTP53?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

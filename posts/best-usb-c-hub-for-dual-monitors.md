@@ -22,7 +22,7 @@ The Revodok Pro 210 is a proper 10-in-1 docking station, which means it turns a 
 **Who it's for:** Anyone building a permanent two-monitor desk setup who wants displays and peripherals handled by one unit.
 **Who it's not for:** Travellers who just need a tiny hub to slip in a bag.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0BXDQS4BD?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0BXDQS4BD?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

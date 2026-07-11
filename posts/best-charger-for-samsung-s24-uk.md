@@ -22,7 +22,7 @@ The Anker 67W is the pick we would hand most S24 owners. With 67W on tap across 
 **Who it's for:** S24 owners who want one plug to fast-charge the phone and keep other gadgets topped up.
 **Who it's not for:** Anyone who only ever charges a single phone and wants the smallest possible plug.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0C4Y1FFQH?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0C4Y1FFQH?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

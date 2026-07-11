@@ -22,7 +22,7 @@ This 7-in-1 Anker hub hits the sweet spot for the M1 Air, designed to work with 
 **Who it's for:** M1 Air owners who want one tidy hub that covers display, charging, USB-A and card reading.
 **Who it's not for:** Anyone who needs a wired Ethernet connection or the fastest possible data transfer.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B07ZVKTP53?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B07ZVKTP53?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

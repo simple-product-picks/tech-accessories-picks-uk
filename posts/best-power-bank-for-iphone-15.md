@@ -22,7 +22,7 @@ The Anker Nano Power Bank pairs a 10000mAh capacity with 30W USB-C Power Deliver
 **Who it's for:** iPhone 15 owners who want fast wired charging in a small, travel-friendly unit.
 **Who it's not for:** Anyone set on cable-free, snap-on wireless charging.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0C9CJKCH3?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0C9CJKCH3?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

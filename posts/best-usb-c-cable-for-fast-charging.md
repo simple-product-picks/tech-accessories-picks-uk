@@ -22,7 +22,7 @@ The UGREEN USB C to USB C Cable 100W hits the sweet spot for most people: 100W o
 **Who it's for:** Anyone who wants reliable cables that charge nearly everything they own quickly, with a spare included.
 **Who it's not for:** Buyers who only ever charge a basic phone and want a single short lead.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B08D6NCQ1Z?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B08D6NCQ1Z?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

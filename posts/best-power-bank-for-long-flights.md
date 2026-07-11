@@ -22,7 +22,7 @@ With a 25000mAh capacity, this Anker is sized to recharge most phones several ti
 **Who it's for:** Long-haul travellers who carry a laptop plus phone and tablet and want one pack that charges them all quickly.
 **Who it's not for:** Light packers who only carry a phone and want the smallest possible bank.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0DCBB2YTR?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0DCBB2YTR?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

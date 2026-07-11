@@ -22,7 +22,7 @@ The INIU Power Bank 10000mAh 22.5W Slim hits the sweet spot for everyday carry: 
 **Who it's for:** Anyone wanting a light, low-bulk power bank with fast charging for daily phone top-ups.
 **Who it's not for:** Heavy users who need to recharge a tablet or several devices repeatedly.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B08JTQ66K7?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B08JTQ66K7?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

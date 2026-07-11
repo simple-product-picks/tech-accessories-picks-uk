@@ -24,7 +24,7 @@ The Revodok Pro 210 leans into the docking-station side of the argument, packing
 **Who it's for:** Anyone wanting one cable to run a full desk setup with display and wired Ethernet.
 **Who it's not for:** Frequent travellers who only need a port or two on the move.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0BXDQS4BD?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0BXDQS4BD?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

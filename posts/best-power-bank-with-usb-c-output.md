@@ -22,7 +22,7 @@ The UGREEN Nexode Power Bank 20000mAh 165W hits the sweet spot for most people, 
 **Who it's for:** Anyone wanting one bank to fast-charge a laptop and phones, with a cable always attached.
 **Who it's not for:** Someone who only ever tops up a single phone and wants the lightest option.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B0DSPXHFBM?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0DSPXHFBM?linkCode=ll2&tag=souvlakia-21)
 
 ---
 

@@ -22,7 +22,7 @@ The UGREEN Revodok 7-in-1 hits the sweet spot for most laptops, pairing Gigabit 
 **Who it's for:** Hybrid and home-office workers who want wired Ethernet and the everyday ports from one tidy hub.
 **Who it's not for:** Anyone needing the port count of a full docking station or the fastest possible data transfer speeds.
 
-[Check price on Amazon UK](https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
