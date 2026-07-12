@@ -1,5 +1,15 @@
-/* SITE_CSS_v5 - design refresh 2026-07-11 (v4 backed up in coordination repo backups/) */
-/* Brand: deep navy + electric blue + amber CTAs. Same class names as v4 - safe for regen. */
+/* SITE_CSS_v6 - typography + manual theme toggle + polish 2026-07-12 (v5 in git history) */
+/* Brand: deep navy + electric blue + amber CTAs. Same class names as v4/v5 - safe for regen. */
+/* Theming: data-theme="light|dark" on <html>, set pre-paint by an inline head snippet     */
+/* (localStorage choice, else system preference). Dark styles key off [data-theme="dark"]. */
+
+@font-face {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url("fonts/inter-latin.woff2") format("woff2");
+}
 
 /* -- Design tokens ----------------------------------------------- */
 :root {
@@ -35,12 +45,15 @@
 /* -- Reset ------------------------------------------------------- */
 *, *::before, *::after { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
+:root { color-scheme: light; }
+:root[data-theme="dark"] { color-scheme: dark; }
 body {
-  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
-  margin: 0; line-height: 1.6;
+  font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  margin: 0; line-height: 1.65;
   background: var(--bg); color: var(--text);
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
+  font-feature-settings: "cv02", "cv11";
 }
 a { color: inherit; text-decoration: none; }
 a:hover { text-decoration: underline; }
@@ -53,7 +66,7 @@ a:hover { text-decoration: underline; }
 
 /* -- Layout ------------------------------------------------------ */
 .wrap { max-width: 960px; margin: 0 auto; padding: 0 20px; }
-main  { max-width: 960px; margin: 0 auto; padding: 0 20px 72px; }
+main  { max-width: 960px; margin: 0 auto; padding: 0 20px 88px; }
 
 /* -- Header / Nav ------------------------------------------------ */
 .site-header {
@@ -278,8 +291,8 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 72px; }
   background: var(--bg);
   border: 1px solid var(--border);
   border-radius: var(--radius);
-  padding: 22px;
-  margin: 20px 0;
+  padding: 26px;
+  margin: 24px 0;
   box-shadow: var(--shadow-sm);
 }
 
@@ -370,8 +383,7 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 72px; }
 .btn.primary {
   background: linear-gradient(180deg, var(--cta-hover) 0%, var(--cta) 100%);
   color: #1a1a2e; border: none;
-  border-bottom: 3px solid var(--cta-edge);
-  box-shadow: var(--shadow-cta);
+  box-shadow: inset 0 -2px 0 rgba(146,64,14,.45), var(--shadow-cta);
 }
 .btn.primary:hover { filter: brightness(1.05); transform: translateY(-1px); text-decoration: none; }
 .btn.secondary { background: var(--bg); color: var(--blue); border: 2px solid var(--blue); }
@@ -385,7 +397,7 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 72px; }
 #content > h1:first-child { display: none; }
 .content h2 {
   font-size: 23px; font-weight: 800; letter-spacing: -0.01em;
-  margin: 40px 0 14px; color: var(--blue-ink);
+  margin: 46px 0 16px; color: var(--blue-ink);
   border-bottom: none; padding-bottom: 0;
   display: flex; align-items: center; gap: 10px;
 }
@@ -395,7 +407,7 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 72px; }
   background: linear-gradient(180deg, var(--amber), var(--blue));
 }
 .content h3 { font-size: 19px; font-weight: 700; margin: 30px 0 8px; color: var(--text); line-height: 1.3; }
-.content p, .content li { font-size: 16px; line-height: 1.75; color: var(--text-soft); }
+.content p, .content li { font-size: 16.5px; line-height: 1.8; color: var(--text-soft); }
 .content ul, .content ol { padding-left: 22px; margin: 10px 0 16px; }
 .content li { margin-bottom: 6px; }
 /* CTA button - only applied via JS to standalone Check price links */
@@ -407,16 +419,15 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 72px; }
   padding: 12px 26px; border-radius: var(--radius-sm);
   text-decoration: none !important;
   margin: 16px 0 8px;
-  box-shadow: var(--shadow-cta);
-  border-bottom: 3px solid var(--cta-edge);
+  box-shadow: inset 0 -2px 0 rgba(146,64,14,.45), var(--shadow-cta);
   transition: filter 0.15s, transform 0.1s, box-shadow 0.1s;
 }
 .content a.cta-btn:hover {
-  filter: brightness(1.05); text-decoration: none !important;
+  filter: brightness(1.06); text-decoration: none !important;
   transform: translateY(-1px);
-  box-shadow: 0 4px 14px rgba(180,83,9,.45);
+  box-shadow: inset 0 -2px 0 rgba(146,64,14,.45), 0 6px 16px rgba(180,83,9,.4);
 }
-.content a.cta-btn:active { transform: translateY(1px); border-bottom-width: 1px; }
+.content a.cta-btn:active { transform: translateY(1px); filter: brightness(.98); }
 /* Heading and verdict links - plain styled, not buttons */
 .content h3 a, .content h2 a {
   color: var(--text); text-decoration: none; font-weight: inherit;
@@ -540,8 +551,7 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 72px; }
   font-size: 14px; font-weight: 700;
   padding: 9px 20px; border-radius: var(--radius-sm);
   text-decoration: none; white-space: nowrap;
-  border-bottom: 3px solid var(--cta-edge);
-  box-shadow: var(--shadow-cta);
+  box-shadow: inset 0 -2px 0 rgba(146,64,14,.45), var(--shadow-cta);
   transition: filter 0.15s;
   flex-shrink: 0;
 }
@@ -623,63 +633,100 @@ footer a:hover { color: #ffffff; }
 .content li.pro { list-style: none; color: var(--green); font-weight: 500; font-size: 16px; }
 .content li.con { list-style: none; color: var(--red); font-weight: 500; font-size: 16px; }
 
-/* -- Dark mode ---------------------------------------------------- */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --text:       #e7ecf5;
-    --text-soft:  #c3cbd9;
-    --muted:      #8b96a8;
-    --border:     #223052;
-    --border-mid: #2d3d63;
-    --bg:         #0b1220;
-    --bg-soft:    #0f1830;
-    --bg-grey:    #101a2e;
-    --blue-light: #14213d;
-    --blue-mid:   #2b436f;
-    --amber-bg:   #2a2109;
-    --green:      #4ade80;
-    --red:        #f87171;
-    --shadow-sm:  0 1px 2px rgba(0,0,0,.4), 0 1px 4px rgba(0,0,0,.3);
-    --shadow-md:  0 4px 10px rgba(0,0,0,.4), 0 12px 28px rgba(0,0,0,.45);
-  }
-  /* tokens used as TEXT colors on light surfaces need light equivalents */
-  .hero-title, .page-hero .hero-title, .h2-tight, .h2-block,
-  .post-card strong { color: #dbe7ff; }
-  .content h2, .page-card h2 { color: #b6ccff; }
-  .content strong a { color: #93b4ff; }
-  .content h3 a:hover, .content h2 a:hover { color: #93b4ff; }
-  .compare-table tbody td:nth-child(3) { color: #b6ccff; }
-  .breadcrumbs a { color: #7ea6ff; }
-  .post-card .card-cat { color: #7ea6ff; }
-  .cat-section-title { color: #b6ccff; }
-  .price-note { color: var(--text-soft); }
-  /* surfaces */
-  .hero.panel, .hero-section, .page-hero {
-    background: linear-gradient(180deg, #0e1730 0%, #0b1220 85%);
-  }
-  .trust-item { background: #101a30; border-color: var(--border-mid); }
-  .compare-table tbody tr:first-child .cell-row,
-  .compare-table tbody tr:first-child .cell {
-    background: var(--amber-bg); border-bottom-color: #4a3a10;
-  }
-  .compare-table tbody tr:first-child:hover .cell-row,
-  .compare-table tbody tr:first-child:hover .cell { background: #332a0d; }
-  .table-wrap {
-    background:
-      linear-gradient(to right, var(--bg) 30%, rgba(11,18,32,0)),
-      linear-gradient(to left,  var(--bg) 30%, rgba(11,18,32,0)) 100% 0,
-      radial-gradient(farthest-side at 0 50%, rgba(0,0,0,.6), transparent),
-      radial-gradient(farthest-side at 100% 50%, rgba(0,0,0,.6), transparent) 100% 0;
-    background-repeat: no-repeat;
-    background-size: 44px 100%, 44px 100%, 16px 100%, 16px 100%;
-    background-attachment: local, local, scroll, scroll;
-  }
-  .verdict-box {
-    background: linear-gradient(180deg, #14213d 0%, #101a30 100%);
-  }
-  .sticky-cta {
-    background: rgba(11,18,32,.92);
-    box-shadow: 0 -6px 24px rgba(0,0,0,.5);
-  }
-  .hero-kicker, .page-hero .hero-kicker, .home-hero .badge { color: #4a2c05; }
+/* -- Dark mode (manual toggle; data-theme set pre-paint from localStorage/system) -- */
+:root[data-theme="dark"] {
+  --text:       #e7ecf5;
+  --text-soft:  #c3cbd9;
+  --muted:      #8b96a8;
+  --border:     #223052;
+  --border-mid: #2d3d63;
+  --bg:         #0b1220;
+  --bg-soft:    #0f1830;
+  --bg-grey:    #101a2e;
+  --blue-light: #14213d;
+  --blue-mid:   #2b436f;
+  --amber-bg:   #2a2109;
+  --green:      #4ade80;
+  --red:        #f87171;
+  --shadow-sm:  0 1px 2px rgba(0,0,0,.4), 0 1px 4px rgba(0,0,0,.3);
+  --shadow-md:  0 4px 10px rgba(0,0,0,.4), 0 12px 28px rgba(0,0,0,.45);
 }
+/* tokens used as TEXT colors on light surfaces need light equivalents */
+[data-theme="dark"] .hero-title, [data-theme="dark"] .page-hero .hero-title,
+[data-theme="dark"] .h2-tight, [data-theme="dark"] .h2-block,
+[data-theme="dark"] .post-card strong { color: #dbe7ff; }
+[data-theme="dark"] .content h2, [data-theme="dark"] .page-card h2 { color: #b6ccff; }
+[data-theme="dark"] .content strong a { color: #93b4ff; }
+[data-theme="dark"] .content h3 a:hover,
+[data-theme="dark"] .content h2 a:hover { color: #93b4ff; }
+[data-theme="dark"] .compare-table tbody td:nth-child(3) { color: #b6ccff; }
+[data-theme="dark"] .breadcrumbs a { color: #7ea6ff; }
+[data-theme="dark"] .post-card .card-cat { color: #7ea6ff; }
+[data-theme="dark"] .cat-section-title { color: #b6ccff; }
+[data-theme="dark"] .price-note { color: var(--text-soft); }
+/* surfaces */
+[data-theme="dark"] .hero.panel, [data-theme="dark"] .hero-section,
+[data-theme="dark"] .page-hero {
+  background: linear-gradient(180deg, #0e1730 0%, #0b1220 85%);
+}
+[data-theme="dark"] .trust-item { background: #101a30; border-color: var(--border-mid); }
+[data-theme="dark"] .compare-table tbody tr:first-child .cell-row,
+[data-theme="dark"] .compare-table tbody tr:first-child .cell {
+  background: var(--amber-bg); border-bottom-color: #4a3a10;
+}
+[data-theme="dark"] .compare-table tbody tr:first-child:hover .cell-row,
+[data-theme="dark"] .compare-table tbody tr:first-child:hover .cell { background: #332a0d; }
+[data-theme="dark"] .table-wrap {
+  background:
+    linear-gradient(to right, var(--bg) 30%, rgba(11,18,32,0)),
+    linear-gradient(to left,  var(--bg) 30%, rgba(11,18,32,0)) 100% 0,
+    radial-gradient(farthest-side at 0 50%, rgba(0,0,0,.6), transparent),
+    radial-gradient(farthest-side at 100% 50%, rgba(0,0,0,.6), transparent) 100% 0;
+  background-repeat: no-repeat;
+  background-size: 44px 100%, 44px 100%, 16px 100%, 16px 100%;
+  background-attachment: local, local, scroll, scroll;
+}
+[data-theme="dark"] .verdict-box {
+  background: linear-gradient(180deg, #14213d 0%, #101a30 100%);
+}
+[data-theme="dark"] .sticky-cta {
+  background: rgba(11,18,32,.92);
+  box-shadow: 0 -6px 24px rgba(0,0,0,.5);
+}
+[data-theme="dark"] .hero-kicker, [data-theme="dark"] .page-hero .hero-kicker,
+[data-theme="dark"] .home-hero .badge { color: #4a2c05; }
+
+/* -- Theme toggle button (injected by assets/theme.js into .site-nav) ---- */
+.theme-toggle {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 34px; height: 34px; border-radius: 999px;
+  background: rgba(255,255,255,.10); border: 1px solid rgba(255,255,255,.18);
+  color: #ffffff; cursor: pointer; flex-shrink: 0; margin-left: 6px;
+  transition: background 0.15s, transform 0.15s;
+  padding: 0;
+}
+.theme-toggle:hover { background: rgba(255,255,255,.22); transform: rotate(12deg); }
+.theme-toggle svg { width: 17px; height: 17px; display: block; }
+
+/* -- Reading progress bar (posts, injected by theme.js) ------------------ */
+.progress-bar {
+  position: fixed; top: 0; left: 0; height: 3px; width: 0;
+  background: linear-gradient(90deg, var(--amber), #fbbf24);
+  z-index: 300; pointer-events: none;
+  transition: width 0.1s linear;
+}
+
+/* -- Back to top (injected by theme.js) ---------------------------------- */
+.back-to-top {
+  position: fixed; right: 18px; bottom: 18px; z-index: 250;
+  width: 42px; height: 42px; border-radius: 999px;
+  background: var(--blue-deep); color: #ffffff; border: none;
+  box-shadow: 0 4px 14px rgba(16,24,40,.35);
+  cursor: pointer; display: flex; align-items: center; justify-content: center;
+  opacity: 0; transform: translateY(8px); pointer-events: none;
+  transition: opacity 0.2s, transform 0.2s, background 0.15s;
+  font-size: 18px; line-height: 1;
+}
+.back-to-top.show { opacity: 0.88; transform: translateY(0); pointer-events: auto; }
+.back-to-top:hover { opacity: 1; background: var(--blue); }
+.back-to-top.above-sticky { bottom: 78px; }
