@@ -766,6 +766,25 @@ footer a:hover { color: #ffffff; }
   font-size: 12.5px; font-weight: 600; color: var(--text-soft); line-height: 1.4;
 }
 
+/* -- Sticky bar dismiss + skip link (injected by theme.js) ---------------- */
+body.sticky-dismissed .sticky-cta { display: none; }
+.sticky-close {
+  flex-shrink: 0;
+  width: 28px; height: 28px; border-radius: 999px;
+  border: 1px solid var(--border); background: transparent;
+  color: var(--muted); font-size: 17px; line-height: 1;
+  cursor: pointer; padding: 0;
+  display: inline-flex; align-items: center; justify-content: center;
+  transition: color 0.15s, border-color 0.15s, background 0.15s;
+}
+.sticky-close:hover { color: var(--text); border-color: var(--border-mid); background: var(--bg-grey); }
+.skip-link {
+  position: absolute; left: -9999px; top: 0; z-index: 500;
+  background: var(--blue-deep); color: #ffffff;
+  padding: 10px 18px; border-radius: 0 0 8px 0; font-weight: 700; font-size: 14px;
+}
+.skip-link:focus { left: 0; text-decoration: none; }
+
 /* -- Back to top (injected by theme.js) ---------------------------------- */
 .back-to-top {
   position: fixed; right: 18px; bottom: 18px; z-index: 250;

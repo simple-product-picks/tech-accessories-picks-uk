@@ -137,6 +137,37 @@
     }
   }
 
+  // Sticky bar: dismiss (X) - per browsing session
+  var sticky = document.getElementById("sticky-cta");
+  if (sticky) {
+    var dismissed = false;
+    try { dismissed = sessionStorage.getItem("sppStickyClosed") === "1"; } catch (e) {}
+    if (dismissed) {
+      document.body.classList.add("sticky-dismissed");
+    } else {
+      var x = document.createElement("button");
+      x.className = "sticky-close";
+      x.type = "button";
+      x.setAttribute("aria-label", "Dismiss price bar");
+      x.innerHTML = "&times;";
+      x.addEventListener("click", function () {
+        document.body.classList.add("sticky-dismissed");
+        try { sessionStorage.setItem("sppStickyClosed", "1"); } catch (e) {}
+        var b2 = document.querySelector(".back-to-top");
+        if (b2) b2.classList.remove("above-sticky");
+      });
+      sticky.querySelector(".sticky-cta-inner").appendChild(x);
+    }
+  }
+
+  // Skip link (a11y) - first focusable element
+  var skip = document.createElement("a");
+  skip.className = "skip-link";
+  skip.href = "#content";
+  skip.textContent = "Skip to content";
+  if (!document.getElementById("content")) skip.href = "#hero";
+  document.body.insertBefore(skip, document.body.firstChild);
+
   // Back to top
   var btt = document.createElement("button");
   btt.className = "back-to-top";
