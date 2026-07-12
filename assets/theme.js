@@ -63,6 +63,80 @@
     }, { passive: true });
   }
 
+  // Sticky table of contents - long posts, wide screens only (built from content h2s)
+  var content = document.getElementById("content");
+  if (content) {
+    var heads = Array.prototype.slice.call(content.querySelectorAll("h2"));
+    if (heads.length >= 3 && window.innerWidth >= 1240) {
+      heads.forEach(function (h, i) {
+        if (!h.id) h.id = "s-" + (h.textContent || "sec").toLowerCase()
+          .replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "").slice(0, 40) || "s" + i;
+      });
+      var toc = document.createElement("nav");
+      toc.className = "toc";
+      toc.setAttribute("aria-label", "On this page");
+      toc.innerHTML = "<div class='toc-title'>On this page</div>";
+      var links = heads.map(function (h) {
+        var a = document.createElement("a");
+        a.href = "#" + h.id;
+        a.textContent = h.textContent;
+        toc.appendChild(a);
+        return a;
+      });
+      document.body.appendChild(toc);
+      if ("IntersectionObserver" in window) {
+        var current = null;
+        var io = new IntersectionObserver(function (entries) {
+          entries.forEach(function (en) {
+            if (en.isIntersecting) {
+              if (current) current.classList.remove("active");
+              current = links[heads.indexOf(en.target)];
+              if (current) current.classList.add("active");
+            }
+          });
+        }, { rootMargin: "-15% 0px -70% 0px" });
+        heads.forEach(function (h) { io.observe(h); });
+      }
+    }
+
+    // Estimated read time pill in the trust bar
+    var words = (content.textContent || "").trim().split(/\s+/).length;
+    var mins = Math.max(1, Math.round(words / 220));
+    var bar = document.querySelector(".trust-bar");
+    if (bar && words > 100) {
+      var pill = document.createElement("span");
+      pill.className = "trust-item read-time";
+      pill.textContent = mins + " min read";
+      bar.appendChild(pill);
+    }
+  }
+
+  // Hover preview cards on related-guide links (pointer devices only)
+  if (window.matchMedia && matchMedia("(hover: hover)").matches) {
+    var rel = document.getElementById("related_list");
+    if (rel) {
+      var card = document.createElement("div");
+      card.className = "related-preview";
+      card.innerHTML = "<img alt=''><span></span>";
+      document.body.appendChild(card);
+      var img = card.querySelector("img"), cap = card.querySelector("span");
+      rel.addEventListener("mouseover", function (e) {
+        var a = e.target.closest ? e.target.closest("a") : null;
+        if (!a || !rel.contains(a)) return;
+        var m = (a.getAttribute("href") || "").match(/([a-z0-9-]+)\.html/);
+        if (!m) return;
+        img.src = "../assets/img/hero/posts/" + m[1] + ".jpg";
+        cap.textContent = a.textContent;
+        var r = a.getBoundingClientRect();
+        card.style.top = (window.scrollY + r.top - 8) + "px";
+        card.style.left = Math.min(window.innerWidth - 260, r.right + 16) + "px";
+        card.classList.add("show");
+      });
+      rel.addEventListener("mouseout", function () { card.classList.remove("show"); });
+      img.addEventListener("error", function () { card.classList.remove("show"); });
+    }
+  }
+
   // Back to top
   var btt = document.createElement("button");
   btt.className = "back-to-top";
