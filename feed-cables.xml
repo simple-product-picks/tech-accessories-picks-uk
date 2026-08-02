@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Simple Product Picks - USB-C Cables UK</title>
+  <link>https://simpleproductpicks.co.uk/</link>
+  <atom:link href="https://simpleproductpicks.co.uk/feed-cables.xml" rel="self" type="application/rss+xml" />
+  <description>UK buying guides for USB-C charging cables. Every link verified against the live Amazon UK listing.</description>
+  <language>en-GB</language>
+  <lastBuildDate>Mon, 13 Jul 2026 09:00:00 +0000</lastBuildDate>
+  <item>
+    <title>Best USB C Cable For Fast Charging UK 2026</title>
+    <link>https://simpleproductpicks.co.uk/posts_html/best-usb-c-cable-for-fast-charging.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.co.uk/posts_html/best-usb-c-cable-for-fast-charging.html</guid>
+    <pubDate>Wed, 01 Jul 2026 08:00:00 +0000</pubDate>
+    <description>Best usb c cable for fast charging in the UK for 2026. Hand-picked and honestly compared, with direct Amazon UK links.</description>
+  </item>
+  <item>
+    <title>Best USB C Cable For iPhone 15 UK 2026</title>
+    <link>https://simpleproductpicks.co.uk/posts_html/best-usb-c-cable-for-iphone-15.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.co.uk/posts_html/best-usb-c-cable-for-iphone-15.html</guid>
+    <pubDate>Wed, 01 Jul 2026 08:00:00 +0000</pubDate>
+    <description>Best usb c cable for iphone 15 in the UK for 2026. Hand-picked and honestly compared, with direct Amazon UK links.</description>
+  </item>
+</channel>
+</rss>
