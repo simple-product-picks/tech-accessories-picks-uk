@@ -100,14 +100,17 @@
     }
 
     // Estimated read time pill in the trust bar
+    // (own variable name: "var bar" is function-scoped and already used by the reading-progress
+    // element above - reusing it re-pointed the scroll handler at the trust bar and wrote the
+    // scroll percentage onto its width, squishing the pills)
     var words = (content.textContent || "").trim().split(/\s+/).length;
     var mins = Math.max(1, Math.round(words / 220));
-    var bar = document.querySelector(".trust-bar");
-    if (bar && words > 100) {
+    var trustBar = document.querySelector(".trust-bar");
+    if (trustBar && words > 100) {
       var pill = document.createElement("span");
       pill.className = "trust-item read-time";
       pill.textContent = mins + " min read";
-      bar.appendChild(pill);
+      trustBar.appendChild(pill);
     }
   }
 
