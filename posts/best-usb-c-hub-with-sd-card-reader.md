@@ -6,7 +6,9 @@ If you shoot photos, edit on the move, or just want one tidy adapter that handle
 
 ### 1. [UGREEN USB C Hub 8-in-1 with 170MB/s SD Card Reader](https://www.amazon.co.uk/dp/B0DY1BD3T2?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
-**SPP Score: 8.8 / 10** - 8-in-1 connectivity, high-speed data. Our all-round pick.
+**SPP Score: 8.4 / 10** - 8-in-1 connectivity, high-speed data. Our all-round pick.
+
+Scorecard: Capability 9/10 - Versatility 9/10 - Build 7/10 - Value 8/10
 
 This UGREEN hub is the standout because it pairs a 170MB/s SD and microSD reader with a broad 8-in-1 set of connections, so you can offload camera cards and connect drives, displays and peripherals from a single port. UGREEN is a well-known name in charging and connectivity accessories, and the all-in-one layout suits anyone who wants one adapter to cover most everyday jobs.
 
@@ -29,7 +31,9 @@ This UGREEN hub is the standout because it pairs a 170MB/s SD and microSD reader
 
 ### 2. [Anker 547 USB C Hub (7-in-2) for MacBook with SD Card](https://www.amazon.co.uk/dp/B0BNZ5V1TF?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
-**SPP Score: 8.5 / 10** - 7-in-1 connectivity, high-speed data. Our value pick.
+**SPP Score: 7.5 / 10** - 7-in-1 connectivity, high-speed data. Our value pick.
+
+Scorecard: Capability 6/10 - Versatility 8/10 - Build 8/10 - Value 9/10
 
 The Anker 547 is the sensible-value choice for MacBook owners, with a dual-plug design that slots neatly into two side-by-side USB-C ports for a flush, stable fit. It covers the essentials cleanly with a 7-in-2 set of connections including SD card support, all from a well-known charging and accessories brand.
 
@@ -52,7 +56,9 @@ The Anker 547 is the sensible-value choice for MacBook owners, with a dual-plug 
 
 ### 3. [Anker USB C Hub 8-in-1 with Ethernet and 10Gbps](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21) - Best Premium
 
-**SPP Score: 8.9 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
+**SPP Score: 8.4 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
+
+Scorecard: Capability 9/10 - Versatility 9/10 - Build 8/10 - Value 7/10
 
 This Anker 8-in-1 is the do-it-all pick, adding Gigabit Ethernet to a full set of ports for rock-solid wired networking alongside everything else. With 10Gbps USB connectivity and SD card support in an 8-in-1 layout, it works as a capable desk dock as well as a travel hub.
 

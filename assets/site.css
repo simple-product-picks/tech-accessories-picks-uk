@@ -530,6 +530,21 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 88px; }
 .site-header .muted { display: none; }
 
 
+
+/* -- SPP scorecard line (scorer v2 per-criterion breakdown) ------- */
+.spp-breakdown {
+  display: inline-block;
+  font-size: 12.5px !important; font-weight: 600;
+  color: var(--muted) !important;
+  background: var(--bg-grey);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 5px 14px;
+  margin: 2px 0 10px;
+  letter-spacing: 0.01em;
+}
+[data-theme="dark"] .spp-breakdown { background: #101a30; border-color: var(--border-mid); }
+
 /* -- Sticky bottom CTA bar ---------------------------------------- */
 .sticky-cta {
   position: fixed; bottom: 0; left: 0; right: 0; z-index: 200;

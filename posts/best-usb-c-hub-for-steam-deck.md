@@ -6,7 +6,9 @@ The Steam Deck has a single USB-C port, so a good hub turns it into a proper des
 
 ### 1. [UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet](https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
-**SPP Score: 8.7 / 10** - 7-in-1 connectivity, wired Ethernet. Our all-round pick.
+**SPP Score: 7.7 / 10** - 7-in-1 connectivity, wired Ethernet. Our all-round pick.
+
+Scorecard: Capability 7/10 - Versatility 9/10 - Build 7/10 - Value 8/10
 
 This UGREEN Revodok packs the essentials a Steam Deck owner actually needs into one tidy unit: HDMI for the TV or a monitor, Gigabit Ethernet for stable downloads and online play, multiple USB-A ports for controllers and accessories, an SD slot, and USB-C power delivery to keep the Deck charged while you game. It is a sensible first port of call for anyone who wants TV play and charging from a single connection. The USB-C power input means it can pass through power for the Deck while docked.
 
@@ -29,7 +31,9 @@ This UGREEN Revodok packs the essentials a Steam Deck owner actually needs into 
 
 ### 2. [Anker USB C Hub 5-in-1 with 4K HDMI](https://www.amazon.co.uk/dp/B0BQLLB61B?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
-**SPP Score: 8.1 / 10** - 5-in-1 connectivity. Our value pick.
+**SPP Score: 7.7 / 10** - 5-in-1 connectivity. Our value pick.
+
+Scorecard: Capability 6/10 - Versatility 8/10 - Build 9/10 - Value 9/10
 
 The Anker 5-in-1 is the sensible-value choice that covers the essentials for couch gaming: 4K HDMI out to the telly, USB-A ports for wired controllers or a keyboard and mouse, and USB-C power delivery to keep the Deck topped up. It is compact, so it slips into a bag for travel or sits unobtrusively behind the TV. Anker is a well-established name in charging accessories, which is reassuring for a port you use every day.
 
@@ -52,7 +56,9 @@ The Anker 5-in-1 is the sensible-value choice that covers the essentials for cou
 
 ### 3. [UGREEN Revodok Pro 210 USB C Docking Station (10-in-1)](https://www.amazon.co.uk/dp/B0BXDQS4BD?linkCode=ll2&tag=souvlakia-21) - Best Premium
 
-**SPP Score: 9.0 / 10** - 10-in-1 connectivity, wired Ethernet. Our pick for maximum capability.
+**SPP Score: 8.8 / 10** - 10-in-1 connectivity, wired Ethernet. Our pick for maximum capability.
+
+Scorecard: Capability 10/10 - Versatility 10/10 - Build 7/10 - Value 7/10
 
 The Revodok Pro 210 is the do-it-all dock, turning a Steam Deck into a full desktop station. With its ten functions spanning HDMI, Gigabit Ethernet, additional USB-C and USB-A ports, card slots, and USB-C power delivery, it handles a complete monitor-keyboard-mouse-network setup from one connection. The broad port array makes it the most capable choice here for anyone who docks the Deck as a daily machine.
 

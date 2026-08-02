@@ -6,7 +6,9 @@ Getting a USB-C laptop, tablet or phone onto a bigger screen comes down to picki
 
 ### 1. [Anker USB-C to HDMI Cable 4K@60Hz (0.9m)](https://www.amazon.co.uk/dp/B0DM9BLJND?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
-**SPP Score: 8.0 / 10** - 4K at 60Hz over a single 0.9m braided lead. Our all-round pick.
+**SPP Score: 7.9 / 10** - 4K at 60Hz over a single 0.9m braided lead. Our all-round pick.
+
+Scorecard: Capability 8/10 - Versatility 6/10 - Build 10/10 - Value 8/10
 
 The Anker USB-C to HDMI Cable is our standout because it does the one job most people need in the simplest way possible: a single 0.9m lead that plugs a USB-C device straight into an HDMI display, with no dongle hanging off the port. It runs 4K output at a smooth 60Hz refresh rate, which matters for desktop work and video where the more common 30Hz connections can feel laggy when moving windows or the cursor. The nylon-braided cord is built to survive being coiled into a bag and pulled out again, and it is compatible with Thunderbolt 5, 4 and 3 as well as standard USB-C video output. Anker is a long-established charging and accessory brand, and a direct cable like this keeps the whole setup to one tidy connection.
 
@@ -28,7 +30,9 @@ The Anker USB-C to HDMI Cable is our standout because it does the one job most p
 
 ### 2. [UGREEN USB C to HDMI Adapter 4K@60Hz](https://www.amazon.co.uk/dp/B07X25ZR56?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
-**SPP Score: 7.9 / 10** - 4K at 60Hz with HDR and Thunderbolt 3/4 compatibility. Our value pick.
+**SPP Score: 7.7 / 10** - 4K at 60Hz with HDR and Thunderbolt 3/4 compatibility. Our value pick.
+
+Scorecard: Capability 8/10 - Versatility 6/10 - Build 8/10 - Value 9/10
 
 The UGREEN USB C to HDMI Adapter is the sensible-value choice that still covers the specs that matter: a straightforward USB-C to HDMI connection running 4K at a smooth 60Hz, with HDR support for richer contrast on a compatible screen. It is Thunderbolt 3 and 4 compatible, so it slots neatly into modern laptops, and the aluminium shell helps it shrug off life in a bag. UGREEN is a well-known accessories brand, and this adapter focuses on the essentials rather than extra ports, which keeps it simple to live with.
 
@@ -50,7 +54,9 @@ The UGREEN USB C to HDMI Adapter is the sensible-value choice that still covers 
 
 ### 3. [Anker USB C Hub 8-in-1 with Ethernet and 10Gbps](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21) - Best Premium
 
-**SPP Score: 8.0 / 10** - Gigabit Ethernet, plug-and-play simplicity. Our pick for maximum capability.
+**SPP Score: 7.9 / 10** - Gigabit Ethernet, plug-and-play simplicity. Our pick for maximum capability.
+
+Scorecard: Capability 8/10 - Versatility 9/10 - Build 8/10 - Value 6/10
 
 The Anker USB C Hub 8-in-1 is the do-it-all pick for people who want one device to handle everything. Beyond HDMI output, it adds wired Ethernet for a stable network connection and 10Gbps USB data transfer for fast external drives, all from a single USB-C port. For a home-office or hot-desk setup, this turns a slim laptop into a proper workstation in one connection.
 

@@ -6,7 +6,9 @@ Wi-Fi dropping out mid-call or lagging during a download? A USB-C Ethernet adapt
 
 ### 1. [UGREEN USB C to 2.5G Ethernet Adapter](https://www.amazon.co.uk/dp/B0CD1FDKT1?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
-**SPP Score: 8.1 / 10** - 2.5Gbps wired Ethernet over a single USB-C connector, plug-and-play. Our all-round pick.
+**SPP Score: 7.3 / 10** - 2.5Gbps wired Ethernet over a single USB-C connector, plug-and-play. Our all-round pick.
+
+Scorecard: Capability 8/10 - Versatility 6/10 - Build 7/10 - Value 8/10
 
 UGREEN is a well-known name in connectivity accessories, and this 2.5G adapter hits the sweet spot for most people. It converts a single USB-C port into a 2.5Gbps RJ45 Ethernet connection, giving you headroom beyond standard Gigabit for UK home broadband, video calls, and large file transfers. It is plug and play, and the compact form factor makes it an easy permanent resident in a laptop bag.
 
@@ -28,7 +30,9 @@ UGREEN is a well-known name in connectivity accessories, and this 2.5G adapter h
 
 ### 2. [Amazon Basics USB-C to Gigabit Ethernet Adapter](https://www.amazon.co.uk/dp/B08989MYQ2?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
-**SPP Score: 7.9 / 10** - Gigabit Ethernet, plug-and-play simplicity. Our value pick.
+**SPP Score: 7.3 / 10** - Gigabit Ethernet, plug-and-play simplicity. Our value pick.
+
+Scorecard: Capability 7/10 - Versatility 6/10 - Build 8/10 - Value 9/10
 
 The sensible-value choice that covers the essentials without any extras you don't need. It is plug and play with no drivers to install, so you connect the USB-C end to your device and the RJ45 end to your router and you are online. A single-purpose dongle like this keeps things simple for everyday wired networking.
 
@@ -50,7 +54,9 @@ The sensible-value choice that covers the essentials without any extras you don'
 
 ### 3. [UGREEN USB C to 5G Ethernet Adapter](https://www.amazon.co.uk/dp/B0DNSTHRGQ?linkCode=ll2&tag=souvlakia-21) - Best Premium
 
-**SPP Score: 8.2 / 10** - 5Gbps wired Ethernet over USB-C, plug-and-play. Our pick for maximum capability.
+**SPP Score: 7.5 / 10** - 5Gbps wired Ethernet over USB-C, plug-and-play. Our pick for maximum capability.
+
+Scorecard: Capability 9/10 - Versatility 6/10 - Build 7/10 - Value 7/10
 
 This UGREEN adapter steps up to 5Gbps Ethernet for the most capable connection of the three. If you are on a multi-gigabit broadband package or moving large files across a fast local network, the 5G ceiling gives you real headroom beyond both standard Gigabit and 2.5G adapters. It converts a single USB-C port into a 5Gbps RJ45 connection and stays plug and play, making it the do-it-all pick for power users who want to make the most of a fast line.
 

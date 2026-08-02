@@ -6,7 +6,9 @@ Looking for a power bank that charges your phone, tablet, or even a laptop over 
 
 ### 1. [UGREEN Nexode Power Bank 20000mAh 165W](https://www.amazon.co.uk/dp/B0DSPXHFBM?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
-**SPP Score: 8.0 / 10** - 20000mAh capacity, 165W output with a built-in retractable USB-C cable. Our all-round pick.
+**SPP Score: 7.8 / 10** - 20000mAh capacity, 165W output with a built-in retractable USB-C cable. Our all-round pick.
+
+Scorecard: Capability 10/10 - Versatility 5/10 - Build 7/10 - Value 8/10
 
 The UGREEN Nexode Power Bank 20000mAh 165W hits the sweet spot for most people, pairing a generous 20000mAh capacity with up to 165W of USB-C output across three USB-C ports. The built-in retractable [USB-C cable](best-usb-c-cable-for-fast-charging.html) means you can leave a spare lead at home, while 100W input lets the bank itself top up quickly. With three-way output it can share power between a laptop, phone, and tablet at once, which makes it the all-rounder to beat.
 
@@ -28,7 +30,9 @@ The UGREEN Nexode Power Bank 20000mAh 165W hits the sweet spot for most people, 
 
 ### 2. [Anker Zolo Power Bank 10000mAh 30W](https://www.amazon.co.uk/dp/B0CZ9M6X8Q?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
-**SPP Score: 7.7 / 10** - 10000mAh capacity, 30W output with a built-in USB-C cable. Our value pick.
+**SPP Score: 6.7 / 10** - 10000mAh capacity, 30W output with a built-in USB-C cable. Our value pick.
+
+Scorecard: Capability 6/10 - Versatility 5/10 - Build 8/10 - Value 9/10
 
 The Anker Zolo Power Bank 10000mAh 30W is the sensible-value choice that covers the essentials without the bulk. Its 10000mAh capacity is the classic everyday size, small enough to drop into a bag or large pocket, and 30W high-speed output is enough to fast-charge a phone. The built-in USB-C cable is always there when you need it, and the separate USB-C port handles charging in and out. If you mainly need to keep a phone alive through a long day, this does the job cleanly.
 
@@ -50,7 +54,9 @@ The Anker Zolo Power Bank 10000mAh 30W is the sensible-value choice that covers 
 
 ### 3. [Anker Prime Power Bank 20000mAh 200W](https://www.amazon.co.uk/dp/B0BYNZXFM2?linkCode=ll2&tag=souvlakia-21) - Best Premium
 
-**SPP Score: 8.1 / 10** - 20000mAh capacity, 200W total output with dual 100W USB-C ports. Our pick for maximum capability.
+**SPP Score: 8.2 / 10** - 20000mAh capacity, 200W total output with dual 100W USB-C ports. Our pick for maximum capability.
+
+Scorecard: Capability 10/10 - Versatility 7/10 - Build 8/10 - Value 7/10
 
 The Anker Prime Power Bank 20000mAh 200W is the highest-capability pick, combining a 20000mAh cell with up to 200W of total output. Two 100W USB-C ports can each fast-charge a demanding laptop, and a USB-A port covers older accessories, so it is built for driving several devices at full pace at once. A smart digital display reads out charging status at a glance, which helps on heavy multi-device days and longer trips away from the mains. If you want maximum output in a 20000mAh unit, this is the flagship choice.
 

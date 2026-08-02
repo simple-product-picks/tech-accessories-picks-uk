@@ -10,6 +10,8 @@ A USB C hub is small, bus-powered and great for travel, adding a few ports throu
 
 **SPP Score: 9.0 / 10** - 10-in-1 connectivity. Our all-round pick.
 
+Scorecard: Capability 10/10 - Versatility 10/10 - Build 7/10 - Value 8/10
+
 The Revodok Pro 210 leans into the docking-station side of the argument, packing ten connections into a single hub so your laptop can run a near-complete desk setup from one USB C cable. As a 10-in-1 it is built to combine display output, data ports and wired networking in one place, which is exactly where a dock earns its keep over a basic hub. UGREEN is a well-established name in this category, and a 10-in-1 layout covers the most common home and office needs without cable sprawl.
 
 **Pros**
@@ -30,7 +32,9 @@ The Revodok Pro 210 leans into the docking-station side of the argument, packing
 
 ### 2. [Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD](https://www.amazon.co.uk/dp/B07ZVKTP53?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
-**SPP Score: 8.5 / 10** - 7-in-1 connectivity. Our value pick.
+**SPP Score: 8.1 / 10** - 7-in-1 connectivity. Our value pick.
+
+Scorecard: Capability 7/10 - Versatility 9/10 - Build 8/10 - Value 9/10
 
 This 7-in-1 Anker hub is the sensible-value choice for most people, covering the essentials without the bulk of a full dock. The 4K HDMI output handles a single external monitor cleanly, while the 85W Power Delivery passthrough means your laptop can charge through the same hub as it runs your peripherals. Anker is a familiar name in charging and connectivity, and this layout hits the sweet spot between portability and capability.
 
@@ -52,7 +56,9 @@ This 7-in-1 Anker hub is the sensible-value choice for most people, covering the
 
 ### 3. [Anker USB C Hub 8-in-1 with Ethernet and 10Gbps](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21) - Best Premium
 
-**SPP Score: 8.9 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
+**SPP Score: 8.4 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
+
+Scorecard: Capability 9/10 - Versatility 9/10 - Build 8/10 - Value 7/10
 
 For the do-it-all pick, this 8-in-1 Anker hub adds the two things travel hubs usually skip: wired Gigabit-class Ethernet for a stable connection, and 10Gbps data transfer for fast external drives. That makes it a strong middle ground between a pocket hub and a desk-bound dock, with the speed and networking that power users care about. Anker's reputation in connectivity hardware backs it up.
 

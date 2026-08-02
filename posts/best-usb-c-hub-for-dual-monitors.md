@@ -6,7 +6,9 @@ Running two external displays from a single USB-C port is one of the most useful
 
 ### 1. [UGREEN Revodok Pro 210 USB C Docking Station (10-in-1)](https://www.amazon.co.uk/dp/B0BXDQS4BD?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
-**SPP Score: 9.1 / 10** - 10-in-1 connectivity, wired Ethernet. Our all-round pick.
+**SPP Score: 9.0 / 10** - 10-in-1 connectivity, wired Ethernet. Our all-round pick.
+
+Scorecard: Capability 10/10 - Versatility 10/10 - Build 7/10 - Value 8/10
 
 The Revodok Pro 210 is a proper 10-in-1 docking station, which means it turns a single USB-C port into a full desk hub with room for dual displays plus your everyday peripherals. As a 10-in-1 dock it is built to handle a two-monitor workspace alongside other accessories from one cable, which keeps a permanent desk setup tidy. For most people wiring up two screens plus peripherals, this is the do-everything choice.
 
@@ -28,7 +30,9 @@ The Revodok Pro 210 is a proper 10-in-1 docking station, which means it turns a 
 
 ### 2. [Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD](https://www.amazon.co.uk/dp/B07ZVKTP53?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
-**SPP Score: 8.5 / 10** - 7-in-1 connectivity. Our value pick.
+**SPP Score: 8.1 / 10** - 7-in-1 connectivity. Our value pick.
+
+Scorecard: Capability 7/10 - Versatility 9/10 - Build 8/10 - Value 9/10
 
 This Anker 7-in-1 is the sensible-value choice when you want to cover the essentials without stepping up to a full dock. It delivers a 4K HDMI output plus 85W Power Delivery for charging, all in a compact 7-in-1 form. For a dual-monitor setup, you pair its HDMI output with a second USB-C display, making it a tidy option for simpler two-screen arrangements.
 
@@ -50,7 +54,9 @@ This Anker 7-in-1 is the sensible-value choice when you want to cover the essent
 
 ### 3. [Anker 7-in-1 USB C Hub Dual Monitor (2x HDMI, 100W PD)](https://www.amazon.co.uk/dp/B0D3TK3XHS?linkCode=ll2&tag=souvlakia-21) - Best Premium
 
-**SPP Score: 8.6 / 10** - 7-in-1 connectivity, high-speed data. Our pick for maximum capability.
+**SPP Score: 8.1 / 10** - 7-in-1 connectivity, high-speed data. Our pick for maximum capability.
+
+Scorecard: Capability 8/10 - Versatility 9/10 - Build 9/10 - Value 6/10
 
 For the most capable compact option, this Anker 7-in-1 puts two HDMI outputs on a single small hub, so you can run a genuine dual-monitor setup without a bulky dock. It pairs that with 100W Power Delivery to keep your laptop topped up while you work. It is the pick for people who want full dual-display capability in a portable, well-built shell.
 

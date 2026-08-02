@@ -6,7 +6,9 @@ Picking a USB-C cable for fast charging is trickier than it looks, because a cab
 
 ### 1. [UGREEN USB C to USB C Cable 100W (2-Pack, 2m)](https://www.amazon.co.uk/dp/B08D6NCQ1Z?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
-**SPP Score: 8.1 / 10** - 100W charging headroom and a braided build, supplied as a 2-pack of 2m leads. Our all-round pick.
+**SPP Score: 6.9 / 10** - 100W charging headroom and a braided build, supplied as a 2-pack of 2m leads. Our all-round pick.
+
+Scorecard: Capability 7/10 - Versatility 5/10 - Build 8/10 - Value 8/10
 
 The UGREEN USB C to USB C Cable 100W hits the sweet spot for most people: 100W of USB Power Delivery is enough to fast-charge phones, tablets, and even many USB-C laptops over a single cable. The braided jacket resists fraying and kinking far better than plain rubber sleeving, which is the part that usually fails first. It comes as a 2-pack, and the generous 2m length gives you room to reach a socket without stretching the lead.
 
@@ -28,7 +30,9 @@ The UGREEN USB C to USB C Cable 100W hits the sweet spot for most people: 100W o
 
 ### 2. [Anker USB C to USB C Cable 100W (1.8m Braided)](https://www.amazon.co.uk/dp/B09LPXJ3RX?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
-**SPP Score: 8.0 / 10** - 100W charging with USB-IF certification and a double-braided nylon jacket. Our value pick.
+**SPP Score: 7.5 / 10** - 100W charging with USB-IF certification and a double-braided nylon jacket. Our value pick.
+
+Scorecard: Capability 7/10 - Versatility 5/10 - Build 10/10 - Value 9/10
 
 The Anker USB C to USB C Cable 100W is the sensible-value choice that does not skimp on the essentials. Its 100W Power Delivery rating is plenty for fast-charging phones and most tablets, and it carries enough headroom for many USB-C laptops too. It is USB-IF certified, which means the cable has been tested against the official USB standard, and the 1.8m double-braided nylon jacket adds the durability that matters for a cable you plug in every day. Data transfer runs at USB 2.0 speeds.
 
@@ -50,7 +54,9 @@ The Anker USB C to USB C Cable 100W is the sensible-value choice that does not s
 
 ### 3. [Anker Prime USB C to USB C Cable 240W (1.8m)](https://www.amazon.co.uk/dp/B0DCF9FZZ3?linkCode=ll2&tag=souvlakia-21) - Best Premium
 
-**SPP Score: 8.3 / 10** - 240W charging headroom with a high-bend-durability braided build. Our pick for maximum capability.
+**SPP Score: 8.2 / 10** - 240W charging headroom with a high-bend-durability braided build. Our pick for maximum capability.
+
+Scorecard: Capability 10/10 - Versatility 5/10 - Build 10/10 - Value 7/10
 
 The Anker Prime USB C to USB C Cable 240W is the do-it-all pick for the most demanding setups. Its 240W rating, aligned with the newer USB Power Delivery EPR (Extended Power Range) standard, gives it the headroom to fast-charge high-wattage laptops, docks and accessories that would max out lesser cables. The upcycled-braided nylon jacket is rated for high bend durability, keeping it tough enough for travel and constant plugging and unplugging over a 1.8m length.
 

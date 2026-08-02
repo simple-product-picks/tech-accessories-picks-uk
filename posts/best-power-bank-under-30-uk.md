@@ -6,7 +6,9 @@ Looking for a compact power bank to keep your phone topped up on the go? This gu
 
 ### 1. [INIU Power Bank 10000mAh 22.5W Slim](https://www.amazon.co.uk/dp/B08JTQ66K7?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
-**SPP Score: 7.8 / 10** - 10000mAh capacity, 22.5W fast charging. Our all-round pick.
+**SPP Score: 6.8 / 10** - 10000mAh capacity, 22.5W fast charging. Our all-round pick.
+
+Scorecard: Capability 6/10 - Versatility 6/10 - Build 8/10 - Value 8/10
 
 The INIU Power Bank 10000mAh 22.5W Slim hits the sweet spot for everyday carry: a 10000mAh cell holds enough charge for a full phone top-up or more, while 22.5W PD and QC fast charging shortens the time spent tethered on compatible devices. The ultra-slim casing slips easily into a pocket or bag, and USB-C in and out means you can recharge the bank and your phone through the same connector, alongside a USB-A port for a second device.
 
@@ -28,7 +30,9 @@ The INIU Power Bank 10000mAh 22.5W Slim hits the sweet spot for everyday carry: 
 
 ### 2. [Anker Zolo Power Bank 10000mAh 30W](https://www.amazon.co.uk/dp/B0CZ9M6X8Q?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
-**SPP Score: 7.7 / 10** - 10000mAh capacity, 30W high-speed charging. Our value pick.
+**SPP Score: 6.7 / 10** - 10000mAh capacity, 30W high-speed charging. Our value pick.
+
+Scorecard: Capability 6/10 - Versatility 5/10 - Build 8/10 - Value 9/10
 
 The Anker Zolo Power Bank 10000mAh 30W is the sensible-value choice: it pairs a dependable 10000mAh capacity with 30W high-speed output for brisk top-ups on compatible devices. A built-in [USB-C cable](best-usb-c-cable-for-fast-charging.html) means there is nothing extra to carry or misplace, and the USB-C port also handles recharging the bank itself, so it stays refreshingly simple to live with.
 
@@ -50,7 +54,9 @@ The Anker Zolo Power Bank 10000mAh 30W is the sensible-value choice: it pairs a 
 
 ### 3. [UGREEN MagFlow MagSafe Power Bank 10000mAh (Qi2 25W)](https://www.amazon.co.uk/dp/B0G2S9LVS4?linkCode=ll2&tag=souvlakia-21) - Best Premium
 
-**SPP Score: 7.9 / 10** - 10000mAh capacity with Qi2 25W magnetic wireless charging plus PD 30W wired. Our pick for maximum capability.
+**SPP Score: 6.5 / 10** - 10000mAh capacity with Qi2 25W magnetic wireless charging plus PD 30W wired. Our pick for maximum capability.
+
+Scorecard: Capability 6/10 - Versatility 7/10 - Build 7/10 - Value 6/10
 
 The UGREEN MagFlow is the most capable pick because it charges two ways from one 10000mAh bank. It snaps magnetically onto the back of a compatible iPhone and charges wirelessly at up to Qi2 25W, so there is no cable to plug in for a quick top-up, and the magnetic hold lets you keep using the phone while it charges. When you want the fastest fill, a built-in cable delivers up to 30W wired PD, and that same connection recharges the bank itself. It is the do-it-all option for anyone who wants MagSafe-style convenience and wired speed in a single compact unit.
 

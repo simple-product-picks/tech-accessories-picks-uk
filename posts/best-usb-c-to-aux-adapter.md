@@ -6,7 +6,9 @@ Switching to a phone or laptop without a headphone socket means you need a relia
 
 ### 1. [UGREEN USB C to 3.5mm Audio Adapter](https://www.amazon.co.uk/dp/B082WG5VTK?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
-**SPP Score: 7.8 / 10** - Plug-and-play simplicity. Our all-round pick.
+**SPP Score: 6.7 / 10** - Plug-and-play simplicity. Our all-round pick.
+
+Scorecard: Capability 7/10 - Versatility 5/10 - Build 7/10 - Value 8/10
 
 UGREEN is a well-established maker of charging and audio accessories, and this USB-C to 3.5mm adapter is a dependable everyday choice. It carries an analogue headphone signal out to a 3.5mm jack, so it works neatly with wired earphones, headsets, and the aux input in many cars. The compact in-line design keeps it pocketable and out of the way when plugged in.
 
@@ -28,7 +30,9 @@ UGREEN is a well-established maker of charging and audio accessories, and this U
 
 ### 2. [Anker USB C to 3.5mm Audio Adapter](https://www.amazon.co.uk/dp/B08Z3B5QL3?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
-**SPP Score: 7.8 / 10** - USB-C to 3.5mm with in-line controls on a nylon cable. Our value pick.
+**SPP Score: 7.3 / 10** - USB-C to 3.5mm with in-line controls on a nylon cable. Our value pick.
+
+Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 9/10
 
 Anker is a familiar name in charging and audio accessories, and this USB-C to 3.5mm adapter is the sensible-value choice when you want a little more than the bare essentials. It carries an analogue headphone signal to a standard 3.5mm jack for wired earphones, headphones, and aux leads, and adds in-line controls so you can handle calls, volume, and track skips without reaching for your phone. The nylon cable gives it a bit of length and flex to sit comfortably between your device and your headphones.
 
@@ -50,7 +54,9 @@ Anker is a familiar name in charging and audio accessories, and this USB-C to 3.
 
 ### 3. [Apple USB-C to 3.5mm Headphone Jack Adapter](https://www.amazon.co.uk/dp/B07K2NH6ZN?linkCode=ll2&tag=souvlakia-21) - Best Premium
 
-**SPP Score: 8.0 / 10** - Genuine Apple USB-C to 3.5mm with a built-in DAC. Our pick for maximum capability.
+**SPP Score: 6.7 / 10** - Genuine Apple USB-C to 3.5mm with a built-in DAC. Our pick for maximum capability.
+
+Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 6/10
 
 Apple's own USB-C to 3.5mm adapter is the do-it-all pick for anyone in the Apple ecosystem who wants guaranteed first-party compatibility. As a genuine Apple accessory it is designed to work smoothly with USB-C iPhones, iPads, and Macs, taking the guesswork out of pairing your wired headphones. A built-in DAC handles the analogue conversion, and it stays completely plug-and-play with no setup required.
 

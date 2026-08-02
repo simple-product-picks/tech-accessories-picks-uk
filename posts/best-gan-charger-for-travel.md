@@ -6,7 +6,9 @@ Looking for a compact charger that won't weigh down your carry-on? This guide co
 
 ### 1. [UGREEN Nexode 65W GaN Charger (3-Port)](https://www.amazon.co.uk/dp/B0B7N4DX1Z?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
-**SPP Score: 8.4 / 10** - 65W output, three ports, GaN build. Our all-round pick.
+**SPP Score: 7.3 / 10** - 65W output, three ports, GaN build. Our all-round pick.
+
+Scorecard: Capability 7/10 - Versatility 6/10 - Build 9/10 - Value 8/10
 
 The UGREEN Nexode delivers 65W across three ports, so it can serve as a single charger for a laptop plus a phone and one more device on the move. With two USB-C ports and one USB-A, it plays nicely with modern and older cables alike, and the foldable UK plug tucks flat into a bag. GaN (gallium nitride) internals keep it compact and cooler than an older silicon brick, while PD 3.0 and PPS support means it can fast-charge a wide range of phones and ultrabooks.
 
@@ -28,7 +30,9 @@ The UGREEN Nexode delivers 65W across three ports, so it can serve as a single c
 
 ### 2. [UGREEN USB C Charger 65W GaN 2-Port](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
-**SPP Score: 7.9 / 10** - 65W output, compact GaN build. Our value pick.
+**SPP Score: 7.3 / 10** - 65W output, compact GaN build. Our value pick.
+
+Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 9/10
 
 The UGREEN 65W GaN is the sensible-value choice, covering the essentials with two ports and enough power to handle a laptop as well as a phone. 65W is comfortably in ultrabook territory, so it can serve as a single charger for a work-and-play trip. UGREEN is a respected charging brand, and the two-port layout means you can top up a phone and a laptop from one plug.
 
@@ -50,7 +54,9 @@ The UGREEN 65W GaN is the sensible-value choice, covering the essentials with tw
 
 ### 3. [Anker 100W USB C Charger (3-Port GaN, Smart Display)](https://www.amazon.co.uk/dp/B0FL2DR4TH?linkCode=ll2&tag=souvlakia-21) - Best Premium
 
-**SPP Score: 8.3 / 10** - 100W output, compact GaN build, a live wattage display. Our pick for maximum capability.
+**SPP Score: 7.8 / 10** - 100W output, compact GaN build, a live wattage display. Our pick for maximum capability.
+
+Scorecard: Capability 9/10 - Versatility 5/10 - Build 10/10 - Value 7/10
 
 This is the do-it-all pick: 100W across three ports means it can power a demanding laptop and still have headroom for a phone and a tablet. The smart display shows live output so you can see how power is being distributed, which is genuinely useful when juggling several devices in a hotel room. GaN internals keep a 100W charger this capable down to a travel-friendly size.
 

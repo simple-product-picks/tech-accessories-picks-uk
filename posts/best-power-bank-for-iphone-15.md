@@ -6,7 +6,9 @@ Picking the right power bank for your iPhone 15 comes down to capacity, charging
 
 ### 1. [Anker Nano Power Bank 10000mAh 30W](https://www.amazon.co.uk/dp/B0C9CJKCH3?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
-**SPP Score: 7.9 / 10** - 10000mAh capacity, 30W output. Our all-round pick.
+**SPP Score: 6.5 / 10** - 10000mAh capacity, 30W output. Our all-round pick.
+
+Scorecard: Capability 6/10 - Versatility 5/10 - Build 8/10 - Value 8/10
 
 The Anker Nano Power Bank pairs a 10000mAh capacity with 30W USB-C Power Delivery output, which is enough to fast-charge an iPhone 15 and even top up smaller laptops or tablets. The 10000mAh cell gives you roughly a couple of full iPhone charges in a pocket-sized shell, and the 30W PD rating means you are not waiting around for a slow trickle. It is the sweet spot of speed, capacity, and portability for most iPhone 15 owners.
 
@@ -28,7 +30,9 @@ The Anker Nano Power Bank pairs a 10000mAh capacity with 30W USB-C Power Deliver
 
 ### 2. [Anker Zolo Power Bank 10000mAh 30W](https://www.amazon.co.uk/dp/B0CZ9M6X8Q?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
-**SPP Score: 7.7 / 10** - 10000mAh capacity with a built-in USB-C cable and 30W output. Our value pick.
+**SPP Score: 6.7 / 10** - 10000mAh capacity with a built-in USB-C cable and 30W output. Our value pick.
+
+Scorecard: Capability 6/10 - Versatility 5/10 - Build 8/10 - Value 9/10
 
 The Anker Zolo Power Bank keeps things simple by building the [USB-C cable](best-usb-c-cable-for-iphone-15.html) straight into the pack, so there is nothing extra to carry or lose. The 10000mAh cell comfortably tops up an iPhone 15 once or twice between mains charges, and the 30W high-speed output means the built-in cable still delivers a proper fast charge rather than a slow trickle. With USB-C in and out, you can recharge the pack itself over USB-C too, making it an easy all-in-one everyday carry.
 
@@ -50,7 +54,9 @@ The Anker Zolo Power Bank keeps things simple by building the [USB-C cable](best
 
 ### 3. [Anker Nano Power Bank 10000mAh 45W (Retractable)](https://www.amazon.co.uk/dp/B0DGKWTQQC?linkCode=ll2&tag=souvlakia-21) - Best Premium
 
-**SPP Score: 7.8 / 10** - 10000mAh capacity, 45W max output with a built-in 70cm retractable USB-C cable and smart display. Our pick for maximum capability.
+**SPP Score: 6.4 / 10** - 10000mAh capacity, 45W max output with a built-in 70cm retractable USB-C cable and smart display. Our pick for maximum capability.
+
+Scorecard: Capability 6/10 - Versatility 6/10 - Build 8/10 - Value 6/10
 
 The Anker Nano 45W is the do-it-all pick, pairing a 10000mAh capacity with a 45W maximum output for the fastest charging in this guide. Its built-in 70cm retractable USB-C cable pulls out to the length you need and tucks back in when you are done, so there is no loose cable to manage. A smart display rounds out the package, and USB-C in and out means you can recharge the pack over USB-C as well. For anyone who wants the most capable, highest-output pack here, this is the standout.
 

@@ -6,7 +6,9 @@ Wired internet is back in demand for anyone working from home or gaming on a lap
 
 ### 1. [UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet](https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
-**SPP Score: 8.7 / 10** - 7-in-1 connectivity, wired Ethernet. Our all-round pick.
+**SPP Score: 7.7 / 10** - 7-in-1 connectivity, wired Ethernet. Our all-round pick.
+
+Scorecard: Capability 7/10 - Versatility 9/10 - Build 7/10 - Value 8/10
 
 The UGREEN Revodok 7-in-1 hits the sweet spot for most laptops, pairing Gigabit Ethernet with a useful spread of seven ports in one compact unit. A single USB-C connection to your laptop keeps everything tidy while you add wired networking and your usual peripherals. For a typical home-office or hybrid-working setup, this is the most balanced all-rounder here.
 
@@ -28,7 +30,9 @@ The UGREEN Revodok 7-in-1 hits the sweet spot for most laptops, pairing Gigabit 
 
 ### 2. [Anker USB C Hub PowerExpand 6-in-1 with Ethernet](https://www.amazon.co.uk/dp/B08CKXNJZS?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
-**SPP Score: 8.4 / 10** - 6-in-1 connectivity, wired Ethernet. Our value pick.
+**SPP Score: 7.5 / 10** - 6-in-1 connectivity, wired Ethernet. Our value pick.
+
+Scorecard: Capability 6/10 - Versatility 8/10 - Build 8/10 - Value 9/10
 
 The Anker PowerExpand 6-in-1 is the sensible-value choice that covers the essentials without fuss. You get wired Ethernet plus a useful mix of everyday ports, all from a brand with a long track record in charging and connectivity accessories. It is a clean way to add wired networking to a slim laptop.
 
@@ -50,7 +54,9 @@ The Anker PowerExpand 6-in-1 is the sensible-value choice that covers the essent
 
 ### 3. [Anker USB C Hub 8-in-1 with Ethernet and 10Gbps](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21) - Best Premium
 
-**SPP Score: 8.9 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
+**SPP Score: 8.4 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
+
+Scorecard: Capability 9/10 - Versatility 9/10 - Build 8/10 - Value 7/10
 
 The Anker 8-in-1 is the do-it-all pick, adding 10Gbps USB ports so large file transfers and external SSDs feel genuinely fast. Alongside the speedy data lanes you still get wired Ethernet and the broadest port count in this guide. For creators and anyone who moves a lot of data, the extra bandwidth and ports justify the step up.
 

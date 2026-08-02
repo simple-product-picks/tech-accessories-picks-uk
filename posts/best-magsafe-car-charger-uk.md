@@ -6,7 +6,9 @@ Finding a car charger that snaps cleanly onto your iPhone and holds it steady on
 
 ### 1. [Belkin BoostCharge MagSafe Car Vent Mount (Charger Included)](https://www.amazon.co.uk/dp/B09GRJ2S8X?linkCode=ll2&tag=souvlakia-21) - Best Overall
 
-**SPP Score: 7.5 / 10** - Complete kit with the car charger and cable both in the box, MagSafe-compatible magnetic hold and an air-vent mount. Our all-round pick.
+**SPP Score: 7.6 / 10** - Complete kit with the car charger and cable both in the box, MagSafe-compatible magnetic hold and an air-vent mount. Our all-round pick.
+
+Scorecard: Capability 7/10 - Versatility 8/10 - Build 8/10 - Value 8/10
 
 Belkin's BoostCharge MagSafe Car Vent Mount is the balanced all-rounder, arriving as a complete kit with its own car charger and cable in the box so there is nothing extra to buy to get going. The MagSafe-compatible magnetic hold snaps your iPhone cleanly into place and keeps it steady, while the air-vent mount doubles as a hands-free holder to keep the screen within easy glance for navigation. For most UK drivers it strikes the right balance of secure grip, everyday convenience and a familiar charging brand.
 
@@ -28,7 +30,9 @@ Belkin's BoostCharge MagSafe Car Vent Mount is the balanced all-rounder, arrivin
 
 ### 2. [ESR HaloLock MagSafe Car Charger 15W](https://www.amazon.co.uk/dp/B08HNBHSQV?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
-**SPP Score: 7.5 / 10** - 15W fast wireless with strong magnets and both air-vent and dashboard mounts. Our value pick.
+**SPP Score: 8.0 / 10** - 15W fast wireless with strong magnets and both air-vent and dashboard mounts. Our value pick.
+
+Scorecard: Capability 8/10 - Versatility 8/10 - Build 7/10 - Value 9/10
 
 The ESR HaloLock is the sensible-value choice that covers the essentials: MagSafe-compatible magnetic alignment and up to 15W of fast wireless output in a tidy package. Strong magnets keep your iPhone snapped firmly in place, and it ships with both air-vent and dashboard mounting options so you can position it where it suits your car. It delivers the core convenience of snapping your iPhone into place and charging hands-free without extra frills.
 
@@ -50,7 +54,9 @@ The ESR HaloLock is the sensible-value choice that covers the essentials: MagSaf
 
 ### 3. [Belkin BoostCharge Pro MagSafe Car Charger (Qi2 15W)](https://www.amazon.co.uk/dp/B0DHHJPY5M?linkCode=ll2&tag=souvlakia-21) - Best Premium
 
-**SPP Score: 7.6 / 10** - Qi2 15W wireless charging with an air-vent mount and included 1.5m USB-C cable. Our pick for maximum capability.
+**SPP Score: 8.2 / 10** - Qi2 15W wireless charging with an air-vent mount and included 1.5m USB-C cable. Our pick for maximum capability.
+
+Scorecard: Capability 9/10 - Versatility 8/10 - Build 8/10 - Value 7/10
 
 Belkin's BoostCharge Pro is the step-up option, bringing the newer Qi2 standard to your car and pairing convenient magnetic snap-on alignment with up to 15W of wireless output for compatible iPhones. It mounts to your car's air vent and doubles as a holder, keeping your phone within easy glance for navigation while it tops up. A 1.5m [USB-C cable](best-usb-c-cable-for-fast-charging.html) is included in the box, and the MagSafe-compatible magnetic hold keeps the phone in the optimal charging position. For drivers who want the most capable charge on offer here, the faster Qi2 15W output is the reason to move up from the all-round pick.
 
