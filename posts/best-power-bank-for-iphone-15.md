@@ -30,7 +30,7 @@ The Anker Nano Power Bank pairs a 10000mAh capacity with 30W USB-C Power Deliver
 
 **SPP Score: 7.7 / 10** - 10000mAh capacity with a built-in USB-C cable and 30W output. Our value pick.
 
-The Anker Zolo Power Bank keeps things simple by building the USB-C cable straight into the pack, so there is nothing extra to carry or lose. The 10000mAh cell comfortably tops up an iPhone 15 once or twice between mains charges, and the 30W high-speed output means the built-in cable still delivers a proper fast charge rather than a slow trickle. With USB-C in and out, you can recharge the pack itself over USB-C too, making it an easy all-in-one everyday carry.
+The Anker Zolo Power Bank keeps things simple by building the [USB-C cable](best-usb-c-cable-for-iphone-15.html) straight into the pack, so there is nothing extra to carry or lose. The 10000mAh cell comfortably tops up an iPhone 15 once or twice between mains charges, and the 30W high-speed output means the built-in cable still delivers a proper fast charge rather than a slow trickle. With USB-C in and out, you can recharge the pack itself over USB-C too, making it an easy all-in-one everyday carry.
 
 **Pros**
 - ✓ Built-in USB-C cable means nothing extra to pack

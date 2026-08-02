@@ -87,7 +87,7 @@ A: GaN (gallium nitride) lets chargers run cooler and smaller than older silicon
 A: Most USB-C laptops charge fine from a 100W single port, but check your laptop's required wattage first, as a few high-performance machines ask for more than 100W.
 
 **Q: Do I need a special cable to get the full 100W?**
-A: Yes, you need a USB-C to USB-C cable rated for 100W (5A) with the right standards; a thin or low-rated cable will cap your charging speed regardless of the charger.
+A: Yes, you need a USB-C to [USB-C cable](best-usb-c-cable-for-fast-charging.html) rated for 100W (5A) with the right standards; a thin or low-rated cable will cap your charging speed regardless of the charger.
 
 ---
 

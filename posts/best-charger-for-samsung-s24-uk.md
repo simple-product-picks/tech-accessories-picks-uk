@@ -87,7 +87,7 @@ A: The standard S24 supports fast charging over USB-C Power Delivery, and any of
 A: GaN (gallium nitride) lets a charger deliver high wattage in a smaller, cooler-running body than older silicon designs, which is why these plugs stay compact despite their power.
 
 **Q: Do I need to buy a separate USB-C cable?**
-A: Sometimes, as not every charger includes a cable. Use a quality USB-C to USB-C cable rated for the wattage you want, and check the Amazon UK listing to see what is in the box.
+A: Sometimes, as not every charger includes a cable. Use a quality USB-C to [USB-C cable](best-usb-c-cable-for-fast-charging.html) rated for the wattage you want, and check the Amazon UK listing to see what is in the box.
 
 ---
 

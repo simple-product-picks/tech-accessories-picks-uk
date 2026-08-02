@@ -52,7 +52,7 @@ The ESR HaloLock is the sensible-value choice that covers the essentials: MagSaf
 
 **SPP Score: 7.6 / 10** - Qi2 15W wireless charging with an air-vent mount and included 1.5m USB-C cable. Our pick for maximum capability.
 
-Belkin's BoostCharge Pro is the step-up option, bringing the newer Qi2 standard to your car and pairing convenient magnetic snap-on alignment with up to 15W of wireless output for compatible iPhones. It mounts to your car's air vent and doubles as a holder, keeping your phone within easy glance for navigation while it tops up. A 1.5m USB-C cable is included in the box, and the MagSafe-compatible magnetic hold keeps the phone in the optimal charging position. For drivers who want the most capable charge on offer here, the faster Qi2 15W output is the reason to move up from the all-round pick.
+Belkin's BoostCharge Pro is the step-up option, bringing the newer Qi2 standard to your car and pairing convenient magnetic snap-on alignment with up to 15W of wireless output for compatible iPhones. It mounts to your car's air vent and doubles as a holder, keeping your phone within easy glance for navigation while it tops up. A 1.5m [USB-C cable](best-usb-c-cable-for-fast-charging.html) is included in the box, and the MagSafe-compatible magnetic hold keeps the phone in the optimal charging position. For drivers who want the most capable charge on offer here, the faster Qi2 15W output is the reason to move up from the all-round pick.
 
 **Pros**
 - ✓ Qi2 15W wireless output is the fastest on offer here for compatible iPhone models

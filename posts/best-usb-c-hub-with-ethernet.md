@@ -1,6 +1,6 @@
 # Best USB C Hub With Ethernet UK 2026
 
-Wired internet is back in demand for anyone working from home or gaming on a laptop, and a USB-C hub with built-in Ethernet is the tidiest way to get it. This guide covers three sensible picks for UK buyers who want a stable wired connection plus the everyday ports a slim laptop leaves out.
+Wired internet is back in demand for anyone working from home or gaming on a laptop, and a USB-C hub with built-in Ethernet is the tidiest way to get it. This guide covers three sensible picks for UK buyers who want a stable wired connection plus the everyday ports a slim laptop leaves out. If you only need the wired connection and no extra ports, a dedicated [USB-C ethernet adapter](best-usb-c-ethernet-adapter.html) is smaller and cheaper.
 
 ## Top picks
 

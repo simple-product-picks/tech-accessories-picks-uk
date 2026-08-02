@@ -1,6 +1,6 @@
 # Best USB C Ethernet Adapter UK 2026
 
-Wi-Fi dropping out mid-call or lagging during a download? A USB-C Ethernet adapter gives your laptop, tablet, or mini PC a proper wired connection. This UK guide covers three solid picks for plugging into your router or a wall socket and getting stable, low-latency networking on the go.
+Wi-Fi dropping out mid-call or lagging during a download? A USB-C Ethernet adapter gives your laptop, tablet, or mini PC a proper wired connection. You will also see these sold as USB-C network adapters or ethernet dongles; they are the same device, and the gigabit models below are the ones worth buying. This UK guide covers three solid picks for plugging into your router or a wall socket and getting stable, low-latency networking on the go. If you would rather add ethernet and extra ports in one device, see our [USB-C hub with ethernet](best-usb-c-hub-with-ethernet.html) guide.
 
 ## Top picks
 

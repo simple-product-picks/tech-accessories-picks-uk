@@ -8,7 +8,7 @@ Looking for a power bank that charges your phone, tablet, or even a laptop over 
 
 **SPP Score: 8.0 / 10** - 20000mAh capacity, 165W output with a built-in retractable USB-C cable. Our all-round pick.
 
-The UGREEN Nexode Power Bank 20000mAh 165W hits the sweet spot for most people, pairing a generous 20000mAh capacity with up to 165W of USB-C output across three USB-C ports. The built-in retractable USB-C cable means you can leave a spare lead at home, while 100W input lets the bank itself top up quickly. With three-way output it can share power between a laptop, phone, and tablet at once, which makes it the all-rounder to beat.
+The UGREEN Nexode Power Bank 20000mAh 165W hits the sweet spot for most people, pairing a generous 20000mAh capacity with up to 165W of USB-C output across three USB-C ports. The built-in retractable [USB-C cable](best-usb-c-cable-for-fast-charging.html) means you can leave a spare lead at home, while 100W input lets the bank itself top up quickly. With three-way output it can share power between a laptop, phone, and tablet at once, which makes it the all-rounder to beat.
 
 **Pros**
 - ✓ Up to 165W output can fast-charge many laptops, not just phones

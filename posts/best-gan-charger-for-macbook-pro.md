@@ -87,7 +87,7 @@ A: A 13-inch or M2 MacBook Pro charges fully at 65W, while the 14-inch and 16-in
 A: GaN (gallium nitride) lets a charger run cooler and more efficiently than older silicon designs, which means a smaller, lighter unit for the same wattage - handy for carrying every day.
 
 **Q: Do these chargers come with a cable?**
-A: A USB-C cable is not always included, so check the listing on Amazon UK and make sure you have a cable rated for the wattage your MacBook Pro needs.
+A: A [USB-C cable](best-usb-c-cable-for-fast-charging.html) is not always included, so check the listing on Amazon UK and make sure you have a cable rated for the wattage your MacBook Pro needs.
 
 ---
 
