@@ -34,7 +34,7 @@ The iPhone 15 family switched to USB-C, so a proper USB-C to USB-C cable is the 
 
 Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 9/10
 
-The value choice here is this UGREEN two-pack, which covers the essentials without fuss. Getting two braided USB-C to USB-C cables in one go means you can keep one by the bed and one in a bag, or have a spare ready when one wanders off. Both are a short 0.5m, which is tidy for a [power bank](best-power-bank-for-iphone-15.html) in a pocket, a bedside socket, or a laptop bag where a long lead just tangles. They carry fast charging up to 100W (65W on the second port profile), so an iPhone 15 charges without the cable holding it back.
+The value choice here is this UGREEN two-pack, which covers the essentials without fuss. Getting two braided USB-C to USB-C cables in one go means you can keep one by the bed and one in a bag, or have a spare ready when one wanders off. Both are a short 0.5m, which is tidy for a [power bank](best-power-bank-for-iphone-15.html) in a pocket, a bedside socket, or a laptop bag where a long lead just tangles. They carry 100W/65W fast charging, so an iPhone 15 charges without the cable holding it back.
 
 **Pros**
 - ✓ Two cables in one pack, so you can spread them around the house or keep a backup
@@ -78,7 +78,7 @@ If you want the cable Apple designed for its own ecosystem, this is the no-quest
 
 ## Quick verdict
 
-For most iPhone 15 owners, the **[UGREEN USB C to USB C Cable 100W (1m Braided)](https://www.amazon.co.uk/dp/B07V8S73GD?linkCode=ll2&tag=souvlakia-21)** is the standout, pairing a tough braided build and a built-in E-Marker chip with a 100W rating that covers phones, tablets, and laptops alike. If you would rather spread your kit across more than one lead, the **[UGREEN USB C to USB C Cable 100W (2-Pack, 0.5m)](https://www.amazon.co.uk/dp/B0BLXKTJ8P?linkCode=ll2&tag=souvlakia-21)** is the value choice, with two compact braided cables in a single pack.
+For most iPhone 15 owners, the **[UGREEN USB C to USB C Cable 100W (1m Braided)](https://www.amazon.co.uk/dp/B07V8S73GD?linkCode=ll2&tag=souvlakia-21)** is the standout, pairing a tough braided build and a built-in E-Marker chip with a 100W rating that covers phones, tablets, and laptops alike. If you would rather spread your kit across more than one lead, the **[UGREEN USB C to USB C Cable 100W (2-Pack, 0.5m)](https://www.amazon.co.uk/dp/B0BLXKTJ8P?linkCode=ll2&tag=souvlakia-21)** is the value choice, with two compact braided cables in a single pack. If only the official lead will do, the **[Apple 60W USB-C Charge Cable (1m)](https://www.amazon.co.uk/dp/B0DCNY4K5V?linkCode=ll2&tag=souvlakia-21)** is the premium pick, trading laptop headroom for guaranteed first-party compatibility.
 
 ## How we chose
 

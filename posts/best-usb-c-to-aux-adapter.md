@@ -37,13 +37,13 @@ Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 9/10
 Anker is a familiar name in charging and audio accessories, and this USB-C to 3.5mm adapter is the sensible-value choice when you want a little more than the bare essentials. It carries an analogue headphone signal to a standard 3.5mm jack for wired earphones, headphones, and aux leads, and adds in-line controls so you can handle calls, volume, and track skips without reaching for your phone. The nylon cable gives it a bit of length and flex to sit comfortably between your device and your headphones.
 
 **Pros**
-- ✓ Brings a standard 3.5mm headphone output to a USB-C device
+- ✓ Restores a wired 3.5mm headphone jack on USB-C phones, tablets and laptops
 - ✓ In-line controls for calls, volume, and track changes without touching your phone
 - ✓ Braided nylon cable adds length and everyday flexibility
 
 **Cons**
-- ✗ No charging pass-through, so you cannot listen and charge at the same time
-- ✗ Compatibility with some manufacturers' ports can vary, so confirm your device is supported
+- ✗ Occupies the USB-C port, so charging while you listen needs a separate splitter
+- ✗ Worth confirming your specific phone or tablet supports USB-C audio adapters
 
 **Who it's for:** Buyers who want in-line call and volume controls on a flexible cabled adapter without paying more.
 **Who it's not for:** Those who prefer the smallest possible connector or need charge pass-through.

@@ -54,7 +54,7 @@ The UGREEN USB C to HDMI Adapter is the sensible-value choice that still covers 
 
 ### 3. [Anker USB C Hub 8-in-1 with Ethernet and 10Gbps](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21) - Best Premium
 
-**SPP Score: 7.9 / 10** - Gigabit Ethernet, plug-and-play simplicity. Our pick for maximum capability.
+**SPP Score: 7.9 / 10** - 4K 60Hz HDMI, Ethernet and 10Gbps USB from one 8-in-1 hub. Our pick for maximum capability.
 
 Scorecard: Capability 8/10 - Versatility 9/10 - Build 8/10 - Value 6/10
 

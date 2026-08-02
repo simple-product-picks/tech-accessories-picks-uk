@@ -78,7 +78,7 @@ The UGREEN Nexode Pro 100W is the do-it-all pick for a busier setup. Its 100W ce
 
 ## Quick verdict
 
-For most Samsung S24 owners, the **[Anker 67W GaN Wall Charger (3 Ports)](https://www.amazon.co.uk/dp/B0C4Y1FFQH?linkCode=ll2&tag=souvlakia-21)** strikes the best balance of fast charging, multiple ports and a compact GaN build. If you want dependable fast charging for the S24 and one extra device at a sensible value, the **[UGREEN USB C Charger 65W GaN 2-Port](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21)** covers the essentials nicely.
+For most Samsung S24 owners, the **[Anker 67W GaN Wall Charger (3 Ports)](https://www.amazon.co.uk/dp/B0C4Y1FFQH?linkCode=ll2&tag=souvlakia-21)** strikes the best balance of fast charging, multiple ports and a compact GaN build. If you want dependable fast charging for the S24 and one extra device at a sensible value, the **[UGREEN USB C Charger 65W GaN 2-Port](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21)** covers the essentials nicely. If you also charge a USB-C laptop and want maximum headroom, step up to the **[UGREEN Nexode Pro 100W 3-Port GaN Charger](https://www.amazon.co.uk/dp/B0CCVDXHM6?linkCode=ll2&tag=souvlakia-21)**.
 
 ## How we chose
 

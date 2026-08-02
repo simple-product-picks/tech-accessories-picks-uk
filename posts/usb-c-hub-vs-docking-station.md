@@ -1,6 +1,6 @@
 # USB C Hub Vs Docking Station UK 2026
 
-Trying to decide between a compact USB C hub and a full docking station for your laptop setup? This guide breaks down the difference, then picks three solid options to suit different desks and needs. UK voice, no jargon for the sake of it.
+Trying to decide between a compact USB C hub and a full docking station for your laptop setup? This guide breaks down the difference, then picks three solid options to suit different desks and needs. Plain English, no jargon for the sake of it.
 
 A USB C hub is small, bus-powered and great for travel, adding a few ports through one cable. A docking station does more: it typically drives more displays, handles wired Ethernet, and pushes power back to your laptop so one cable runs everything. Below are our picks across both camps.
 

@@ -31,7 +31,7 @@ This UGREEN hub is the standout because it pairs a 170MB/s SD and microSD reader
 
 ### 2. [Anker 547 USB C Hub (7-in-2) for MacBook with SD Card](https://www.amazon.co.uk/dp/B0BNZ5V1TF?linkCode=ll2&tag=souvlakia-21) - Best Budget
 
-**SPP Score: 7.5 / 10** - 7-in-1 connectivity, high-speed data. Our value pick.
+**SPP Score: 7.5 / 10** - 7-in-2 connectivity, high-speed data. Our value pick.
 
 Scorecard: Capability 6/10 - Versatility 8/10 - Build 8/10 - Value 9/10
 
@@ -81,7 +81,7 @@ This Anker 8-in-1 is the do-it-all pick, adding Gigabit Ethernet to a full set o
 
 ## Quick verdict
 
-For most people the **[UGREEN USB C Hub 8-in-1 with 170MB/s SD Card Reader](https://www.amazon.co.uk/dp/B0DY1BD3T2?linkCode=ll2&tag=souvlakia-21)** is the best all-round choice, balancing a fast card reader with a broad 8-in-1 set of connections. If you want a tidier, essentials-focused option, the **[Anker 547 USB C Hub (7-in-2) for MacBook with SD Card](https://www.amazon.co.uk/dp/B0BNZ5V1TF?linkCode=ll2&tag=souvlakia-21)** is the sensible-value pick, especially for MacBook owners.
+For most people the **[UGREEN USB C Hub 8-in-1 with 170MB/s SD Card Reader](https://www.amazon.co.uk/dp/B0DY1BD3T2?linkCode=ll2&tag=souvlakia-21)** is the best all-round choice, balancing a fast card reader with a broad 8-in-1 set of connections. If you want a tidier, essentials-focused option, the **[Anker 547 USB C Hub (7-in-2) for MacBook with SD Card](https://www.amazon.co.uk/dp/B0BNZ5V1TF?linkCode=ll2&tag=souvlakia-21)** is the sensible-value pick, especially for MacBook owners, while the **[Anker USB C Hub 8-in-1 with Ethernet and 10Gbps](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21)** adds wired Ethernet and 10Gbps transfers for desk duty.
 
 ## How we chose
 

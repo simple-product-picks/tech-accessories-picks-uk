@@ -39,7 +39,7 @@ The UGREEN 65W GaN is the sensible-value choice that covers the essentials witho
 **Pros**
 - ✓ Two ports cover a laptop and a phone from one plug
 - ✓ 65W output handles the fast-charging needs of most everyday devices
-- ✓ Ultra-compact GaN body and folding-friendly UK plug for travel
+- ✓ Ultra-compact GaN body and travel-friendly UK plug
 
 **Cons**
 - ✗ Two ports rather than three limits how many devices you can run at once
@@ -78,7 +78,7 @@ The Anker Nano II 65W is the choice for travellers who want maximum single-port 
 
 ## Quick verdict
 
-For most people the **[Anker 67W GaN Wall Charger (3 Ports)](https://www.amazon.co.uk/dp/B0C4Y1FFQH?linkCode=ll2&tag=souvlakia-21)** is the one to get, thanks to its three-port flexibility and compact GaN build. If you want a tidy, capable charger and the best everyday value, the **[UGREEN USB C Charger 65W GaN 2-Port](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21)** covers the essentials with two ports.
+For most people the **[Anker 67W GaN Wall Charger (3 Ports)](https://www.amazon.co.uk/dp/B0C4Y1FFQH?linkCode=ll2&tag=souvlakia-21)** is the one to get, thanks to its three-port flexibility and compact GaN build. If you want a tidy, capable charger and the best everyday value, the **[UGREEN USB C Charger 65W GaN 2-Port](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21)** covers the essentials with two ports. If you charge one device at a time and want the smallest possible plug, the **[Anker Nano II 65W USB C Charger](https://www.amazon.co.uk/dp/B091KQ39FM?linkCode=ll2&tag=souvlakia-21)** is the premium single-port choice.
 
 ## How we chose
 

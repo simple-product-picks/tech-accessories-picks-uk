@@ -78,7 +78,7 @@ This 8-in-1 Anker hub is the do-it-all pick, built around fast 10Gbps data trans
 
 ## Quick verdict
 
-For most M1 Air owners the **[Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD](https://www.amazon.co.uk/dp/B07ZVKTP53?linkCode=ll2&tag=souvlakia-21)** is the one to get, balancing display output, charging, USB-A and card readers in a tidy package. If you want strong value with wired Ethernet thrown in, the **[UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet](https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21)** covers the essentials nicely. Power users who move big files should look at the 10Gbps premium pick.
+For most M1 Air owners the **[Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD](https://www.amazon.co.uk/dp/B07ZVKTP53?linkCode=ll2&tag=souvlakia-21)** is the one to get, balancing display output, charging, USB-A and card readers in a tidy package. If you want strong value with wired Ethernet thrown in, the **[UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet](https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21)** covers the essentials nicely. Power users who move big files should look at the **[Anker USB C Hub 8-in-1 with Ethernet and 10Gbps](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21)**.
 
 ## How we chose
 

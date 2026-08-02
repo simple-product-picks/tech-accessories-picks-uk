@@ -1,6 +1,6 @@
 # Best USB C Ethernet Adapter UK 2026
 
-Wi-Fi dropping out mid-call or lagging during a download? A USB-C Ethernet adapter gives your laptop, tablet, or mini PC a proper wired connection. You will also see these sold as USB-C network adapters or ethernet dongles; they are the same device, and the gigabit models below are the ones worth buying. This UK guide covers three solid picks for plugging into your router or a wall socket and getting stable, low-latency networking on the go. If you would rather add ethernet and extra ports in one device, see our [USB-C hub with ethernet](best-usb-c-hub-with-ethernet.html) guide.
+Wi-Fi dropping out mid-call or lagging during a download? A USB-C Ethernet adapter gives your laptop, tablet, or mini PC a proper wired connection. You will also see these sold as USB-C network adapters or ethernet dongles; they are the same device, and the gigabit-and-faster models below are the ones worth buying. This UK guide covers three solid picks for plugging into your router or a wall socket and getting stable, low-latency networking on the go. If you would rather add ethernet and extra ports in one device, see our [USB-C hub with ethernet](best-usb-c-hub-with-ethernet.html) guide.
 
 ## Top picks
 
@@ -67,7 +67,7 @@ This UGREEN adapter steps up to 5Gbps Ethernet for the most capable connection o
 
 **Cons**
 - ✗ The 5G capability only pays off if your network and broadband support it
-- ✗ A standalone adapter with no extra pass-through power or hub ports
+- ✗ Single-purpose design, so extra USB ports still need a separate hub
 
 **Who it's for:** Power users on multi-gigabit broadband or fast local networks who want maximum wired throughput.
 **Who it's not for:** Anyone on standard Gigabit broadband, where a basic adapter delivers the same real-world speed.
@@ -82,7 +82,7 @@ For most people the **[UGREEN USB C to 2.5G Ethernet Adapter](https://www.amazon
 
 ## How we chose
 
-We focused on the specs that actually matter for this category: Ethernet speed (Gigabit versus 2.5 Gigabit), the USB-C connector standard, plug-and-play compatibility, and build quality for everyday durability. We weighed UK fit, since most home broadband is comfortably served by Gigabit while multi-gig packages benefit from a 2.5G adapter, and prioritised honest value over feature bloat. Every pick links straight to Amazon UK so you can check the latest price and availability yourself.
+We focused on the specs that actually matter for this category: Ethernet speed (Gigabit, 2.5G, or 5G), the USB-C connector standard, plug-and-play compatibility, and build quality for everyday durability. We weighed UK fit, since most home broadband is comfortably served by Gigabit while multi-gig packages benefit from a 2.5G or 5G adapter, and prioritised honest value over feature bloat. Every pick links straight to Amazon UK so you can check the latest price and availability yourself.
 
 ## FAQ
 

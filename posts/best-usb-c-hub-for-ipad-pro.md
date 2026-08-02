@@ -78,7 +78,7 @@ This 8-in-1 Anker hub is the do-it-all option, bringing 10Gbps USB-C and USB-A d
 
 ## Quick verdict
 
-For most people the **[Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD](https://www.amazon.co.uk/dp/B07ZVKTP53?linkCode=ll2&tag=souvlakia-21)** is the best all-rounder, balancing 4K HDMI and strong charging in one neat unit. If you want wired Ethernet without overspending, the **[UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet](https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21)** is the sensible-value pick. Power users moving large files should look at the 10Gbps premium hub.
+For most people the **[Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD](https://www.amazon.co.uk/dp/B07ZVKTP53?linkCode=ll2&tag=souvlakia-21)** is the best all-rounder, balancing 4K HDMI and strong charging in one neat unit. If you want wired Ethernet without overspending, the **[UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet](https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21)** is the sensible-value pick. Power users moving large files should look at the **[Anker USB C Hub 8-in-1 with Ethernet and 10Gbps](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21)**.
 
 ## How we chose
 

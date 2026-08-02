@@ -78,7 +78,7 @@ The Anker 8-in-1 is the do-it-all pick for ThinkPad users who want speed alongsi
 
 ## Quick verdict
 
-For most ThinkPad owners, the **[UGREEN Revodok Pro 210 USB C Docking Station (10-in-1)](https://www.amazon.co.uk/dp/B0BXDQS4BD?linkCode=ll2&tag=souvlakia-21)** is the best all-round choice, turning a single USB-C port into a consolidated desk dock. If you want to cover the essentials with a simpler, sensible-value hub, the **[Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD](https://www.amazon.co.uk/dp/B07ZVKTP53?linkCode=ll2&tag=souvlakia-21)** handles a single 4K display and charging neatly.
+For most ThinkPad owners, the **[UGREEN Revodok Pro 210 USB C Docking Station (10-in-1)](https://www.amazon.co.uk/dp/B0BXDQS4BD?linkCode=ll2&tag=souvlakia-21)** is the best all-round choice, turning a single USB-C port into a consolidated desk dock. If you want to cover the essentials with a simpler, sensible-value hub, the **[Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD](https://www.amazon.co.uk/dp/B07ZVKTP53?linkCode=ll2&tag=souvlakia-21)** handles a single 4K display and charging neatly. Those who need fast transfers and Ethernet from a compact hub should look at the **[Anker USB C Hub 8-in-1 with Ethernet and 10Gbps](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21)**.
 
 ## How we chose
 

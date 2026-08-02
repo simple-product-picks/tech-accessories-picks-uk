@@ -43,7 +43,7 @@ The UGREEN 65W GaN is the sensible-value choice, covering the essentials with tw
 
 **Cons**
 - ✗ Total wattage is shared, so charging two devices splits the available power
-- ✗ Cables are typically supplied separately
+- ✗ You will typically need to supply your own charging cable
 
 **Who it's for:** Travellers who want one charger to cover a laptop plus a phone and keep their bag light.
 **Who it's not for:** Anyone needing three or more ports for a tablet, watch and earbuds too.
@@ -79,11 +79,11 @@ This is the do-it-all pick: 100W across three ports means it can power a demandi
 
 ## Quick verdict
 
-For most travellers the **[UGREEN Nexode 65W GaN Charger (3-Port)](https://www.amazon.co.uk/dp/B0B7N4DX1Z?linkCode=ll2&tag=souvlakia-21)** is the easy choice: three ports and 65W cover a laptop, phone and a third device from one compact plug. If you want a simpler two-port option, the **[UGREEN USB C Charger 65W GaN 2-Port](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21)** is the value pick, while the three-port 100W Anker is there when you want maximum power for everything at once.
+For most travellers the **[UGREEN Nexode 65W GaN Charger (3-Port)](https://www.amazon.co.uk/dp/B0B7N4DX1Z?linkCode=ll2&tag=souvlakia-21)** is the easy choice: three ports and 65W cover a laptop, phone and a third device from one compact plug. If you want a simpler two-port option, the **[UGREEN USB C Charger 65W GaN 2-Port](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21)** is the value pick, while the **[Anker 100W USB C Charger (3-Port GaN, Smart Display)](https://www.amazon.co.uk/dp/B0FL2DR4TH?linkCode=ll2&tag=souvlakia-21)** is there when you want maximum power for everything at once.
 
 ## How we chose
 
-We focused on the specs that matter for travel: real wattage (30W for phones, 65W and 100W for laptops), the number of USB-C ports, GaN construction for a smaller and cooler package, and overall portability for a carry-on. We weighed UK fit and sensible value alongside raw capability, favouring chargers that do one job well over gimmicks. Every pick links straight to Amazon UK so you can check the latest price and availability yourself.
+We focused on the specs that matter for travel: real wattage (65W and 100W across our picks), the number of USB-C ports, GaN construction for a smaller and cooler package, and overall portability for a carry-on. We weighed UK fit and sensible value alongside raw capability, favouring chargers that do one job well over gimmicks. Every pick links straight to Amazon UK so you can check the latest price and availability yourself.
 
 ## FAQ
 

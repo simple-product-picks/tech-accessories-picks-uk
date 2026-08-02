@@ -66,8 +66,8 @@ Belkin's BoostCharge Pro is the step-up option, bringing the newer Qi2 standard 
 - ✓ Air-vent mount doubles as a hands-free holder for sat-nav use, with a 1.5m USB-C cable included
 
 **Cons**
-- ✗ Wireless charging is generally slower than a wired connection for rapid top-ups
-- ✗ A USB-C power source in the car is still needed to supply the charger
+- ✗ Even at Qi2 15W, wireless charging trails a wired connection for rapid top-ups
+- ✗ You still need your own USB-C car power source to run it
 
 **Who it's for:** Drivers who want the newer Qi2 standard and the most capable wireless charge from a familiar brand.
 **Who it's not for:** Anyone happy with a simpler kit who does not need Qi2 or the fastest wireless output.

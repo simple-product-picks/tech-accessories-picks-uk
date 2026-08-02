@@ -43,7 +43,7 @@ The Anker PowerExpand 6-in-1 is the sensible-value choice that covers the essent
 
 **Cons**
 - ✗ Fewer total ports than the larger hubs in this guide
-- ✗ General-purpose ports rather than the fastest 10Gbps data standard
+- ✗ Data ports are standard speed, without the 10Gbps transfers of the premium pick
 
 **Who it's for:** Buyers who want a dependable, no-frills hub that handles wired internet and everyday peripherals.
 **Who it's not for:** Power users who need 10Gbps transfers or a high port count.
