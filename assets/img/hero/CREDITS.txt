@@ -15,14 +15,14 @@ posts/best-100w-gan-charger-uk.jpg  ready made  https://www.pexels.com/photo/whi
 posts/best-65w-gan-charger-uk.jpg  ready made  https://www.pexels.com/photo/adapters-on-white-surface-3921708/
 posts/best-charger-for-samsung-s24-uk.jpg  Stanley Ng  https://www.pexels.com/photo/black-android-smartphones-on-brown-wooden-surface-4387770/
 posts/best-gan-charger-for-macbook-pro.jpg  IslandHopper X  https://www.pexels.com/photo/computer-on-desk-15227212/
-posts/best-gan-charger-for-travel.jpg  ready made  https://www.pexels.com/photo/adapters-and-type-c-cable-3921630/
+posts/best-gan-charger-for-travel.jpg  Timur Weber  https://www.pexels.com/photo/hands-on-gray-bag-with-cable-charger-9185851/
 posts/best-magsafe-car-charger-uk.jpg  Alicia Christin Gerald  https://www.pexels.com/photo/smartphone-navigation-in-car-interior-36169956/
 posts/best-power-bank-20000mah-uk.jpg  Andrey Matveev  https://www.pexels.com/photo/modern-power-bank-and-multi-connector-cable-on-grey-surface-34338614/
 posts/best-power-bank-for-iphone-15.jpg  Eleonora Vokueva  https://www.pexels.com/photo/smartphone-charging-with-portable-power-bank-37475677/
 posts/best-power-bank-for-long-flights.jpg  Asad Photo Maldives  https://www.pexels.com/photo/woman-recording-video-through-airplane-window-15923452/
 posts/best-power-bank-under-30-uk.jpg  Towfiqu barbhuiya  https://www.pexels.com/photo/a-smartphone-charging-with-a-power-bank-14706040/
 posts/best-power-bank-with-usb-c-output.jpg  Eleonora Vokueva  https://www.pexels.com/photo/smartphone-charging-with-power-bank-on-wooden-surface-37475662/
-posts/best-thunderbolt-4-cable-uk.jpg  ready made  https://www.pexels.com/photo/usb-c-cable-on-white-surface-3921713/
+posts/best-thunderbolt-4-cable-uk.jpg  Arina Krasnikova  https://www.pexels.com/photo/portable-drive-connected-to-laptop-5951759/
 posts/best-usb-c-cable-for-fast-charging.jpg  ready made  https://www.pexels.com/photo/close-up-photo-of-cord-3921633/
 posts/best-usb-c-cable-for-iphone-15.jpg  Steve A Johnson  https://www.pexels.com/photo/closed-up-photography-of-two-iphones-1028674/
 posts/best-usb-c-docking-station-uk.jpg  Rann Vijay  https://www.pexels.com/photo/a-usb-hub-plugged-into-a-laptop-7742589/
@@ -37,4 +37,4 @@ posts/best-usb-c-hub-with-sd-card-reader.jpg  Julio Lopez  https://www.pexels.co
 posts/best-usb-c-to-aux-adapter.jpg  Jess Bailey Designs  https://www.pexels.com/photo/apple-earpods-983831/
 posts/best-usb-c-to-displayport-adapter.jpg  RDNE Stock project  https://www.pexels.com/photo/man-playing-computer-game-7915281/
 posts/best-usb-c-to-hdmi-adapter.jpg  Jakub Zerdzicki  https://www.pexels.com/photo/modern-home-living-room-with-smart-devices-28549934/
-posts/usb-c-hub-vs-docking-station.jpg  Anzor Dukaev  https://www.pexels.com/photo/usb-c-hub-on-dark-surface-with-usb-ports-30708285/
+posts/usb-c-hub-vs-docking-station.jpg  Pramod  Tiwari  https://www.pexels.com/photo/a-minimalist-workspace-14016665/
