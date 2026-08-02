@@ -31,9 +31,9 @@ This UGREEN hub is the standout because it pairs a 170MB/s SD and microSD reader
 
 ### 2. Anker 547 USB C Hub (7-in-2) for MacBook with SD Card - Best Budget
 
-**SPP Score: 7.5 / 10** - 7-in-2 connectivity, high-speed data. Our value pick.
+**SPP Score: 8.6 / 10** - 7-in-2 connectivity, high-speed data. Our value pick.
 
-Scorecard: Capability 6/10 - Versatility 8/10 - Build 8/10 - Value 9/10
+Scorecard: Capability 9/10 - Versatility 8/10 - Build 8/10 - Value 9/10
 
 The Anker 547 is the sensible-value choice for MacBook owners, with a dual-plug design that slots neatly into two side-by-side USB-C ports for a flush, stable fit. It covers the essentials cleanly with a 7-in-2 set of connections including SD card support, all from a well-known charging and accessories brand.
 
