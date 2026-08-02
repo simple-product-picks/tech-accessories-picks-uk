@@ -32,9 +32,9 @@ This is the cable to default to. It carries Intel's Thunderbolt 4 certification,
 
 ### 2. UGREEN USB4 Cable 240W 40Gbps (1m) - Best Budget
 
-**SPP Score: 8.5 / 10** - USB4 40Gbps data. Our value pick.
+**SPP Score: 8.2 / 10** - USB4 40Gbps data. Our value pick.
 
-Scorecard: Capability 10/10 - Versatility 7/10 - Build 7/10 - Value 9/10
+Scorecard: Capability 10/10 - Versatility 7/10 - Build 7/10 - Value 8/10
 
 USB4 is the open standard Thunderbolt 4 is built on, and this UGREEN lead shows how much of that capability you can get for sensible money: 40Gbps of data, an 8K@60Hz display signal, and 240W PD3.1 charging in a 1m cable. For most desks it will behave identically to a certified Thunderbolt lead, and the extra length over shorter certified options is genuinely useful when the ports do not line up neatly. If you want full-speed connectivity without the certification badge, this is the pick.
 
@@ -80,7 +80,7 @@ Here is the dirty secret of fast cables: passive leads lose speed as they get lo
 
 ## Quick verdict
 
-For most desks, the **[Anker Thunderbolt 4 Cable (0.7m, 240W)](https://www.amazon.co.uk/dp/B0DJ1CQ1M1?linkCode=ll2&tag=souvlakia-21)** is the safe call: certified, fully specced and the right length for a dock on the desk. If you would rather not pay for the badge, the **[UGREEN USB4 Cable 240W 40Gbps (1m)](https://www.amazon.co.uk/dp/B0DZP21RXY?linkCode=ll2&tag=souvlakia-21)** delivers the same headline numbers for less, which is why it actually edges ahead on our value-weighted score. And when the run is long, only the **[Belkin Active Thunderbolt 4 Cable (2m, 100W)](https://www.amazon.co.uk/dp/B09PQFPDHX?linkCode=ll2&tag=souvlakia-21)** keeps full speed all the way. Match the cable to the distance and you will not think about it again, which is exactly how a good cable should be.
+For most desks, the **[Anker Thunderbolt 4 Cable (0.7m, 240W)](https://www.amazon.co.uk/dp/B0DJ1CQ1M1?linkCode=ll2&tag=souvlakia-21)** is the safe call: certified, fully specced and the right length for a dock on the desk. If you would rather not pay for the badge, the **[UGREEN USB4 Cable 240W 40Gbps (1m)](https://www.amazon.co.uk/dp/B0DZP21RXY?linkCode=ll2&tag=souvlakia-21)** delivers the same headline numbers with the certification badge as the main trade-off. And when the run is long, only the **[Belkin Active Thunderbolt 4 Cable (2m, 100W)](https://www.amazon.co.uk/dp/B09PQFPDHX?linkCode=ll2&tag=souvlakia-21)** keeps full speed all the way. Match the cable to the distance and you will not think about it again, which is exactly how a good cable should be.
 
 ## How we chose
 

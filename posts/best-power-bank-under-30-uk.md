@@ -30,9 +30,9 @@ The INIU Power Bank 10000mAh 22.5W Slim hits the sweet spot for everyday carry: 
 
 ### 2. Anker Zolo Power Bank 10000mAh 30W - Best Budget
 
-**SPP Score: 6.7 / 10** - 10000mAh capacity, 30W high-speed charging. Our value pick.
+**SPP Score: 6.5 / 10** - 10000mAh capacity, 30W high-speed charging. Our value pick.
 
-Scorecard: Capability 6/10 - Versatility 5/10 - Build 8/10 - Value 9/10
+Scorecard: Capability 6/10 - Versatility 5/10 - Build 8/10 - Value 8/10
 
 The Anker Zolo Power Bank 10000mAh 30W is the sensible-value choice: it pairs a dependable 10000mAh capacity with 30W high-speed output for brisk top-ups on compatible devices. A built-in [USB-C cable](best-usb-c-cable-for-fast-charging.html) means there is nothing extra to carry or misplace, and the USB-C port also handles recharging the bank itself, so it stays refreshingly simple to live with.
 

@@ -30,9 +30,9 @@ UGREEN is a well-known name in connectivity accessories, and this 2.5G adapter h
 
 ### 2. Amazon Basics USB-C to Gigabit Ethernet Adapter - Best Budget
 
-**SPP Score: 7.3 / 10** - Gigabit Ethernet, plug-and-play simplicity. Our value pick.
+**SPP Score: 7.2 / 10** - Gigabit Ethernet, plug-and-play simplicity. Our value pick.
 
-Scorecard: Capability 7/10 - Versatility 6/10 - Build 8/10 - Value 9/10
+Scorecard: Capability 7/10 - Versatility 6/10 - Build 8/10 - Value 8/10
 
 The sensible-value choice that covers the essentials without any extras you don't need. It is plug and play with no drivers to install, so you connect the USB-C end to your device and the RJ45 end to your router and you are online. A single-purpose dongle like this keeps things simple for everyday wired networking.
 

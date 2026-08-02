@@ -30,9 +30,9 @@ The UGREEN Revodok Pro 210 is the standout choice for ThinkPad owners who want a
 
 ### 2. Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD - Best Budget
 
-**SPP Score: 8.1 / 10** - 7-in-1 connectivity. Our value pick.
+**SPP Score: 7.9 / 10** - 7-in-1 connectivity. Our value pick.
 
-Scorecard: Capability 7/10 - Versatility 9/10 - Build 8/10 - Value 9/10
+Scorecard: Capability 7/10 - Versatility 9/10 - Build 8/10 - Value 8/10
 
 This Anker 7-in-1 hub is the sensible-value choice that covers the essentials without overcomplicating things. It pairs a 4K HDMI output with 85W USB-C Power Delivery, so you can drive an external display while keeping charge flowing through to your laptop. Anker is a trusted charging brand, and this hub focuses on the connections most people actually reach for day to day.
 

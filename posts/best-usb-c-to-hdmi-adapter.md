@@ -30,9 +30,9 @@ The Anker USB-C to HDMI Cable is our standout because it does the one job most p
 
 ### 2. UGREEN USB C to HDMI Adapter 4K@60Hz - Best Budget
 
-**SPP Score: 7.7 / 10** - 4K at 60Hz with HDR and Thunderbolt 3/4 compatibility. Our value pick.
+**SPP Score: 7.5 / 10** - 4K at 60Hz with HDR and Thunderbolt 3/4 compatibility. Our value pick.
 
-Scorecard: Capability 8/10 - Versatility 6/10 - Build 8/10 - Value 9/10
+Scorecard: Capability 8/10 - Versatility 6/10 - Build 8/10 - Value 8/10
 
 The UGREEN USB C to HDMI Adapter is the sensible-value choice that still covers the specs that matter: a straightforward USB-C to HDMI connection running 4K at a smooth 60Hz, with HDR support for richer contrast on a compatible screen. It is Thunderbolt 3 and 4 compatible, so it slots neatly into modern laptops, and the aluminium shell helps it shrug off life in a bag. UGREEN is a well-known accessories brand, and this adapter focuses on the essentials rather than extra ports, which keeps it simple to live with.
 

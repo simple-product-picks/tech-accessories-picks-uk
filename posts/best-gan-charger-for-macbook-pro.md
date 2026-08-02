@@ -30,9 +30,9 @@ The Anker 100W delivers the full 100W a 14-inch or 16-inch MacBook Pro wants fro
 
 ### 2. UGREEN USB C Charger 65W GaN 2-Port - Best Budget
 
-**SPP Score: 7.3 / 10** - 65W output, two-port design, compact GaN build. Our value pick.
+**SPP Score: 7.1 / 10** - 65W output, two-port design, compact GaN build. Our value pick.
 
-Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 9/10
+Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 8/10
 
 The UGREEN 65W is the sensible-value choice for owners of a 13-inch MacBook Pro or an M2 model, covering the essentials with a full-speed charge for those machines. Its two USB-C ports let you charge the laptop and a phone at once, and the GaN design keeps it light and pocketable for commuting. It covers the everyday charging job without anything you do not need.
 

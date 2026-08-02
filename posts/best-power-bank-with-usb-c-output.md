@@ -30,9 +30,9 @@ The UGREEN Nexode Power Bank 20000mAh 165W hits the sweet spot for most people, 
 
 ### 2. Anker Zolo Power Bank 10000mAh 30W - Best Budget
 
-**SPP Score: 6.7 / 10** - 10000mAh capacity, 30W output with a built-in USB-C cable. Our value pick.
+**SPP Score: 6.5 / 10** - 10000mAh capacity, 30W output with a built-in USB-C cable. Our value pick.
 
-Scorecard: Capability 6/10 - Versatility 5/10 - Build 8/10 - Value 9/10
+Scorecard: Capability 6/10 - Versatility 5/10 - Build 8/10 - Value 8/10
 
 The Anker Zolo Power Bank 10000mAh 30W is the sensible-value choice that covers the essentials without the bulk. Its 10000mAh capacity is the classic everyday size, small enough to drop into a bag or large pocket, and 30W high-speed output is enough to fast-charge a phone. The built-in USB-C cable is always there when you need it, and the separate USB-C port handles charging in and out. If you mainly need to keep a phone alive through a long day, this does the job cleanly.
 

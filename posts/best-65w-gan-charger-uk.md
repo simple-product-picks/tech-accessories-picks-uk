@@ -30,9 +30,9 @@ The Anker 67W is the most versatile pick here, packing three ports into a compac
 
 ### 2. UGREEN USB C Charger 65W GaN 2-Port - Best Budget
 
-**SPP Score: 7.3 / 10** - 65W output, two-port design, compact GaN build. Our value pick.
+**SPP Score: 7.1 / 10** - 65W output, two-port design, compact GaN build. Our value pick.
 
-Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 9/10
+Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 8/10
 
 The UGREEN 65W GaN is the sensible-value choice that covers the essentials without fuss. Its two ports and ultra-compact UK plug make it an easy everyday carry, and its 65W output is enough to fast-charge most modern laptops, tablets, and phones. UGREEN reckons it's around half the size of a standard laptop brick, so it slips into a bag with room to spare.
 

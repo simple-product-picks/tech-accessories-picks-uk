@@ -30,9 +30,9 @@ This 7-in-1 Anker hub hits the sweet spot for the M1 Air, designed to work with 
 
 ### 2. UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet - Best Budget
 
-**SPP Score: 7.9 / 10** - 7-in-1 connectivity, wired Ethernet. Our value pick.
+**SPP Score: 7.7 / 10** - 7-in-1 connectivity, wired Ethernet. Our value pick.
 
-Scorecard: Capability 7/10 - Versatility 9/10 - Build 7/10 - Value 9/10
+Scorecard: Capability 7/10 - Versatility 9/10 - Build 7/10 - Value 8/10
 
 The UGREEN Revodok is the sensible-value choice that still covers the essentials, and it throws in something the overall pick leaves out: Gigabit Ethernet for a stable wired connection. You also get 4K HDMI, three USB-A ports, an SD slot and 100W pass-through Power Delivery, which is a generous spread for a no-fuss hub. UGREEN is a well-established name in charging and connectivity accessories.
 

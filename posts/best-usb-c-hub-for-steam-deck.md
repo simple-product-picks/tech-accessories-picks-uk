@@ -31,9 +31,9 @@ This UGREEN Revodok packs the essentials a Steam Deck owner actually needs into 
 
 ### 2. Anker USB C Hub 5-in-1 with 4K HDMI - Best Budget
 
-**SPP Score: 7.7 / 10** - 5-in-1 connectivity. Our value pick.
+**SPP Score: 7.5 / 10** - 5-in-1 connectivity. Our value pick.
 
-Scorecard: Capability 6/10 - Versatility 8/10 - Build 9/10 - Value 9/10
+Scorecard: Capability 6/10 - Versatility 8/10 - Build 9/10 - Value 8/10
 
 The Anker 5-in-1 is the sensible-value choice that covers the essentials for couch gaming: 4K HDMI out to the telly, USB-A ports for wired controllers or a keyboard and mouse, and USB-C power delivery to keep the Deck topped up. It is compact, so it slips into a bag for travel or sits unobtrusively behind the TV. Anker is a well-established name in charging accessories, which is reassuring for a port you use every day.
 

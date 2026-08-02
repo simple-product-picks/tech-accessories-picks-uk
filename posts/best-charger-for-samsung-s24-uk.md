@@ -30,9 +30,9 @@ The Anker 67W is the pick we would hand most S24 owners. With 67W on tap across 
 
 ### 2. UGREEN USB C Charger 65W GaN 2-Port - Best Budget
 
-**SPP Score: 7.3 / 10** - 65W output, compact GaN build. Our value pick.
+**SPP Score: 7.1 / 10** - 65W output, compact GaN build. Our value pick.
 
-Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 9/10
+Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 8/10
 
 The UGREEN 65W 2-Port is the sensible-value choice that covers the essentials without fuss. With 65W shared across two ports and GaN efficiency, it delivers ample power to fast-charge the S24 and run a second device such as a laptop or tablet. UGREEN is a reliable charging brand, and USB-C Power Delivery support means dependable fast charging for your phone.
 

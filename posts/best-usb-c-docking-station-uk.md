@@ -32,9 +32,9 @@ The Anker 575 is the dock we would point most people at. Thirteen connections co
 
 ### 2. UGREEN Revodok Pro 210 USB C Docking Station (10-in-1) - Best Budget
 
-**SPP Score: 9.2 / 10** - Dual 4K@60Hz HDMI. Our value pick.
+**SPP Score: 9.0 / 10** - Dual 4K@60Hz HDMI. Our value pick.
 
-Scorecard: Capability 10/10 - Versatility 10/10 - Build 7/10 - Value 9/10
+Scorecard: Capability 10/10 - Versatility 10/10 - Build 7/10 - Value 8/10
 
 The Revodok Pro 210 is the value sweet spot in this category, and it is honestly hard to argue with what you get. Dual HDMI outputs both run at 4K@60Hz, so a two-monitor desk works properly rather than at a compromised refresh rate. Gigabit Ethernet handles wired networking, the SD/TF reader covers camera cards, and 100W Power Delivery passthrough keeps the laptop charged through the same connection. For a home office that wants dock-class features without dock-class spending, this is the pick.
 

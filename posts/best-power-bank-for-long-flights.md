@@ -30,9 +30,9 @@ With a 25000mAh capacity, this Anker is sized to recharge most phones several ti
 
 ### 2. Anker Power Bank 20000mAh 87W (Built-in Cable) - Best Budget
 
-**SPP Score: 8.4 / 10** - 20000mAh with an 87W built-in USB-C cable and laptop-capable output. Our value pick.
+**SPP Score: 8.2 / 10** - 20000mAh with an 87W built-in USB-C cable and laptop-capable output. Our value pick.
 
-Scorecard: Capability 10/10 - Versatility 6/10 - Build 8/10 - Value 9/10
+Scorecard: Capability 10/10 - Versatility 6/10 - Build 8/10 - Value 8/10
 
 The 20000mAh capacity gives you the multi-charge headroom that long flights demand, and an 87W maximum output is enough to charge many laptops as well as phones and tablets. The built-in [USB-C cable](best-usb-c-cable-for-fast-charging.html) means one fewer thing to remember, and there is a second USB-C port plus a USB-A port for charging more than one device at a time. It is the sensible-value choice for travellers who want laptop-capable wattage and integrated-cable convenience without stepping up to a larger pack.
 

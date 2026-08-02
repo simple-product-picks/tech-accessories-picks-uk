@@ -32,9 +32,9 @@ The Revodok Pro 210 leans into the docking-station side of the argument, packing
 
 ### 2. Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD - Best Budget
 
-**SPP Score: 8.1 / 10** - 7-in-1 connectivity. Our value pick.
+**SPP Score: 7.9 / 10** - 7-in-1 connectivity. Our value pick.
 
-Scorecard: Capability 7/10 - Versatility 9/10 - Build 8/10 - Value 9/10
+Scorecard: Capability 7/10 - Versatility 9/10 - Build 8/10 - Value 8/10
 
 This 7-in-1 Anker hub is the sensible-value choice for most people, covering the essentials without the bulk of a full dock. The 4K HDMI output handles a single external monitor cleanly, while the 85W Power Delivery passthrough means your laptop can charge through the same hub as it runs your peripherals. Anker is a familiar name in charging and connectivity, and this layout hits the sweet spot between portability and capability.
 

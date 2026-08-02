@@ -30,9 +30,9 @@ The iPhone 15 family switched to USB-C, so a proper USB-C to USB-C cable is the 
 
 ### 2. UGREEN USB C to USB C Cable 100W (2-Pack, 0.5m) - Best Budget
 
-**SPP Score: 7.3 / 10** - Two compact 0.5m braided cables rated for 100W/65W fast charging. Our value pick.
+**SPP Score: 7.1 / 10** - Two compact 0.5m braided cables rated for 100W/65W fast charging. Our value pick.
 
-Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 9/10
+Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 8/10
 
 The value choice here is this UGREEN two-pack, which covers the essentials without fuss. Getting two braided USB-C to USB-C cables in one go means you can keep one by the bed and one in a bag, or have a spare ready when one wanders off. Both are a short 0.5m, which is tidy for a [power bank](best-power-bank-for-iphone-15.html) in a pocket, a bedside socket, or a laptop bag where a long lead just tangles. They carry 100W/65W fast charging, so an iPhone 15 charges without the cable holding it back.
 

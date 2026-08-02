@@ -30,9 +30,9 @@ UGREEN is a well-established maker of charging and audio accessories, and this U
 
 ### 2. Anker USB C to 3.5mm Audio Adapter - Best Budget
 
-**SPP Score: 7.3 / 10** - USB-C to 3.5mm with in-line controls on a nylon cable. Our value pick.
+**SPP Score: 7.1 / 10** - USB-C to 3.5mm with in-line controls on a nylon cable. Our value pick.
 
-Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 9/10
+Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 8/10
 
 Anker is a familiar name in charging and audio accessories, and this USB-C to 3.5mm adapter is the sensible-value choice when you want a little more than the bare essentials. It carries an analogue headphone signal to a standard 3.5mm jack for wired earphones, headphones, and aux leads, and adds in-line controls so you can handle calls, volume, and track skips without reaching for your phone. The nylon cable gives it a bit of length and flex to sit comfortably between your device and your headphones.
 

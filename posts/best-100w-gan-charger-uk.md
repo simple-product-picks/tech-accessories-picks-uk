@@ -30,9 +30,9 @@ The Anker 100W is our standout because it pairs serious single-port output with 
 
 ### 2. UGREEN Nexode 100W USB C Charger 4-Port GaN - Best Budget
 
-**SPP Score: 8.2 / 10** - 100W output, 4-port layout, compact GaN build. Our value pick.
+**SPP Score: 8.1 / 10** - 100W output, 4-port layout, compact GaN build. Our value pick.
 
-Scorecard: Capability 9/10 - Versatility 6/10 - Build 9/10 - Value 9/10
+Scorecard: Capability 9/10 - Versatility 6/10 - Build 9/10 - Value 8/10
 
 The UGREEN Nexode 100W is the sensible-value choice that covers the essentials without fuss. With four ports (three USB-C plus one USB-A) and a foldable UK plug, it is built for travelling light while still keeping a full set of devices topped up. GaN technology keeps it compact, and the single port can still push up to 100W when you need maximum speed for a laptop.
 

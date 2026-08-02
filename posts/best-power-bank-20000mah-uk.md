@@ -31,9 +31,9 @@ The INIU Power Bank 20000mAh 65W hits the balance most people actually want: a l
 
 ### 2. INIU Power Bank 20000mAh 45W - Best Budget
 
-**SPP Score: 8.1 / 10** - 20000mAh capacity, 45W USB-C fast charging, slim body with USB-C in and out. Our value pick.
+**SPP Score: 7.8 / 10** - 20000mAh capacity, 45W USB-C fast charging, slim body with USB-C in and out. Our value pick.
 
-Scorecard: Capability 9/10 - Versatility 6/10 - Build 8/10 - Value 9/10
+Scorecard: Capability 9/10 - Versatility 6/10 - Build 8/10 - Value 8/10
 
 The INIU Power Bank 20000mAh 45W is the sensible-value choice for anyone who wants plenty of capacity plus genuinely fast charging without paying for laptop-grade wattage. Its 45W USB-C output still fast-charges phones and tablets - lower than the flagship, but ample for everyday devices - while the big 20000mAh cell keeps phones and earbuds going across a long day, a weekend, or a festival. The USB-C port handles both input and output, so the same port that charges your phone also refills the bank, and the slim body slips easily into a bag or pocket. It makes an easy pick for a first power bank or a dependable spare.
 
