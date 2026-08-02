@@ -4,7 +4,7 @@ If you shoot photos, edit on the move, or just want one tidy adapter that handle
 
 ## Top picks
 
-### 1. [UGREEN USB C Hub 8-in-1 with 170MB/s SD Card Reader](https://www.amazon.co.uk/dp/B0DY1BD3T2?linkCode=ll2&tag=souvlakia-21) - Best Overall
+### 1. UGREEN USB C Hub 8-in-1 with 170MB/s SD Card Reader - Best Overall
 
 **SPP Score: 8.4 / 10** - 8-in-1 connectivity, high-speed data. Our all-round pick.
 
@@ -29,7 +29,7 @@ This UGREEN hub is the standout because it pairs a 170MB/s SD and microSD reader
 
 ---
 
-### 2. [Anker 547 USB C Hub (7-in-2) for MacBook with SD Card](https://www.amazon.co.uk/dp/B0BNZ5V1TF?linkCode=ll2&tag=souvlakia-21) - Best Budget
+### 2. Anker 547 USB C Hub (7-in-2) for MacBook with SD Card - Best Budget
 
 **SPP Score: 7.5 / 10** - 7-in-2 connectivity, high-speed data. Our value pick.
 
@@ -54,7 +54,7 @@ The Anker 547 is the sensible-value choice for MacBook owners, with a dual-plug 
 
 ---
 
-### 3. [Anker USB C Hub 8-in-1 with Ethernet and 10Gbps](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21) - Best Premium
+### 3. Anker USB C Hub 8-in-1 with Ethernet and 10Gbps - Best Premium
 
 **SPP Score: 8.4 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
 

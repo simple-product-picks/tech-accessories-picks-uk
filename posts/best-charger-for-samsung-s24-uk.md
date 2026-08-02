@@ -4,7 +4,7 @@ Looking for a charger that keeps your Samsung Galaxy S24 topped up quickly and s
 
 ## Top picks
 
-### 1. [Anker 67W GaN Wall Charger (3 Ports)](https://www.amazon.co.uk/dp/B0C4Y1FFQH?linkCode=ll2&tag=souvlakia-21) - Best Overall
+### 1. Anker 67W GaN Wall Charger (3 Ports) - Best Overall
 
 **SPP Score: 7.5 / 10** - 67W output, compact GaN build. Our all-round pick.
 
@@ -28,7 +28,7 @@ The Anker 67W is the pick we would hand most S24 owners. With 67W on tap across 
 
 ---
 
-### 2. [UGREEN USB C Charger 65W GaN 2-Port](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21) - Best Budget
+### 2. UGREEN USB C Charger 65W GaN 2-Port - Best Budget
 
 **SPP Score: 7.3 / 10** - 65W output, compact GaN build. Our value pick.
 
@@ -52,7 +52,7 @@ The UGREEN 65W 2-Port is the sensible-value choice that covers the essentials wi
 
 ---
 
-### 3. [UGREEN Nexode Pro 100W 3-Port GaN Charger](https://www.amazon.co.uk/dp/B0CCVDXHM6?linkCode=ll2&tag=souvlakia-21) - Best Premium
+### 3. UGREEN Nexode Pro 100W 3-Port GaN Charger - Best Premium
 
 **SPP Score: 7.2 / 10** - 100W output, compact GaN build. Our pick for maximum capability.
 

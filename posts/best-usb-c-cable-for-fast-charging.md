@@ -4,7 +4,7 @@ Picking a USB-C cable for fast charging is trickier than it looks, because a cab
 
 ## Top picks
 
-### 1. [UGREEN USB C to USB C Cable 100W (2-Pack, 2m)](https://www.amazon.co.uk/dp/B08D6NCQ1Z?linkCode=ll2&tag=souvlakia-21) - Best Overall
+### 1. UGREEN USB C to USB C Cable 100W (2-Pack, 2m) - Best Overall
 
 **SPP Score: 6.9 / 10** - 100W charging headroom and a braided build, supplied as a 2-pack of 2m leads. Our all-round pick.
 
@@ -28,7 +28,7 @@ The UGREEN USB C to USB C Cable 100W hits the sweet spot for most people: 100W o
 
 ---
 
-### 2. [Anker USB C to USB C Cable 100W (1.8m Braided)](https://www.amazon.co.uk/dp/B09LPXJ3RX?linkCode=ll2&tag=souvlakia-21) - Best Budget
+### 2. Anker USB C to USB C Cable 100W (1.8m Braided) - Best Budget
 
 **SPP Score: 7.5 / 10** - 100W charging with USB-IF certification and a double-braided nylon jacket. Our value pick.
 
@@ -52,7 +52,7 @@ The Anker USB C to USB C Cable 100W is the sensible-value choice that does not s
 
 ---
 
-### 3. [Anker Prime USB C to USB C Cable 240W (1.8m)](https://www.amazon.co.uk/dp/B0DCF9FZZ3?linkCode=ll2&tag=souvlakia-21) - Best Premium
+### 3. Anker Prime USB C to USB C Cable 240W (1.8m) - Best Premium
 
 **SPP Score: 8.2 / 10** - 240W charging headroom with a high-bend-durability braided build. Our pick for maximum capability.
 

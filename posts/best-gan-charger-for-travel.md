@@ -4,7 +4,7 @@ Looking for a compact charger that won't weigh down your carry-on? This guide co
 
 ## Top picks
 
-### 1. [UGREEN Nexode 65W GaN Charger (3-Port)](https://www.amazon.co.uk/dp/B0B7N4DX1Z?linkCode=ll2&tag=souvlakia-21) - Best Overall
+### 1. UGREEN Nexode 65W GaN Charger (3-Port) - Best Overall
 
 **SPP Score: 7.3 / 10** - 65W output, three ports, GaN build. Our all-round pick.
 
@@ -28,7 +28,7 @@ The UGREEN Nexode delivers 65W across three ports, so it can serve as a single c
 
 ---
 
-### 2. [UGREEN USB C Charger 65W GaN 2-Port](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21) - Best Budget
+### 2. UGREEN USB C Charger 65W GaN 2-Port - Best Budget
 
 **SPP Score: 7.3 / 10** - 65W output, compact GaN build. Our value pick.
 
@@ -52,7 +52,7 @@ The UGREEN 65W GaN is the sensible-value choice, covering the essentials with tw
 
 ---
 
-### 3. [Anker 100W USB C Charger (3-Port GaN, Smart Display)](https://www.amazon.co.uk/dp/B0FL2DR4TH?linkCode=ll2&tag=souvlakia-21) - Best Premium
+### 3. Anker 100W USB C Charger (3-Port GaN, Smart Display) - Best Premium
 
 **SPP Score: 7.8 / 10** - 100W output, compact GaN build, a live wattage display. Our pick for maximum capability.
 

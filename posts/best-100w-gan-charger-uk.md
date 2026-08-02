@@ -4,7 +4,7 @@ A 100W GaN charger is the sweet spot for powering a laptop, tablet and phone fro
 
 ## Top picks
 
-### 1. [Anker 100W USB C Charger (3-Port GaN, Smart Display)](https://www.amazon.co.uk/dp/B0FL2DR4TH?linkCode=ll2&tag=souvlakia-21) - Best Overall
+### 1. Anker 100W USB C Charger (3-Port GaN, Smart Display) - Best Overall
 
 **SPP Score: 8.0 / 10** - 100W output, 3-port layout, compact GaN build. Our all-round pick.
 
@@ -28,7 +28,7 @@ The Anker 100W is our standout because it pairs serious single-port output with 
 
 ---
 
-### 2. [UGREEN Nexode 100W USB C Charger 4-Port GaN](https://www.amazon.co.uk/dp/B091N7FVDL?linkCode=ll2&tag=souvlakia-21) - Best Budget
+### 2. UGREEN Nexode 100W USB C Charger 4-Port GaN - Best Budget
 
 **SPP Score: 8.2 / 10** - 100W output, 4-port layout, compact GaN build. Our value pick.
 
@@ -52,7 +52,7 @@ The UGREEN Nexode 100W is the sensible-value choice that covers the essentials w
 
 ---
 
-### 3. [UGREEN Nexode Pro 100W 3-Port GaN Charger](https://www.amazon.co.uk/dp/B0CCVDXHM6?linkCode=ll2&tag=souvlakia-21) - Best Premium
+### 3. UGREEN Nexode Pro 100W 3-Port GaN Charger - Best Premium
 
 **SPP Score: 7.2 / 10** - 100W output, 3-port layout, compact GaN build. Our pick for maximum capability.
 

@@ -6,7 +6,7 @@ A USB C hub is small, bus-powered and great for travel, adding a few ports throu
 
 ## Top picks
 
-### 1. [UGREEN Revodok Pro 210 USB C Docking Station (10-in-1)](https://www.amazon.co.uk/dp/B0BXDQS4BD?linkCode=ll2&tag=souvlakia-21) - Best Overall
+### 1. UGREEN Revodok Pro 210 USB C Docking Station (10-in-1) - Best Overall
 
 **SPP Score: 9.0 / 10** - 10-in-1 connectivity. Our all-round pick.
 
@@ -30,7 +30,7 @@ The Revodok Pro 210 leans into the docking-station side of the argument, packing
 
 ---
 
-### 2. [Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD](https://www.amazon.co.uk/dp/B07ZVKTP53?linkCode=ll2&tag=souvlakia-21) - Best Budget
+### 2. Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD - Best Budget
 
 **SPP Score: 8.1 / 10** - 7-in-1 connectivity. Our value pick.
 
@@ -54,7 +54,7 @@ This 7-in-1 Anker hub is the sensible-value choice for most people, covering the
 
 ---
 
-### 3. [Anker USB C Hub 8-in-1 with Ethernet and 10Gbps](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21) - Best Premium
+### 3. Anker USB C Hub 8-in-1 with Ethernet and 10Gbps - Best Premium
 
 **SPP Score: 8.4 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
 

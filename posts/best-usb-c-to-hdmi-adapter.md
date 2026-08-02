@@ -4,7 +4,7 @@ Getting a USB-C laptop, tablet or phone onto a bigger screen comes down to picki
 
 ## Top picks
 
-### 1. [Anker USB-C to HDMI Cable 4K@60Hz (0.9m)](https://www.amazon.co.uk/dp/B0DM9BLJND?linkCode=ll2&tag=souvlakia-21) - Best Overall
+### 1. Anker USB-C to HDMI Cable 4K@60Hz (0.9m) - Best Overall
 
 **SPP Score: 7.9 / 10** - 4K at 60Hz over a single 0.9m braided lead. Our all-round pick.
 
@@ -28,7 +28,7 @@ The Anker USB-C to HDMI Cable is our standout because it does the one job most p
 
 ---
 
-### 2. [UGREEN USB C to HDMI Adapter 4K@60Hz](https://www.amazon.co.uk/dp/B07X25ZR56?linkCode=ll2&tag=souvlakia-21) - Best Budget
+### 2. UGREEN USB C to HDMI Adapter 4K@60Hz - Best Budget
 
 **SPP Score: 7.7 / 10** - 4K at 60Hz with HDR and Thunderbolt 3/4 compatibility. Our value pick.
 
@@ -52,7 +52,7 @@ The UGREEN USB C to HDMI Adapter is the sensible-value choice that still covers 
 
 ---
 
-### 3. [Anker USB C Hub 8-in-1 with Ethernet and 10Gbps](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21) - Best Premium
+### 3. Anker USB C Hub 8-in-1 with Ethernet and 10Gbps - Best Premium
 
 **SPP Score: 7.9 / 10** - 4K 60Hz HDMI, Ethernet and 10Gbps USB from one 8-in-1 hub. Our pick for maximum capability.
 

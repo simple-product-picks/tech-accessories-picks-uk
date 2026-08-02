@@ -4,7 +4,7 @@ Wi-Fi dropping out mid-call or lagging during a download? A USB-C Ethernet adapt
 
 ## Top picks
 
-### 1. [UGREEN USB C to 2.5G Ethernet Adapter](https://www.amazon.co.uk/dp/B0CD1FDKT1?linkCode=ll2&tag=souvlakia-21) - Best Overall
+### 1. UGREEN USB C to 2.5G Ethernet Adapter - Best Overall
 
 **SPP Score: 7.3 / 10** - 2.5Gbps wired Ethernet over a single USB-C connector, plug-and-play. Our all-round pick.
 
@@ -28,7 +28,7 @@ UGREEN is a well-known name in connectivity accessories, and this 2.5G adapter h
 
 ---
 
-### 2. [Amazon Basics USB-C to Gigabit Ethernet Adapter](https://www.amazon.co.uk/dp/B08989MYQ2?linkCode=ll2&tag=souvlakia-21) - Best Budget
+### 2. Amazon Basics USB-C to Gigabit Ethernet Adapter - Best Budget
 
 **SPP Score: 7.3 / 10** - Gigabit Ethernet, plug-and-play simplicity. Our value pick.
 
@@ -52,7 +52,7 @@ The sensible-value choice that covers the essentials without any extras you don'
 
 ---
 
-### 3. [UGREEN USB C to 5G Ethernet Adapter](https://www.amazon.co.uk/dp/B0DNSTHRGQ?linkCode=ll2&tag=souvlakia-21) - Best Premium
+### 3. UGREEN USB C to 5G Ethernet Adapter - Best Premium
 
 **SPP Score: 7.5 / 10** - 5Gbps wired Ethernet over USB-C, plug-and-play. Our pick for maximum capability.
 

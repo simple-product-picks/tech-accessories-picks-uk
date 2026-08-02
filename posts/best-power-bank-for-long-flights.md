@@ -4,7 +4,7 @@ Long-haul travel drains devices fast, and most aircraft seats give you nothing r
 
 ## Top picks
 
-### 1. [Anker Laptop Power Bank 25000mAh (Triple 100W)](https://www.amazon.co.uk/dp/B0DCBB2YTR?linkCode=ll2&tag=souvlakia-21) - Best Overall
+### 1. Anker Laptop Power Bank 25000mAh (Triple 100W) - Best Overall
 
 **SPP Score: 7.9 / 10** - 25000mAh with triple 100W USB-C and built-in retractable cables. Our all-round pick.
 
@@ -28,7 +28,7 @@ With a 25000mAh capacity, this Anker is sized to recharge most phones several ti
 
 ---
 
-### 2. [Anker Power Bank 20000mAh 87W (Built-in Cable)](https://www.amazon.co.uk/dp/B0CXDXP8VR?linkCode=ll2&tag=souvlakia-21) - Best Budget
+### 2. Anker Power Bank 20000mAh 87W (Built-in Cable) - Best Budget
 
 **SPP Score: 8.4 / 10** - 20000mAh with an 87W built-in USB-C cable and laptop-capable output. Our value pick.
 
@@ -52,7 +52,7 @@ The 20000mAh capacity gives you the multi-charge headroom that long flights dema
 
 ---
 
-### 3. [Anker Prime Power Bank 20000mAh 200W](https://www.amazon.co.uk/dp/B0BYNZXFM2?linkCode=ll2&tag=souvlakia-21) - Best Premium
+### 3. Anker Prime Power Bank 20000mAh 200W - Best Premium
 
 **SPP Score: 8.2 / 10** - 20000mAh with 200W total output, dual 100W USB-C, and a digital display. Our pick for maximum capability.
 

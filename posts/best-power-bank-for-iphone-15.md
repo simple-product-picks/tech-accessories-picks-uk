@@ -4,7 +4,7 @@ Picking the right power bank for your iPhone 15 comes down to capacity, charging
 
 ## Top picks
 
-### 1. [Anker Nano Power Bank 10000mAh 30W](https://www.amazon.co.uk/dp/B0C9CJKCH3?linkCode=ll2&tag=souvlakia-21) - Best Overall
+### 1. Anker Nano Power Bank 10000mAh 30W - Best Overall
 
 **SPP Score: 6.5 / 10** - 10000mAh capacity, 30W output. Our all-round pick.
 
@@ -28,7 +28,7 @@ The Anker Nano Power Bank pairs a 10000mAh capacity with 30W USB-C Power Deliver
 
 ---
 
-### 2. [Anker Zolo Power Bank 10000mAh 30W](https://www.amazon.co.uk/dp/B0CZ9M6X8Q?linkCode=ll2&tag=souvlakia-21) - Best Budget
+### 2. Anker Zolo Power Bank 10000mAh 30W - Best Budget
 
 **SPP Score: 6.7 / 10** - 10000mAh capacity with a built-in USB-C cable and 30W output. Our value pick.
 
@@ -52,7 +52,7 @@ The Anker Zolo Power Bank keeps things simple by building the [USB-C cable](best
 
 ---
 
-### 3. [Anker Nano Power Bank 10000mAh 45W (Retractable)](https://www.amazon.co.uk/dp/B0DGKWTQQC?linkCode=ll2&tag=souvlakia-21) - Best Premium
+### 3. Anker Nano Power Bank 10000mAh 45W (Retractable) - Best Premium
 
 **SPP Score: 6.4 / 10** - 10000mAh capacity, 45W max output with a built-in 70cm retractable USB-C cable and smart display. Our pick for maximum capability.
 

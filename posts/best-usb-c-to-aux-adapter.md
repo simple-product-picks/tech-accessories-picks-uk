@@ -4,7 +4,7 @@ Switching to a phone or laptop without a headphone socket means you need a relia
 
 ## Top picks
 
-### 1. [UGREEN USB C to 3.5mm Audio Adapter](https://www.amazon.co.uk/dp/B082WG5VTK?linkCode=ll2&tag=souvlakia-21) - Best Overall
+### 1. UGREEN USB C to 3.5mm Audio Adapter - Best Overall
 
 **SPP Score: 6.7 / 10** - Plug-and-play simplicity. Our all-round pick.
 
@@ -28,7 +28,7 @@ UGREEN is a well-established maker of charging and audio accessories, and this U
 
 ---
 
-### 2. [Anker USB C to 3.5mm Audio Adapter](https://www.amazon.co.uk/dp/B08Z3B5QL3?linkCode=ll2&tag=souvlakia-21) - Best Budget
+### 2. Anker USB C to 3.5mm Audio Adapter - Best Budget
 
 **SPP Score: 7.3 / 10** - USB-C to 3.5mm with in-line controls on a nylon cable. Our value pick.
 
@@ -52,7 +52,7 @@ Anker is a familiar name in charging and audio accessories, and this USB-C to 3.
 
 ---
 
-### 3. [Apple USB-C to 3.5mm Headphone Jack Adapter](https://www.amazon.co.uk/dp/B07K2NH6ZN?linkCode=ll2&tag=souvlakia-21) - Best Premium
+### 3. Apple USB-C to 3.5mm Headphone Jack Adapter - Best Premium
 
 **SPP Score: 6.7 / 10** - Genuine Apple USB-C to 3.5mm with a built-in DAC. Our pick for maximum capability.
 

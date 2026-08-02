@@ -4,7 +4,7 @@ The Steam Deck has a single USB-C port, so a good hub turns it into a proper des
 
 ## Top picks
 
-### 1. [UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet](https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21) - Best Overall
+### 1. UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet - Best Overall
 
 **SPP Score: 7.7 / 10** - 7-in-1 connectivity, wired Ethernet. Our all-round pick.
 
@@ -29,7 +29,7 @@ This UGREEN Revodok packs the essentials a Steam Deck owner actually needs into 
 
 ---
 
-### 2. [Anker USB C Hub 5-in-1 with 4K HDMI](https://www.amazon.co.uk/dp/B0BQLLB61B?linkCode=ll2&tag=souvlakia-21) - Best Budget
+### 2. Anker USB C Hub 5-in-1 with 4K HDMI - Best Budget
 
 **SPP Score: 7.7 / 10** - 5-in-1 connectivity. Our value pick.
 
@@ -54,7 +54,7 @@ The Anker 5-in-1 is the sensible-value choice that covers the essentials for cou
 
 ---
 
-### 3. [UGREEN Revodok Pro 210 USB C Docking Station (10-in-1)](https://www.amazon.co.uk/dp/B0BXDQS4BD?linkCode=ll2&tag=souvlakia-21) - Best Premium
+### 3. UGREEN Revodok Pro 210 USB C Docking Station (10-in-1) - Best Premium
 
 **SPP Score: 8.8 / 10** - 10-in-1 connectivity, wired Ethernet. Our pick for maximum capability.
 

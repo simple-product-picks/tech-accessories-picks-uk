@@ -4,7 +4,7 @@ Turning an iPad Pro into a proper workstation usually comes down to one accessor
 
 ## Top picks
 
-### 1. [Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD](https://www.amazon.co.uk/dp/B07ZVKTP53?linkCode=ll2&tag=souvlakia-21) - Best Overall
+### 1. Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD - Best Overall
 
 **SPP Score: 7.9 / 10** - 7-in-1 connectivity. Our all-round pick.
 
@@ -28,7 +28,7 @@ This 7-in-1 Anker hub hits the sweet spot for most iPad Pro owners, pairing a 4K
 
 ---
 
-### 2. [UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet](https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21) - Best Budget
+### 2. UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet - Best Budget
 
 **SPP Score: 7.9 / 10** - 7-in-1 connectivity, wired Ethernet. Our value pick.
 
@@ -52,7 +52,7 @@ The UGREEN Revodok is the sensible-value choice that still covers the essentials
 
 ---
 
-### 3. [Anker USB C Hub 8-in-1 with Ethernet and 10Gbps](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21) - Best Premium
+### 3. Anker USB C Hub 8-in-1 with Ethernet and 10Gbps - Best Premium
 
 **SPP Score: 8.4 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
 

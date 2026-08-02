@@ -4,7 +4,7 @@ A 20000mAh power bank is the sweet spot for UK travellers and heavy phone users:
 
 ## Top picks
 
-### 1. [INIU Power Bank 20000mAh 65W](https://www.amazon.co.uk/dp/B0DB89DSHV?linkCode=ll2&tag=souvlakia-21) - Best Overall
+### 1. INIU Power Bank 20000mAh 65W - Best Overall
 
 **SPP Score: 8.2 / 10** - 20000mAh capacity, 65W USB-C output, three outputs in an ultra-compact laptop-capable body. Our all-round pick.
 
@@ -29,7 +29,7 @@ The INIU Power Bank 20000mAh 65W hits the balance most people actually want: a l
 
 ---
 
-### 2. [INIU Power Bank 20000mAh 45W](https://www.amazon.co.uk/dp/B0DCZ82MGG?linkCode=ll2&tag=souvlakia-21) - Best Budget
+### 2. INIU Power Bank 20000mAh 45W - Best Budget
 
 **SPP Score: 8.1 / 10** - 20000mAh capacity, 45W USB-C fast charging, slim body with USB-C in and out. Our value pick.
 
@@ -54,7 +54,7 @@ The INIU Power Bank 20000mAh 45W is the sensible-value choice for anyone who wan
 
 ---
 
-### 3. [UGREEN Nexode Power Bank 20000mAh 165W](https://www.amazon.co.uk/dp/B0DSPXHFBM?linkCode=ll2&tag=souvlakia-21) - Best Premium
+### 3. UGREEN Nexode Power Bank 20000mAh 165W - Best Premium
 
 **SPP Score: 7.6 / 10** - 20000mAh capacity, 165W output, 100W input, with a built-in retractable USB-C cable and three-way output. Our pick for maximum capability.
 

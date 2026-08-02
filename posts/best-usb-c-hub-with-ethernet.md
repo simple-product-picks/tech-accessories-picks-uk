@@ -4,7 +4,7 @@ Wired internet is back in demand for anyone working from home or gaming on a lap
 
 ## Top picks
 
-### 1. [UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet](https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21) - Best Overall
+### 1. UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet - Best Overall
 
 **SPP Score: 7.7 / 10** - 7-in-1 connectivity, wired Ethernet. Our all-round pick.
 
@@ -28,7 +28,7 @@ The UGREEN Revodok 7-in-1 hits the sweet spot for most laptops, pairing Gigabit 
 
 ---
 
-### 2. [Anker USB C Hub PowerExpand 6-in-1 with Ethernet](https://www.amazon.co.uk/dp/B08CKXNJZS?linkCode=ll2&tag=souvlakia-21) - Best Budget
+### 2. Anker USB C Hub PowerExpand 6-in-1 with Ethernet - Best Budget
 
 **SPP Score: 7.5 / 10** - 6-in-1 connectivity, wired Ethernet. Our value pick.
 
@@ -52,7 +52,7 @@ The Anker PowerExpand 6-in-1 is the sensible-value choice that covers the essent
 
 ---
 
-### 3. [Anker USB C Hub 8-in-1 with Ethernet and 10Gbps](https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21) - Best Premium
+### 3. Anker USB C Hub 8-in-1 with Ethernet and 10Gbps - Best Premium
 
 **SPP Score: 8.4 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
 

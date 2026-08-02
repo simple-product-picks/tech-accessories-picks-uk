@@ -4,7 +4,7 @@ Looking for a USB-C cable that does justice to your iPhone 15? This guide covers
 
 ## Top picks
 
-### 1. [UGREEN USB C to USB C Cable 100W (1m Braided)](https://www.amazon.co.uk/dp/B07V8S73GD?linkCode=ll2&tag=souvlakia-21) - Best Overall
+### 1. UGREEN USB C to USB C Cable 100W (1m Braided) - Best Overall
 
 **SPP Score: 6.9 / 10** - 100W fast charging, braided build with a built-in E-Marker chip. Our all-round pick.
 
@@ -28,7 +28,7 @@ The iPhone 15 family switched to USB-C, so a proper USB-C to USB-C cable is the 
 
 ---
 
-### 2. [UGREEN USB C to USB C Cable 100W (2-Pack, 0.5m)](https://www.amazon.co.uk/dp/B0BLXKTJ8P?linkCode=ll2&tag=souvlakia-21) - Best Budget
+### 2. UGREEN USB C to USB C Cable 100W (2-Pack, 0.5m) - Best Budget
 
 **SPP Score: 7.3 / 10** - Two compact 0.5m braided cables rated for 100W/65W fast charging. Our value pick.
 
@@ -52,7 +52,7 @@ The value choice here is this UGREEN two-pack, which covers the essentials witho
 
 ---
 
-### 3. [Apple 60W USB-C Charge Cable (1m)](https://www.amazon.co.uk/dp/B0DCNY4K5V?linkCode=ll2&tag=souvlakia-21) - Best Premium
+### 3. Apple 60W USB-C Charge Cable (1m) - Best Premium
 
 **SPP Score: 6.3 / 10** - Genuine Apple 60W cable with USB 2.0 sync over a 1m length. Our pick for maximum capability.
 

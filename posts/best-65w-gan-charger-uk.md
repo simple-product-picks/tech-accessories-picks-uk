@@ -4,7 +4,7 @@ Looking for a compact, fast wall charger to replace a bulky laptop brick? This U
 
 ## Top picks
 
-### 1. [Anker 67W GaN Wall Charger (3 Ports)](https://www.amazon.co.uk/dp/B0C4Y1FFQH?linkCode=ll2&tag=souvlakia-21) - Best Overall
+### 1. Anker 67W GaN Wall Charger (3 Ports) - Best Overall
 
 **SPP Score: 7.5 / 10** - 67W output, 3-port layout, compact GaN build. Our all-round pick.
 
@@ -28,7 +28,7 @@ The Anker 67W is the most versatile pick here, packing three ports into a compac
 
 ---
 
-### 2. [UGREEN USB C Charger 65W GaN 2-Port](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21) - Best Budget
+### 2. UGREEN USB C Charger 65W GaN 2-Port - Best Budget
 
 **SPP Score: 7.3 / 10** - 65W output, two-port design, compact GaN build. Our value pick.
 
@@ -52,7 +52,7 @@ The UGREEN 65W GaN is the sensible-value choice that covers the essentials witho
 
 ---
 
-### 3. [Anker Nano II 65W USB C Charger](https://www.amazon.co.uk/dp/B091KQ39FM?linkCode=ll2&tag=souvlakia-21) - Best Premium
+### 3. Anker Nano II 65W USB C Charger - Best Premium
 
 **SPP Score: 7.1 / 10** - 65W output, compact GaN build. Our pick for maximum capability.
 

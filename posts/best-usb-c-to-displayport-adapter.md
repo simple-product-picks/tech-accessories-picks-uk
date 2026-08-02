@@ -4,7 +4,7 @@ Looking to drive a high-refresh or high-resolution monitor from a USB-C laptop, 
 
 ## Top picks
 
-### 1. [UGREEN USB C to DisplayPort 1.4 Adapter](https://www.amazon.co.uk/dp/B0C4DC6P4H?linkCode=ll2&tag=souvlakia-21) - Best Overall
+### 1. UGREEN USB C to DisplayPort 1.4 Adapter - Best Overall
 
 **SPP Score: 7.3 / 10** - Plug-and-play simplicity. Our all-round pick.
 
@@ -28,7 +28,7 @@ The UGREEN USB C to DisplayPort 1.4 Adapter hits the sweet spot for most setups,
 
 ---
 
-### 2. [UGREEN USB C to DisplayPort 1.4 Cable (8K, 2m)](https://www.amazon.co.uk/dp/B0C4DB8MLL?linkCode=ll2&tag=souvlakia-21) - Best Budget
+### 2. UGREEN USB C to DisplayPort 1.4 Cable (8K, 2m) - Best Budget
 
 **SPP Score: 7.9 / 10** - DisplayPort 1.4 with 8K at 60Hz and 4K at 240Hz over a single 2m cable. Our value pick.
 
@@ -52,7 +52,7 @@ The UGREEN USB C to DisplayPort 1.4 Cable (8K, 2m) is the sensible-value choice,
 
 ---
 
-### 3. [Cable Matters USB C to DisplayPort 2.1 Adapter (80Gbps)](https://www.amazon.co.uk/dp/B0CLZ9TZ5Q?linkCode=ll2&tag=souvlakia-21) - Best Premium
+### 3. Cable Matters USB C to DisplayPort 2.1 Adapter (80Gbps) - Best Premium
 
 **SPP Score: 7.8 / 10** - DisplayPort 2.1 bandwidth, plug-and-play simplicity. Our pick for maximum capability.
 

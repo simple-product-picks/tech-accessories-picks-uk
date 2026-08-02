@@ -4,7 +4,7 @@ Looking for a compact power bank to keep your phone topped up on the go? This gu
 
 ## Top picks
 
-### 1. [INIU Power Bank 10000mAh 22.5W Slim](https://www.amazon.co.uk/dp/B08JTQ66K7?linkCode=ll2&tag=souvlakia-21) - Best Overall
+### 1. INIU Power Bank 10000mAh 22.5W Slim - Best Overall
 
 **SPP Score: 6.8 / 10** - 10000mAh capacity, 22.5W fast charging. Our all-round pick.
 
@@ -28,7 +28,7 @@ The INIU Power Bank 10000mAh 22.5W Slim hits the sweet spot for everyday carry: 
 
 ---
 
-### 2. [Anker Zolo Power Bank 10000mAh 30W](https://www.amazon.co.uk/dp/B0CZ9M6X8Q?linkCode=ll2&tag=souvlakia-21) - Best Budget
+### 2. Anker Zolo Power Bank 10000mAh 30W - Best Budget
 
 **SPP Score: 6.7 / 10** - 10000mAh capacity, 30W high-speed charging. Our value pick.
 
@@ -52,7 +52,7 @@ The Anker Zolo Power Bank 10000mAh 30W is the sensible-value choice: it pairs a 
 
 ---
 
-### 3. [UGREEN MagFlow MagSafe Power Bank 10000mAh (Qi2 25W)](https://www.amazon.co.uk/dp/B0G2S9LVS4?linkCode=ll2&tag=souvlakia-21) - Best Premium
+### 3. UGREEN MagFlow MagSafe Power Bank 10000mAh (Qi2 25W) - Best Premium
 
 **SPP Score: 6.5 / 10** - 10000mAh capacity with Qi2 25W magnetic wireless charging plus PD 30W wired. Our pick for maximum capability.
 
