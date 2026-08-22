@@ -10,12 +10,12 @@ Looking for a power bank that charges your phone, tablet, or even a laptop over 
 
 Scorecard: Capability 10/10 - Versatility 4/10 - Build 7/10 - Value 8/10
 
-The UGREEN Nexode Power Bank 20000mAh 145W hits the sweet spot for most people, pairing a generous 20000mAh capacity with up to 145W of USB-C output across three outputs. The built-in [USB-C cable](best-usb-c-cable-for-fast-charging.html) means you can leave a spare lead at home, while 80W input lets the bank itself top up briskly. With three-port output it can share power between a laptop, phone, and tablet at once, which makes it the all-rounder to beat.
+The UGREEN Nexode Power Bank 20000mAh 145W hits the sweet spot for most people, pairing a generous 20000mAh capacity with up to 145W of output across three outputs. The built-in [USB-C cable](best-usb-c-cable-for-fast-charging.html) means you can leave a spare lead at home, while 80W input lets the bank itself top up briskly. With three-port output it can share power between a laptop, phone, and tablet at once, which makes it the all-rounder to beat.
 
 **Pros**
 - ✓ Up to 145W output can fast-charge many laptops, not just phones
 - ✓ Built-in USB-C cable saves carrying a separate lead
-- ✓ 80W input means the bank itself refills briskly over USB-C
+- ✓ 80W input means the bank itself refills briskly
 
 **Cons**
 - ✗ 20000mAh adds bulk and weight versus slim pocket banks
@@ -67,7 +67,7 @@ The Anker Prime Power Bank 20000mAh 200W is the highest-capability pick, combini
 
 **Cons**
 - ✗ Higher-output design is heavier and more than casual phone-only users need
-- ✗ Two USB-C plus one USB-A is fewer ports than some three-way banks
+- ✗ No built-in cable, unlike the other two picks, so you need to bring your own lead
 
 **Who it's for:** Power users and travellers charging laptops and several devices off one bank.
 **Who it's not for:** Someone who only needs occasional phone top-ups and wants to travel light.

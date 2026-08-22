@@ -70,7 +70,7 @@ The UGREEN Nexode Power Bank 20000mAh 145W is the do-it-all pick for people who 
 
 **Cons**
 - ✗ Bigger and heavier than lower-wattage banks
-- ✗ To reach top recharge speeds you need a compatible USB-C charger for the 80W input
+- ✗ To reach top recharge speeds you need a charger that can actually supply the full 80W input
 
 **Who it's for:** Laptop users and frequent travellers who want one high-wattage bank to power everything at speed.
 **Who it's not for:** Light users who only ever charge a phone and want the smallest possible bank.
