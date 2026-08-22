@@ -4,27 +4,27 @@ Looking for a power bank that charges your phone, tablet, or even a laptop over 
 
 ## Top picks
 
-### 1. UGREEN Nexode Power Bank 20000mAh 165W - Best Overall
+### 1. UGREEN Nexode Power Bank 20000mAh 145W - Best Overall
 
-**SPP Score: 7.8 / 10** - 20000mAh capacity, 165W output with a built-in retractable USB-C cable. Our all-round pick.
+**SPP Score: 7.5 / 10** - 20000mAh capacity, 145W output with a built-in USB-C cable. Our all-round pick.
 
-Scorecard: Capability 10/10 - Versatility 5/10 - Build 7/10 - Value 8/10
+Scorecard: Capability 10/10 - Versatility 4/10 - Build 7/10 - Value 8/10
 
-The UGREEN Nexode Power Bank 20000mAh 165W hits the sweet spot for most people, pairing a generous 20000mAh capacity with up to 165W of USB-C output across three USB-C ports. The built-in retractable [USB-C cable](best-usb-c-cable-for-fast-charging.html) means you can leave a spare lead at home, while 100W input lets the bank itself top up quickly. With three-way output it can share power between a laptop, phone, and tablet at once, which makes it the all-rounder to beat.
+The UGREEN Nexode Power Bank 20000mAh 145W hits the sweet spot for most people, pairing a generous 20000mAh capacity with up to 145W of USB-C output across three outputs. The built-in [USB-C cable](best-usb-c-cable-for-fast-charging.html) means you can leave a spare lead at home, while 80W input lets the bank itself top up briskly. With three-port output it can share power between a laptop, phone, and tablet at once, which makes it the all-rounder to beat.
 
 **Pros**
-- ✓ Up to 165W output can fast-charge many laptops, not just phones
-- ✓ Built-in retractable USB-C cable saves carrying a separate lead
-- ✓ 100W input means the bank itself refills quickly over USB-C
+- ✓ Up to 145W output can fast-charge many laptops, not just phones
+- ✓ Built-in USB-C cable saves carrying a separate lead
+- ✓ 80W input means the bank itself refills briskly over USB-C
 
 **Cons**
 - ✗ 20000mAh adds bulk and weight versus slim pocket banks
-- ✗ Three-way output shares the total wattage, so each device gets less at full load
+- ✗ Three-port output shares the total wattage, so each device gets less at full load
 
 **Who it's for:** Anyone wanting one bank to fast-charge a laptop and phones, with a cable always attached.
 **Who it's not for:** Someone who only ever tops up a single phone and wants the lightest option.
 
-[Check price](https://www.amazon.co.uk/dp/B0DSPXHFBM?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0DSPVP337?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
@@ -78,7 +78,7 @@ The Anker Prime Power Bank 20000mAh 200W is the highest-capability pick, combini
 
 ## Quick verdict
 
-For most people the **[UGREEN Nexode Power Bank 20000mAh 165W](https://www.amazon.co.uk/dp/B0DSPXHFBM?linkCode=ll2&tag=souvlakia-21)** is the pick to get, balancing strong USB-C output with enough capacity for phones, tablets, and many laptops, plus a retractable cable built in. If you want a leaner everyday option for phone top-ups, the **[Anker Zolo Power Bank 10000mAh 30W](https://www.amazon.co.uk/dp/B0CZ9M6X8Q?linkCode=ll2&tag=souvlakia-21)** covers the essentials, while the **[Anker Prime Power Bank 20000mAh 200W](https://www.amazon.co.uk/dp/B0BYNZXFM2?linkCode=ll2&tag=souvlakia-21)** is there when you need maximum output from a 20000mAh unit.
+For most people the **[UGREEN Nexode Power Bank 20000mAh 145W](https://www.amazon.co.uk/dp/B0DSPVP337?linkCode=ll2&tag=souvlakia-21)** is the pick to get, balancing strong USB-C output with enough capacity for phones, tablets, and many laptops, plus a cable built in. If you want a leaner everyday option for phone top-ups, the **[Anker Zolo Power Bank 10000mAh 30W](https://www.amazon.co.uk/dp/B0CZ9M6X8Q?linkCode=ll2&tag=souvlakia-21)** covers the essentials, while the **[Anker Prime Power Bank 20000mAh 200W](https://www.amazon.co.uk/dp/B0BYNZXFM2?linkCode=ll2&tag=souvlakia-21)** is there when you need maximum output from a 20000mAh unit.
 
 ## How we chose
 
@@ -87,7 +87,7 @@ We focused on the specs that actually matter for a USB-C power bank: capacity in
 ## FAQ
 
 **Q: Can a USB-C power bank charge a laptop?**
-A: Yes, if the bank supports enough USB-C output wattage for your laptop; the 165W and 200W picks here have the headroom for many USB-C laptops, while a 10000mAh 30W unit is better suited to phones.
+A: Yes, if the bank supports enough USB-C output wattage for your laptop; the 145W and 200W picks here have the headroom for many USB-C laptops, while a 10000mAh 30W unit is better suited to phones.
 
 **Q: What does mAh mean for how many charges I get?**
 A: mAh is the bank's capacity, so a higher figure generally means more top-ups before the bank itself needs recharging; a 10000mAh unit suits a couple of phone charges, while 20000mAh stretches further.

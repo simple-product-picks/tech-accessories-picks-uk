@@ -54,34 +54,34 @@ The INIU Power Bank 20000mAh 45W is the sensible-value choice for anyone who wan
 
 ---
 
-### 3. UGREEN Nexode Power Bank 20000mAh 165W - Best Premium
+### 3. UGREEN Nexode Power Bank 20000mAh 145W - Best Premium
 
-**SPP Score: 7.6 / 10** - 20000mAh capacity, 165W output, 100W input, with a built-in retractable USB-C cable and three-way output. Our pick for maximum capability.
+**SPP Score: 7.3 / 10** - 20000mAh capacity, 145W output, 80W input, built-in USB-C cable and three-port output. Our pick for maximum capability.
 
-Scorecard: Capability 10/10 - Versatility 5/10 - Build 7/10 - Value 7/10
+Scorecard: Capability 10/10 - Versatility 4/10 - Build 7/10 - Value 7/10
 
-The UGREEN Nexode Power Bank 20000mAh 165W is the do-it-all pick for people who charge laptops as well as phones. With up to 165W of output it can fast-charge many USB-C laptops, tablets, and phones, and 100W input means the bank itself refills quickly rather than leaving you waiting. A built-in retractable [USB-C cable](best-usb-c-cable-for-fast-charging.html) saves you carrying a spare lead, and three-way output (three USB-C ports, one of them the retractable cable) lets you power several devices at once. For digital nomads, content creators, and anyone living out of a laptop bag, this is the most capable option here.
+The UGREEN Nexode Power Bank 20000mAh 145W is the do-it-all pick for people who charge laptops as well as phones. With up to 145W of output it can fast-charge many USB-C laptops, tablets, and phones, and 80W input means the bank itself refills briskly rather than leaving you waiting overnight. A built-in [USB-C cable](best-usb-c-cable-for-fast-charging.html) saves you carrying a spare lead, and three-port output lets you power several devices at once. For digital nomads, content creators, and anyone living out of a laptop bag, this is the most capable option here.
 
 **Pros**
-- ✓ Up to 165W output can fast-charge many USB-C laptops
-- ✓ 100W input refills the bank itself quickly
-- ✓ Built-in retractable USB-C cable means one less lead to carry
-- ✓ Three-way output (three USB-C ports incl. the retractable cable) powers several devices at once
+- ✓ Up to 145W output can fast-charge many USB-C laptops
+- ✓ 80W input refills the bank itself briskly
+- ✓ Built-in USB-C cable means one less lead to carry
+- ✓ Three-port output, including the built-in cable, powers several devices at once
 
 **Cons**
 - ✗ Bigger and heavier than lower-wattage banks
-- ✗ To reach top speeds you need a compatible USB-C charger for the 100W input
+- ✗ To reach top recharge speeds you need a compatible USB-C charger for the 80W input
 
 **Who it's for:** Laptop users and frequent travellers who want one high-wattage bank to power everything at speed.
 **Who it's not for:** Light users who only ever charge a phone and want the smallest possible bank.
 
-[Check price](https://www.amazon.co.uk/dp/B0DSPXHFBM?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0DSPVP337?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
 ## Quick verdict
 
-For most people the **[INIU Power Bank 20000mAh 65W](https://www.amazon.co.uk/dp/B0DB89DSHV?linkCode=ll2&tag=souvlakia-21)** is the pick to beat, combining big capacity with 65W fast charging and three outputs in a compact package. If you want plenty of capacity plus fast phone and tablet charging without paying for laptop-grade output, the **[INIU Power Bank 20000mAh 45W](https://www.amazon.co.uk/dp/B0DCZ82MGG?linkCode=ll2&tag=souvlakia-21)** is the value-led choice, while laptop users should look at the **[UGREEN Nexode Power Bank 20000mAh 165W](https://www.amazon.co.uk/dp/B0DSPXHFBM?linkCode=ll2&tag=souvlakia-21)** for its high-wattage output and built-in retractable cable.
+For most people the **[INIU Power Bank 20000mAh 65W](https://www.amazon.co.uk/dp/B0DB89DSHV?linkCode=ll2&tag=souvlakia-21)** is the pick to beat, combining big capacity with 65W fast charging and three outputs in a compact package. If you want plenty of capacity plus fast phone and tablet charging without paying for laptop-grade output, the **[INIU Power Bank 20000mAh 45W](https://www.amazon.co.uk/dp/B0DCZ82MGG?linkCode=ll2&tag=souvlakia-21)** is the value-led choice, while laptop users should look at the **[UGREEN Nexode Power Bank 20000mAh 145W](https://www.amazon.co.uk/dp/B0DSPVP337?linkCode=ll2&tag=souvlakia-21)** for its high-wattage output and built-in cable.
 
 ## How we chose
 
@@ -92,8 +92,8 @@ We focused on the specs that actually matter for this category: real capacity (a
 **Q: Can I take a 20000mAh power bank on a flight from the UK?**
 A: Yes, 20000mAh is well within the typical 100Wh airline limit for carry-on, but always carry it in your hand luggage and check your specific airline's rules before you fly.
 
-**Q: What does the wattage (65W or 165W) actually change?**
-A: Higher wattage means faster charging and the ability to power more demanding devices like laptops; 65W is ample for phones, tablets, and smaller laptops, while 165W is aimed at more demanding USB-C laptops.
+**Q: What does the wattage (65W or 145W) actually change?**
+A: Higher wattage means faster charging and the ability to power more demanding devices like laptops; 65W is ample for phones, tablets, and smaller laptops, while 145W is aimed at more demanding USB-C laptops.
 
 **Q: How many times will a 20000mAh bank recharge my phone?**
 A: As a rough guide it can give a typical smartphone several full recharges, though real-world results depend on your phone's battery size and charging losses.
