@@ -189,7 +189,7 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 88px; }
     radial-gradient(700px 320px at 15% 0%, rgba(96,165,250,.28), transparent 60%),
     radial-gradient(600px 300px at 90% 110%, rgba(245,158,11,.18), transparent 55%),
     linear-gradient(150deg, var(--blue-ink) 0%, var(--blue-deep) 55%, var(--blue-dark) 100%);
-  padding: 72px 20px 56px;
+  padding: 44px 20px 36px;
   text-align: center;
 }
 .home-hero h1 {
@@ -199,14 +199,14 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 88px; }
   text-wrap: balance;
 }
 .home-hero p {
-  font-size: 17px; color: #bfdbfe; margin: 0 auto 30px; max-width: 600px; line-height: 1.65;
+  font-size: 17px; color: #bfdbfe; margin: 0 auto 22px; max-width: 600px; line-height: 1.65;
 }
 .home-hero .badge {
   display: inline-block;
   background: linear-gradient(135deg, #fde68a 0%, var(--amber) 100%);
   color: #78350f;
   font-size: 11px; font-weight: 800; letter-spacing: 0.08em;
-  text-transform: uppercase; padding: 4px 12px; border-radius: 999px; margin-bottom: 18px;
+  text-transform: uppercase; padding: 4px 12px; border-radius: 999px; margin-bottom: 14px;
   box-shadow: 0 1px 4px rgba(0,0,0,.25);
 }
 .hero-cta {
@@ -217,7 +217,7 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 88px; }
   text-decoration: none;
   box-shadow: 0 4px 16px rgba(0,0,0,.28);
   transition: transform 0.15s, box-shadow 0.15s;
-  margin-bottom: 34px;
+  margin-bottom: 22px;
 }
 .hero-cta:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(0,0,0,.32); text-decoration: none; color: var(--blue-deep); }
 .hero-cats {
@@ -241,7 +241,7 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 88px; }
 }
 
 /* Home category section headings */
-.cat-section { margin: 40px 0 0; scroll-margin-top: 72px; }
+.cat-section { margin: 28px 0 0; scroll-margin-top: 72px; }
 .cat-section-title {
   font-size: 13px; font-weight: 800; letter-spacing: 0.1em;
   text-transform: uppercase; color: var(--blue-deep);
@@ -624,7 +624,7 @@ footer a:hover { color: #ffffff; }
 /* -- Responsive ------------------------------------------------- */
 @media (max-width: 700px) {
   .grid2 { grid-template-columns: 1fr; }
-  .home-hero { padding: 52px 16px 44px; }
+  .home-hero { padding: 36px 16px 28px; }
   .post-grid { grid-template-columns: 1fr; }
   .hero.panel, .hero-section { padding: 26px 16px 20px; }
   main, .wrap { padding-left: 16px; padding-right: 16px; }
