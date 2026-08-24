@@ -1,43 +1,70 @@
-﻿<!doctype html>
-<html lang="en">
+<!doctype html>
+<html lang="en-GB">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Privacy — Simple Product Picks (UK)</title>
-  <meta name="description" content="Privacy policy for Simple Product Picks (UK): what little data we collect, cookies, analytics and your rights when using the site." />
+  <meta name="theme-color" content="#172554" />
+  <title>Privacy &mdash; Simple Product Picks (UK)</title>
+  <meta name="description" content="Privacy policy for Simple Product Picks (UK): what little data this static site touches, the one thing stored in your browser, affiliate cookies, and how to reach us." />
   <link rel="canonical" href="https://simpleproductpicks.co.uk/privacy.html" />
-  <style>
-    :root{--maxw:880px;--text:#111;--muted:#666;--border:#e5e5e5;--accent:#0b57d0}
-    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;margin:0;line-height:1.7;color:var(--text)}
-    header{padding:28px 16px 18px;border-bottom:1px solid var(--border)}
-    main{max-width:var(--maxw);margin:0 auto;padding:20px 16px 28px}
-    a{color:var(--accent);text-decoration:none} a:hover{text-decoration:underline}
-    .muted{color:var(--muted);font-size:14px}
-    footer{padding:22px 16px;border-top:1px solid var(--border)}
-  </style>
+  <link rel="preload" href="assets/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="assets/site.css">
+  <script>(function(){var t;try{t=localStorage.getItem("sppTheme")}catch(e){}document.documentElement.setAttribute("data-theme",t||(window.matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light"))})();</script><script src="assets/theme.js" defer></script>
 </head>
 <body>
-  <header>
-    <div style="max-width:880px;margin:0 auto">
-      <a href="./index.html">← Home</a>
-      <h1 style="margin:10px 0 6px 0">Privacy</h1>
-      <div class="muted">Simple, minimal</div>
+
+  <header class="site-header">
+    <div class="wrap">
+      <a class="brand-title" href="index.html">Simple Product Picks</a>
+      <nav class="site-nav">
+        <a href="index.html">Home</a>
+        <a href="posts.html">All Guides</a>
+        <a href="about.html">About</a>
+        <a href="disclosure.html">Disclosure</a>
+      </nav>
     </div>
   </header>
 
-  <main>
-    <p>This site is hosted on GitHub Pages. We do not run our own login system and we do not knowingly collect personal information directly.</p>
-    <p>Third-party services (for example, your browser, your network, and any external sites you visit via links) may collect data under their own policies.</p>
-    <p>If affiliate links are present, the destination retailer may use cookies or tracking parameters to attribute referrals.</p>
-    <p>For any privacy question or request relating to this site, email <a href="mailto:simpleproductpicks@gmail.com">simpleproductpicks@gmail.com</a>.</p>
+  <section class="page-hero" id="hero">
+    <div class="hero-kicker">Legal</div>
+    <h1 class="hero-title">Privacy</h1>
+    <div class="hero-sub muted">Simple and minimal, because the site is too.</div>
+  </section>
 
-    <p class="muted">Links: <a href="./about.html">About</a> • <a href="./how-we-test.html">How we test</a> • <a href="./disclosure.html">Disclosure</a></p>
+  <main>
+
+    <div class="page-card">
+      <h2>What we collect: essentially nothing</h2>
+      <p>Simple Product Picks is a static site. There is no login system, no comment section, no newsletter form and no advertising network, and we run no analytics or tracking scripts of our own. We do not knowingly collect personal information from visitors, and we have no visitor database to lose.</p>
+      <p>The one thing the site stores is your light/dark theme preference, kept in your own browser's local storage. It never leaves your device and you can clear it at any time through your browser settings.</p>
+    </div>
+
+    <div class="page-card">
+      <h2>Hosting</h2>
+      <p>The site is hosted on GitHub Pages. Like any web host, GitHub may record standard technical data about requests (such as IP addresses) for security and operations under its own privacy policy; we do not receive or hold that data ourselves.</p>
+    </div>
+
+    <div class="page-card">
+      <h2>Affiliate links and cookies</h2>
+      <p>Some links on this site are Amazon UK affiliate links (see the full <a href="disclosure.html">disclosure</a>). When you follow one, Amazon may use cookies or tracking parameters to attribute the referral to this site; that processing happens on Amazon's side and is governed by Amazon's own privacy notice. The same applies to any other external site you visit via a link from here.</p>
+    </div>
+
+    <div class="page-card">
+      <h2>Your rights and how to reach us</h2>
+      <p>For any privacy question or request relating to this site, email <a href="mailto:simpleproductpicks@gmail.com">simpleproductpicks@gmail.com</a>. Because we hold no personal data about visitors, most requests are answered by pointing you to the relevant third party (your browser, GitHub, or Amazon) - but we will always reply.</p>
+    </div>
+
+    <p class="muted" style="margin-top:20px">Links: <a href="./about.html">About</a> &bull; <a href="./how-we-test.html">How we test</a> &bull; <a href="./disclosure.html">Disclosure</a></p>
   </main>
 
   <footer>
-    <div style="max-width:880px;margin:0 auto" class="muted">
-      © Simple Product Picks (UK)
+    <div class="wrap">
+      &copy; 2026 Simple Product Picks (UK) &mdash;
+      <a href="./index.html">Home</a> &middot;
+      <a href="./about.html">About</a><br>
+      <span style="font-size:12px;opacity:.7">Some links are affiliate links. We may earn a commission at no extra cost to you.</span>
     </div>
   </footer>
+
 </body>
 </html>
