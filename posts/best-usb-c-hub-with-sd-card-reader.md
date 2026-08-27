@@ -16,11 +16,11 @@ This UGREEN hub is the standout because it pairs a 170MB/s SD and microSD reader
 - ✓ 170MB/s SD plus microSD reader for quick photo and video offloads
 - ✓ 8-in-1 layout covers cards, displays, drives and peripherals from one hub
 - ✓ Single-cable convenience for a tidy laptop or desk setup
-- ✓ From a well-established connectivity brand
+- ✓ Three 10Gbps USB ports keep external SSDs fast
 
 **Cons**
 - ✗ More ports than some users need, which adds a little bulk over a single-purpose reader
-- ✗ Charger and host cable depend on your existing laptop kit rather than coming bundled
+- ✗ No Ethernet port, so wired networking still needs a separate adapter
 
 **Who it's for:** Photographers and laptop users who want fast card reads plus display and drive connections from one hub.
 **Who it's not for:** Anyone who only needs a bare SD reader and nothing else.
@@ -35,13 +35,13 @@ This UGREEN hub is the standout because it pairs a 170MB/s SD and microSD reader
 
 Scorecard: Capability 9/10 - Versatility 8/10 - Build 8/10 - Value 8/10
 
-The Anker 547 is the sensible-value choice for MacBook owners, with a dual-plug design that slots neatly into two side-by-side USB-C ports for a flush, stable fit. It covers the essentials cleanly with a 7-in-2 set of connections including SD card support, all from a well-known charging and accessories brand.
+The Anker 547 is the sensible-value choice for MacBook owners, with a dual-plug design that slots neatly into two side-by-side USB-C ports for a flush, stable fit. It covers the essentials cleanly with a 7-in-2 set of connections including SD card support. For more Air-friendly options, see our [USB-C hub for MacBook Air M1](best-usb-c-hub-for-macbook-air-m1.html) guide.
 
 **Pros**
 - ✓ MacBook-optimised dual-plug design for a tidy, secure connection
 - ✓ SD card support plus a 7-in-2 spread of ports in a compact body
 - ✓ Flush, low-profile fit that travels well
-- ✓ From a well-established charging brand
+- ✓ 40Gbps USB-C port for fast external drives
 
 **Cons**
 - ✗ Dual-plug layout is tailored to MacBooks and suits two adjacent USB-C ports best
@@ -60,7 +60,7 @@ The Anker 547 is the sensible-value choice for MacBook owners, with a dual-plug 
 
 Scorecard: Capability 9/10 - Versatility 9/10 - Build 8/10 - Value 7/10
 
-This Anker 8-in-1 is the do-it-all pick, adding Gigabit Ethernet to a full set of ports for rock-solid wired networking alongside everything else. With 10Gbps USB connectivity and SD card support in an 8-in-1 layout, it works as a capable desk dock as well as a travel hub.
+This Anker 8-in-1 is the desk-dock option of the three, adding Gigabit Ethernet for wired networking alongside everything else. With 10Gbps USB connectivity and SD card support in an 8-in-1 layout, it works as a capable desk dock as well as a travel hub.
 
 **Pros**
 - ✓ Gigabit Ethernet for stable wired network connections
@@ -85,7 +85,7 @@ For most people the **[UGREEN USB C Hub 8-in-1 with 170MB/s SD Card Reader](http
 
 ## How we chose
 
-We focused on the specs that actually matter for this category: SD and microSD card support and read speed, USB port count and bandwidth, wired Ethernet where offered, and the overall spread of connections. We weighed UK everyday fit, build and portability, and value across desk and travel use. Every pick links straight to Amazon UK so you can check the latest price and availability yourself.
+A card-reader hub lives or dies by a short list: SD and microSD card support and read speed, USB port count and bandwidth, wired Ethernet where offered, and the overall spread of connections. We weighed UK everyday fit, build and portability, and value across desk and travel use. Each link opens the hub's live Amazon UK listing; check the price there on the day, and confirm it takes the card format your camera shoots to.
 
 ## FAQ
 

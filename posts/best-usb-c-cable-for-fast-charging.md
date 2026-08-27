@@ -10,7 +10,7 @@ Picking a USB-C cable for fast charging is trickier than it looks, because a cab
 
 Scorecard: Capability 7/10 - Versatility 5/10 - Build 8/10 - Value 8/10
 
-The UGREEN USB C to USB C Cable 100W hits the sweet spot for most people: 100W of USB Power Delivery is enough to fast-charge phones, tablets, and even many USB-C laptops over a single cable. The braided jacket resists fraying and kinking far better than plain rubber sleeving, which is the part that usually fails first. It comes as a 2-pack, and the generous 2m length gives you room to reach a socket without stretching the lead.
+The UGREEN USB C to USB C Cable 100W hits the sweet spot for most people: 100W of USB Power Delivery is enough to fast-charge phones, tablets, and even many USB-C laptops over a single cable. The braided jacket resists fraying and kinking far better than plain rubber sleeving, which is the part that usually fails first. It comes as a 2-pack, and the generous 2m length gives you room to reach a socket without stretching the lead. If you need a charger that can actually use that headroom, our [100W GaN charger guide](best-100w-gan-charger-uk.html) covers that side.
 
 **Pros**
 - ✓ 100W Power Delivery handles phones, tablets and many USB-C laptops from one cable
@@ -34,7 +34,7 @@ The UGREEN USB C to USB C Cable 100W hits the sweet spot for most people: 100W o
 
 Scorecard: Capability 7/10 - Versatility 5/10 - Build 10/10 - Value 8/10
 
-The Anker USB C to USB C Cable 100W is the sensible-value choice that does not skimp on the essentials. Its 100W Power Delivery rating is plenty for fast-charging phones and most tablets, and it carries enough headroom for many USB-C laptops too. It is USB-IF certified, which means the cable has been tested against the official USB standard, and the 1.8m double-braided nylon jacket adds the durability that matters for a cable you plug in every day. Data transfer runs at USB 2.0 speeds.
+The Anker USB C to USB C Cable 100W is the value buy that doesn't skimp on the essentials. Its 100W Power Delivery rating is plenty for fast-charging phones and most tablets, and it carries enough headroom for many USB-C laptops too. It's USB-IF certified, which means the cable has been tested against the official USB standard, and the 1.8m double-braided nylon jacket adds the durability that matters for a cable you plug in every day. Data transfer runs at USB 2.0 speeds.
 
 **Pros**
 - ✓ 100W Power Delivery fast-charges phones, tablets and many laptops
@@ -58,7 +58,7 @@ The Anker USB C to USB C Cable 100W is the sensible-value choice that does not s
 
 Scorecard: Capability 10/10 - Versatility 5/10 - Build 10/10 - Value 7/10
 
-The Anker Prime USB C to USB C Cable 240W is the do-it-all pick for the most demanding setups. Its 240W rating, aligned with the newer USB Power Delivery EPR (Extended Power Range) standard, gives it the headroom to fast-charge high-wattage laptops, docks and accessories that would max out lesser cables. The upcycled-braided nylon jacket is rated for high bend durability, keeping it tough enough for travel and constant plugging and unplugging over a 1.8m length.
+The Anker Prime USB C to USB C Cable 240W is what you buy when the laptop, not the phone, is the demanding one. Its 240W rating, which Anker pegs to the newer USB Power Delivery EPR (Extended Power Range) standard, gives it the headroom to fast-charge high-wattage laptops, docks and accessories that would max out lesser cables. The upcycled-braided nylon jacket is rated for high bend durability, keeping it tough enough for travel and constant plugging and unplugging over a 1.8m length.
 
 **Pros**
 - ✓ 240W rating supports high-wattage laptops and the latest USB-PD EPR devices
@@ -82,7 +82,7 @@ For most people the **[UGREEN USB C to USB C Cable 100W (2-Pack, 2m)](https://ww
 
 ## How we chose
 
-We focused on the specs that actually matter for fast charging: the Power Delivery wattage each cable supports, whether the cable can keep up with modern phones, tablets and laptops, and build quality, where a braided jacket meaningfully extends the life of a cable you handle constantly. We also weighed certification, cable length and everyday UK fit across the range. Every pick links straight to Amazon UK so you can check the latest details yourself.
+We focused on the specs that actually matter for fast charging: the Power Delivery wattage each cable supports, whether the cable can keep up with modern phones, tablets and laptops, and build quality, where a braided jacket meaningfully extends the life of a cable you handle constantly. We also weighed certification, cable length and everyday UK fit across the range. Wattage claims change between product revisions, so each link opens the live Amazon UK listing - worth a glance before a cable goes in your basket.
 
 ## FAQ
 
@@ -93,7 +93,7 @@ A: Not on its own. Charging speed is set by the lowest common limit between your
 A: The braided sleeve protects the cable against fraying, kinking and wear at the stress points near the connectors, which is where plain cables tend to fail first, so it generally lasts longer in daily use.
 
 **Q: Will these cables work with my laptop as well as my phone?**
-A: USB-C Power Delivery cables are designed to charge a wide range of devices, but a laptop that draws a lot of power needs a cable rated high enough for it, which is why the 100W and 240W picks all suit laptops, with the 240W option best for the most demanding kit.
+A: USB-C Power Delivery cables are designed to charge a wide range of devices, but a laptop that draws a lot of power needs a cable rated high enough for it, which is why all three picks here can handle laptops, with the 240W option best for the most demanding kit.
 
 ---
 

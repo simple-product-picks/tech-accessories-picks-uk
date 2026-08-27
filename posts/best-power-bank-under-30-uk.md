@@ -1,6 +1,6 @@
 # Best Power Bank Under 30 UK 2026
 
-Looking for a compact power bank to keep your phone topped up on the go? This guide rounds up three solid 10000mAh picks - including a MagSafe-style magnetic wireless option - what each one does well, and who each suits, so you can choose with confidence and check the current price on Amazon UK.
+In the under-30 bracket the real question is which corners get cut. Here it's mostly wattage and capacity headroom: all three picks are 10000mAh phone-first banks rather than laptop-class bricks. This guide covers what each does well and who each suits - including a MagSafe-style magnetic wireless option.
 
 ## Top picks
 
@@ -10,7 +10,7 @@ Looking for a compact power bank to keep your phone topped up on the go? This gu
 
 Scorecard: Capability 6/10 - Versatility 6/10 - Build 8/10 - Value 8/10
 
-The INIU Power Bank 10000mAh 22.5W Slim hits the sweet spot for everyday carry: a 10000mAh cell holds enough charge for a full phone top-up or more, while 22.5W PD and QC fast charging shortens the time spent tethered on compatible devices. The ultra-slim casing slips easily into a pocket or bag, and USB-C in and out means you can recharge the bank and your phone through the same connector, alongside a USB-A port for a second device.
+The INIU Power Bank 10000mAh 22.5W Slim is the everyday-carry pick: a 10000mAh cell holds enough charge for a full phone top-up or more. Its 22.5W PD and QC fast charging shortens the time spent tethered on compatible devices. The ultra-slim casing slips easily into a pocket or bag, and USB-C in and out means you can recharge the bank and your phone through the same connector, alongside a USB-A port for a second device.
 
 **Pros**
 - ✓ 10000mAh capacity comfortably covers a full smartphone recharge
@@ -19,7 +19,7 @@ The INIU Power Bank 10000mAh 22.5W Slim hits the sweet spot for everyday carry: 
 
 **Cons**
 - ✗ Fast charging only benefits devices that support PD or QC
-- ✗ Slim design means a single, modest-capacity cell rather than a high-capacity brick
+- ✗ 10000mAh won't stretch to tablet recharges or multi-day trips
 
 **Who it's for:** Anyone wanting a light, low-bulk power bank with fast charging for daily phone top-ups.
 **Who it's not for:** Heavy users who need to recharge a tablet or several devices repeatedly.
@@ -34,7 +34,7 @@ The INIU Power Bank 10000mAh 22.5W Slim hits the sweet spot for everyday carry: 
 
 Scorecard: Capability 6/10 - Versatility 5/10 - Build 8/10 - Value 8/10
 
-The Anker Zolo Power Bank 10000mAh 30W is the sensible-value choice: it pairs a dependable 10000mAh capacity with 30W high-speed output for brisk top-ups on compatible devices. A built-in [USB-C cable](best-usb-c-cable-for-fast-charging.html) means there is nothing extra to carry or misplace, and the USB-C port also handles recharging the bank itself, so it stays refreshingly simple to live with.
+The Anker Zolo Power Bank 10000mAh 30W is the no-frills pick: it pairs a dependable 10000mAh capacity with 30W high-speed output for brisk top-ups on compatible devices. A built-in [USB-C cable](best-usb-c-cable-for-fast-charging.html) means there's nothing extra to carry or misplace, and the USB-C port also handles recharging the bank itself, so it stays refreshingly simple to live with.
 
 **Pros**
 - ✓ 10000mAh capacity for a reliable full phone top-up
@@ -42,7 +42,7 @@ The Anker Zolo Power Bank 10000mAh 30W is the sensible-value choice: it pairs a 
 - ✓ Built-in USB-C cable plus USB-C in/out, so nothing extra to carry
 
 **Cons**
-- ✗ High-speed charging only benefits devices that support it
+- ✗ 30W output is phone-grade - don't expect it to charge a laptop
 - ✗ An integrated cable cannot be swapped out if it wears
 
 **Who it's for:** Buyers who want fast charging and a built-in cable without paying for extras.
@@ -58,7 +58,7 @@ The Anker Zolo Power Bank 10000mAh 30W is the sensible-value choice: it pairs a 
 
 Scorecard: Capability 6/10 - Versatility 7/10 - Build 7/10 - Value 6/10
 
-The UGREEN MagFlow is the most capable pick because it charges two ways from one 10000mAh bank. It snaps magnetically onto the back of a compatible iPhone and charges wirelessly at up to Qi2 25W, so there is no cable to plug in for a quick top-up, and the magnetic hold lets you keep using the phone while it charges. When you want the fastest fill, a built-in cable delivers up to 30W wired PD, and that same connection recharges the bank itself. It is the do-it-all option for anyone who wants MagSafe-style convenience and wired speed in a single compact unit.
+The UGREEN MagFlow is the most capable pick because it charges two ways from one 10000mAh bank. It snaps magnetically onto the back of a compatible iPhone and charges wirelessly at up to Qi2 25W, so there's no cable to plug in for a quick top-up. The magnetic hold lets you keep using the phone while it charges. When you want the fastest fill, a built-in cable delivers up to 30W wired PD. It's the only pick here that gives you MagSafe-style convenience and wired speed in a single compact unit.
 
 **Pros**
 - ✓ Qi2 25W magnetic wireless charging snaps straight onto a compatible iPhone, no cable needed
@@ -82,12 +82,12 @@ For most people the **[INIU Power Bank 10000mAh 22.5W Slim](https://www.amazon.c
 
 ## How we chose
 
-We focused on the specs that actually matter in this category: real capacity (all three are 10000mAh, enough for a full phone top-up), charging output and standards such as USB Power Delivery, portability, and build from brands with a solid track record. We weighed UK everyday-carry fit and overall value rather than headline numbers alone. Every pick links straight to Amazon UK so you can check the latest price and availability for yourself.
+Budget banks live or die on the basics: real capacity (all three are 10000mAh, enough for a full phone top-up), charging output and standards such as USB Power Delivery, portability, and build from brands with a solid track record. We weighed UK everyday-carry fit and overall value rather than headline numbers alone. Each link goes to the live Amazon UK listing, so you can make sure a pick still sits inside your budget on the day you actually buy.
 
 ## FAQ
 
 **Q: How many phone charges does a 10000mAh power bank give?**
-A: For most modern smartphones a 10000mAh bank delivers roughly one to two full charges, depending on your phone's battery size and charging losses.
+A: For most modern smartphones a 10000mAh bank delivers roughly one to two full charges, depending on your phone's battery size and charging losses. Need more than that? Our [20000mAh power bank guide](best-power-bank-20000mah-uk.html) covers bigger packs.
 
 **Q: What does the Qi2 25W rating on the UGREEN MagFlow mean?**
 A: It refers to the maximum wireless charging output when the bank is snapped magnetically onto a Qi2 / MagSafe-compatible iPhone; the same bank also offers up to 30W wired PD via its built-in cable, and non-compatible phones simply charge at their normal rate.

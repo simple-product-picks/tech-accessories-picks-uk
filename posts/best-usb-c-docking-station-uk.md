@@ -2,7 +2,7 @@
 
 A good docking station turns a laptop into a proper desk setup: one cable in, and your displays, wired network, storage and accessories are all connected. This guide picks the best USB-C docking stations for UK desks in 2026, from a sensible-value dock that covers most setups to a full Thunderbolt 4 station for the heaviest workloads.
 
-If you just need a couple of extra ports on the move, a compact hub is the better tool (we compare the two in our [hub vs docking station guide](https://simpleproductpicks.co.uk/posts_html/usb-c-hub-vs-docking-station.html)). But if your laptop lives on a desk with monitors and Ethernet, a dedicated dock is the tidier, more capable answer. Here are the three we would actually buy.
+If you just need a couple of extra ports on the move, a compact hub is the better tool (we compare the two in our [hub vs docking station guide](usb-c-hub-vs-docking-station.html)). But if your laptop lives on a desk with monitors and Ethernet, a dedicated dock is the tidier, more capable answer. Here are the three we would actually buy.
 
 ## Top picks
 
@@ -20,7 +20,7 @@ The Anker 575 is the dock we would point most people at. Thirteen connections co
 - ✓ 13-in-1 layout with Ethernet, SD 3.0 and 10Gbps USB-C covers nearly any peripheral
 
 **Cons**
-- ✗ Desk-bound by design; it is not something you carry in a laptop bag
+- ✗ Desk-bound by design; it isn't something you carry in a laptop bag
 - ✗ More connectivity than a single-monitor setup will ever use
 
 **Who it's for:** Anyone building a permanent multi-monitor desk who wants one cable to run everything.
@@ -36,7 +36,7 @@ The Anker 575 is the dock we would point most people at. Thirteen connections co
 
 Scorecard: Capability 10/10 - Versatility 10/10 - Build 7/10 - Value 8/10
 
-The Revodok Pro 210 is the value sweet spot in this category, and it is honestly hard to argue with what you get. Dual HDMI outputs both run at 4K@60Hz, so a two-monitor desk works properly rather than at a compromised refresh rate. Gigabit Ethernet handles wired networking, the SD/TF reader covers camera cards, and 100W Power Delivery passthrough keeps the laptop charged through the same connection. For a home office that wants dock-class features without dock-class spending, this is the pick.
+The Revodok Pro 210 is the value sweet spot in this category, and it's honestly hard to argue with what you get. Dual HDMI outputs both run at 4K@60Hz, so a two-monitor desk works properly rather than at a compromised refresh rate. Gigabit Ethernet handles wired networking, the SD/TF reader covers camera cards, and 100W Power Delivery passthrough keeps the laptop charged through the same connection. For a home office that wants dock-class features without dock-class spending, this is the pick. We dig into two-screen setups properly in our [dual monitor hub guide](best-usb-c-hub-for-dual-monitors.html).
 
 **Pros**
 - ✓ Dual 4K@60Hz HDMI runs a proper two-monitor setup smoothly
@@ -45,7 +45,7 @@ The Revodok Pro 210 is the value sweet spot in this category, and it is honestly
 
 **Cons**
 - ✗ HDMI-only display output; there is no DisplayPort option
-- ✗ Plastic-bodied build feels less premium than metal-cased docks
+- ✗ Build quality trails the rest of its scorecard, as the 7/10 build score reflects
 
 **Who it's for:** Home and hybrid workers building a two-monitor desk on a sensible budget.
 **Who it's not for:** Anyone needing three displays or top-tier transfer speeds for large files.
@@ -60,7 +60,7 @@ The Revodok Pro 210 is the value sweet spot in this category, and it is honestly
 
 Scorecard: Capability 10/10 - Versatility 10/10 - Build 7/10 - Value 7/10
 
-If your work really pushes a laptop hard, the Revodok Max 213 is the ceiling of what a single cable can do. Thunderbolt 4 brings 40Gbps of bandwidth, enough for dual 4K@60Hz displays or a single 8K screen, with three Thunderbolt 4 ports for daisy-chaining fast storage and other high-end gear. The 2.5G Ethernet port outruns standard Gigabit connections for those with faster broadband or a fast home network, SD/TF 4.0 card slots move camera files quickly, and 90W of charging keeps a powerful laptop fed. It is a lot of dock, and a bigger commitment than most desks need; for video editors, photographers and developers it earns its place.
+If your work really pushes a laptop hard, the Revodok Max 213 is the ceiling of what a single cable can do. Thunderbolt 4 brings 40Gbps of bandwidth, enough for dual 4K@60Hz displays or a single 8K screen, with three Thunderbolt 4 ports for daisy-chaining fast storage and other high-end gear. The 2.5G Ethernet port outruns standard Gigabit connections for those with faster broadband or a fast home network, SD/TF 4.0 card slots move camera files quickly, and 90W of charging keeps a powerful laptop fed. It's a lot of dock, and a bigger commitment than most desks need; for video editors, photographers and developers it earns its place.
 
 **Pros**
 - ✓ Thunderbolt 4 at 40Gbps drives dual 4K@60Hz or a single 8K display
@@ -84,7 +84,7 @@ For most UK desks, the **[Anker 575 USB-C Docking Station (13-in-1, 85W)](https:
 
 ## How we chose
 
-We compared docking stations on the things that decide daily usability: how many displays they drive and at what resolution and refresh rate, total port count and type, wired networking speed, data bandwidth for external storage, and how much charging they push back to the laptop. No sponsored placements; picks are chosen on specification and fit for UK home and hybrid working setups. Every pick links straight to Amazon UK so you can check the latest price and availability yourself.
+We compared docking stations on the things that decide daily usability: how many displays they drive and at what resolution and refresh rate, total port count and type, wired networking speed, data bandwidth for external storage, and how much charging they push back to the laptop. Picks are chosen on specification and fit for UK home and hybrid working setups. All three link to their live Amazon UK listings, so you can price up the one-cable desk and check stock before committing.
 
 ## FAQ
 

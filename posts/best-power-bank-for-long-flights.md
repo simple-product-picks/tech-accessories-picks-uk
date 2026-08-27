@@ -1,6 +1,6 @@
 # Best Power Bank For Long Flights UK 2026
 
-Long-haul travel drains devices fast, and most aircraft seats give you nothing reliable to plug into. This guide covers three power banks that keep your phone, tablet, and even a laptop topped up across an entire long flight, with picks for different needs.
+Long-haul travel drains devices fast, and most aircraft seats give you nothing reliable to plug into. This guide covers three power banks that keep your phone, tablet, and even a laptop topped up across an entire long flight. All three sit within the typical 100Wh cabin-baggage limit, though always check your own airline's rules.
 
 ## Top picks
 
@@ -10,7 +10,7 @@ Long-haul travel drains devices fast, and most aircraft seats give you nothing r
 
 Scorecard: Capability 10/10 - Versatility 5/10 - Build 8/10 - Value 8/10
 
-With a 25000mAh capacity, this Anker is sized to recharge most phones several times over the course of a long flight and to keep a tablet or laptop going too. Its three USB-C ports each deliver up to 100W, so it can fast-charge a laptop, a tablet, and a phone at once rather than making you choose. The built-in retractable cables mean there is less to pack and less to lose down a seat gap, and a 25000mAh pack still fits in a carry-on. Anker is a well-established name in portable charging, and this is a genuine in-seat charging hub for a traveller carrying several devices.
+With a 25000mAh capacity, this Anker is sized to recharge most phones several times over a long flight. It'll keep a tablet or laptop going too. Its three USB-C ports each deliver up to 100W, so it can fast-charge a laptop, a tablet, and a phone at once rather than making you choose. The built-in retractable cables mean there's less to pack and less to lose down a seat gap, and a 25000mAh pack still fits in a carry-on. Anker is a well-established name in portable charging, and this is a genuine in-seat charging hub for a traveller carrying several devices.
 
 **Pros**
 - ✓ 25000mAh capacity recharges most phones multiple times and tops up a laptop on a single trip
@@ -34,7 +34,7 @@ With a 25000mAh capacity, this Anker is sized to recharge most phones several ti
 
 Scorecard: Capability 10/10 - Versatility 6/10 - Build 8/10 - Value 8/10
 
-The 20000mAh capacity gives you the multi-charge headroom that long flights demand, and an 87W maximum output is enough to charge many laptops as well as phones and tablets. The built-in [USB-C cable](best-usb-c-cable-for-fast-charging.html) means one fewer thing to remember, and there is a second USB-C port plus a USB-A port for charging more than one device at a time. It is the sensible-value choice for travellers who want laptop-capable wattage and integrated-cable convenience without stepping up to a larger pack.
+The 20000mAh capacity gives you the multi-charge headroom that long flights demand, and an 87W maximum output is enough to charge many laptops as well as phones and tablets. The built-in [USB-C cable](best-usb-c-cable-for-fast-charging.html) means one fewer thing to remember, and there's a second USB-C port plus a USB-A port for charging more than one device at a time. It's the pick for travellers who want laptop-capable wattage and integrated-cable convenience without stepping up to a larger pack.
 
 **Pros**
 - ✓ Full 20000mAh capacity for multiple device charges per trip
@@ -58,7 +58,7 @@ The 20000mAh capacity gives you the multi-charge headroom that long flights dema
 
 Scorecard: Capability 10/10 - Versatility 7/10 - Build 8/10 - Value 7/10
 
-The Anker Prime is the do-it-all pick, pairing a 20000mAh capacity with a 200W total output that can fast-charge laptops, tablets, and phones, often several at once. Its two USB-C ports each deliver up to 100W, with a USB-A port alongside, and the smart digital display shows you what is going in and out at a glance. That high wattage makes it a genuine in-seat charging hub for travellers carrying multiple devices, and the Prime line is Anker's flagship range for power users.
+The Anker Prime is the do-it-all pick, pairing a 20000mAh capacity with a 200W total output that can fast-charge laptops, tablets, and phones, often several at once. Its two USB-C ports each deliver up to 100W, with a USB-A port alongside, and the smart digital display shows you what is going in and out at a glance. That high wattage means one pack can keep a whole cabin bag of devices alive, and Anker positions the Prime line as its flagship range for power users.
 
 **Pros**
 - ✓ 200W total output can fast-charge laptops as well as phones and tablets
@@ -67,10 +67,10 @@ The Anker Prime is the do-it-all pick, pairing a 20000mAh capacity with a 200W t
 
 **Cons**
 - ✗ Larger and heavier than standard travel packs built for phones
-- ✗ Flagship capability is more than a light packer who only carries a phone needs
+- ✗ No built-in cable, unlike the other two picks here, so you must pack your own leads
 
 **Who it's for:** Multi-device travellers who want the fastest in-seat charging and a live readout of what the pack is doing.
-**Who it's not for:** Light packers who only carry a phone and want the smallest possible bank.
+**Who it's not for:** Phone-only travellers - a 200W pack is overkill for a single handset.
 
 [Check price](https://www.amazon.co.uk/dp/B0BYNZXFM2?linkCode=ll2&tag=souvlakia-21)
 
@@ -78,19 +78,19 @@ The Anker Prime is the do-it-all pick, pairing a 20000mAh capacity with a 200W t
 
 ## Quick verdict
 
-For most long-haul travellers, the **[Anker Laptop Power Bank 25000mAh (Triple 100W)](https://www.amazon.co.uk/dp/B0DCBB2YTR?linkCode=ll2&tag=souvlakia-21)** hits the sweet spot of high capacity, three fast USB-C ports, and built-in cables. If you want laptop-capable charging with an integrated cable in a more affordable pack, the **[Anker Power Bank 20000mAh 87W (Built-in Cable)](https://www.amazon.co.uk/dp/B0CXDXP8VR?linkCode=ll2&tag=souvlakia-21)** is the sensible-value choice, and travellers who want the fastest in-seat charging with a live display should look at the premium **[Anker Prime Power Bank 20000mAh 200W](https://www.amazon.co.uk/dp/B0BYNZXFM2?linkCode=ll2&tag=souvlakia-21)**.
+For most long-haul travellers, the **[Anker Laptop Power Bank 25000mAh (Triple 100W)](https://www.amazon.co.uk/dp/B0DCBB2YTR?linkCode=ll2&tag=souvlakia-21)** hits the sweet spot of high capacity, three fast USB-C ports, and built-in cables. If you want laptop-capable charging with an integrated cable in a more affordable pack, the **[Anker Power Bank 20000mAh 87W (Built-in Cable)](https://www.amazon.co.uk/dp/B0CXDXP8VR?linkCode=ll2&tag=souvlakia-21)** is the smart middle ground. Travellers who want the fastest in-seat charging with a live display should look at the premium **[Anker Prime Power Bank 20000mAh 200W](https://www.amazon.co.uk/dp/B0BYNZXFM2?linkCode=ll2&tag=souvlakia-21)**.
 
 ## How we chose
 
-We focused on the specs that actually matter on a long flight: real capacity in mAh for multiple recharges, output wattage and port count for charge speed and running several devices at once, and whether the pack fits comfortably within the spare-battery rules airlines apply to cabin baggage. We also weighed portability and how well each pick suits UK travellers heading on long-haul routes. Every pick links straight to Amazon UK so you can check the details yourself.
+A long flight sets its own test: real capacity in mAh for multiple recharges, output wattage and port count for charge speed and running several devices at once, and whether the pack fits comfortably within the spare-battery rules airlines apply to cabin baggage. We also weighed portability and how well each pick suits UK travellers heading on long-haul routes. Every link lands on the Amazon UK listing, where you can double-check the watt-hour figure against your airline's cabin rules before you fly.
 
 ## FAQ
 
 **Q: Can I take a power bank on a plane in my hand luggage?**
-A: Spare lithium batteries and power banks must travel in your cabin baggage, never in checked luggage, and most airlines cap capacity around the 100Wh mark (roughly 27000mAh) without prior approval. Always check your specific airline's watt-hour limits before you fly.
+A: Spare lithium batteries and power banks must travel in your cabin baggage, never in checked luggage. Most airlines cap capacity around the 100Wh mark (roughly 27000mAh) without prior approval. Always check your specific airline's watt-hour limits before you fly.
 
 **Q: What capacity power bank do I need for a long flight?**
-A: A 20000mAh pack will recharge most phones several times over a long-haul journey, while a larger 25000mAh pack makes sense if you are charging tablets or a laptop too.
+A: A 20000mAh pack will recharge most phones several times over a long-haul journey, while a larger 25000mAh pack makes sense if you're charging tablets or a laptop too. For everyday non-flight use, see our [20000mAh power bank guide](best-power-bank-20000mah-uk.html).
 
 **Q: Can a power bank charge a laptop on a flight?**
 A: Only higher-wattage banks with enough output, such as the 87W and 200W models here, can charge most laptops; lower-output packs are better suited to phones and tablets.

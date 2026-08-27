@@ -10,7 +10,7 @@ Looking for a compact charger that won't weigh down your carry-on? This guide co
 
 Scorecard: Capability 7/10 - Versatility 6/10 - Build 9/10 - Value 8/10
 
-The UGREEN Nexode delivers 65W across three ports, so it can serve as a single charger for a laptop plus a phone and one more device on the move. With two USB-C ports and one USB-A, it plays nicely with modern and older cables alike, and the foldable UK plug tucks flat into a bag. GaN (gallium nitride) internals keep it compact and cooler than an older silicon brick, while PD 3.0 and PPS support means it can fast-charge a wide range of phones and ultrabooks.
+The UGREEN Nexode delivers 65W across three ports, so it can serve as a single charger for a laptop plus a phone and one more device on the move. With two USB-C ports and one USB-A, it takes modern and older cables alike, and the foldable UK plug tucks flat into a bag. GaN (gallium nitride) internals keep it compact and cooler than an older silicon brick, while PD 3.0 and PPS support means it can fast-charge a wide range of phones and ultrabooks.
 
 **Pros**
 - ✓ 65W output can charge many ultrabooks alongside a phone
@@ -34,7 +34,7 @@ The UGREEN Nexode delivers 65W across three ports, so it can serve as a single c
 
 Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 8/10
 
-The UGREEN 65W GaN is the sensible-value choice, covering the essentials with two ports and enough power to handle a laptop as well as a phone. 65W is comfortably in ultrabook territory, so it can serve as a single charger for a work-and-play trip. UGREEN is a respected charging brand, and the two-port layout means you can top up a phone and a laptop from one plug.
+The UGREEN 65W GaN is the pick when bag weight matters more than port count, with two ports and enough power for a laptop as well as a phone. 65W is comfortably in ultrabook territory, so it can serve as a single charger for a work-and-play trip. UGREEN is a respected charging brand, and the two-port layout means you can top up a phone and a laptop from one plug.
 
 **Pros**
 - ✓ 65W output is enough to charge many ultrabooks and laptops
@@ -67,11 +67,11 @@ This is the do-it-all pick: 100W across three ports means it can power a demandi
 
 **Cons**
 - ✗ Larger and heavier than a single-port travel charger
-- ✗ Premium, feature-rich positioning over a simpler plug
+- ✗ The wattage display is overkill if you only ever charge one device
 - ✗ Cables are typically not bundled in the box
 
 **Who it's for:** Frequent travellers and remote workers charging a laptop plus multiple devices.
-**Who it's not for:** Minimalists who only ever need to charge a single phone.
+**Who it's not for:** Light packers who charge one device at a time and want the smallest plug possible.
 
 [Check price](https://www.amazon.co.uk/dp/B0FL2DR4TH?linkCode=ll2&tag=souvlakia-21)
 
@@ -83,7 +83,7 @@ For most travellers the **[UGREEN Nexode 65W GaN Charger (3-Port)](https://www.a
 
 ## How we chose
 
-We focused on the specs that matter for travel: real wattage (65W and 100W across our picks), the number of USB-C ports, GaN construction for a smaller and cooler package, and overall portability for a carry-on. We weighed UK fit and sensible value alongside raw capability, favouring chargers that do one job well over gimmicks. Every pick links straight to Amazon UK so you can check the latest price and availability yourself.
+Packing light forces trade-offs, so we judged each charger on: real wattage (65W and 100W across our picks), the number of USB-C ports, GaN construction for a smaller and cooler package, and overall portability for a carry-on. We weighed UK fit and sensible value alongside raw capability, favouring chargers that do one job well over gimmicks. Every link goes to the Amazon UK listing, so give the current price a quick look before it earns its place in your carry-on.
 
 ## FAQ
 
@@ -91,10 +91,10 @@ We focused on the specs that matter for travel: real wattage (65W and 100W acros
 A: GaN (gallium nitride) is a semiconductor that handles power more efficiently than older silicon, so chargers run cooler and pack the same wattage into a much smaller, lighter body that's ideal for a carry-on.
 
 **Q: Will a UK GaN charger work abroad?**
-A: The charger itself usually accepts a wide input voltage range, so it works on most grids, but you'll need a plug adapter for the local socket type since UK plugs differ from those in Europe, the US and elsewhere.
+A: The charger itself usually accepts a wide input voltage range, so it works on most grids, but you'll need a plug adapter for the local socket type since UK plugs differ from those in Europe, the US and elsewhere. For the flight itself, when there's no socket at all, a [travel power bank](best-power-bank-for-long-flights.html) fills the gap.
 
 **Q: How much wattage do I need to charge a laptop while travelling?**
-A: Many ultrabooks charge happily at 65W, while more demanding laptops are better served by a 100W charger; check your laptop's own charger rating as a guide before choosing.
+A: Many ultrabooks charge happily at 65W, while more demanding laptops are better served by a [100W charger](best-100w-gan-charger-uk.html); check your laptop's own charger rating as a guide before choosing.
 
 ---
 

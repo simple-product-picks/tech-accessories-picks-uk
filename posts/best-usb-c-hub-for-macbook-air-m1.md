@@ -10,7 +10,7 @@ The MacBook Air M1 is a brilliant machine, but its single pair of USB-C ports fi
 
 Scorecard: Capability 7/10 - Versatility 9/10 - Build 8/10 - Value 8/10
 
-This 7-in-1 Anker hub hits the sweet spot for the M1 Air, designed to work with Apple silicon and offering the ports most setups rely on day to day. The 4K HDMI output lets you run an external display, while 85W pass-through Power Delivery keeps the laptop charging through the same USB-C connection. Add two USB-A ports plus SD and microSD readers and it covers photographers, students and home-office setups alike.
+The M1 Air gives you two USB-C ports and one usually goes to the charger; this Anker 7-in-1 wins the remaining port back, covering the connections most setups rely on day to day. The 4K HDMI output lets you run an external display, while 85W pass-through Power Delivery keeps the laptop charging through the same USB-C connection. Add two USB-A ports plus SD and microSD readers and it covers photographers, students and home-office setups alike. If card offloads are the main event, our [USB-C hub with SD card reader](best-usb-c-hub-with-sd-card-reader.html) guide includes a dual-plug pick made for MacBooks.
 
 **Pros**
 - ✓ 4K HDMI output for connecting an external monitor to the M1 Air
@@ -34,7 +34,7 @@ This 7-in-1 Anker hub hits the sweet spot for the M1 Air, designed to work with 
 
 Scorecard: Capability 7/10 - Versatility 9/10 - Build 7/10 - Value 8/10
 
-The UGREEN Revodok is the sensible-value choice that still covers the essentials, and it throws in something the overall pick leaves out: Gigabit Ethernet for a stable wired connection. You also get 4K HDMI, three USB-A ports, an SD slot and 100W pass-through Power Delivery, which is a generous spread for a no-fuss hub. UGREEN is a well-established name in charging and connectivity accessories.
+Desk-bound Air owners should start here: the UGREEN Revodok trades the overall pick's microSD slot for Gigabit Ethernet, the better swap if your laptop spends its life within a cable's reach of the router. You also get 4K HDMI, three USB-A ports, an SD slot and 100W pass-through Power Delivery, which is a generous spread for a no-fuss hub. UGREEN is a well-established name in charging and connectivity accessories.
 
 **Pros**
 - ✓ Gigabit Ethernet built in for reliable wired networking on the M1 Air
@@ -58,7 +58,7 @@ The UGREEN Revodok is the sensible-value choice that still covers the essentials
 
 Scorecard: Capability 9/10 - Versatility 9/10 - Build 8/10 - Value 7/10
 
-This 8-in-1 Anker hub is the do-it-all pick, built around fast 10Gbps data transfer across its USB-C and USB-A ports. It pairs that speed with Gigabit Ethernet, HDMI, dual card slots and 85W pass-through Power Delivery, and it is designed to work with Thunderbolt-equipped Macs like the M1 Air. If you move large files and want headroom, this is the most capable option here.
+This Anker 8-in-1 is the pick for creators who saturate their ports: 10Gbps data across its USB-C and USB-A connections, so external SSD transfers don't crawl. It pairs that speed with Gigabit Ethernet, HDMI, dual card slots and 85W pass-through Power Delivery, and Anker lists it as Thunderbolt compatible, which covers the M1 Air. If you move large files and want headroom, this is the most capable option here.
 
 **Pros**
 - ✓ 10Gbps USB-C and USB-A ports for fast external drive transfers
@@ -82,7 +82,7 @@ For most M1 Air owners the **[Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD](
 
 ## How we chose
 
-We focused on the specs that matter for the M1 Air: 4K HDMI for external displays, pass-through Power Delivery wattage so the laptop keeps charging, the mix of USB-A and USB-C data ports, card readers, and standards like Gigabit Ethernet and 10Gbps transfer. We weighed UK everyday fit, portability and overall value across light users and creators. Every pick links straight to Amazon UK so you can check the latest price and availability for yourself.
+The Air itself wrote the checklist: 4K HDMI for external displays, pass-through Power Delivery wattage so the laptop keeps charging, the mix of USB-A and USB-C data ports, card readers, and standards like Gigabit Ethernet and 10Gbps transfer. We weighed UK everyday fit, portability and overall value across light users and creators. With only two ports on the Air it's worth choosing once and well, so follow the links and check each hub's current price and stock on Amazon UK before you commit.
 
 ## FAQ
 

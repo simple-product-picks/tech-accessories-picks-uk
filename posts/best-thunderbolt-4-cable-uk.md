@@ -2,7 +2,7 @@
 
 Thunderbolt 4 promises a lot from one port: displays, storage, docking and charging down a single cable. But the cable itself is where setups quietly go wrong, because not every USB-C lead can carry the full 40Gbps, and the differences are invisible from the outside. This guide picks the best Thunderbolt 4 and USB4 cables for UK desks in 2026, so the lead between your laptop and your dock is never the bottleneck.
 
-If you are pairing one of these with a dock, our [USB-C docking station guide](https://simpleproductpicks.co.uk/posts_html/best-usb-c-docking-station-uk.html) covers the other end of the cable. Here are the three leads we would trust.
+If you are pairing one of these with a dock, our [USB-C docking station guide](best-usb-c-docking-station-uk.html) covers the other end of the cable. Here are the three leads we would trust.
 
 ## Top picks
 
@@ -84,7 +84,7 @@ For most desks, the **[Anker Thunderbolt 4 Cable (0.7m, 240W)](https://www.amazo
 
 ## How we chose
 
-We compared cables on the specs that decide whether your setup actually works: certified versus spec-claimed bandwidth, display support, charging wattage, length and how the cable maintains speed over that length. Certification matters more for cables than almost any other accessory, because a lead that silently drops to lower speeds is nearly impossible to diagnose. No sponsored placements; picks are chosen on specification and fit for UK desk setups. Every pick links straight to Amazon UK so you can check the latest price and availability yourself.
+We compared cables on the specs that decide whether your setup actually works: certified versus spec-claimed bandwidth, display support, charging wattage, length and how the cable maintains speed over that length. Certification matters more for cables than almost any other accessory, because a lead that silently drops to lower speeds is nearly impossible to diagnose. With cables this spec-sensitive, follow the links to the live Amazon UK listing and match length and certification to your desk before committing.
 
 ## FAQ
 
@@ -92,7 +92,7 @@ We compared cables on the specs that decide whether your setup actually works: c
 A: Thunderbolt 4 is Intel's certified implementation of the USB4 standard, so a certified cable guarantees the full feature set. A good USB4 cable can match those numbers on paper and usually works identically, but you are trusting the manufacturer's spec sheet rather than an independent certification.
 
 **Q: Will a Thunderbolt 4 cable work with my non-Thunderbolt laptop?**
-A: Yes. These cables are backwards compatible, so on a regular USB-C laptop they simply run at whatever speed and charging level the laptop supports. It is a way of buying once and covering future upgrades.
+A: Yes. These cables are backwards compatible, so on a regular USB-C laptop they simply run at whatever speed and charging level the laptop supports. It's a way of buying once and covering future upgrades.
 
 **Q: Why are most fast cables so short?**
 A: Passive cables lose signal quality as they get longer, so full 40Gbps passive leads are usually kept under a metre. Longer full-speed runs need an active cable with signal electronics in the connectors, which is what the premium pick here is for.

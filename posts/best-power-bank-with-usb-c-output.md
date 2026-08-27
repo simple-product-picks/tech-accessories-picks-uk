@@ -10,7 +10,7 @@ Looking for a power bank that charges your phone, tablet, or even a laptop over 
 
 Scorecard: Capability 10/10 - Versatility 4/10 - Build 7/10 - Value 8/10
 
-The UGREEN Nexode Power Bank 20000mAh 145W hits the sweet spot for most people, pairing a generous 20000mAh capacity with up to 145W of output across three outputs. The built-in [USB-C cable](best-usb-c-cable-for-fast-charging.html) means you can leave a spare lead at home, while 80W input lets the bank itself top up briskly. With three-port output it can share power between a laptop, phone, and tablet at once, which makes it the all-rounder to beat.
+The UGREEN Nexode Power Bank 20000mAh 145W is the bank most people should start with, pairing a generous 20000mAh capacity with up to 145W of output across three outputs. The built-in [USB-C cable](best-usb-c-cable-for-fast-charging.html) means one decision fewer when you pack, and 80W input gets the bank itself back to full quickly. With three-port output it can share power between a laptop, phone, and tablet at once, which makes it the all-rounder to beat.
 
 **Pros**
 - ✓ Up to 145W output can fast-charge many laptops, not just phones
@@ -34,16 +34,16 @@ The UGREEN Nexode Power Bank 20000mAh 145W hits the sweet spot for most people, 
 
 Scorecard: Capability 6/10 - Versatility 5/10 - Build 8/10 - Value 8/10
 
-The Anker Zolo Power Bank 10000mAh 30W is the sensible-value choice that covers the essentials without the bulk. Its 10000mAh capacity is the classic everyday size, small enough to drop into a bag or large pocket, and 30W high-speed output is enough to fast-charge a phone. The built-in USB-C cable is always there when you need it, and the separate USB-C port handles charging in and out. If you mainly need to keep a phone alive through a long day, this does the job cleanly.
+The Anker Zolo Power Bank 10000mAh 30W covers the essentials without the bulk. Its 10000mAh capacity is the classic everyday size, small enough to drop into a bag or large pocket, and 30W high-speed output is enough to fast-charge a phone. The built-in USB-C cable is always there when you need it, and the separate USB-C port handles charging in and out. If you mainly need to keep a phone alive through a long day, this does the job cleanly.
 
 **Pros**
 - ✓ 10000mAh is a practical everyday size for a few phone top-ups
-- ✓ Built-in USB-C cable means there is always a lead to hand
+- ✓ Built-in USB-C cable means there's always a lead to hand
 - ✓ 30W high-speed output fast-charges most phones
 
 **Cons**
 - ✗ 10000mAh and 30W are modest for charging power-hungry laptops
-- ✗ Lower output than the higher-wattage picks, so big devices charge slower
+- ✗ Built-in cable is fixed, so it can't be swapped if it wears
 
 **Who it's for:** Commuters and travellers who just need reliable phone top-ups with a cable built in.
 **Who it's not for:** Anyone needing to fast-charge a laptop or power several devices at once.
@@ -58,7 +58,7 @@ The Anker Zolo Power Bank 10000mAh 30W is the sensible-value choice that covers 
 
 Scorecard: Capability 10/10 - Versatility 7/10 - Build 8/10 - Value 7/10
 
-The Anker Prime Power Bank 20000mAh 200W is the highest-capability pick, combining a 20000mAh cell with up to 200W of total output. Two 100W USB-C ports can each fast-charge a demanding laptop, and a USB-A port covers older accessories, so it is built for driving several devices at full pace at once. A smart digital display reads out charging status at a glance, which helps on heavy multi-device days and longer trips away from the mains. If you want maximum output in a 20000mAh unit, this is the flagship choice.
+The Anker Prime Power Bank 20000mAh 200W is the highest-capability pick, combining a 20000mAh cell with up to 200W of total output. Two 100W USB-C ports can each fast-charge a demanding laptop, and a USB-A port covers older accessories, so it's built for driving several devices at full pace at once. A smart digital display reads out charging status at a glance, which helps on heavy multi-device days and longer trips away from the mains. If you want maximum output in a 20000mAh unit, this is the flagship choice.
 
 **Pros**
 - ✓ Up to 200W total output with dual 100W USB-C ports for demanding laptops
@@ -82,7 +82,7 @@ For most people the **[UGREEN Nexode Power Bank 20000mAh 145W](https://www.amazo
 
 ## How we chose
 
-We focused on the specs that actually matter for a USB-C power bank: capacity in mAh, USB-C output wattage, port layout, and how well each fits real UK charging needs from commuting to laptop work. We weighed portability against output, and the value each pick offers for its category rather than chasing numbers on paper. Every pick links straight to Amazon UK so you can check the current details for yourself.
+USB-C output is the whole point here, so we judged each bank on: capacity in mAh, USB-C output wattage, port layout, and how well each fits real UK charging needs from commuting to laptop work. We weighed portability against output, and the value each pick offers for its category rather than chasing numbers on paper. Every link opens the live Amazon UK listing, so you can match the quoted USB-C wattage to the laptop or phone you actually need to charge.
 
 ## FAQ
 
@@ -90,7 +90,7 @@ We focused on the specs that actually matter for a USB-C power bank: capacity in
 A: Yes, if the bank supports enough USB-C output wattage for your laptop; the 145W and 200W picks here have the headroom for many USB-C laptops, while a 10000mAh 30W unit is better suited to phones.
 
 **Q: What does mAh mean for how many charges I get?**
-A: mAh is the bank's capacity, so a higher figure generally means more top-ups before the bank itself needs recharging; a 10000mAh unit suits a couple of phone charges, while 20000mAh stretches further.
+A: mAh is the bank's capacity, so a higher figure generally means more top-ups before the bank itself needs recharging; a 10000mAh unit suits a couple of phone charges, while 20000mAh stretches further - our [20000mAh power bank guide](best-power-bank-20000mah-uk.html) compares three of them.
 
 **Q: Do these power banks come with a cable?**
 A: The UGREEN Nexode and the Anker Zolo here have a built-in USB-C cable, so a lead is always attached; to hit the highest USB-C output you still want a cable rated for that wattage, so check the listing on Amazon UK and use an appropriate USB-C cable.

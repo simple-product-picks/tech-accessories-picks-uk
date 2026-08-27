@@ -1,16 +1,16 @@
 # Best USB C Hub For Lenovo ThinkPad UK 2026
 
-Looking to expand the ports on your Lenovo ThinkPad? This guide covers three USB-C hubs and docking stations chosen with ThinkPad owners in mind, from a do-it-all dock to a sensible everyday hub. Whether you need extra display outputs, wired networking, or just a tidy way to plug in your essentials, there is a pick here for you.
+Looking to expand the ports on your Lenovo ThinkPad? This guide covers three USB-C hubs and docking stations chosen with ThinkPad owners in mind, from a do-it-all dock to a sensible everyday hub. Whether you need extra display outputs, wired networking, or just a tidy way to plug in your essentials, there's a pick here for you. Not sure a hub is even the right tool? Our [hub vs docking station guide](usb-c-hub-vs-docking-station.html) settles that question first.
 
 ## Top picks
 
 ### 1. UGREEN Revodok Pro 210 USB C Docking Station (10-in-1) - Best Overall
 
-**SPP Score: 9.0 / 10** - 10-in-1 connectivity, wired Ethernet. Our all-round pick.
+**SPP Score: 9.0 / 10** - Dual 4K@60Hz HDMI, 10-in-1 connectivity, wired Ethernet. Our all-round pick.
 
 Scorecard: Capability 10/10 - Versatility 10/10 - Build 7/10 - Value 8/10
 
-The UGREEN Revodok Pro 210 is the standout choice for ThinkPad owners who want a proper desk setup from a single cable. As a 10-in-1 docking station, it turns one USB-C port into a hub of connections, so a single plug can sit at the heart of your workstation. UGREEN is a well-established name in USB-C accessories, and a dock like this is built to keep a fixed desk tidy and consolidated.
+The UGREEN Revodok Pro 210 is the standout choice for ThinkPad owners who want a proper desk setup from a single cable. If your ThinkPad charges over USB-C, this dock runs the whole desk from that one port: 100W Power Delivery passthrough keeps the laptop fed, dual HDMI outputs rated for 4K@60Hz handle the screens, and Gigabit Ethernet covers the wired network. Dock it in the morning, pull one cable at night.
 
 **Pros**
 - ✓ 10-in-1 design consolidates a wide range of connections into a single dock
@@ -42,7 +42,7 @@ This Anker 7-in-1 hub is the sensible-value choice that covers the essentials wi
 - ✓ 7-in-1 layout covers the everyday essentials in one compact unit
 
 **Cons**
-- ✗ Single HDMI output, so it is not built for dual-monitor desks
+- ✗ Single HDMI output, so it isn't built for dual-monitor desks
 - ✗ A compact everyday hub trades the broader port count of a full dock for portability
 
 **Who it's for:** ThinkPad owners who want a tidy, no-fuss hub for a single display and everyday peripherals.
@@ -67,7 +67,7 @@ The Anker 8-in-1 is the do-it-all pick for ThinkPad users who want speed alongsi
 
 **Cons**
 - ✗ A compact hub offers fewer total connections than a full desktop dock
-- ✗ A faster, feature-led hub is more than a casual user needs for basic tasks
+- ✗ Single HDMI output, so it can't drive a two-monitor desk on its own
 
 **Who it's for:** ThinkPad users who move large files and want Ethernet and fast data from a compact hub.
 **Who it's not for:** Anyone who only plugs in a mouse and one screen and wants the simplest possible option.
@@ -82,15 +82,15 @@ For most ThinkPad owners, the **[UGREEN Revodok Pro 210 USB C Docking Station (1
 
 ## How we chose
 
-We focused on the specs that genuinely matter for ThinkPad expansion: USB-C Power Delivery to keep the laptop charged, display outputs, data speeds, and whether wired Ethernet is on board. We weighed the USB-C docking format, build, and portability against how many connections each model delivers. Every pick links straight to Amazon UK so you can check the latest price and availability yourself.
+We focused on the specs that genuinely matter for ThinkPad expansion: USB-C Power Delivery to keep the laptop charged, display outputs, data speeds, and whether wired Ethernet is on board. We weighed the USB-C docking format, build, and portability against how many connections each model delivers. Each pick links to its live Amazon UK listing, so you can square the current price and the spec sheet against your own ThinkPad model before you buy.
 
 ## FAQ
 
 **Q: Will these hubs charge my ThinkPad while connected?**
-A: The Anker 7-in-1 supports 85W USB-C Power Delivery, and USB-C docks and hubs of this kind are designed to pass charge through to your laptop while peripherals stay plugged in. Check the product details on Amazon UK and make sure your own charger meets the wattage you need.
+A: The UGREEN Revodok Pro 210 is rated for 100W Power Delivery passthrough and the Anker 7-in-1 for 85W, so both are built to charge a ThinkPad while your peripherals stay plugged in. Check the product details on Amazon UK and make sure your own charger meets the wattage you need.
 
 **Q: Can I run external monitors from a USB-C hub on a ThinkPad?**
-A: The Anker 7-in-1 offers a 4K HDMI output for a single external screen, and a multi-port dock like the UGREEN Revodok Pro 210 is built to anchor a desk setup. Display output and resolution also depend on your specific ThinkPad's USB-C video support, so check your laptop's specifications.
+A: The UGREEN Revodok Pro 210 carries dual HDMI outputs rated for 4K@60Hz, while the Anker 7-in-1 gives you a single 4K HDMI for one screen. Display output and resolution also depend on your specific ThinkPad's USB-C video support, so check your laptop's specifications.
 
 **Q: Do I need to install drivers to use these with a ThinkPad?**
 A: USB-C hubs and docks of this type are generally designed to work as soon as they are connected, so in most cases you can simply plug in and start using the ports. Always check the product details on Amazon UK for any model-specific guidance.

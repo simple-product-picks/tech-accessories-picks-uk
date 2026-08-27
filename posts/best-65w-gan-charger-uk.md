@@ -10,7 +10,7 @@ Looking for a compact, fast wall charger to replace a bulky laptop brick? This U
 
 Scorecard: Capability 7/10 - Versatility 6/10 - Build 10/10 - Value 8/10
 
-The Anker 67W is the most versatile pick here, packing three ports into a compact body that Anker says is around half the size of Apple's 67W brick. Its two USB-C ports plus one USB-A sit on a single foldable UK plug, so it can keep a laptop, phone, and a third device topped up at once, and its 67W output gives plenty of headroom for fast, efficient charging across the devices most people carry. PPS support and Anker's ActiveShield 2.0 temperature monitoring round out the package.
+The Anker 67W is the most versatile pick here, packing three ports into a genuinely compact body. Its two USB-C ports plus one USB-A sit on a single foldable UK plug, so it can keep a laptop, phone and a third device topped up at once. The 67W output leaves headroom for fast charging across the lot. PPS support and Anker's ActiveShield 2.0 temperature monitoring round out the package. It's also our top pick for [Samsung S24 owners](best-charger-for-samsung-s24-uk.html), whose phones use PPS for their fastest speeds.
 
 **Pros**
 - ✓ Three ports let you charge multiple devices from a single wall plug
@@ -21,7 +21,7 @@ The Anker 67W is the most versatile pick here, packing three ports into a compac
 - ✗ Total output is shared across ports, so peak speed drops when all three are in use
 - ✗ Larger than a single-port charger if you only ever charge one device
 
-**Who it's for:** Anyone who wants one charger to handle a laptop, phone, and accessory at home or on a trip.
+**Who it's for:** Anyone who wants one charger to handle a laptop, phone and accessory at home or on a trip.
 **Who it's not for:** Minimalists who only ever charge a single device and want the smallest possible plug.
 
 [Check price](https://www.amazon.co.uk/dp/B0C4Y1FFQH?linkCode=ll2&tag=souvlakia-21)
@@ -34,7 +34,7 @@ The Anker 67W is the most versatile pick here, packing three ports into a compac
 
 Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 8/10
 
-The UGREEN 65W GaN is the sensible-value choice that covers the essentials without fuss. Its two ports and ultra-compact UK plug make it an easy everyday carry, and its 65W output is enough to fast-charge most modern laptops, tablets, and phones. UGREEN reckons it's around half the size of a standard laptop brick, so it slips into a bag with room to spare.
+The UGREEN 65W GaN is the everyday-carry pick: nothing clever, just a small plug that does the job. Its two ports and ultra-compact UK plug make it an easy everyday carry, and its 65W output is enough to fast-charge most modern laptops, tablets and phones. UGREEN reckons it's around half the size of a standard laptop brick, so it slips into a bag with room to spare.
 
 **Pros**
 - ✓ Two ports cover a laptop and a phone from one plug
@@ -58,7 +58,7 @@ The UGREEN 65W GaN is the sensible-value choice that covers the essentials witho
 
 Scorecard: Capability 7/10 - Versatility 6/10 - Build 10/10 - Value 6/10
 
-The Anker Nano II 65W is the choice for travellers who want maximum single-port performance in the smallest possible package. Its GaN II technology shrinks a full 65W output into a tiny shell, and a single dedicated USB-C port keeps power focused on one device at a time. It is a focused, single-port tool rather than a multi-device hub, which is exactly why it stays so small.
+The Anker Nano II 65W is the choice for travellers who want maximum single-port performance in the smallest possible package. Its GaN II technology shrinks a full 65W output into a tiny shell, and a single dedicated USB-C port keeps power focused on one device at a time. It's a focused, single-port tool rather than a multi-device hub, which is exactly why it stays so small.
 
 **Pros**
 - ✓ GaN II technology delivers a full 65W from an exceptionally small body
@@ -67,7 +67,7 @@ The Anker Nano II 65W is the choice for travellers who want maximum single-port 
 
 **Cons**
 - ✗ Only one port, so it cannot charge multiple devices simultaneously
-- ✗ No USB-A, and no cable is included in the box
+- ✗ No USB-A port, and check the listing for whether a cable is included
 
 **Who it's for:** Frequent travellers who charge one device at a time and prize the smallest footprint.
 **Who it's not for:** Households that need to charge several devices from a single wall plug.
@@ -82,7 +82,7 @@ For most people the **[Anker 67W GaN Wall Charger (3 Ports)](https://www.amazon.
 
 ## How we chose
 
-We focused on the specs that actually matter in this category: real output in the 65W-67W range, the number of ports, and the compact GaN build quality that makes these chargers worth carrying. We weighed UK plug fit and overall portability alongside sensible value for everyday use. Every pick links straight to Amazon UK, so you can check the latest price and availability yourself before buying.
+In the 65W class the gaps are small but real, so we compared: real output in the 65W-67W range, the number of ports, and the compact GaN build quality that makes these chargers worth carrying. We weighed UK plug fit and overall portability alongside sensible value for everyday use. Every pick links to its Amazon UK page; check the current price and box contents before you retire your old laptop brick.
 
 ## FAQ
 
@@ -90,7 +90,7 @@ We focused on the specs that actually matter in this category: real output in th
 A: GaN (gallium nitride) is a semiconductor material that runs more efficiently than older silicon, so a GaN charger can deliver the same wattage in a much smaller, cooler-running body, which is ideal for travel and tidy desks.
 
 **Q: Will a 65W charger fast-charge my laptop?**
-A: Many thin-and-light laptops, phones, and tablets charge happily from a 65W USB-C charger, but always check your device's own charging requirements, as some larger or gaming laptops need more wattage.
+A: Many thin-and-light laptops, phones and tablets charge happily from a 65W USB-C charger, but always check your device's own charging requirements, as some larger or gaming laptops need more wattage; our [100W GaN charger guide](best-100w-gan-charger-uk.html) covers that step up.
 
 **Q: What is the difference between a single-port and a multi-port charger?**
 A: A single-port charger directs its full output to one device for the fastest possible charge, while a multi-port charger shares that output across devices, which is handy when you want to charge a laptop and phone together but can slow each one when several are plugged in.

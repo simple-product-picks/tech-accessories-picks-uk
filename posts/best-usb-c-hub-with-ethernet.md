@@ -10,7 +10,7 @@ Wired internet is back in demand for anyone working from home or gaming on a lap
 
 Scorecard: Capability 7/10 - Versatility 9/10 - Build 7/10 - Value 8/10
 
-The UGREEN Revodok 7-in-1 hits the sweet spot for most laptops, pairing Gigabit Ethernet with a useful spread of seven ports in one compact unit. A single USB-C connection to your laptop keeps everything tidy while you add wired networking and your usual peripherals. For a typical home-office or hybrid-working setup, this is the most balanced all-rounder here.
+The UGREEN Revodok 7-in-1 hits the sweet spot for most laptops, pairing Gigabit Ethernet with 4K HDMI, three USB-A ports, an SD slot and 100W power delivery in one compact unit. A single USB-C connection to your laptop keeps everything tidy while you add wired networking and your usual peripherals. For a typical home-office or hybrid-working setup, this is the most balanced all-rounder here.
 
 **Pros**
 - ✓ Gigabit Ethernet for a stable wired connection without a separate adapter
@@ -22,7 +22,7 @@ The UGREEN Revodok 7-in-1 hits the sweet spot for most laptops, pairing Gigabit 
 - ✗ General-purpose ports rather than the fastest 10Gbps data standard
 
 **Who it's for:** Hybrid and home-office workers who want wired Ethernet and the everyday ports from one tidy hub.
-**Who it's not for:** Anyone needing the port count of a full docking station or the fastest possible data transfer speeds.
+**Who it's not for:** Anyone needing the port count of a full docking station (see our [USB-C hub vs docking station](usb-c-hub-vs-docking-station.html) explainer) or the fastest possible data transfer speeds.
 
 [Check price](https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21)
 
@@ -34,12 +34,12 @@ The UGREEN Revodok 7-in-1 hits the sweet spot for most laptops, pairing Gigabit 
 
 Scorecard: Capability 6/10 - Versatility 8/10 - Build 8/10 - Value 8/10
 
-The Anker PowerExpand 6-in-1 is the sensible-value choice that covers the essentials without fuss. You get wired Ethernet plus a useful mix of everyday ports, all from a brand with a long track record in charging and connectivity accessories. It is a clean way to add wired networking to a slim laptop.
+The Anker PowerExpand 6-in-1 is the sensible-value choice that covers the essentials without fuss. You get wired Ethernet plus a useful mix of everyday ports, all from a brand with a long track record in charging and connectivity accessories. It's a clean way to add wired networking to a slim laptop.
 
 **Pros**
 - ✓ Wired Ethernet adds a stable connection without a separate dongle
 - ✓ Six-in-one layout covers the core ports most laptops need
-- ✓ Anker is a well-established connectivity brand with a reputation for solid build
+- ✓ 4K HDMI and 65W power delivery alongside the wired connection
 
 **Cons**
 - ✗ Fewer total ports than the larger hubs in this guide
@@ -58,7 +58,7 @@ The Anker PowerExpand 6-in-1 is the sensible-value choice that covers the essent
 
 Scorecard: Capability 9/10 - Versatility 9/10 - Build 8/10 - Value 7/10
 
-The Anker 8-in-1 is the do-it-all pick, adding 10Gbps USB ports so large file transfers and external SSDs feel genuinely fast. Alongside the speedy data lanes you still get wired Ethernet and the broadest port count in this guide. For creators and anyone who moves a lot of data, the extra bandwidth and ports justify the step up.
+The Anker 8-in-1 is the step up for heavy movers of data, adding 10Gbps USB ports so large file transfers and external SSDs feel genuinely fast. Alongside the speedy data lanes you still get wired Ethernet and the broadest port count in this guide. For creators and anyone who moves a lot of data, the extra bandwidth and ports justify the step up.
 
 **Pros**
 - ✓ 10Gbps USB ports for fast external drive and file transfers
@@ -82,7 +82,7 @@ For most UK buyers the **[UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet]
 
 ## How we chose
 
-We focused on the specs that actually matter for this category: real Ethernet for a wired link, USB data speeds, overall port mix and how compact each hub is. We weighed UK home-office and laptop fit, build quality and how sensibly each hub balances features against everyday needs. Every pick links straight to Amazon UK so you can check the latest price and availability for yourself.
+An Ethernet hub earns its keep on four things: real Ethernet for a wired link, USB data speeds, overall port mix and how compact each hub is. We weighed UK home-office and laptop fit, build quality and how sensibly each hub balances features against everyday needs. Each link opens the hub's live Amazon UK page; check the current price and stock there, and confirm the Ethernet spec matches what your router can actually deliver.
 
 ## FAQ
 

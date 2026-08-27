@@ -10,7 +10,7 @@ Looking for a charger that keeps your Samsung Galaxy S24 topped up quickly and s
 
 Scorecard: Capability 7/10 - Versatility 6/10 - Build 10/10 - Value 8/10
 
-The Anker 67W is the pick we would hand most S24 owners. With 67W on tap across three ports and GaN internals, it can fast-charge your S24 while still leaving headroom to top up earbuds, a watch, or a tablet at the same time. Anker is a well-established name in charging, and USB-C Power Delivery means it plays nicely with the S24's fast-charge standard.
+The Anker 67W is the pick we would hand most S24 owners. With 67W on tap across three ports and GaN internals, it can fast-charge your S24 while still leaving headroom to top up earbuds, a watch, or a tablet at the same time. Anker is a well-established name in charging, and PPS support means it can drive the S24's fastest charging mode properly, not just basic USB-C speeds.
 
 **Pros**
 - ✓ 67W of total output handles the S24 plus a second or third device
@@ -34,7 +34,7 @@ The Anker 67W is the pick we would hand most S24 owners. With 67W on tap across 
 
 Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 8/10
 
-The UGREEN 65W 2-Port is the sensible-value choice that covers the essentials without fuss. With 65W shared across two ports and GaN efficiency, it delivers ample power to fast-charge the S24 and run a second device such as a laptop or tablet. UGREEN is a reliable charging brand, and USB-C Power Delivery support means dependable fast charging for your phone.
+The UGREEN 65W 2-Port keeps it simple for an S24 owner who doesn't need a third port. With 65W shared across two ports and GaN efficiency, it delivers ample power to fast-charge the S24 and run a second device such as a laptop or tablet. UGREEN is a reliable charging brand, and USB-C Power Delivery support means dependable fast charging for your phone.
 
 **Pros**
 - ✓ 65W is more than enough to fast-charge the Galaxy S24
@@ -58,7 +58,7 @@ The UGREEN 65W 2-Port is the sensible-value choice that covers the essentials wi
 
 Scorecard: Capability 9/10 - Versatility 4/10 - Build 8/10 - Value 7/10
 
-The UGREEN Nexode Pro 100W is the do-it-all pick for a busier setup. Its 100W ceiling and three ports mean it can fast-charge the S24 while simultaneously powering a USB-C laptop and a second mobile device. The Nexode Pro line uses GaN for a compact footprint relative to the power on offer, and Power Delivery support covers the S24's fast-charge needs with plenty in reserve.
+The UGREEN Nexode Pro 100W suits a busier desk, where the S24 is only one of the things on charge. Its 100W ceiling and three ports mean it can fast-charge the S24 while simultaneously powering a USB-C laptop and a second mobile device. The Nexode Pro line uses GaN for a compact footprint relative to the power on offer, and Power Delivery support covers the S24's fast-charge needs with plenty in reserve.
 
 **Pros**
 - ✓ 100W total output drives a laptop, the S24 and a third device together
@@ -78,11 +78,11 @@ The UGREEN Nexode Pro 100W is the do-it-all pick for a busier setup. Its 100W ce
 
 ## Quick verdict
 
-For most Samsung S24 owners, the **[Anker 67W GaN Wall Charger (3 Ports)](https://www.amazon.co.uk/dp/B0C4Y1FFQH?linkCode=ll2&tag=souvlakia-21)** strikes the best balance of fast charging, multiple ports and a compact GaN build. If you want dependable fast charging for the S24 and one extra device at a sensible value, the **[UGREEN USB C Charger 65W GaN 2-Port](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21)** covers the essentials nicely. If you also charge a USB-C laptop and want maximum headroom, step up to the **[UGREEN Nexode Pro 100W 3-Port GaN Charger](https://www.amazon.co.uk/dp/B0CCVDXHM6?linkCode=ll2&tag=souvlakia-21)**.
+For most Samsung S24 owners, the **[Anker 67W GaN Wall Charger (3 Ports)](https://www.amazon.co.uk/dp/B0C4Y1FFQH?linkCode=ll2&tag=souvlakia-21)** strikes the best balance of fast charging, multiple ports and a compact GaN build. If you want dependable fast charging for the S24 and one extra device at a sensible value, the **[UGREEN USB C Charger 65W GaN 2-Port](https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21)** covers the essentials nicely. If you also charge a USB-C laptop and want maximum headroom, step up to the **[UGREEN Nexode Pro 100W 3-Port GaN Charger](https://www.amazon.co.uk/dp/B0CCVDXHM6?linkCode=ll2&tag=souvlakia-21)**. If the laptop side of your desk matters as much as the phone, our [100W GaN charger guide](best-100w-gan-charger-uk.html) digs into that class properly.
 
 ## How we chose
 
-We focused on the specs that actually matter for charging a Galaxy S24: total wattage, number of ports, USB-C Power Delivery support, GaN efficiency and everyday portability. We weighted UK fit and real-world value, favouring chargers that fast-charge the S24 while leaving room for other devices. Every pick links straight to Amazon UK so you can check the latest price and availability for yourself.
+Charging a Galaxy S24 well comes down to a short list: total wattage, number of ports, USB-C Power Delivery support, GaN efficiency and everyday portability. We weighted UK fit and real-world value, favouring chargers that fast-charge the S24 while leaving room for other devices. All three link to their Amazon UK listings, so check today's price and what's in the box before your S24 gets its new plug.
 
 ## FAQ
 

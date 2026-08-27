@@ -34,7 +34,7 @@ The Anker 100W is our standout because it pairs serious single-port output with 
 
 Scorecard: Capability 9/10 - Versatility 6/10 - Build 9/10 - Value 8/10
 
-The UGREEN Nexode 100W is the sensible-value choice that covers the essentials without fuss. With four ports (three USB-C plus one USB-A) and a foldable UK plug, it is built for travelling light while still keeping a full set of devices topped up. GaN technology keeps it compact, and the single port can still push up to 100W when you need maximum speed for a laptop.
+The UGREEN Nexode 100W wins this trio on port count, and that's exactly the point of it. With four ports (three USB-C plus one USB-A) and a foldable UK plug, it is built for travelling light while still keeping a full set of devices topped up. GaN technology keeps it compact, and the single port can still push up to 100W when you need maximum speed for a laptop.
 
 **Pros**
 - ✓ Four ports (3x USB-C, 1x USB-A) charge more devices at once than most rivals
@@ -58,7 +58,7 @@ The UGREEN Nexode 100W is the sensible-value choice that covers the essentials w
 
 Scorecard: Capability 9/10 - Versatility 4/10 - Build 8/10 - Value 7/10
 
-The Nexode Pro 100W is the do-it-all pick for people who want a polished, capable charger. UGREEN's GaNInfinity chip is designed for efficient, sustained high output, which suits long laptop charging sessions. Two USB-C ports and a USB-A round out a compact package for serious laptop users who still want room for a couple of accessories.
+The Nexode Pro 100W is the laptop-first choice for people who want a polished, capable charger. UGREEN's GaNInfinity chip is designed for efficient, sustained high output, which suits long laptop charging sessions. Two USB-C ports and a USB-A round out a compact package for serious laptop users who still want room for a couple of accessories.
 
 **Pros**
 - ✓ GaNInfinity chip is designed for efficient, sustained high-wattage charging
@@ -67,7 +67,7 @@ The Nexode Pro 100W is the do-it-all pick for people who want a polished, capabl
 
 **Cons**
 - ✗ Three ports rather than four, so fewer simultaneous devices than the budget pick
-- ✗ Premium positioning may be more than light users need
+- ✗ Overkill if you mostly charge phones and earbuds rather than a laptop
 
 **Who it's for:** Laptop-first users who want a refined, capable GaN charger with sustained high output.
 **Who it's not for:** People who simply need a basic top-up charger and won't use the extra capability.
@@ -78,11 +78,11 @@ The Nexode Pro 100W is the do-it-all pick for people who want a polished, capabl
 
 ## Quick verdict
 
-For most people the **[Anker 100W USB C Charger (3-Port GaN, Smart Display)](https://www.amazon.co.uk/dp/B0FL2DR4TH?linkCode=ll2&tag=souvlakia-21)** is the one to get, blending 100W single-port output, a useful live display and a compact three-port layout. If you want to cover more devices at once with a travel-friendly foldable plug, the **[UGREEN Nexode 100W USB C Charger 4-Port GaN](https://www.amazon.co.uk/dp/B091N7FVDL?linkCode=ll2&tag=souvlakia-21)** is the sensible-value choice. Power users who want a refined GaN charger for laptop-first use should look at the **[UGREEN Nexode Pro 100W 3-Port GaN Charger](https://www.amazon.co.uk/dp/B0CCVDXHM6?linkCode=ll2&tag=souvlakia-21)**.
+For most people the **[Anker 100W USB C Charger (3-Port GaN, Smart Display)](https://www.amazon.co.uk/dp/B0FL2DR4TH?linkCode=ll2&tag=souvlakia-21)** is the one to get, blending 100W single-port output, a useful live display and a compact three-port layout. If you want to cover more devices at once with a travel-friendly foldable plug, the **[UGREEN Nexode 100W USB C Charger 4-Port GaN](https://www.amazon.co.uk/dp/B091N7FVDL?linkCode=ll2&tag=souvlakia-21)** is the sensible-value choice. Power users who want a refined GaN charger for laptop-first use should look at the **[UGREEN Nexode Pro 100W 3-Port GaN Charger](https://www.amazon.co.uk/dp/B0CCVDXHM6?linkCode=ll2&tag=souvlakia-21)**. Buying for a Mac specifically? Our [MacBook Pro charger guide](best-gan-charger-for-macbook-pro.html) matches wattage to each model.
 
 ## How we chose
 
-We focused on the specs that actually matter for this category: real single-port wattage (all three deliver up to 100W), the number and mix of USB-C and USB-A ports, the efficiency and compactness that GaN technology brings, and practical UK details like a foldable plug. We weighed everyday usefulness and overall value rather than headline numbers alone. Every pick links straight to Amazon UK so you can check the latest price and availability for yourself.
+The 100W class is crowded, so we compared what actually separates these three: real single-port wattage (all three deliver up to 100W), the number and mix of USB-C and USB-A ports, the efficiency and compactness that GaN technology brings, and practical UK details like a foldable plug. We weighed everyday usefulness and overall value rather than headline numbers alone. Each one links to its Amazon UK listing, where you can check the current price and confirm the port mix suits your kit.
 
 ## FAQ
 
