@@ -56,14 +56,14 @@ The Anker 547 is the sensible-value choice for MacBook owners, with a dual-plug 
 
 ### 3. Anker USB C Hub 8-in-1 with Ethernet and 10Gbps - Best Premium
 
-**SPP Score: 8.4 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
+**SPP Score: 8.6 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
 
-Scorecard: Capability 9/10 - Versatility 9/10 - Build 8/10 - Value 7/10
+Scorecard: Capability 9/10 - Versatility 9/10 - Build 8/10 - Value 8/10
 
-This Anker 8-in-1 is the desk-dock option of the three, adding Gigabit Ethernet for wired networking alongside everything else. With 10Gbps USB connectivity and SD card support in an 8-in-1 layout, it works as a capable desk dock as well as a travel hub.
+This Anker 8-in-1 is the desk-dock option of the three, adding wired Ethernet for stable networking alongside everything else. With 10Gbps USB connectivity and SD card support in an 8-in-1 layout, it works as a capable desk dock as well as a travel hub.
 
 **Pros**
-- ✓ Gigabit Ethernet for stable wired network connections
+- ✓ Wired Ethernet for stable network connections
 - ✓ SD and microSD card support for card offloads
 - ✓ 10Gbps USB connectivity for fast transfers
 - ✓ 8-in-1 layout that doubles as a desk dock

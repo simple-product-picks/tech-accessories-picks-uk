@@ -54,9 +54,9 @@ The Anker Zolo Power Bank 10000mAh 30W covers the essentials without the bulk. I
 
 ### 3. Anker Prime Power Bank 20000mAh 200W - Best Premium
 
-**SPP Score: 8.2 / 10** - 20000mAh capacity, 200W total output with dual 100W USB-C ports. Our pick for maximum capability.
+**SPP Score: 8.4 / 10** - 20000mAh capacity, 200W total output with dual 100W USB-C ports. Our pick for maximum capability.
 
-Scorecard: Capability 10/10 - Versatility 7/10 - Build 8/10 - Value 7/10
+Scorecard: Capability 10/10 - Versatility 7/10 - Build 8/10 - Value 8/10
 
 The Anker Prime Power Bank 20000mAh 200W is the highest-capability pick, combining a 20000mAh cell with up to 200W of total output. Two 100W USB-C ports can each fast-charge a demanding laptop, and a USB-A port covers older accessories, so it's built for driving several devices at full pace at once. A smart digital display reads out charging status at a glance, which helps on heavy multi-device days and longer trips away from the mains. If you want maximum output in a 20000mAh unit, this is the flagship choice.
 

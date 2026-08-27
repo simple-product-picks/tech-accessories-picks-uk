@@ -54,9 +54,9 @@ The ESR HaloLock is the sensible-value choice that covers the essentials: MagSaf
 
 ### 3. Belkin BoostCharge Pro MagSafe Car Charger (Qi2 15W) - Best Premium
 
-**SPP Score: 8.2 / 10** - Qi2 15W wireless charging with an air-vent mount and included 1.5m USB-C cable. Our pick for maximum capability.
+**SPP Score: 8.3 / 10** - Qi2 15W wireless charging with an air-vent mount and included 1.5m USB-C cable. Our pick for maximum capability.
 
-Scorecard: Capability 9/10 - Versatility 8/10 - Build 8/10 - Value 7/10
+Scorecard: Capability 9/10 - Versatility 8/10 - Build 8/10 - Value 8/10
 
 Belkin's BoostCharge Pro is the step-up option, bringing the newer Qi2 standard to your car. Magnetic snap-on alignment pairs with up to 15W of wireless output for compatible iPhones. It mounts to your car's air vent and doubles as a holder, keeping your phone where you can see it for navigation while it tops up. A 1.5m [USB-C cable](best-usb-c-cable-for-fast-charging.html) is included in the box, and the MagSafe-compatible magnetic hold keeps the phone in the optimal charging position. For drivers who want the most capable charge on offer here, the faster Qi2 15W output is the reason to move up from the all-round pick.
 

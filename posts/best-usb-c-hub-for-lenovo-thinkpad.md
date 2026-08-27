@@ -54,9 +54,9 @@ This Anker 7-in-1 hub is the sensible-value choice that covers the essentials wi
 
 ### 3. Anker USB C Hub 8-in-1 with Ethernet and 10Gbps - Best Premium
 
-**SPP Score: 8.4 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
+**SPP Score: 8.6 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
 
-Scorecard: Capability 9/10 - Versatility 9/10 - Build 8/10 - Value 7/10
+Scorecard: Capability 9/10 - Versatility 9/10 - Build 8/10 - Value 8/10
 
 The Anker 8-in-1 is the do-it-all pick for ThinkPad users who want speed alongside connectivity. It combines wired Ethernet with 10Gbps data, so you get reliable networking plus fast transfers to external SSDs and drives. With eight connections in one compact unit, it handles demanding workflows without the bulk of a full desktop dock.
 

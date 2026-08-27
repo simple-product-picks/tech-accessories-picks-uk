@@ -56,9 +56,9 @@ The INIU Power Bank 20000mAh 45W is the sensible-value choice for anyone who wan
 
 ### 3. UGREEN Nexode Power Bank 20000mAh 145W - Best Premium
 
-**SPP Score: 7.3 / 10** - 20000mAh capacity, 145W output, 80W input, built-in USB-C cable and three-port output. Our pick for maximum capability.
+**SPP Score: 7.5 / 10** - 20000mAh capacity, 145W output, 80W input, built-in USB-C cable and three-port output. Our pick for maximum capability.
 
-Scorecard: Capability 10/10 - Versatility 4/10 - Build 7/10 - Value 7/10
+Scorecard: Capability 10/10 - Versatility 4/10 - Build 7/10 - Value 8/10
 
 The UGREEN Nexode Power Bank 20000mAh 145W is built for people who charge laptops as well as phones. With up to 145W of output it can fast-charge many USB-C laptops, tablets, and phones, and 80W input means the bank itself refills briskly rather than leaving you waiting overnight. A built-in [USB-C cable](best-usb-c-cable-for-fast-charging.html) saves you carrying a spare lead, and three-port output lets you power several devices at once. For digital nomads, content creators, and anyone living out of a laptop bag, this is the most capable option here.
 

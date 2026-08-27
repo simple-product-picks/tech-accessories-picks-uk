@@ -54,9 +54,9 @@ This Anker 7-in-1 is the budget route to two screens, with one catch: the second
 
 ### 3. Anker 7-in-1 USB C Hub Dual Monitor (2x HDMI, 100W PD) - Best Premium
 
-**SPP Score: 8.1 / 10** - 7-in-1 connectivity, high-speed data. Our pick for maximum capability.
+**SPP Score: 8.2 / 10** - 7-in-1 connectivity, high-speed data. Our pick for maximum capability.
 
-Scorecard: Capability 8/10 - Versatility 9/10 - Build 9/10 - Value 6/10
+Scorecard: Capability 8/10 - Versatility 9/10 - Build 9/10 - Value 7/10
 
 For the most capable compact option, this Anker 7-in-1 puts two HDMI outputs on a single small hub, so you can run a genuine dual-monitor setup without a bulky dock. It pairs that with 100W Power Delivery to keep your laptop topped up while you work. It's the pick for people who want full dual-display capability in a portable, well-built shell.
 

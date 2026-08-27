@@ -54,9 +54,9 @@ The 20000mAh capacity gives you the multi-charge headroom that long flights dema
 
 ### 3. Anker Prime Power Bank 20000mAh 200W - Best Premium
 
-**SPP Score: 8.2 / 10** - 20000mAh with 200W total output, dual 100W USB-C, and a digital display. Our pick for maximum capability.
+**SPP Score: 8.4 / 10** - 20000mAh with 200W total output, dual 100W USB-C, and a digital display. Our pick for maximum capability.
 
-Scorecard: Capability 10/10 - Versatility 7/10 - Build 8/10 - Value 7/10
+Scorecard: Capability 10/10 - Versatility 7/10 - Build 8/10 - Value 8/10
 
 The Anker Prime is the do-it-all pick, pairing a 20000mAh capacity with a 200W total output that can fast-charge laptops, tablets, and phones, often several at once. Its two USB-C ports each deliver up to 100W, with a USB-A port alongside, and the smart digital display shows you what is going in and out at a glance. That high wattage means one pack can keep a whole cabin bag of devices alive, and Anker positions the Prime line as its flagship range for power users.
 

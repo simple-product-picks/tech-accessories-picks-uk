@@ -54,9 +54,9 @@ The Anker Zolo Power Bank 10000mAh 30W is the no-frills pick: it pairs a dependa
 
 ### 3. UGREEN MagFlow MagSafe Power Bank 10000mAh (Qi2 25W) - Best Premium
 
-**SPP Score: 6.5 / 10** - 10000mAh capacity with Qi2 25W magnetic wireless charging plus PD 30W wired. Our pick for maximum capability.
+**SPP Score: 6.7 / 10** - 10000mAh capacity with Qi2 25W magnetic wireless charging plus PD 30W wired. Our pick for maximum capability.
 
-Scorecard: Capability 6/10 - Versatility 7/10 - Build 7/10 - Value 6/10
+Scorecard: Capability 6/10 - Versatility 7/10 - Build 7/10 - Value 7/10
 
 The UGREEN MagFlow is the most capable pick because it charges two ways from one 10000mAh bank. It snaps magnetically onto the back of a compatible iPhone and charges wirelessly at up to Qi2 25W, so there's no cable to plug in for a quick top-up. The magnetic hold lets you keep using the phone while it charges. When you want the fastest fill, a built-in cable delivers up to 30W wired PD. It's the only pick here that gives you MagSafe-style convenience and wired speed in a single compact unit.
 

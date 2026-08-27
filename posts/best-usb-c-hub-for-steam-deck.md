@@ -56,9 +56,9 @@ The Anker 5-in-1 is the sensible-value choice that covers the essentials for cou
 
 ### 3. UGREEN Revodok Pro 210 USB C Docking Station (10-in-1) - Best Premium
 
-**SPP Score: 8.8 / 10** - 10-in-1 connectivity, wired Ethernet. Our pick for maximum capability.
+**SPP Score: 9.0 / 10** - 10-in-1 connectivity, wired Ethernet. Our pick for maximum capability.
 
-Scorecard: Capability 10/10 - Versatility 10/10 - Build 7/10 - Value 7/10
+Scorecard: Capability 10/10 - Versatility 10/10 - Build 7/10 - Value 8/10
 
 The Revodok Pro 210 is the do-it-all dock, turning a Steam Deck into a full desktop station. With its ten functions spanning HDMI, Gigabit Ethernet, additional USB-C and USB-A ports, card slots, and USB-C power delivery, it handles a complete monitor-keyboard-mouse-network setup from one connection. The broad port array makes it the most capable choice here for anyone who docks the Deck as a daily machine. Torn between a hub and a full dock? Our [USB-C hub vs docking station](usb-c-hub-vs-docking-station.html) explainer settles it.
 

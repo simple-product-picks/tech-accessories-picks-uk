@@ -54,9 +54,9 @@ The UGREEN Nexode 100W wins this trio on port count, and that's exactly the poin
 
 ### 3. UGREEN Nexode Pro 100W 3-Port GaN Charger - Best Premium
 
-**SPP Score: 7.2 / 10** - 100W output, 3-port layout, compact GaN build. Our pick for maximum capability.
+**SPP Score: 7.3 / 10** - 100W output, 3-port layout, compact GaN build. Our pick for maximum capability.
 
-Scorecard: Capability 9/10 - Versatility 4/10 - Build 8/10 - Value 7/10
+Scorecard: Capability 9/10 - Versatility 4/10 - Build 8/10 - Value 8/10
 
 The Nexode Pro 100W is the laptop-first choice for people who want a polished, capable charger. UGREEN's GaNInfinity chip is designed for efficient, sustained high output, which suits long laptop charging sessions. Two USB-C ports and a USB-A round out a compact package for serious laptop users who still want room for a couple of accessories.
 

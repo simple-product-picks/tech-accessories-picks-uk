@@ -56,9 +56,9 @@ USB4 is the open standard Thunderbolt 4 is built on, and this UGREEN lead shows 
 
 ### 3. Belkin Active Thunderbolt 4 Cable (2m, 100W) - Best Premium
 
-**SPP Score: 7.8 / 10** - Active Thunderbolt 4 at full 40Gbps over 2m. Our pick for maximum capability.
+**SPP Score: 7.9 / 10** - Active Thunderbolt 4 at full 40Gbps over 2m. Our pick for maximum capability.
 
-Scorecard: Capability 10/10 - Versatility 5/10 - Build 8/10 - Value 7/10
+Scorecard: Capability 10/10 - Versatility 5/10 - Build 8/10 - Value 8/10
 
 Here is the dirty secret of fast cables: passive leads lose speed as they get longer, which is why most full-speed Thunderbolt cables are under a metre. Belkin's answer is an active cable, with electronics in the connectors that push the full 40Gbps across the whole 2m run. That makes it the pick for the setups shorter cables cannot serve: a laptop on a stand across the desk, a dock tucked out of sight, or clean cable routing that needs real length. It delivers 100W of charging alongside the data, and it is USB4 compliant for use beyond Thunderbolt machines. Specialist kit for a specialist problem, and nothing else here does what it does.
 

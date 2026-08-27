@@ -56,9 +56,9 @@ The Revodok Pro 210 is the value sweet spot in this category, and it's honestly 
 
 ### 3. UGREEN Revodok Max 213 Thunderbolt 4 Dock (13-in-1, 90W) - Best Premium
 
-**SPP Score: 8.8 / 10** - Thunderbolt 4 docking station. Our pick for maximum capability.
+**SPP Score: 9.0 / 10** - Thunderbolt 4 docking station. Our pick for maximum capability.
 
-Scorecard: Capability 10/10 - Versatility 10/10 - Build 7/10 - Value 7/10
+Scorecard: Capability 10/10 - Versatility 10/10 - Build 7/10 - Value 8/10
 
 If your work really pushes a laptop hard, the Revodok Max 213 is the ceiling of what a single cable can do. Thunderbolt 4 brings 40Gbps of bandwidth, enough for dual 4K@60Hz displays or a single 8K screen, with three Thunderbolt 4 ports for daisy-chaining fast storage and other high-end gear. The 2.5G Ethernet port outruns standard Gigabit connections for those with faster broadband or a fast home network, SD/TF 4.0 card slots move camera files quickly, and 90W of charging keeps a powerful laptop fed. It's a lot of dock, and a bigger commitment than most desks need; for video editors, photographers and developers it earns its place.
 

@@ -54,9 +54,9 @@ The value choice here is this UGREEN two-pack, which covers the essentials witho
 
 ### 3. Apple 60W USB-C Charge Cable (1m) - Best Premium
 
-**SPP Score: 6.3 / 10** - Genuine Apple 60W cable with USB 2.0 sync over a 1m length. Our pick for maximum capability.
+**SPP Score: 6.5 / 10** - Genuine Apple 60W cable with USB 2.0 sync over a 1m length. Our pick for maximum capability.
 
-Scorecard: Capability 6/10 - Versatility 5/10 - Build 9/10 - Value 6/10
+Scorecard: Capability 6/10 - Versatility 5/10 - Build 9/10 - Value 7/10
 
 If you want the cable Apple designed for its own ecosystem, this is the no-questions pick. It's a genuine Apple USB-C to USB-C lead rated for 60W charging, which is comfortably enough for the iPhone 15, and it handles USB 2.0 data for syncing and backups over a wired connection. The 1m length keeps things tidy at a desk or bedside, and you get full first-party compatibility with the iPhone 15 and other USB-C Apple gear.
 

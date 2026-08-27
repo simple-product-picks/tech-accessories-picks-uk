@@ -54,9 +54,9 @@ The UGREEN USB C to HDMI Adapter is the no-frills option that still covers the s
 
 ### 3. Anker USB C Hub 8-in-1 with Ethernet and 10Gbps - Best Premium
 
-**SPP Score: 7.9 / 10** - 4K 60Hz HDMI, Ethernet and 10Gbps USB from one 8-in-1 hub. Our pick for maximum capability.
+**SPP Score: 8.1 / 10** - 4K 60Hz HDMI, Ethernet and 10Gbps USB from one 8-in-1 hub. Our pick for maximum capability.
 
-Scorecard: Capability 8/10 - Versatility 9/10 - Build 8/10 - Value 6/10
+Scorecard: Capability 8/10 - Versatility 9/10 - Build 8/10 - Value 7/10
 
 The Anker USB C Hub 8-in-1 is for people who want one plug to do everything. Beyond HDMI output, it adds wired Ethernet for a stable network connection and 10Gbps USB data transfer for fast external drives, all from a single USB-C port. For a home-office or hot-desk setup, this turns a slim laptop into a proper workstation in one connection. More hub options live in our [USB-C hub with Ethernet guide](best-usb-c-hub-with-ethernet.html).
 

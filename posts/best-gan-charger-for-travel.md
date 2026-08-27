@@ -54,9 +54,9 @@ The UGREEN 65W GaN is the pick when bag weight matters more than port count, wit
 
 ### 3. Anker 100W USB C Charger (3-Port GaN, Smart Display) - Best Premium
 
-**SPP Score: 7.8 / 10** - 100W output, compact GaN build, a live wattage display. Our pick for maximum capability.
+**SPP Score: 8.0 / 10** - 100W output, compact GaN build, a live wattage display. Our pick for maximum capability.
 
-Scorecard: Capability 9/10 - Versatility 5/10 - Build 10/10 - Value 7/10
+Scorecard: Capability 9/10 - Versatility 5/10 - Build 10/10 - Value 8/10
 
 This is the do-it-all pick: 100W across three ports means it can power a demanding laptop and still have headroom for a phone and a tablet. The smart display shows live output so you can see how power is being distributed, which is genuinely useful when juggling several devices in a hotel room. GaN internals keep a 100W charger this capable down to a travel-friendly size.
 

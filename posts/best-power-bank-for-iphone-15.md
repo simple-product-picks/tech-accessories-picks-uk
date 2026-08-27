@@ -54,9 +54,9 @@ The Anker Zolo Power Bank also builds the [USB-C cable](best-usb-c-cable-for-iph
 
 ### 3. Anker Nano Power Bank 10000mAh 45W (Retractable) - Best Premium
 
-**SPP Score: 6.4 / 10** - 10000mAh capacity, 45W max output with a built-in 70cm retractable USB-C cable and smart display. Our pick for maximum capability.
+**SPP Score: 6.6 / 10** - 10000mAh capacity, 45W max output with a built-in 70cm retractable USB-C cable and smart display. Our pick for maximum capability.
 
-Scorecard: Capability 6/10 - Versatility 6/10 - Build 8/10 - Value 6/10
+Scorecard: Capability 6/10 - Versatility 6/10 - Build 8/10 - Value 7/10
 
 The Anker Nano 45W is the do-it-all pick, pairing a 10000mAh capacity with a 45W maximum output for the fastest charging in this guide. Its built-in 70cm retractable USB-C cable pulls out to the length you need and tucks back in when you're done, so there's no loose cable to manage. A smart display rounds out the package, and USB-C in and out means you can recharge the pack over USB-C as well. For anyone who wants the most capable, highest-output pack here, this is the standout.
 

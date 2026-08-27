@@ -54,9 +54,9 @@ Anker is a familiar name in charging and audio accessories, and this USB-C to 3.
 
 ### 3. Apple USB-C to 3.5mm Headphone Jack Adapter - Best Premium
 
-**SPP Score: 6.7 / 10** - Genuine Apple USB-C to 3.5mm with a built-in DAC. Our pick for maximum capability.
+**SPP Score: 6.9 / 10** - Genuine Apple USB-C to 3.5mm with a built-in DAC. Our pick for maximum capability.
 
-Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 6/10
+Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 7/10
 
 Apple's own USB-C to 3.5mm adapter is the safe pick for anyone in the Apple ecosystem who wants guaranteed first-party compatibility. As a genuine Apple accessory it is designed to work smoothly with USB-C iPhones, iPads, and Macs, taking the guesswork out of pairing your wired headphones. A built-in DAC handles the analogue conversion, and it stays completely plug-and-play with no setup required.
 

@@ -54,15 +54,15 @@ The UGREEN Revodok earns its place by adding the one thing the overall pick lack
 
 ### 3. Anker USB C Hub 8-in-1 with Ethernet and 10Gbps - Best Premium
 
-**SPP Score: 8.4 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
+**SPP Score: 8.6 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
 
-Scorecard: Capability 9/10 - Versatility 9/10 - Build 8/10 - Value 7/10
+Scorecard: Capability 9/10 - Versatility 9/10 - Build 8/10 - Value 8/10
 
-If your iPad Pro workflow means moving large video files to an external SSD, the 10Gbps USB-C and USB-A ports on this Anker 8-in-1 are the reason to step up, alongside HDMI output and Gigabit Ethernet. Slower hubs bottleneck exactly there, so the extra bandwidth is the difference you'll actually feel. With eight functions in one unit, it suits demanding setups that need every connection covered at once.
+If your iPad Pro workflow means moving large video files to an external SSD, the 10Gbps USB-C and USB-A ports on this Anker 8-in-1 are the reason to step up, alongside HDMI output and wired Ethernet. Slower hubs bottleneck exactly there, so the extra bandwidth is the difference you'll actually feel. With eight functions in one unit, it suits demanding setups that need every connection covered at once.
 
 **Pros**
 - ✓ 10Gbps USB-C and USB-A ports for fast external SSD transfers
-- ✓ Gigabit Ethernet for a stable wired network connection
+- ✓ Wired Ethernet for a stable network connection
 - ✓ Eight-in-one layout covers display, data, network and accessories together
 
 **Cons**

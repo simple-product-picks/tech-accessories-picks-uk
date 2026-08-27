@@ -54,9 +54,9 @@ The Anker PowerExpand 6-in-1 is the sensible-value choice that covers the essent
 
 ### 3. Anker USB C Hub 8-in-1 with Ethernet and 10Gbps - Best Premium
 
-**SPP Score: 8.4 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
+**SPP Score: 8.6 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
 
-Scorecard: Capability 9/10 - Versatility 9/10 - Build 8/10 - Value 7/10
+Scorecard: Capability 9/10 - Versatility 9/10 - Build 8/10 - Value 8/10
 
 The Anker 8-in-1 is the step up for heavy movers of data, adding 10Gbps USB ports so large file transfers and external SSDs feel genuinely fast. Alongside the speedy data lanes you still get wired Ethernet and the broadest port count in this guide. For creators and anyone who moves a lot of data, the extra bandwidth and ports justify the step up.
 

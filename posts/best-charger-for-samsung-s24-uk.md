@@ -54,9 +54,9 @@ The UGREEN 65W 2-Port keeps it simple for an S24 owner who doesn't need a third 
 
 ### 3. UGREEN Nexode Pro 100W 3-Port GaN Charger - Best Premium
 
-**SPP Score: 7.2 / 10** - 100W output, compact GaN build. Our pick for maximum capability.
+**SPP Score: 7.3 / 10** - 100W output, compact GaN build. Our pick for maximum capability.
 
-Scorecard: Capability 9/10 - Versatility 4/10 - Build 8/10 - Value 7/10
+Scorecard: Capability 9/10 - Versatility 4/10 - Build 8/10 - Value 8/10
 
 The UGREEN Nexode Pro 100W suits a busier desk, where the S24 is only one of the things on charge. Its 100W ceiling and three ports mean it can fast-charge the S24 while simultaneously powering a USB-C laptop and a second mobile device. The Nexode Pro line uses GaN for a compact footprint relative to the power on offer, and Power Delivery support covers the S24's fast-charge needs with plenty in reserve.
 

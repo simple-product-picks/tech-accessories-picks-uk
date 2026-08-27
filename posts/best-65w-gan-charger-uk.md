@@ -54,9 +54,9 @@ The UGREEN 65W GaN is the everyday-carry pick: nothing clever, just a small plug
 
 ### 3. Anker Nano II 65W USB C Charger - Best Premium
 
-**SPP Score: 7.1 / 10** - 65W output, compact GaN build. Our pick for maximum capability.
+**SPP Score: 7.3 / 10** - 65W output, compact GaN build. Our pick for maximum capability.
 
-Scorecard: Capability 7/10 - Versatility 6/10 - Build 10/10 - Value 6/10
+Scorecard: Capability 7/10 - Versatility 6/10 - Build 10/10 - Value 7/10
 
 The Anker Nano II 65W is the choice for travellers who want maximum single-port performance in the smallest possible package. Its GaN II technology shrinks a full 65W output into a tiny shell, and a single dedicated USB-C port keeps power focused on one device at a time. It's a focused, single-port tool rather than a multi-device hub, which is exactly why it stays so small.
 

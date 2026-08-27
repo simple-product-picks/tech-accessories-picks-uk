@@ -56,9 +56,9 @@ This 7-in-1 Anker is the hub camp's best case: the everyday essentials with none
 
 ### 3. Anker USB C Hub 8-in-1 with Ethernet and 10Gbps - Best Premium
 
-**SPP Score: 8.4 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
+**SPP Score: 8.6 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
 
-Scorecard: Capability 9/10 - Versatility 9/10 - Build 8/10 - Value 7/10
+Scorecard: Capability 9/10 - Versatility 9/10 - Build 8/10 - Value 8/10
 
 This 8-in-1 Anker is the halfway house the hub-or-dock debate forgets: wired Ethernet and 10Gbps data, the two things travel hubs usually skip, in a body that still fits a bag. For plenty of people it dissolves the choice entirely.
 

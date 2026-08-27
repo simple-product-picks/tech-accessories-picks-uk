@@ -54,9 +54,9 @@ The UGREEN 65W is the budget pick for 13-inch MacBook Pro owners. It charges tho
 
 ### 3. UGREEN Nexode Pro 100W 3-Port GaN Charger - Best Premium
 
-**SPP Score: 7.2 / 10** - 100W output, 3-port layout, compact GaN build. Our pick for maximum capability.
+**SPP Score: 7.3 / 10** - 100W output, 3-port layout, compact GaN build. Our pick for maximum capability.
 
-Scorecard: Capability 9/10 - Versatility 4/10 - Build 8/10 - Value 7/10
+Scorecard: Capability 9/10 - Versatility 4/10 - Build 8/10 - Value 8/10
 
 The UGREEN Nexode Pro 100W pairs full 100W output with UGREEN's GaNInfinity chip, which the company rates to take a MacBook Pro 14 from flat to 50% in around 27 minutes. The three ports cover a laptop, phone and a third accessory at once, so it can run a whole desk or travel kit from a single plug. It is the most capable charger here for a multi-device setup.
 
