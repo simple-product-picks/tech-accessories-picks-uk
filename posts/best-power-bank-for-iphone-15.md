@@ -93,7 +93,7 @@ A: A 10000mAh pack will typically give an iPhone 15 roughly one and a half to tw
 A: No - the iPhone 15 fast-charges over USB-C Power Delivery without needing the full 30W. Both the 22.5W INIU and the 30W Nano fast-charge it; the Nano's 30W simply adds headroom to spare.
 
 **Q: What is Qi2 and is it the same as MagSafe?**
-A: Qi2 is a wireless charging standard that uses magnetic alignment similar to Apple's MagSafe, letting a compatible pack snap onto the back of an iPhone 15 for cable-free charging. Our premium MagGo pick is exactly that: Qi2-certified magnetic wireless. For a cheaper magnetic option, our [power bank under 30 guide](best-power-bank-under-30-uk.html) has one too.
+A: Qi2 is a wireless charging standard that uses magnetic alignment similar to Apple's MagSafe, letting a compatible pack snap onto the back of an iPhone 15 for cable-free charging. Our premium MagGo pick is exactly that: Qi2-certified magnetic wireless. If magnetic charging is the whole point for you, our [MagSafe power bank guide](best-magsafe-power-bank-uk.html) compares three across the 15W and 25W classes.
 
 ---
 

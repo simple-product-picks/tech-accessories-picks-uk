@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.co.uk/feed.xml" rel="self" type="application/rss+xml" />
   <description>Independent UK buying guides for USB-C chargers, hubs, power banks, cables and adapters. Every link verified against the live Amazon UK listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Sun, 02 Aug 2026 10:56:34 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 28 Aug 2026 06:48:24 +0000</lastBuildDate>
   <item>
     <title>Best 100W GaN Charger UK 2026</title>
     <link>https://simpleproductpicks.co.uk/posts_html/best-100w-gan-charger-uk.html</link>
@@ -195,6 +195,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.co.uk/posts_html/best-thunderbolt-4-cable-uk.html</guid>
     <pubDate>Sun, 02 Aug 2026 08:00:00 +0000</pubDate>
     <description>Best thunderbolt 4 cable in the UK for 2026. Hand-picked and honestly compared, with direct Amazon UK links.</description>
+  </item>
+  <item>
+    <title>Best MagSafe Power Bank UK 2026</title>
+    <link>https://simpleproductpicks.co.uk/posts_html/best-magsafe-power-bank-uk.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.co.uk/posts_html/best-magsafe-power-bank-uk.html</guid>
+    <pubDate>Fri, 28 Aug 2026 08:00:00 +0000</pubDate>
+    <description>Best magsafe power bank in the UK for 2026. Hand-picked and honestly compared, with direct Amazon UK links.</description>
   </item>
 </channel>
 </rss>
