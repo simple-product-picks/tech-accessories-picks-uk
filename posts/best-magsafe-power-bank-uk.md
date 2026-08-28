@@ -28,27 +28,27 @@ The MagGo is the magnetic bank that earns a place on the desk as well as in a ba
 
 ---
 
-### 2. INIU Magnetic Power Bank 10000mAh Qi2 (30W Wired) - Best Budget
+### 2. INIU Slimmest Power Bank 5000mAh Qi2 15W - Best Budget
 
-**SPP Score: 6.8 / 10** - Qi2 wireless with none of the extras, plus 30W wired USB-C. Our value pick.
+**SPP Score: 6.2 / 10** - Qi2 15W in the smallest, lightest pack here. Our value pick.
 
-Scorecard: Capability 6/10 - Versatility 6/10 - Build 8/10 - Value 8/10
+Scorecard: Capability 4/10 - Versatility 7/10 - Build 8/10 - Value 7/10
 
-The INIU is the no-frills way into real Qi2 - not a 7.5W lookalike - in a compact magnetic pack. It snaps on, charges wirelessly at the standard's speed, and its USB-C port works both ways at up to 30W, so when you're in a hurry the cable here is as quick as on the premium pick. It keeps to the basics and does them properly, which at this end of the market is precisely the point. If you'd rather skip the magnets entirely, our [power bank under 30 guide](best-power-bank-under-30-uk.html) covers the wired budget end.
+The budget route into real Qi2 is also the one you'll forget you're carrying: a 5000mAh pack slim enough to stay snapped on the phone in a pocket without turning it into a brick. It charges at the full Qi2 15W, and INIU's listing includes a USB-C cable and a stand in the box, which is generous at this end of the market. Half the capacity of the other two picks is the honest trade: this is the top-up-and-go option, not the all-weekend one. If you'd rather skip the magnets entirely, our [power bank under 30 guide](best-power-bank-under-30-uk.html) covers the wired budget end.
 
 **Pros**
-- ✓ Genuine Qi2-certified magnetic charging, not a 7.5W lookalike
-- ✓ 30W USB-C in and out - wired charging that matches anything in this guide
-- ✓ Compact enough to stay snapped on the phone in a pocket
+- ✓ Genuine Qi2-certified 15W magnetic charging, not a 7.5W lookalike
+- ✓ Slim, light 5000mAh build that lives on the phone comfortably
+- ✓ USB-C cable and stand included, per INIU's listing
 
 **Cons**
-- ✗ INIU's listing covers iPhone 13 through 16 - check yours is on the list before buying
-- ✗ Wireless top-ups run the cell down faster than using its USB-C port
+- ✗ 5000mAh is roughly one fast top-up, not a full weekend of charges
+- ✗ Wireless top-ups run the cell down faster than its USB-C port does
 
-**Who it's for:** Anyone who wants genuine Qi2 magnetic charging without paying for extras.
-**Who it's not for:** Desk users who'd miss a stand, or anyone wanting the 25W wireless class.
+**Who it's for:** Anyone who wants the lightest genuine Qi2 pack for daily top-ups.
+**Who it's not for:** Heavy users who need a full charge or two in reserve - the 10000mAh picks above and below cover that.
 
-[Check price](https://www.amazon.co.uk/dp/B0DGTP88VR?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0DNFV5K62?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
@@ -78,7 +78,7 @@ The MagFlow is the pick for the newest iPhones. It carries the Qi2 25W standard,
 
 ## Quick verdict
 
-For most people the **[Anker MagGo Power Bank 10000mAh Qi2 15W](https://www.amazon.co.uk/dp/B0CFDPQXN4?linkCode=ll2&tag=souvlakia-21)** is the one to get: proper Qi2 speed, a stand that earns its keep daily, and a display that tells you what's left. If you just want genuine Qi2 with no extras, the **[INIU Magnetic Power Bank 10000mAh Qi2 (30W Wired)](https://www.amazon.co.uk/dp/B0DGTP88VR?linkCode=ll2&tag=souvlakia-21)** covers it. And if your phone is an iPhone 16 or 17, the **[UGREEN MagFlow Power Bank 10000mAh Qi2 25W (Built-in Cable)](https://www.amazon.co.uk/dp/B0F37VLJQW?linkCode=ll2&tag=souvlakia-21)** is the one bank here that uses everything your handset can take.
+For most people the **[Anker MagGo Power Bank 10000mAh Qi2 15W](https://www.amazon.co.uk/dp/B0CFDPQXN4?linkCode=ll2&tag=souvlakia-21)** is the one to get: proper Qi2 speed, a stand that earns its keep daily, and a display that tells you what's left. If you want the lightest genuine Qi2 pack for daily top-ups, the **[INIU Slimmest Power Bank 5000mAh Qi2 15W](https://www.amazon.co.uk/dp/B0DNFV5K62?linkCode=ll2&tag=souvlakia-21)** covers it. And if your phone is an iPhone 16 or 17, the **[UGREEN MagFlow Power Bank 10000mAh Qi2 25W (Built-in Cable)](https://www.amazon.co.uk/dp/B0F37VLJQW?linkCode=ll2&tag=souvlakia-21)** is the one bank here that uses everything your handset can take.
 
 ## How we chose
 
@@ -93,10 +93,10 @@ A: "MagSafe-compatible" usually means the magnets line up but the charging is pl
 A: Through a MagSafe-compatible case, yes - the magnets are designed for it. Thick, rugged or non-magnetic cases weaken or break the grip, so caseless or a thin magnetic case is the safe assumption.
 
 **Q: How many charges will a 10000mAh magnetic bank give an iPhone?**
-A: Fewer wirelessly than wired - some energy is lost as heat, so expect roughly one and a half full charges over the magnets versus closer to two through the cable. If raw endurance matters more than convenience, a bigger wired bank from our [long flights guide](best-power-bank-for-long-flights.html) stretches further.
+A: Fewer wirelessly than wired - some energy is lost as heat, so expect roughly one and a half full charges over the magnets versus closer to two through the cable; halve that for the 5000mAh budget pick. If raw endurance matters more than convenience, a bigger wired bank from our [long flights guide](best-power-bank-for-long-flights.html) stretches further.
 
 **Q: Can I take one of these on a plane?**
-A: Yes - at 10000mAh (roughly 37Wh) all three sit comfortably under the usual 100Wh cabin-baggage limit. Keep it in hand luggage, never checked bags, and check your airline's own rules if you're carrying several.
+A: Yes - even the 10000mAh picks (roughly 37Wh) sit comfortably under the usual 100Wh cabin-baggage limit, and the 5000mAh budget pick is smaller still. Keep it in hand luggage, never checked bags, and check your airline's own rules if you're carrying several.
 
 ---
 
