@@ -28,27 +28,27 @@ UGREEN is a well-established maker of charging and audio accessories, and this U
 
 ---
 
-### 2. Anker USB C to 3.5mm Audio Adapter - Best Budget
+### 2. Apple USB-C to 3.5mm Headphone Jack Adapter - Best Budget
 
-**SPP Score: 7.1 / 10** - USB-C to 3.5mm with in-line controls on a nylon cable. Our value pick.
+**SPP Score: 7.1 / 10** - The plainest route to a respected DAC. Our value pick.
 
 Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 8/10
 
-Anker is a familiar name in charging and audio accessories, and this USB-C to 3.5mm adapter is the sensible-value choice when you want a little more than the bare essentials. It carries an analogue headphone signal to a standard 3.5mm jack for wired earphones, headphones, and aux leads, and adds in-line controls so you can handle calls, volume, and track skips without reaching for your phone. The nylon cable gives it a bit of length and flex to sit comfortably between your device and your headphones.
+The budget slot goes to the least glamorous product Apple makes, and it's earned it. This is a one-piece moulded dongle with nothing detachable to work loose and no buttons to break, and Apple's own inline DAC handles the conversion. It's plug-and-play on USB-C iPhones, iPads and Macs, and in practice on most other USB-C phones and laptops too. At this end of the market, it's simply the easiest way to get wired audio back from a converter people actually rate. What you give up is extras: there are no in-line controls, so calls and volume happen on the phone.
 
 **Pros**
-- ✓ Restores a wired 3.5mm headphone jack on USB-C phones, tablets and laptops
-- ✓ In-line controls for calls, volume, and track changes without touching your phone
-- ✓ Braided nylon cable adds length and everyday flexibility
+- ✓ Apple's own inline DAC in the simplest possible package
+- ✓ One-piece moulded build - nothing detachable, no buttons, nothing to snap
+- ✓ Plug-and-play on USB-C iPhones, iPads and Macs
 
 **Cons**
-- ✗ Occupies the USB-C port, so charging while you listen needs a separate splitter
-- ✗ Worth confirming your specific phone or tablet supports USB-C audio adapters
+- ✗ No in-line controls - calls, volume and track skips happen on the phone
+- ✗ So small it's easy to lose; it lives on the headphone plug or it disappears
 
-**Who it's for:** Buyers who want in-line call and volume controls on a flexible cabled adapter without paying more.
-**Who it's not for:** Those who prefer the smallest possible connector or need charge pass-through.
+**Who it's for:** Anyone who wants wired audio back with zero fuss from a name they trust.
+**Who it's not for:** Anyone who wants in-line volume and call controls on the adapter itself.
 
-[Check price](https://www.amazon.co.uk/dp/B08Z3B5QL3?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0D7MN4W7H?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
@@ -78,7 +78,7 @@ This is the same UGREEN dongle idea as our overall pick with a better converter 
 
 ## Quick verdict
 
-For most people the **[UGREEN USB C to 3.5mm Audio Adapter](https://www.amazon.co.uk/dp/B082WG5VTK?linkCode=ll2&tag=souvlakia-21)** is the standout all-rounder, pairing solid build with broad compatibility for wired headphones and aux leads. If you want handy in-line call and volume controls on a flexible cabled adapter, the **[Anker USB C to 3.5mm Audio Adapter](https://www.amazon.co.uk/dp/B08Z3B5QL3?linkCode=ll2&tag=souvlakia-21)** is the sensible-value choice. If your headphones and sources can show it, the **[UGREEN Hi-Res DAC USB C to 3.5mm Adapter (32bit/384kHz)](https://www.amazon.co.uk/dp/B0CG5FTHT9?linkCode=ll2&tag=souvlakia-21)** is the spec step up in conversion.
+For most people the **[UGREEN USB C to 3.5mm Audio Adapter](https://www.amazon.co.uk/dp/B082WG5VTK?linkCode=ll2&tag=souvlakia-21)** is the standout all-rounder, pairing solid build with broad compatibility for wired headphones and aux leads. (The Apple dongle edges it on our build score; the UGREEN's broader compatibility record keeps it the safer default.) If you just want the jack back with no fuss, the **[Apple USB-C to 3.5mm Headphone Jack Adapter](https://www.amazon.co.uk/dp/B0D7MN4W7H?linkCode=ll2&tag=souvlakia-21)** is the value pick. If your headphones and sources can show it, the **[UGREEN Hi-Res DAC USB C to 3.5mm Adapter (32bit/384kHz)](https://www.amazon.co.uk/dp/B0CG5FTHT9?linkCode=ll2&tag=souvlakia-21)** is the spec step up in conversion.
 
 ## How we chose
 

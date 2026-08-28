@@ -52,33 +52,33 @@ The Anker Zolo Power Bank 10000mAh 30W covers the essentials without the bulk. I
 
 ---
 
-### 3. Anker Prime Power Bank 20000mAh 200W - Best Premium
+### 3. Anker Prime Power Bank 20100mAh 220W - Best Premium
 
-**SPP Score: 8.4 / 10** - 20000mAh capacity, 200W total output with dual 100W USB-C ports. Our pick for maximum capability.
+**SPP Score: 8.2 / 10** - 20100mAh with 220W total output and 140W from a single port. Our pick for maximum capability.
 
-Scorecard: Capability 10/10 - Versatility 7/10 - Build 8/10 - Value 8/10
+Scorecard: Capability 10/10 - Versatility 6/10 - Build 8/10 - Value 8/10
 
-The Anker Prime Power Bank 20000mAh 200W is the highest-capability pick, combining a 20000mAh cell with up to 200W of total output. Two 100W USB-C ports can each fast-charge a demanding laptop, and a USB-A port covers older accessories, so it's built for driving several devices at full pace at once. A smart digital display reads out charging status at a glance, which helps on heavy multi-device days and longer trips away from the mains. If you want maximum output in a 20000mAh unit, this is the flagship choice.
+This is the ceiling of what a 20000mAh-class bank can push out over USB-C. Anker rates the Prime's total output at 220W, with either USB-C port capable of 140W on its own - enough to feed a 16-inch laptop at full speed while the second port fast-charges a phone. A USB-A port covers legacy leads, the display reads out live wattage, and the companion app keeps those numbers on your phone. If USB-C output is the spec you're buying on, nothing else here comes close.
 
 **Pros**
-- ✓ Up to 200W total output with dual 100W USB-C ports for demanding laptops
-- ✓ Digital display shows charging status at a glance
-- ✓ USB-A port adds compatibility with older cables and accessories
+- ✓ 140W from a single USB-C port, per Anker's rating - full-speed charging for big laptops
+- ✓ 220W total across two USB-C and one USB-A keeps several devices at pace
+- ✓ Live wattage display plus app show exactly what each port is doing
 
 **Cons**
-- ✗ Higher-output design is heavier and more than casual phone-only users need
-- ✗ No built-in cable, unlike the other two picks, so you need to bring your own lead
+- ✗ Overkill in size and output for phone-only charging
+- ✗ No built-in cable, so you bring your own leads
 
 **Who it's for:** Power users and travellers charging laptops and several devices off one bank.
 **Who it's not for:** Someone who only needs occasional phone top-ups and wants to travel light.
 
-[Check price](https://www.amazon.co.uk/dp/B0BYNZXFM2?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0F66NH2ZX?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
 ## Quick verdict
 
-For most people the **[UGREEN Nexode Power Bank 20000mAh 145W](https://www.amazon.co.uk/dp/B0DSPVP337?linkCode=ll2&tag=souvlakia-21)** is the pick to get, balancing strong USB-C output with enough capacity for phones, tablets, and many laptops, plus a cable built in. If you want a leaner everyday option for phone top-ups, the **[Anker Zolo Power Bank 10000mAh 30W](https://www.amazon.co.uk/dp/B0CZ9M6X8Q?linkCode=ll2&tag=souvlakia-21)** covers the essentials, while the **[Anker Prime Power Bank 20000mAh 200W](https://www.amazon.co.uk/dp/B0BYNZXFM2?linkCode=ll2&tag=souvlakia-21)** is there when you need maximum output from a 20000mAh unit.
+For most people the **[UGREEN Nexode Power Bank 20000mAh 145W](https://www.amazon.co.uk/dp/B0DSPVP337?linkCode=ll2&tag=souvlakia-21)** is the pick to get, balancing strong USB-C output with enough capacity for phones, tablets, and many laptops, plus a cable built in. If you want a leaner everyday option for phone top-ups, the **[Anker Zolo Power Bank 10000mAh 30W](https://www.amazon.co.uk/dp/B0CZ9M6X8Q?linkCode=ll2&tag=souvlakia-21)** covers the essentials, while the **[Anker Prime Power Bank 20100mAh 220W](https://www.amazon.co.uk/dp/B0F66NH2ZX?linkCode=ll2&tag=souvlakia-21)** is there when you need maximum output from a 20000mAh-class unit.
 
 ## How we chose
 
@@ -87,7 +87,7 @@ USB-C output is the whole point here, so we judged each bank on: capacity in mAh
 ## FAQ
 
 **Q: Can a USB-C power bank charge a laptop?**
-A: Yes, if the bank supports enough USB-C output wattage for your laptop; the 145W and 200W picks here have the headroom for many USB-C laptops, while a 10000mAh 30W unit is better suited to phones.
+A: Yes, if the bank supports enough USB-C output wattage for your laptop; the 145W and 220W picks here have the headroom for many USB-C laptops, while a 10000mAh 30W unit is better suited to phones.
 
 **Q: What does mAh mean for how many charges I get?**
 A: mAh is the bank's capacity, so a higher figure generally means more top-ups before the bank itself needs recharging; a 10000mAh unit suits a couple of phone charges, while 20000mAh stretches further - our [20000mAh power bank guide](best-power-bank-20000mah-uk.html) compares three of them.
