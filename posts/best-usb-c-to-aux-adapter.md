@@ -52,33 +52,33 @@ Anker is a familiar name in charging and audio accessories, and this USB-C to 3.
 
 ---
 
-### 3. Apple USB-C to 3.5mm Headphone Jack Adapter - Best Premium
+### 3. UGREEN Hi-Res DAC USB C to 3.5mm Adapter (32bit/384kHz) - Best Premium
 
-**SPP Score: 6.9 / 10** - Genuine Apple USB-C to 3.5mm with a built-in DAC. Our pick for maximum capability.
+**SPP Score: 6.9 / 10** - Hi-Res 32bit/384kHz DAC in a braided aluminium build. Our pick for maximum capability.
 
 Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 7/10
 
-Apple's own USB-C to 3.5mm adapter is the safe pick for anyone in the Apple ecosystem who wants guaranteed first-party compatibility. As a genuine Apple accessory it is designed to work smoothly with USB-C iPhones, iPads, and Macs, taking the guesswork out of pairing your wired headphones. A built-in DAC handles the analogue conversion, and it stays completely plug-and-play with no setup required.
+This is the same UGREEN dongle idea as our overall pick with a better converter inside: UGREEN rates this DAC at 32bit/384kHz, up from the 24bit/96kHz it quotes for the standard adapter. With decent wired headphones and hi-res files or a lossless streaming tier, that conversion headroom is what the upgrade buys. Mic and in-line control support is on board for calls, and the braided cable with an aluminium shell is made for a life on a keyring or in a coat pocket.
 
 **Pros**
-- ✓ Genuine Apple accessory, so it just works with USB-C iPhones, iPads, and Macs
-- ✓ Built-in DAC handles the analogue conversion for wired headphones and aux leads
-- ✓ Simple, familiar plug-and-play experience with no setup required
+- ✓ UGREEN-rated 32bit/384kHz Hi-Res DAC, a clear spec step up over the overall pick
+- ✓ Mic and in-line control support, so calls and volume work as they should
+- ✓ Braided cable and aluminium shell take daily-carry wear better than bare plastic
 
 **Cons**
-- ✗ You're paying for the Apple badge; it does the same single job as the third-party picks
-- ✗ No charging pass-through, so you cannot power your device while listening
+- ✗ With standard streaming quality or basic earphones you may not hear the difference
+- ✗ Still no charging pass-through, so listening occupies the port like the other picks
 
-**Who it's for:** Apple device owners who value first-party compatibility and a hassle-free fit.
-**Who it's not for:** Buyers who want the most feature-packed adapter or extras beyond a plain headphone jack.
+**Who it's for:** Wired-headphone listeners with hi-res or lossless sources who want the best conversion a dongle this size offers.
+**Who it's not for:** Anyone on standard-quality streams and everyday earbuds - you're unlikely to hear what the extra spec buys, so the overall pick is the smarter spend.
 
-[Check price](https://www.amazon.co.uk/dp/B07K2NH6ZN?linkCode=ll2&tag=souvlakia-21)
+[Check price](https://www.amazon.co.uk/dp/B0CG5FTHT9?linkCode=ll2&tag=souvlakia-21)
 
 ---
 
 ## Quick verdict
 
-For most people the **[UGREEN USB C to 3.5mm Audio Adapter](https://www.amazon.co.uk/dp/B082WG5VTK?linkCode=ll2&tag=souvlakia-21)** is the standout all-rounder, pairing solid build with broad compatibility for wired headphones and aux leads. If you want handy in-line call and volume controls on a flexible cabled adapter, the **[Anker USB C to 3.5mm Audio Adapter](https://www.amazon.co.uk/dp/B08Z3B5QL3?linkCode=ll2&tag=souvlakia-21)** is the sensible-value choice. Apple users after guaranteed first-party fit should look at the premium **[Apple USB-C to 3.5mm Headphone Jack Adapter](https://www.amazon.co.uk/dp/B07K2NH6ZN?linkCode=ll2&tag=souvlakia-21)**.
+For most people the **[UGREEN USB C to 3.5mm Audio Adapter](https://www.amazon.co.uk/dp/B082WG5VTK?linkCode=ll2&tag=souvlakia-21)** is the standout all-rounder, pairing solid build with broad compatibility for wired headphones and aux leads. If you want handy in-line call and volume controls on a flexible cabled adapter, the **[Anker USB C to 3.5mm Audio Adapter](https://www.amazon.co.uk/dp/B08Z3B5QL3?linkCode=ll2&tag=souvlakia-21)** is the sensible-value choice. If your headphones and sources can show it, the **[UGREEN Hi-Res DAC USB C to 3.5mm Adapter (32bit/384kHz)](https://www.amazon.co.uk/dp/B0CG5FTHT9?linkCode=ll2&tag=souvlakia-21)** is the spec step up in conversion.
 
 ## How we chose
 
@@ -90,7 +90,7 @@ We focused on the things that actually matter for a USB-C to aux adapter: genuin
 A: Most do, but some devices handle the analogue conversion differently, so it's worth confirming your specific phone or laptop is supported before you buy.
 
 **Q: Does the adapter affect sound quality?**
-A: A good adapter passes a clean signal to your headphones; for everyday listening any of these picks should sound clear and consistent.
+A: A good adapter passes a clean signal to your headphones; for everyday listening any of these picks should sound clear and consistent. The premium pick's higher-spec DAC only pays off with hi-res sources and capable wired headphones.
 
 **Q: Can I charge my device while using one of these adapters?**
 A: These are headphone-only adapters with no charging port, so if you need to charge and listen at the same time you will want a combo adapter that adds a separate USB-C power input.
