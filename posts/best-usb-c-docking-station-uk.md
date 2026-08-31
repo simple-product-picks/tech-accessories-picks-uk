@@ -2,7 +2,7 @@
 
 A good docking station turns a laptop into a proper desk setup: one cable in, and your displays, wired network, storage and accessories are all connected. This guide picks the best USB-C docking stations for UK desks in 2026, from a sensible-value dock that covers most setups to a full Thunderbolt 4 station for the heaviest workloads.
 
-If you just need a couple of extra ports on the move, a compact hub is the better tool (we compare the two in our [hub vs docking station guide](usb-c-hub-vs-docking-station.html)). But if your laptop lives on a desk with monitors and Ethernet, a dedicated dock is the tidier, more capable answer. Here are the three we would actually buy.
+If you just need a couple of extra ports on the move, a compact hub is the better tool (we compare the two in our [hub vs docking station guide](usb-c-hub-vs-docking-station.html)). But if your laptop lives on a desk with monitors and Ethernet, a dedicated dock is the tidier, more capable answer (and if wired networking is the only thing you're missing, a simple [USB-C Ethernet adapter](best-usb-c-ethernet-adapter.html) covers that on its own). Here are the three we would actually buy.
 
 ## Top picks
 

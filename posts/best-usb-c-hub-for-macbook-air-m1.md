@@ -34,7 +34,7 @@ The M1 Air gives you two USB-C ports and one usually goes to the charger; this A
 
 Scorecard: Capability 7/10 - Versatility 9/10 - Build 7/10 - Value 8/10
 
-Desk-bound Air owners should start here: the UGREEN Revodok trades the overall pick's microSD slot for Gigabit Ethernet, the better swap if your laptop spends its life within a cable's reach of the router. You also get 4K HDMI, three USB-A ports, an SD slot and 100W pass-through Power Delivery, which is a generous spread for a no-fuss hub. UGREEN is a well-established name in charging and connectivity accessories.
+Desk-bound Air owners should start here: the UGREEN Revodok trades the overall pick's microSD slot for Gigabit Ethernet, the better swap if your laptop spends its life within a cable's reach of the router. You also get 4K HDMI, three USB-A ports, an SD slot and 100W pass-through Power Delivery, which is a generous spread for a no-fuss hub. UGREEN is a well-established name in charging and connectivity accessories. And if you'd rather keep the hub you have and just add wired networking, a [standalone USB-C Ethernet adapter](best-usb-c-ethernet-adapter.html) does that one job.
 
 **Pros**
 - ✓ Gigabit Ethernet built in for reliable wired networking on the M1 Air
