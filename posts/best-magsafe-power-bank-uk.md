@@ -78,7 +78,7 @@ The MagFlow is the pick for the newest iPhones. It carries the Qi2 25W standard,
 
 ## Quick verdict
 
-For most people the **[Anker MagGo Power Bank 10000mAh Qi2 15W](https://www.amazon.co.uk/dp/B0CFDPQXN4?linkCode=ll2&tag=souvlakia-21)** is the one to get: proper Qi2 speed, a stand that earns its keep daily, and a display that tells you what's left. If you want the lightest genuine Qi2 pack for daily top-ups, the **[INIU Slimmest Power Bank 5000mAh Qi2 15W](https://www.amazon.co.uk/dp/B0DNFV5K62?linkCode=ll2&tag=souvlakia-21)** covers it. And if your phone is an iPhone 16 or 17, the **[UGREEN MagFlow Power Bank 10000mAh Qi2 25W (Built-in Cable)](https://www.amazon.co.uk/dp/B0F37VLJQW?linkCode=ll2&tag=souvlakia-21)** is the one bank here that uses everything your handset can take.
+For most people the **[Anker MagGo Power Bank 10000mAh Qi2 15W](https://www.amazon.co.uk/dp/B0CFDPQXN4?linkCode=ll2&tag=souvlakia-21)** is the one to get: proper Qi2 speed, a stand that earns its keep daily, and a display that tells you what's left. If you want the lightest genuine Qi2 pack for daily top-ups, the **[INIU Slimmest Power Bank 5000mAh Qi2 15W](https://www.amazon.co.uk/dp/B0DNFV5K62?linkCode=ll2&tag=souvlakia-21)** covers it. And if your phone is an iPhone 16 or 17, the **[UGREEN MagFlow Power Bank 10000mAh Qi2 25W (Built-in Cable)](https://www.amazon.co.uk/dp/B0F37VLJQW?linkCode=ll2&tag=souvlakia-21)** is the one bank here that uses everything your handset can take. If you're still buying the plug that goes with a new iPhone, our [iPhone 17 charger guide](best-charger-for-iphone-17-uk.html) covers that end.
 
 ## How we chose
 
