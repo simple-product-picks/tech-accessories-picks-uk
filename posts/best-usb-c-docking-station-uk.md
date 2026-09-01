@@ -89,7 +89,7 @@ We compared docking stations on the things that decide daily usability: how many
 ## FAQ
 
 **Q: What is the difference between a USB-C dock and a Thunderbolt 4 dock?**
-A: Thunderbolt 4 guarantees much higher bandwidth, which supports faster storage and more demanding display combinations, but it needs a Thunderbolt-capable laptop. A standard USB-C dock works with a wider range of machines and covers most desk setups perfectly well.
+A: Thunderbolt 4 guarantees much higher bandwidth, which supports faster storage and more demanding display combinations, but it needs a Thunderbolt-capable laptop and a [Thunderbolt 4 cable](best-thunderbolt-4-cable-uk.html) to match. A standard USB-C dock works with a wider range of machines and covers most desk setups perfectly well.
 
 **Q: Can a docking station charge my laptop?**
 A: Yes, all three picks here deliver laptop charging through the same cable that carries your displays and data, so a single connection runs the whole desk. Check that the dock's charging wattage meets what your laptop expects.

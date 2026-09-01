@@ -10,7 +10,7 @@ A 20000mAh power bank is the sweet spot for UK travellers and heavy phone users:
 
 Scorecard: Capability 10/10 - Versatility 6/10 - Build 8/10 - Value 8/10
 
-The INIU Power Bank 20000mAh 65W hits the balance most people actually want. The large 20000mAh cell pairs with 65W USB-C output that fast-charges modern phones, tablets, and many smaller USB-C laptops. Three outputs (a USB-C port that handles both input and output, plus two USB-A ports) mean you can top up several devices at once, and the ultra-compact body keeps it easy to carry despite the higher wattage. For everyday carry, commuting, and weekends away, it covers nearly every scenario without the bulk of a full laptop-class unit.
+The INIU Power Bank 20000mAh 65W hits the balance most people actually want. The large 20000mAh cell pairs with 65W [USB-C output](best-power-bank-with-usb-c-output.html) that fast-charges modern phones, tablets, and many smaller USB-C laptops. Three outputs (a USB-C port that handles both input and output, plus two USB-A ports) mean you can top up several devices at once, and the ultra-compact body keeps it easy to carry despite the higher wattage. For everyday carry, commuting, and weekends away, it covers nearly every scenario without the bulk of a full laptop-class unit.
 
 **Pros**
 - ✓ Large 20000mAh capacity gives multiple phone recharges between mains charges
