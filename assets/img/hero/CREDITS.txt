@@ -11,8 +11,8 @@ cables.jpg      Nic Wood         https://www.pexels.com/photo/usb-2-cable-280428
 adapters.jpg    Anzor Dukaev     https://www.pexels.com/photo/usb-c-hub-on-dark-surface-with-usb-ports-30708285/
 
 # Per-post heroes (Pexels, updated 2026-09-02 via fetch_pexels_heroes.py)
-posts/best-100w-gan-charger-uk.jpg  ready made  https://www.pexels.com/photo/white-and-black-adapter-on-white-surface-3921710/
-posts/best-65w-gan-charger-uk.jpg  ready made  https://www.pexels.com/photo/adapters-on-white-surface-3921708/
+posts/best-100w-gan-charger-uk.jpg  https://kaboompics.com/  https://www.pexels.com/photo/laptop-with-modern-smart-usb-hub-with-cable-connected-4195398/
+posts/best-65w-gan-charger-uk.jpg  https://kaboompics.com/  https://www.pexels.com/photo/laptop-smart-phone-and-charge-on-table-5208870/
 posts/best-charger-for-iphone-17-uk.jpg  Julio Lopez  https://www.pexels.com/photo/connecting-iphone-to-charge-18780712/
 posts/best-charger-for-samsung-s24-uk.jpg  Stanley Ng  https://www.pexels.com/photo/black-android-smartphones-on-brown-wooden-surface-4387770/
 posts/best-gan-charger-for-macbook-pro.jpg  IslandHopper X  https://www.pexels.com/photo/computer-on-desk-15227212/
