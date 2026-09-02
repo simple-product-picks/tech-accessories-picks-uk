@@ -205,7 +205,7 @@
 <h3>1. UGREEN Revodok Pro 210 USB C Docking Station (10-in-1) - Best Overall</h3>
 <p><strong>SPP Score: 9.0 / 10</strong> - Dual 4K@60Hz HDMI, 10-in-1 connectivity. Our all-round pick.</p>
 <p class="spp-breakdown">Capability 10/10 - Versatility 10/10 - Build 7/10 - Value 8/10</p>
-<p>The Revodok Pro 210 leans into the docking-station side, making the dock camp&#39;s whole argument in one box: dual HDMI rated for 4K@60Hz, Gigabit Ethernet and 100W Power Delivery passthrough are exactly the three things a compact hub usually gives up. If those are on your list, you&#39;ve already answered the hub-or-dock question. UGREEN is a well-established name in this category, and a 10-in-1 layout covers the most common home and office needs without cable sprawl.</p>
+<p>The Revodok Pro 210 leans into the docking-station side, making the dock camp&#39;s whole argument in one box: dual HDMI rated for 4K@60Hz, wired Ethernet and 100W Power Delivery passthrough are exactly the three things a compact hub usually gives up. If those are on your list, you&#39;ve already answered the hub-or-dock question. UGREEN is a well-established name in this category, and a 10-in-1 layout covers the most common home and office needs without cable sprawl.</p>
 <p><strong>Pros</strong></p>
 <ul>
 <li class="pro">✓ 10-in-1 layout consolidates display, data and networking into one connection</li>
@@ -217,8 +217,8 @@
 <li class="con">✗ Larger and less pocketable than a slim travel hub</li>
 <li class="con">✗ The spare USB-C data port tops out at 5Gbps, so it&#39;s not the dock for fast external SSDs</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Anyone wanting one cable to run a full desk setup with display and wired Ethernet.
-<strong>Who it&#39;s not for:</strong> Frequent travellers who only need a port or two on the move.</p>
+<p><strong>Who it&#39;s for:</strong> Anyone wanting one cable to run a full desk setup with display and wired Ethernet.</p>
+<p><strong>Who it&#39;s not for:</strong> Frequent travellers who only need a port or two on the move.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B0BXDQS4BD?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>2. Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD - Best Budget</h3>
@@ -236,8 +236,8 @@
 <li class="con">✗ Fewer ports than a full 10-in-1 docking station</li>
 <li class="con">✗ Single HDMI limits multi-monitor setups</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Hybrid workers and students who want one tidy hub for a monitor and peripherals.
-<strong>Who it&#39;s not for:</strong> Anyone needing several displays or built-in wired Ethernet.</p>
+<p><strong>Who it&#39;s for:</strong> Hybrid workers and students who want one tidy hub for a monitor and peripherals.</p>
+<p><strong>Who it&#39;s not for:</strong> Anyone needing several displays or built-in wired Ethernet.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B07ZVKTP53?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>3. Anker USB C Hub 8-in-1 with Ethernet and 10Gbps - Best Premium</h3>
@@ -255,8 +255,8 @@
 <li class="con">✗ Single HDMI output, so it won&#39;t run a dual-monitor desk on its own</li>
 <li class="con">✗ 85W passthrough is Anker&#39;s rated ceiling, so the hungriest workstation laptops may still want their own charger</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Power users moving large files who also want reliable wired networking.
-<strong>Who it&#39;s not for:</strong> Light users who only need to add a monitor and a couple of USB ports.</p>
+<p><strong>Who it&#39;s for:</strong> Power users moving large files who also want reliable wired networking.</p>
+<p><strong>Who it&#39;s not for:</strong> Light users who only need to add a monitor and a couple of USB ports.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h2>Quick verdict</h2>
@@ -321,17 +321,20 @@ A: Of these three, only the UGREEN Revodok Pro 210 is built for it, with dual HD
       } catch(e) { contentEl.textContent = "Could not load article."; }
     }
 
-    // Sticky bar reflects the best-overall (first) row of the comparison table.
+    // Sticky bar reflects the TOP row of the comparison table, labelled with that row's
+    // own tier (not a hardcoded "Best overall" - a guide whose first row is another tier
+    // would otherwise mislabel its own top pick).
     try {
       const rows = document.querySelectorAll("#comparison table tbody tr");
       if (rows.length > 0) {
         const cells = rows[0].querySelectorAll("td");
         if (cells.length >= 4) {
+          const tier = cells[0] ? cells[0].textContent.trim() : "";
           const name = cells[1] ? cells[1].textContent.trim() : "";
           const link = cells[3] ? cells[3].querySelector("a") : null;
           const labelEl = document.getElementById("sticky-label");
           const btnEl = document.getElementById("sticky-btn");
-          if (labelEl && name) labelEl.textContent = "Best overall: " + name;
+          if (labelEl && name) labelEl.textContent = (tier || "Best overall") + ": " + name;
           if (btnEl && link) btnEl.href = link.href;
         }
       }

@@ -60,11 +60,11 @@ The Anker 5-in-1 is the sensible-value choice that covers the essentials for cou
 
 Scorecard: Capability 10/10 - Versatility 10/10 - Build 7/10 - Value 8/10
 
-The Revodok Pro 210 is the do-it-all dock, turning a Steam Deck into a full desktop station. With its ten functions spanning HDMI, Gigabit Ethernet, additional USB-C and USB-A ports, card slots, and USB-C power delivery, it handles a complete monitor-keyboard-mouse-network setup from one connection. The broad port array makes it the most capable choice here for anyone who docks the Deck as a daily machine. Torn between a hub and a full dock? Our [USB-C hub vs docking station](usb-c-hub-vs-docking-station.html) explainer settles it.
+The Revodok Pro 210 is the do-it-all dock, turning a Steam Deck into a full desktop station. With its ten functions spanning HDMI, wired Ethernet, additional USB-C and USB-A ports, card slots, and USB-C power delivery, it handles a complete monitor-keyboard-mouse-network setup from one connection. The broad port array makes it the most capable choice here for anyone who docks the Deck as a daily machine. Torn between a hub and a full dock? Our [USB-C hub vs docking station](usb-c-hub-vs-docking-station.html) explainer settles it.
 
 **Pros**
 - ✓ Ten functions in one docking station for a full desktop setup
-- ✓ Gigabit Ethernet plus USB-C power delivery
+- ✓ Wired Ethernet plus USB-C power delivery
 - ✓ Extra USB-C port alongside USB-A ports
 - ✓ Card slots for quick file transfers
 
@@ -93,7 +93,7 @@ A Deck hub only has a few jobs, so we scored on exactly those: HDMI for TV and m
 A: Yes, as long as the hub has a USB-C power delivery input and you plug the Deck's charger into it. All three picks here support pass-through charging, so the Deck stays powered while docked.
 
 **Q: Do I need Ethernet, or is Wi-Fi enough?**
-A: Wi-Fi is fine for play, but a wired Ethernet connection gives more consistent download speeds and lower latency online, which is why the Revodok hubs include a Gigabit port. In handheld mode a standalone [USB-C ethernet adapter](best-usb-c-ethernet-adapter.html) does the same job without the dock.
+A: Wi-Fi is fine for play, but a wired Ethernet connection gives more consistent download speeds and lower latency online, which is why both Revodok picks here include an Ethernet port. In handheld mode a standalone [USB-C ethernet adapter](best-usb-c-ethernet-adapter.html) does the same job without the dock.
 
 **Q: Can I connect a keyboard, mouse and controller through one hub?**
 A: Yes. The USB-A ports on these hubs handle keyboards, mice and wired or dongle-based controllers, so you can build a full desktop-style setup from the Deck's single port.

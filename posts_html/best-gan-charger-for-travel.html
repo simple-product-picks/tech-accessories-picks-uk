@@ -216,8 +216,8 @@
 <li class="con">✗ Total wattage is shared, so charging several devices splits the available power</li>
 <li class="con">✗ Cables are typically supplied separately</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Travellers who want one charger to handle a laptop, phone and a third device from a single wall socket.
-<strong>Who it&#39;s not for:</strong> Minimalists who only ever need to charge a single phone.</p>
+<p><strong>Who it&#39;s for:</strong> Travellers who want one charger to handle a laptop, phone and a third device from a single wall socket.</p>
+<p><strong>Who it&#39;s not for:</strong> Minimalists who only ever need to charge a single phone.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B0B7N4DX1Z?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>2. UGREEN USB C Charger 65W GaN 2-Port - Best Budget</h3>
@@ -235,8 +235,8 @@
 <li class="con">✗ Total wattage is shared, so charging two devices splits the available power</li>
 <li class="con">✗ You will typically need to supply your own charging cable</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Travellers who want one charger to cover a laptop plus a phone and keep their bag light.
-<strong>Who it&#39;s not for:</strong> Anyone needing three or more ports for a tablet, watch and earbuds too.</p>
+<p><strong>Who it&#39;s for:</strong> Travellers who want one charger to cover a laptop plus a phone and keep their bag light.</p>
+<p><strong>Who it&#39;s not for:</strong> Anyone needing three or more ports for a tablet, watch and earbuds too.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>3. Anker 100W USB C Charger (3-Port GaN, Smart Display) - Best Premium</h3>
@@ -255,8 +255,8 @@
 <li class="con">✗ The wattage display is overkill if you only ever charge one device</li>
 <li class="con">✗ Cables are typically not bundled in the box</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Frequent travellers and remote workers charging a laptop plus multiple devices.
-<strong>Who it&#39;s not for:</strong> Light packers who charge one device at a time and want the smallest plug possible.</p>
+<p><strong>Who it&#39;s for:</strong> Frequent travellers and remote workers charging a laptop plus multiple devices.</p>
+<p><strong>Who it&#39;s not for:</strong> Light packers who charge one device at a time and want the smallest plug possible.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B0FL2DR4TH?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h2>Quick verdict</h2>
@@ -321,17 +321,20 @@ A: Many ultrabooks charge happily at 65W, while more demanding laptops are bette
       } catch(e) { contentEl.textContent = "Could not load article."; }
     }
 
-    // Sticky bar reflects the best-overall (first) row of the comparison table.
+    // Sticky bar reflects the TOP row of the comparison table, labelled with that row's
+    // own tier (not a hardcoded "Best overall" - a guide whose first row is another tier
+    // would otherwise mislabel its own top pick).
     try {
       const rows = document.querySelectorAll("#comparison table tbody tr");
       if (rows.length > 0) {
         const cells = rows[0].querySelectorAll("td");
         if (cells.length >= 4) {
+          const tier = cells[0] ? cells[0].textContent.trim() : "";
           const name = cells[1] ? cells[1].textContent.trim() : "";
           const link = cells[3] ? cells[3].querySelector("a") : null;
           const labelEl = document.getElementById("sticky-label");
           const btnEl = document.getElementById("sticky-btn");
-          if (labelEl && name) labelEl.textContent = "Best overall: " + name;
+          if (labelEl && name) labelEl.textContent = (tier || "Best overall") + ": " + name;
           if (btnEl && link) btnEl.href = link.href;
         }
       }

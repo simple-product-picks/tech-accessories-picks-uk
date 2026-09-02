@@ -10,7 +10,7 @@ Running two external displays from a single USB-C port is one of the most useful
 
 Scorecard: Capability 10/10 - Versatility 10/10 - Build 7/10 - Value 8/10
 
-The Revodok Pro 210 answers the dual-monitor question outright: two HDMI outputs, both rated for 4K@60Hz, so neither screen has to drop to a juddery 30Hz. Around the displays you get Gigabit Ethernet, 100W Power Delivery passthrough and the rest of its ten connections, which is why one cable can run a permanent two-screen desk. For most people wiring up two screens plus peripherals, this is the do-everything choice.
+The Revodok Pro 210 answers the dual-monitor question outright: two HDMI outputs, both rated for 4K@60Hz, so neither screen has to drop to a juddery 30Hz. Around the displays you get wired Ethernet, 100W Power Delivery passthrough and the rest of its ten connections, which is why one cable can run a permanent two-screen desk. For most people wiring up two screens plus peripherals, this is the do-everything choice.
 
 **Pros**
 - ✓ Dual HDMI outputs rated for 4K@60Hz, so both screens run at full refresh rate

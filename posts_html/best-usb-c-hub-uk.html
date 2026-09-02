@@ -216,8 +216,8 @@
 <li class="con">✗ Single HDMI, so it drives one external screen rather than two</li>
 <li class="con">✗ No microSD slot alongside the full-size SD reader</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Anyone who wants the everyday essentials, wired internet included, in one hub that isn&#39;t oversized.
-<strong>Who it&#39;s not for:</strong> People running two monitors, and anyone who only ever plugs in a single screen and doesn&#39;t need the rest of it.</p>
+<p><strong>Who it&#39;s for:</strong> Anyone who wants the everyday essentials, wired internet included, in one hub that isn&#39;t oversized.</p>
+<p><strong>Who it&#39;s not for:</strong> People running two monitors, and anyone who only ever plugs in a single screen and doesn&#39;t need the rest of it.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>2. Anker USB C Hub 5-in-1 with 4K HDMI - Best Budget</h3>
@@ -235,8 +235,8 @@
 <li class="con">✗ Wi-Fi only: no Ethernet socket, so a wired desk means stepping up to the 7-in-1</li>
 <li class="con">✗ No SD or microSD reader for offloading camera cards</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Light setups that need a screen and a few USB ports, and nothing they&#39;ll leave unused.
-<strong>Who it&#39;s not for:</strong> Anyone who wants wired internet, a card reader, or room to grow.</p>
+<p><strong>Who it&#39;s for:</strong> Light setups that need a screen and a few USB ports, and nothing they&#39;ll leave unused.</p>
+<p><strong>Who it&#39;s not for:</strong> Anyone who wants wired internet, a card reader, or room to grow.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B0BQLLB61B?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>3. UGREEN Revodok Pro 210 USB C Docking Station (10-in-1) - Best Premium</h3>
@@ -254,8 +254,8 @@
 <li class="con">✗ Its second USB-C port is a 5Gbps data port, so external SSD transfers won&#39;t run at full speed</li>
 <li class="con">✗ Both display outputs are HDMI, so a DisplayPort monitor needs an adapter</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Permanent desks, especially two-monitor ones, that want everything on a single dock.
-<strong>Who it&#39;s not for:</strong> Anyone with one screen and a handful of accessories.</p>
+<p><strong>Who it&#39;s for:</strong> Permanent desks, especially two-monitor ones, that want everything on a single dock.</p>
+<p><strong>Who it&#39;s not for:</strong> Anyone with one screen and a handful of accessories.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B0BXDQS4BD?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h2>Quick verdict</h2>
@@ -331,17 +331,20 @@ A: It does for support and consistency. We stick to established names like Anker
       } catch(e) { contentEl.textContent = "Could not load article."; }
     }
 
-    // Sticky bar reflects the best-overall (first) row of the comparison table.
+    // Sticky bar reflects the TOP row of the comparison table, labelled with that row's
+    // own tier (not a hardcoded "Best overall" - a guide whose first row is another tier
+    // would otherwise mislabel its own top pick).
     try {
       const rows = document.querySelectorAll("#comparison table tbody tr");
       if (rows.length > 0) {
         const cells = rows[0].querySelectorAll("td");
         if (cells.length >= 4) {
+          const tier = cells[0] ? cells[0].textContent.trim() : "";
           const name = cells[1] ? cells[1].textContent.trim() : "";
           const link = cells[3] ? cells[3].querySelector("a") : null;
           const labelEl = document.getElementById("sticky-label");
           const btnEl = document.getElementById("sticky-btn");
-          if (labelEl && name) labelEl.textContent = "Best overall: " + name;
+          if (labelEl && name) labelEl.textContent = (tier || "Best overall") + ": " + name;
           if (btnEl && link) btnEl.href = link.href;
         }
       }

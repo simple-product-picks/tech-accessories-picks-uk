@@ -217,8 +217,8 @@
 <li class="con">✗ Still short of the 2m runs only an active cable can serve at full speed</li>
 <li class="con">✗ More cable than a charging-only setup needs</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Anyone connecting a laptop to a Thunderbolt or USB4 dock, monitor or fast SSD at a desk.
-<strong>Who it&#39;s not for:</strong> Those who only need a charging lead; a basic USB-C cable does that for less.</p>
+<p><strong>Who it&#39;s for:</strong> Anyone connecting a laptop to a Thunderbolt or USB4 dock, monitor or fast SSD at a desk.</p>
+<p><strong>Who it&#39;s not for:</strong> Those who only need a charging lead; a basic USB-C cable does that for less.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B0DDQDG6GF?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>2. UGREEN USB4 Cable 240W 40Gbps (1m) - Best Budget</h3>
@@ -236,8 +236,8 @@
 <li class="con">✗ Not Intel Thunderbolt certified, so compatibility is by spec rather than by badge</li>
 <li class="con">✗ Build is workmanlike rather than premium</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Value-focused desk setups that still want full-speed data, display and charging in one lead.
-<strong>Who it&#39;s not for:</strong> Anyone who wants the certainty of formal Thunderbolt certification on critical kit.</p>
+<p><strong>Who it&#39;s for:</strong> Value-focused desk setups that still want full-speed data, display and charging in one lead.</p>
+<p><strong>Who it&#39;s not for:</strong> Anyone who wants the certainty of formal Thunderbolt certification on critical kit.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B0DZP21RXY?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>3. Belkin Active Thunderbolt 4 Cable (2m, 100W) - Best Premium</h3>
@@ -255,8 +255,8 @@
 <li class="con">✗ 100W charging ceiling is below the 240W of the other picks</li>
 <li class="con">✗ A single-purpose length upgrade that most desks will not actually need</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Desk setups that need full Thunderbolt speed across real distance, with tidy routing.
-<strong>Who it&#39;s not for:</strong> Laptop-next-to-dock setups, where a shorter passive cable is all you need.</p>
+<p><strong>Who it&#39;s for:</strong> Desk setups that need full Thunderbolt speed across real distance, with tidy routing.</p>
+<p><strong>Who it&#39;s not for:</strong> Laptop-next-to-dock setups, where a shorter passive cable is all you need.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B09PQFPDHX?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h2>Quick verdict</h2>
@@ -321,17 +321,20 @@ A: Passive cables lose signal quality as they get longer, so full 40Gbps passive
       } catch(e) { contentEl.textContent = "Could not load article."; }
     }
 
-    // Sticky bar reflects the best-overall (first) row of the comparison table.
+    // Sticky bar reflects the TOP row of the comparison table, labelled with that row's
+    // own tier (not a hardcoded "Best overall" - a guide whose first row is another tier
+    // would otherwise mislabel its own top pick).
     try {
       const rows = document.querySelectorAll("#comparison table tbody tr");
       if (rows.length > 0) {
         const cells = rows[0].querySelectorAll("td");
         if (cells.length >= 4) {
+          const tier = cells[0] ? cells[0].textContent.trim() : "";
           const name = cells[1] ? cells[1].textContent.trim() : "";
           const link = cells[3] ? cells[3].querySelector("a") : null;
           const labelEl = document.getElementById("sticky-label");
           const btnEl = document.getElementById("sticky-btn");
-          if (labelEl && name) labelEl.textContent = "Best overall: " + name;
+          if (labelEl && name) labelEl.textContent = (tier || "Best overall") + ": " + name;
           if (btnEl && link) btnEl.href = link.href;
         }
       }

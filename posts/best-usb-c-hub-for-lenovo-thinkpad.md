@@ -10,7 +10,7 @@ Looking to expand the ports on your Lenovo ThinkPad? This guide covers three USB
 
 Scorecard: Capability 10/10 - Versatility 10/10 - Build 7/10 - Value 8/10
 
-The UGREEN Revodok Pro 210 is the standout choice for ThinkPad owners who want a proper desk setup from a single cable. If your ThinkPad charges over USB-C, this dock runs the whole desk from that one port: 100W Power Delivery passthrough keeps the laptop fed, dual HDMI outputs rated for 4K@60Hz handle the screens, and Gigabit Ethernet covers the wired network. Dock it in the morning, pull one cable at night.
+The UGREEN Revodok Pro 210 is the standout choice for ThinkPad owners who want a proper desk setup from a single cable. If your ThinkPad charges over USB-C, this dock runs the whole desk from that one port: 100W Power Delivery passthrough keeps the laptop fed, dual HDMI outputs rated for 4K@60Hz handle the screens, and wired Ethernet covers the network. Dock it in the morning, pull one cable at night.
 
 **Pros**
 - ✓ 10-in-1 design consolidates a wide range of connections into a single dock

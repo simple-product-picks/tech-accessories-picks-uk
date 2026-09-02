@@ -36,12 +36,12 @@ The Anker Nano is the dock we'd point most people at now. Thirteen connections c
 
 Scorecard: Capability 10/10 - Versatility 10/10 - Build 7/10 - Value 8/10
 
-The Revodok Pro 210 is the value sweet spot in this category, and it's honestly hard to argue with what you get. Dual HDMI outputs both run at 4K@60Hz, so a two-monitor desk works properly rather than at a compromised refresh rate. Gigabit Ethernet handles wired networking, the SD/TF reader covers camera cards, and 100W Power Delivery passthrough keeps the laptop charged through the same connection. For a home office that wants dock-class features without dock-class spending, this is the pick. We dig into two-screen setups properly in our [dual monitor hub guide](best-usb-c-hub-for-dual-monitors.html).
+The Revodok Pro 210 is the value sweet spot in this category, and it's honestly hard to argue with what you get. Dual HDMI outputs both run at 4K@60Hz, so a two-monitor desk works properly rather than at a compromised refresh rate. Wired Ethernet handles the network, the SD/TF reader covers camera cards, and 100W Power Delivery passthrough keeps the laptop charged through the same connection. For a home office that wants dock-class features without dock-class spending, this is the pick. We dig into two-screen setups properly in our [dual monitor hub guide](best-usb-c-hub-for-dual-monitors.html).
 
 **Pros**
 - ✓ Dual 4K@60Hz HDMI runs a proper two-monitor setup smoothly
 - ✓ 100W PD passthrough charges even power-hungry laptops
-- ✓ Gigabit Ethernet and SD/TF reader round out a genuine desk-station feature set
+- ✓ Wired Ethernet and SD/TF reader round out a genuine desk-station feature set
 
 **Cons**
 - ✗ HDMI-only display output; there is no DisplayPort option
@@ -80,7 +80,7 @@ If your work really pushes a laptop hard, the Revodok Max 213 is the ceiling of 
 
 ## Quick verdict
 
-For most UK desks, the **[Anker Nano Docking Station (13-in-1, Triple Display)](https://www.amazon.co.uk/dp/B0FL83BNR5?linkCode=ll2&tag=souvlakia-21)** is the one to get: triple display support, every port that matters, 100W single-cable charging and a hub for the road. If a two-monitor setup on a sensible budget is the goal, the **[UGREEN Revodok Pro 210 USB C Docking Station (10-in-1)](https://www.amazon.co.uk/dp/B0BXDQS4BD?linkCode=ll2&tag=souvlakia-21)** delivers remarkable capability for the money. And for Thunderbolt laptops with serious workloads, the **[UGREEN Revodok Max 213 Thunderbolt 4 Dock (13-in-1, 90W)](https://www.amazon.co.uk/dp/B0CM33V233?linkCode=ll2&tag=souvlakia-21)** is the no-compromise choice. Whichever suits your desk, the one-cable life is a proper upgrade.
+For most UK desks, the **[Anker Nano Docking Station (13-in-1, Triple Display)](https://www.amazon.co.uk/dp/B0FL83BNR5?linkCode=ll2&tag=souvlakia-21)** is the one to get: triple display support, every port that matters, 100W single-cable charging and a hub for the road. If a two-monitor setup on a sensible budget is the goal, the **[UGREEN Revodok Pro 210 USB C Docking Station (10-in-1)](https://www.amazon.co.uk/dp/B0BXDQS4BD?linkCode=ll2&tag=souvlakia-21)** covers it with room to spare. And for Thunderbolt laptops with serious workloads, the **[UGREEN Revodok Max 213 Thunderbolt 4 Dock (13-in-1, 90W)](https://www.amazon.co.uk/dp/B0CM33V233?linkCode=ll2&tag=souvlakia-21)** is the no-compromise choice. Whichever suits your desk, the one-cable life is a proper upgrade.
 
 ## How we chose
 

@@ -204,7 +204,7 @@
 <h3>1. UGREEN Revodok Pro 210 USB C Docking Station (10-in-1) - Best Overall</h3>
 <p><strong>SPP Score: 9.0 / 10</strong> - Dual 4K@60Hz HDMI, 10-in-1 connectivity, wired Ethernet. Our all-round pick.</p>
 <p class="spp-breakdown">Capability 10/10 - Versatility 10/10 - Build 7/10 - Value 8/10</p>
-<p>The Revodok Pro 210 answers the dual-monitor question outright: two HDMI outputs, both rated for 4K@60Hz, so neither screen has to drop to a juddery 30Hz. Around the displays you get Gigabit Ethernet, 100W Power Delivery passthrough and the rest of its ten connections, which is why one cable can run a permanent two-screen desk. For most people wiring up two screens plus peripherals, this is the do-everything choice.</p>
+<p>The Revodok Pro 210 answers the dual-monitor question outright: two HDMI outputs, both rated for 4K@60Hz, so neither screen has to drop to a juddery 30Hz. Around the displays you get wired Ethernet, 100W Power Delivery passthrough and the rest of its ten connections, which is why one cable can run a permanent two-screen desk. For most people wiring up two screens plus peripherals, this is the do-everything choice.</p>
 <p><strong>Pros</strong></p>
 <ul>
 <li class="pro">✓ Dual HDMI outputs rated for 4K@60Hz, so both screens run at full refresh rate</li>
@@ -216,8 +216,8 @@
 <li class="con">✗ A 10-in-1 dock is larger and less pocketable than a slim travel hub</li>
 <li class="con">✗ True dual-monitor output depends on your laptop&#39;s USB-C capabilities, so check compatibility first</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Anyone building a permanent two-monitor desk setup who wants displays and peripherals handled by one unit.
-<strong>Who it&#39;s not for:</strong> Travellers who just need a tiny hub to slip in a bag.</p>
+<p><strong>Who it&#39;s for:</strong> Anyone building a permanent two-monitor desk setup who wants displays and peripherals handled by one unit.</p>
+<p><strong>Who it&#39;s not for:</strong> Travellers who just need a tiny hub to slip in a bag.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B0BXDQS4BD?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>2. Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD - Best Budget</h3>
@@ -235,8 +235,8 @@
 <li class="con">✗ Only one HDMI port, so the second display relies on a USB-C monitor or adapter</li>
 <li class="con">✗ Fewer ports overall than a dedicated docking station</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> People who want a compact, no-fuss hub and already have a USB-C-capable second monitor.
-<strong>Who it&#39;s not for:</strong> Anyone who needs two standard HDMI monitors driven straight from the hub.</p>
+<p><strong>Who it&#39;s for:</strong> People who want a compact, no-fuss hub and already have a USB-C-capable second monitor.</p>
+<p><strong>Who it&#39;s not for:</strong> Anyone who needs two standard HDMI monitors driven straight from the hub.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B07ZVKTP53?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>3. Anker 7-in-1 USB C Hub Dual Monitor (2x HDMI, 100W PD) - Best Premium</h3>
@@ -254,8 +254,8 @@
 <li class="con">✗ Fewer card-reader and legacy ports than a full docking station</li>
 <li class="con">✗ Dual-display behaviour still depends on your laptop&#39;s USB-C video support</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Users who want true two-HDMI output in a portable form factor.
-<strong>Who it&#39;s not for:</strong> People who need built-in Ethernet or card slots at a fixed desk.</p>
+<p><strong>Who it&#39;s for:</strong> Users who want true two-HDMI output in a portable form factor.</p>
+<p><strong>Who it&#39;s not for:</strong> People who need built-in Ethernet or card slots at a fixed desk.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B0D3TK3XHS?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h2>Quick verdict</h2>
@@ -320,17 +320,20 @@ A: If you want lots of ports at a fixed desk, a docking station suits you; if yo
       } catch(e) { contentEl.textContent = "Could not load article."; }
     }
 
-    // Sticky bar reflects the best-overall (first) row of the comparison table.
+    // Sticky bar reflects the TOP row of the comparison table, labelled with that row's
+    // own tier (not a hardcoded "Best overall" - a guide whose first row is another tier
+    // would otherwise mislabel its own top pick).
     try {
       const rows = document.querySelectorAll("#comparison table tbody tr");
       if (rows.length > 0) {
         const cells = rows[0].querySelectorAll("td");
         if (cells.length >= 4) {
+          const tier = cells[0] ? cells[0].textContent.trim() : "";
           const name = cells[1] ? cells[1].textContent.trim() : "";
           const link = cells[3] ? cells[3].querySelector("a") : null;
           const labelEl = document.getElementById("sticky-label");
           const btnEl = document.getElementById("sticky-btn");
-          if (labelEl && name) labelEl.textContent = "Best overall: " + name;
+          if (labelEl && name) labelEl.textContent = (tier || "Best overall") + ": " + name;
           if (btnEl && link) btnEl.href = link.href;
         }
       }

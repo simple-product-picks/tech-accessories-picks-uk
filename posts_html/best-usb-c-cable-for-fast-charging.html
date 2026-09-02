@@ -216,8 +216,8 @@
 <li class="con">✗ Full 100W charging needs a charger and device that both support it</li>
 <li class="con">✗ At 2m the leads are longer than some people want on a desk</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Anyone who wants reliable cables that charge nearly everything they own quickly, with a spare included.
-<strong>Who it&#39;s not for:</strong> Buyers who only ever charge a basic phone and want a single short lead.</p>
+<p><strong>Who it&#39;s for:</strong> Anyone who wants reliable cables that charge nearly everything they own quickly, with a spare included.</p>
+<p><strong>Who it&#39;s not for:</strong> Buyers who only ever charge a basic phone and want a single short lead.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B08D6NCQ1Z?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>2. Anker USB C to USB C Cable 100W (1.8m Braided) - Best Budget</h3>
@@ -235,8 +235,8 @@
 <li class="con">✗ USB 2.0 data speeds, so not the pick for fast file transfers</li>
 <li class="con">✗ Charging speed still depends on your charger and device supporting Power Delivery</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Phone and tablet owners who want fast, certified charging in a tough braided lead without paying for extras.
-<strong>Who it&#39;s not for:</strong> People who need high-speed data transfer over the same cable.</p>
+<p><strong>Who it&#39;s for:</strong> Phone and tablet owners who want fast, certified charging in a tough braided lead without paying for extras.</p>
+<p><strong>Who it&#39;s not for:</strong> People who need high-speed data transfer over the same cable.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B09LPXJ3RX?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>3. Anker Prime USB C to USB C Cable 240W (1.8m) - Best Premium</h3>
@@ -254,8 +254,8 @@
 <li class="con">✗ The full 240W is only useful if your charger and device support EPR</li>
 <li class="con">✗ More capability than a basic phone-only user actually needs</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Power users with high-wattage laptops or EPR-capable gear who want maximum charging headroom.
-<strong>Who it&#39;s not for:</strong> Anyone whose devices top out well below 100W, where the extra capability goes unused.</p>
+<p><strong>Who it&#39;s for:</strong> Power users with high-wattage laptops or EPR-capable gear who want maximum charging headroom.</p>
+<p><strong>Who it&#39;s not for:</strong> Anyone whose devices top out well below 100W, where the extra capability goes unused.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B0DCF9FZZ3?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h2>Quick verdict</h2>
@@ -320,17 +320,20 @@ A: USB-C Power Delivery cables are designed to charge a wide range of devices, b
       } catch(e) { contentEl.textContent = "Could not load article."; }
     }
 
-    // Sticky bar reflects the best-overall (first) row of the comparison table.
+    // Sticky bar reflects the TOP row of the comparison table, labelled with that row's
+    // own tier (not a hardcoded "Best overall" - a guide whose first row is another tier
+    // would otherwise mislabel its own top pick).
     try {
       const rows = document.querySelectorAll("#comparison table tbody tr");
       if (rows.length > 0) {
         const cells = rows[0].querySelectorAll("td");
         if (cells.length >= 4) {
+          const tier = cells[0] ? cells[0].textContent.trim() : "";
           const name = cells[1] ? cells[1].textContent.trim() : "";
           const link = cells[3] ? cells[3].querySelector("a") : null;
           const labelEl = document.getElementById("sticky-label");
           const btnEl = document.getElementById("sticky-btn");
-          if (labelEl && name) labelEl.textContent = "Best overall: " + name;
+          if (labelEl && name) labelEl.textContent = (tier || "Best overall") + ": " + name;
           if (btnEl && link) btnEl.href = link.href;
         }
       }

@@ -216,8 +216,8 @@
 <li class="con">✗ Your laptop or tablet must support DisplayPort Alt Mode for video to work</li>
 <li class="con">✗ Maximum resolution and refresh depend on your device&#39;s USB-C port capability, not just the adapter</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Anyone wanting a reliable, single-purpose USB-C to DisplayPort link for a high-refresh or 4K monitor.
-<strong>Who it&#39;s not for:</strong> People who need a multi-port dock with USB, Ethernet, and passthrough charging.</p>
+<p><strong>Who it&#39;s for:</strong> Anyone wanting a reliable, single-purpose USB-C to DisplayPort link for a high-refresh or 4K monitor.</p>
+<p><strong>Who it&#39;s not for:</strong> People who need a multi-port dock with USB, Ethernet, and passthrough charging.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B0C4DC6P4H?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>2. UGREEN USB C to DisplayPort 1.4 Cable (8K, 2m) - Best Budget</h3>
@@ -235,8 +235,8 @@
 <li class="con">✗ Requires a host device with DisplayPort Alt Mode support</li>
 <li class="con">✗ Fixed 2m length, unlike a short adapter you pair with your own cable</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Buyers who want one tidy USB-C to DisplayPort cable that handles high-resolution or high-refresh output.
-<strong>Who it&#39;s not for:</strong> Anyone chasing DisplayPort 2.1 bandwidth or needing a cable length other than 2m.</p>
+<p><strong>Who it&#39;s for:</strong> Buyers who want one tidy USB-C to DisplayPort cable that handles high-resolution or high-refresh output.</p>
+<p><strong>Who it&#39;s not for:</strong> Anyone chasing DisplayPort 2.1 bandwidth or needing a cable length other than 2m.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B0C4DB8MLL?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>3. Cable Matters USB C to DisplayPort 2.1 Adapter (80Gbps) - Best Premium</h3>
@@ -254,8 +254,8 @@
 <li class="con">✗ The full 80Gbps benefit needs a host device and monitor that support the standard</li>
 <li class="con">✗ More capability than a basic single-4K-monitor setup requires</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Enthusiasts and professionals pairing a modern USB-C device with a high-end DisplayPort 2.1 monitor.
-<strong>Who it&#39;s not for:</strong> Anyone with a standard 1080p or basic 4K monitor who won&#39;t use the extra bandwidth.</p>
+<p><strong>Who it&#39;s for:</strong> Enthusiasts and professionals pairing a modern USB-C device with a high-end DisplayPort 2.1 monitor.</p>
+<p><strong>Who it&#39;s not for:</strong> Anyone with a standard 1080p or basic 4K monitor who won&#39;t use the extra bandwidth.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B0CLZ9TZ5Q?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h2>Quick verdict</h2>
@@ -320,17 +320,20 @@ A: Yes, provided your device, the adapter, and your monitor all support the reso
       } catch(e) { contentEl.textContent = "Could not load article."; }
     }
 
-    // Sticky bar reflects the best-overall (first) row of the comparison table.
+    // Sticky bar reflects the TOP row of the comparison table, labelled with that row's
+    // own tier (not a hardcoded "Best overall" - a guide whose first row is another tier
+    // would otherwise mislabel its own top pick).
     try {
       const rows = document.querySelectorAll("#comparison table tbody tr");
       if (rows.length > 0) {
         const cells = rows[0].querySelectorAll("td");
         if (cells.length >= 4) {
+          const tier = cells[0] ? cells[0].textContent.trim() : "";
           const name = cells[1] ? cells[1].textContent.trim() : "";
           const link = cells[3] ? cells[3].querySelector("a") : null;
           const labelEl = document.getElementById("sticky-label");
           const btnEl = document.getElementById("sticky-btn");
-          if (labelEl && name) labelEl.textContent = "Best overall: " + name;
+          if (labelEl && name) labelEl.textContent = (tier || "Best overall") + ": " + name;
           if (btnEl && link) btnEl.href = link.href;
         }
       }

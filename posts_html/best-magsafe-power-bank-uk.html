@@ -224,8 +224,8 @@
 <li class="con">✗ Wireless tops out at 15W, and the newer 25W class now exists for recent iPhones</li>
 <li class="con">✗ Like all magnetic banks, wireless top-ups drain the cell faster than its wired port does</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> iPhone owners who want snap-on charging with a stand for desk, travel and video calls.
-<strong>Who it&#39;s not for:</strong> Anyone chasing the fastest possible wireless numbers on an iPhone 16 or 17.</p>
+<p><strong>Who it&#39;s for:</strong> iPhone owners who want snap-on charging with a stand for desk, travel and video calls.</p>
+<p><strong>Who it&#39;s not for:</strong> Anyone chasing the fastest possible wireless numbers on an iPhone 16 or 17.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B0CFDPQXN4?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>2. INIU Slimmest Power Bank 5000mAh Qi2 15W - Best Budget</h3>
@@ -243,8 +243,8 @@
 <li class="con">✗ 5000mAh is roughly one fast top-up, not a full weekend of charges</li>
 <li class="con">✗ Wireless top-ups run the cell down faster than its USB-C port does</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Anyone who wants the lightest genuine Qi2 pack for daily top-ups.
-<strong>Who it&#39;s not for:</strong> Heavy users who need a full charge or two in reserve - the 10000mAh picks above and below cover that.</p>
+<p><strong>Who it&#39;s for:</strong> Anyone who wants the lightest genuine Qi2 pack for daily top-ups.</p>
+<p><strong>Who it&#39;s not for:</strong> Heavy users who need a full charge or two in reserve - the 10000mAh picks above and below cover that.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B0DNFV5K62?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>3. UGREEN MagFlow Power Bank 10000mAh Qi2 25W (Built-in Cable) - Best Premium</h3>
@@ -262,8 +262,8 @@
 <li class="con">✗ Per UGREEN&#39;s compatibility notes, the full 25W needs an iPhone 16 or 17-era handset - older models cap at 15W</li>
 <li class="con">✗ The built-in cable can&#39;t be swapped if it frays, unlike a separate lead</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> iPhone 16 and 17 owners who want the fastest snap-on charging available.
-<strong>Who it&#39;s not for:</strong> Owners of older iPhones, who&#39;d pay for a 25W ceiling their phone can&#39;t reach.</p>
+<p><strong>Who it&#39;s for:</strong> iPhone 16 and 17 owners who want the fastest snap-on charging available.</p>
+<p><strong>Who it&#39;s not for:</strong> Owners of older iPhones, who&#39;d pay for a 25W ceiling their phone can&#39;t reach.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B0F37VLJQW?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h2>Quick verdict</h2>
@@ -330,17 +330,20 @@ A: Yes - even the 10000mAh picks (roughly 37Wh) sit comfortably under the usual 
       } catch(e) { contentEl.textContent = "Could not load article."; }
     }
 
-    // Sticky bar reflects the best-overall (first) row of the comparison table.
+    // Sticky bar reflects the TOP row of the comparison table, labelled with that row's
+    // own tier (not a hardcoded "Best overall" - a guide whose first row is another tier
+    // would otherwise mislabel its own top pick).
     try {
       const rows = document.querySelectorAll("#comparison table tbody tr");
       if (rows.length > 0) {
         const cells = rows[0].querySelectorAll("td");
         if (cells.length >= 4) {
+          const tier = cells[0] ? cells[0].textContent.trim() : "";
           const name = cells[1] ? cells[1].textContent.trim() : "";
           const link = cells[3] ? cells[3].querySelector("a") : null;
           const labelEl = document.getElementById("sticky-label");
           const btnEl = document.getElementById("sticky-btn");
-          if (labelEl && name) labelEl.textContent = "Best overall: " + name;
+          if (labelEl && name) labelEl.textContent = (tier || "Best overall") + ": " + name;
           if (btnEl && link) btnEl.href = link.href;
         }
       }

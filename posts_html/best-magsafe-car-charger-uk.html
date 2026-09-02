@@ -216,8 +216,8 @@
 <li class="con">✗ Wireless charging is generally slower than a wired connection for rapid top-ups</li>
 <li class="con">✗ Vent mounting may not suit every vehicle&#39;s vent design or layout</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Drivers who want one complete, ready-to-use MagSafe charging kit from a familiar brand with nothing else to buy.
-<strong>Who it&#39;s not for:</strong> Anyone chasing the newest Qi2 standard or the absolute fastest wireless charge.</p>
+<p><strong>Who it&#39;s for:</strong> Drivers who want one complete, ready-to-use MagSafe charging kit from a familiar brand with nothing else to buy.</p>
+<p><strong>Who it&#39;s not for:</strong> Anyone chasing the newest Qi2 standard or the absolute fastest wireless charge.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B09GRJ2S8X?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>2. ESR HaloLock MagSafe Car Charger 15W - Best Budget</h3>
@@ -235,8 +235,8 @@
 <li class="con">✗ It&#39;s still wireless charging, so a wired plug will beat it when you&#39;re in a hurry</li>
 <li class="con">✗ A USB-C power source in the car is still needed to supply the charger</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Buyers who want straightforward MagSafe charging with a choice of vent or dashboard mounting.
-<strong>Who it&#39;s not for:</strong> Drivers wanting the newest Qi2 standard or the widest device support.</p>
+<p><strong>Who it&#39;s for:</strong> Buyers who want straightforward MagSafe charging with a choice of vent or dashboard mounting.</p>
+<p><strong>Who it&#39;s not for:</strong> Drivers wanting the newest Qi2 standard or the widest device support.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B08HNBHSQV?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>3. Belkin BoostCharge Pro MagSafe Car Charger (Qi2 15W) - Best Premium</h3>
@@ -254,8 +254,8 @@
 <li class="con">✗ Even at Qi2 15W, wireless charging trails a wired connection for rapid top-ups</li>
 <li class="con">✗ You still need your own USB-C car power source to run it</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Drivers who want the newer Qi2 standard and the most capable wireless charge from a familiar brand.
-<strong>Who it&#39;s not for:</strong> Anyone happy with a simpler kit who does not need Qi2 or the fastest wireless output.</p>
+<p><strong>Who it&#39;s for:</strong> Drivers who want the newer Qi2 standard and the most capable wireless charge from a familiar brand.</p>
+<p><strong>Who it&#39;s not for:</strong> Anyone happy with a simpler kit who does not need Qi2 or the fastest wireless output.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B0DHHJPY5M?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h2>Quick verdict</h2>
@@ -320,17 +320,20 @@ A: For top-ups during a typical drive it&#39;s usually fine, though wired chargi
       } catch(e) { contentEl.textContent = "Could not load article."; }
     }
 
-    // Sticky bar reflects the best-overall (first) row of the comparison table.
+    // Sticky bar reflects the TOP row of the comparison table, labelled with that row's
+    // own tier (not a hardcoded "Best overall" - a guide whose first row is another tier
+    // would otherwise mislabel its own top pick).
     try {
       const rows = document.querySelectorAll("#comparison table tbody tr");
       if (rows.length > 0) {
         const cells = rows[0].querySelectorAll("td");
         if (cells.length >= 4) {
+          const tier = cells[0] ? cells[0].textContent.trim() : "";
           const name = cells[1] ? cells[1].textContent.trim() : "";
           const link = cells[3] ? cells[3].querySelector("a") : null;
           const labelEl = document.getElementById("sticky-label");
           const btnEl = document.getElementById("sticky-btn");
-          if (labelEl && name) labelEl.textContent = "Best overall: " + name;
+          if (labelEl && name) labelEl.textContent = (tier || "Best overall") + ": " + name;
           if (btnEl && link) btnEl.href = link.href;
         }
       }

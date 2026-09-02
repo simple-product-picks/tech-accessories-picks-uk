@@ -232,8 +232,8 @@
 <li class="con">✗ One USB-C port, so everything else in the house waits its turn</li>
 <li class="con">✗ On the measured figures the phone never draws all 45W, so some of what you buy sits idle</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> iPhone 17 owners who want one plug, no footnotes, and something that folds flat for a bag.
-<strong>Who it&#39;s not for:</strong> Households where the phone shares a socket with a tablet and a pair of earbuds every night.</p>
+<p><strong>Who it&#39;s for:</strong> iPhone 17 owners who want one plug, no footnotes, and something that folds flat for a bag.</p>
+<p><strong>Who it&#39;s not for:</strong> Households where the phone shares a socket with a tablet and a pair of earbuds every night.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B0DPR2VYQF?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>2. UGREEN Nexode 30W USB C Charger (Foldable GaN) - Best Budget</h3>
@@ -251,8 +251,8 @@
 <li class="con">✗ Sits below the 40-watt adapter Apple&#39;s 20-minute figure is quoted against</li>
 <li class="con">✗ The least headroom of the three, so it&#39;s the first one you would outgrow</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> iPhone Air owners, whose 20-watt bar this clears outright, and anyone adding a bedside or weekend-bag plug.
-<strong>Who it&#39;s not for:</strong> Readers set on matching Apple&#39;s 20-minute figure on its own terms.</p>
+<p><strong>Who it&#39;s for:</strong> iPhone Air owners, whose 20-watt bar this clears outright, and anyone adding a bedside or weekend-bag plug.</p>
+<p><strong>Who it&#39;s not for:</strong> Readers set on matching Apple&#39;s 20-minute figure on its own terms.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B0B7B71Y5V?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>3. UGREEN Nexode 65W GaN Charger (3-Port) - Best Premium</h3>
@@ -270,8 +270,8 @@
 <li class="con">✗ Charge the iPhone beside anything demanding and it stops being the port that matters</li>
 <li class="con">✗ An iPhone charging alone uses one port, and PPS appears nowhere in Apple&#39;s charging figures</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Homes where the iPhone gets the socket after a tablet, a watch and something still on USB-A.
-<strong>Who it&#39;s not for:</strong> iPhone-only buyers, who would be paying for two ports that sit empty.</p>
+<p><strong>Who it&#39;s for:</strong> Homes where the iPhone gets the socket after a tablet, a watch and something still on USB-A.</p>
+<p><strong>Who it&#39;s not for:</strong> iPhone-only buyers, who would be paying for two ports that sit empty.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B0B7N4DX1Z?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h2>Quick verdict</h2>
@@ -340,17 +340,20 @@ A: Yes, and it will still charge the phone; the lower its wattage, the longer th
       } catch(e) { contentEl.textContent = "Could not load article."; }
     }
 
-    // Sticky bar reflects the best-overall (first) row of the comparison table.
+    // Sticky bar reflects the TOP row of the comparison table, labelled with that row's
+    // own tier (not a hardcoded "Best overall" - a guide whose first row is another tier
+    // would otherwise mislabel its own top pick).
     try {
       const rows = document.querySelectorAll("#comparison table tbody tr");
       if (rows.length > 0) {
         const cells = rows[0].querySelectorAll("td");
         if (cells.length >= 4) {
+          const tier = cells[0] ? cells[0].textContent.trim() : "";
           const name = cells[1] ? cells[1].textContent.trim() : "";
           const link = cells[3] ? cells[3].querySelector("a") : null;
           const labelEl = document.getElementById("sticky-label");
           const btnEl = document.getElementById("sticky-btn");
-          if (labelEl && name) labelEl.textContent = "Best overall: " + name;
+          if (labelEl && name) labelEl.textContent = (tier || "Best overall") + ": " + name;
           if (btnEl && link) btnEl.href = link.href;
         }
       }

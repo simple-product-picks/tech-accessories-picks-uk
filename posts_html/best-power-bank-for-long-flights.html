@@ -216,8 +216,8 @@
 <li class="con">✗ Larger and heavier than a slim 10000mAh travel pack</li>
 <li class="con">✗ At 25000mAh it is a high-capacity battery, so confirm your airline&#39;s watt-hour rules before you fly</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Long-haul travellers who carry a laptop plus phone and tablet and want one pack that charges them all quickly.
-<strong>Who it&#39;s not for:</strong> Light packers who only carry a phone and want the smallest possible bank.</p>
+<p><strong>Who it&#39;s for:</strong> Long-haul travellers who carry a laptop plus phone and tablet and want one pack that charges them all quickly.</p>
+<p><strong>Who it&#39;s not for:</strong> Light packers who only carry a phone and want the smallest possible bank.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B0DCBB2YTR?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>2. Anker Power Bank 20000mAh 87W (Built-in Cable) - Best Budget</h3>
@@ -235,8 +235,8 @@
 <li class="con">✗ 87W is below the highest-wattage packs for the most power-hungry laptops</li>
 <li class="con">✗ Heavier and bulkier than a slim travel pack built only for phones</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Budget-minded flyers who want laptop-capable charging and a built-in cable in one pack.
-<strong>Who it&#39;s not for:</strong> Travellers who need the very highest charge speeds or the smallest, lightest bank.</p>
+<p><strong>Who it&#39;s for:</strong> Budget-minded flyers who want laptop-capable charging and a built-in cable in one pack.</p>
+<p><strong>Who it&#39;s not for:</strong> Travellers who need the very highest charge speeds or the smallest, lightest bank.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B0CXDXP8VR?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>3. Anker Prime Power Bank 20100mAh 220W - Best Premium</h3>
@@ -254,8 +254,8 @@
 <li class="con">✗ Larger and heavier than standard travel packs built for phones</li>
 <li class="con">✗ No built-in cable, unlike the other two picks here, so you must pack your own leads</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Multi-device travellers who want the fastest in-seat charging and a live readout of what the pack is doing.
-<strong>Who it&#39;s not for:</strong> Phone-only travellers - a 220W pack is overkill for a single handset.</p>
+<p><strong>Who it&#39;s for:</strong> Multi-device travellers who want the fastest in-seat charging and a live readout of what the pack is doing.</p>
+<p><strong>Who it&#39;s not for:</strong> Phone-only travellers - a 220W pack is overkill for a single handset.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B0F66NH2ZX?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h2>Quick verdict</h2>
@@ -320,17 +320,20 @@ A: Only higher-wattage banks with enough output, such as the 87W and 220W models
       } catch(e) { contentEl.textContent = "Could not load article."; }
     }
 
-    // Sticky bar reflects the best-overall (first) row of the comparison table.
+    // Sticky bar reflects the TOP row of the comparison table, labelled with that row's
+    // own tier (not a hardcoded "Best overall" - a guide whose first row is another tier
+    // would otherwise mislabel its own top pick).
     try {
       const rows = document.querySelectorAll("#comparison table tbody tr");
       if (rows.length > 0) {
         const cells = rows[0].querySelectorAll("td");
         if (cells.length >= 4) {
+          const tier = cells[0] ? cells[0].textContent.trim() : "";
           const name = cells[1] ? cells[1].textContent.trim() : "";
           const link = cells[3] ? cells[3].querySelector("a") : null;
           const labelEl = document.getElementById("sticky-label");
           const btnEl = document.getElementById("sticky-btn");
-          if (labelEl && name) labelEl.textContent = "Best overall: " + name;
+          if (labelEl && name) labelEl.textContent = (tier || "Best overall") + ": " + name;
           if (btnEl && link) btnEl.href = link.href;
         }
       }

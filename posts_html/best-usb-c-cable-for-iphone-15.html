@@ -216,8 +216,8 @@
 <li class="con">✗ A single cable, so heavy users may want to buy more than one</li>
 <li class="con">✗ You&#39;ll need a separate USB-C charger if you don&#39;t already own one</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Anyone who wants one durable, high-headroom 1m cable that works across phone, tablet, and laptop.
-<strong>Who it&#39;s not for:</strong> People who want several cables in one go or need a longer reach.</p>
+<p><strong>Who it&#39;s for:</strong> Anyone who wants one durable, high-headroom 1m cable that works across phone, tablet, and laptop.</p>
+<p><strong>Who it&#39;s not for:</strong> People who want several cables in one go or need a longer reach.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B07V8S73GD?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>2. UGREEN USB C to USB C Cable 100W (2-Pack, 0.5m) - Best Budget</h3>
@@ -235,8 +235,8 @@
 <li class="con">✗ The short 0.5m length is not ideal if you charge far from the socket</li>
 <li class="con">✗ A separate USB-C power adapter is still needed</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Commuters and households who want a couple of tidy, short braided cables to keep in different places.
-<strong>Who it&#39;s not for:</strong> Anyone who needs a single long cable to reach across a room.</p>
+<p><strong>Who it&#39;s for:</strong> Commuters and households who want a couple of tidy, short braided cables to keep in different places.</p>
+<p><strong>Who it&#39;s not for:</strong> Anyone who needs a single long cable to reach across a room.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B0BLXKTJ8P?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>3. Anker 515 USB4 Cable 240W (1m, 40Gbps) - Best Premium</h3>
@@ -254,8 +254,8 @@
 <li class="con">✗ On a standard iPhone 15 (not Pro) the data speed is wasted - the phone itself is USB 2.0</li>
 <li class="con">✗ Serious cable money for phone-only users who&#39;ll never touch most of what it can do</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> iPhone 15 Pro owners who shoot video, and anyone who wants one no-compromise cable across phone, laptop, and drives.
-<strong>Who it&#39;s not for:</strong> Standard iPhone 15 owners who just charge - the overall pick does that for far less.</p>
+<p><strong>Who it&#39;s for:</strong> iPhone 15 Pro owners who shoot video, and anyone who wants one no-compromise cable across phone, laptop, and drives.</p>
+<p><strong>Who it&#39;s not for:</strong> Standard iPhone 15 owners who just charge - the overall pick does that for far less.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B09YM3V7NX?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h2>Quick verdict</h2>
@@ -320,17 +320,20 @@ A: Braided cables tend to resist fraying, kinking, and everyday wear better than
       } catch(e) { contentEl.textContent = "Could not load article."; }
     }
 
-    // Sticky bar reflects the best-overall (first) row of the comparison table.
+    // Sticky bar reflects the TOP row of the comparison table, labelled with that row's
+    // own tier (not a hardcoded "Best overall" - a guide whose first row is another tier
+    // would otherwise mislabel its own top pick).
     try {
       const rows = document.querySelectorAll("#comparison table tbody tr");
       if (rows.length > 0) {
         const cells = rows[0].querySelectorAll("td");
         if (cells.length >= 4) {
+          const tier = cells[0] ? cells[0].textContent.trim() : "";
           const name = cells[1] ? cells[1].textContent.trim() : "";
           const link = cells[3] ? cells[3].querySelector("a") : null;
           const labelEl = document.getElementById("sticky-label");
           const btnEl = document.getElementById("sticky-btn");
-          if (labelEl && name) labelEl.textContent = "Best overall: " + name;
+          if (labelEl && name) labelEl.textContent = (tier || "Best overall") + ": " + name;
           if (btnEl && link) btnEl.href = link.href;
         }
       }

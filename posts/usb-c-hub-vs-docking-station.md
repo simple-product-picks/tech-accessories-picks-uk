@@ -12,7 +12,7 @@ A USB C hub is small, bus-powered and great for travel, adding a few ports throu
 
 Scorecard: Capability 10/10 - Versatility 10/10 - Build 7/10 - Value 8/10
 
-The Revodok Pro 210 leans into the docking-station side, making the dock camp's whole argument in one box: dual HDMI rated for 4K@60Hz, Gigabit Ethernet and 100W Power Delivery passthrough are exactly the three things a compact hub usually gives up. If those are on your list, you've already answered the hub-or-dock question. UGREEN is a well-established name in this category, and a 10-in-1 layout covers the most common home and office needs without cable sprawl.
+The Revodok Pro 210 leans into the docking-station side, making the dock camp's whole argument in one box: dual HDMI rated for 4K@60Hz, wired Ethernet and 100W Power Delivery passthrough are exactly the three things a compact hub usually gives up. If those are on your list, you've already answered the hub-or-dock question. UGREEN is a well-established name in this category, and a 10-in-1 layout covers the most common home and office needs without cable sprawl.
 
 **Pros**
 - ✓ 10-in-1 layout consolidates display, data and networking into one connection

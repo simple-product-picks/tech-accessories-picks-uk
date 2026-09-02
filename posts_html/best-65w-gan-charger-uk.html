@@ -216,8 +216,8 @@
 <li class="con">✗ Total output is shared across ports, so peak speed drops when all three are in use</li>
 <li class="con">✗ Larger than a single-port charger if you only ever charge one device</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Anyone who wants one charger to handle a laptop, phone and accessory at home or on a trip.
-<strong>Who it&#39;s not for:</strong> Minimalists who only ever charge a single device and want the smallest possible plug.</p>
+<p><strong>Who it&#39;s for:</strong> Anyone who wants one charger to handle a laptop, phone and accessory at home or on a trip.</p>
+<p><strong>Who it&#39;s not for:</strong> Minimalists who only ever charge a single device and want the smallest possible plug.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B0C4Y1FFQH?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>2. UGREEN USB C Charger 65W GaN 2-Port - Best Budget</h3>
@@ -235,8 +235,8 @@
 <li class="con">✗ Two ports rather than three limits how many devices you can run at once</li>
 <li class="con">✗ Output is split between the two ports when both are in use</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Buyers who want a tidy, capable two-port charger for daily use and travel.
-<strong>Who it&#39;s not for:</strong> Anyone who needs to power three or more devices from a single plug.</p>
+<p><strong>Who it&#39;s for:</strong> Buyers who want a tidy, capable two-port charger for daily use and travel.</p>
+<p><strong>Who it&#39;s not for:</strong> Anyone who needs to power three or more devices from a single plug.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B08CDDSVN4?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>3. Anker Nano II 65W USB C Charger - Best Premium</h3>
@@ -254,8 +254,8 @@
 <li class="con">✗ Only one port, so it cannot charge multiple devices simultaneously</li>
 <li class="con">✗ No USB-A port, and check the listing for whether a cable is included</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Frequent travellers who charge one device at a time and prize the smallest footprint.
-<strong>Who it&#39;s not for:</strong> Households that need to charge several devices from a single wall plug.</p>
+<p><strong>Who it&#39;s for:</strong> Frequent travellers who charge one device at a time and prize the smallest footprint.</p>
+<p><strong>Who it&#39;s not for:</strong> Households that need to charge several devices from a single wall plug.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B091KQ39FM?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h2>Quick verdict</h2>
@@ -320,17 +320,20 @@ A: A single-port charger directs its full output to one device for the fastest p
       } catch(e) { contentEl.textContent = "Could not load article."; }
     }
 
-    // Sticky bar reflects the best-overall (first) row of the comparison table.
+    // Sticky bar reflects the TOP row of the comparison table, labelled with that row's
+    // own tier (not a hardcoded "Best overall" - a guide whose first row is another tier
+    // would otherwise mislabel its own top pick).
     try {
       const rows = document.querySelectorAll("#comparison table tbody tr");
       if (rows.length > 0) {
         const cells = rows[0].querySelectorAll("td");
         if (cells.length >= 4) {
+          const tier = cells[0] ? cells[0].textContent.trim() : "";
           const name = cells[1] ? cells[1].textContent.trim() : "";
           const link = cells[3] ? cells[3].querySelector("a") : null;
           const labelEl = document.getElementById("sticky-label");
           const btnEl = document.getElementById("sticky-btn");
-          if (labelEl && name) labelEl.textContent = "Best overall: " + name;
+          if (labelEl && name) labelEl.textContent = (tier || "Best overall") + ": " + name;
           if (btnEl && link) btnEl.href = link.href;
         }
       }

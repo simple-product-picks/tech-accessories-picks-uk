@@ -216,8 +216,8 @@
 <li class="con">✗ A compact 7-in-1 hub has fewer outputs than a full-size docking station</li>
 <li class="con">✗ General-purpose ports rather than the fastest 10Gbps data standard</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Hybrid and home-office workers who want wired Ethernet and the everyday ports from one tidy hub.
-<strong>Who it&#39;s not for:</strong> Anyone needing the port count of a full docking station (see our <a href="usb-c-hub-vs-docking-station.html">USB-C hub vs docking station</a> explainer) or the fastest possible data transfer speeds.</p>
+<p><strong>Who it&#39;s for:</strong> Hybrid and home-office workers who want wired Ethernet and the everyday ports from one tidy hub.</p>
+<p><strong>Who it&#39;s not for:</strong> Anyone needing the port count of a full docking station (see our <a href="usb-c-hub-vs-docking-station.html">USB-C hub vs docking station</a> explainer) or the fastest possible data transfer speeds.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>2. Anker USB C Hub PowerExpand 6-in-1 with Ethernet - Best Budget</h3>
@@ -235,8 +235,8 @@
 <li class="con">✗ Fewer total ports than the larger hubs in this guide</li>
 <li class="con">✗ Data ports are standard speed, without the 10Gbps transfers of the premium pick</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Buyers who want a dependable, no-frills hub that handles wired internet and everyday peripherals.
-<strong>Who it&#39;s not for:</strong> Power users who need 10Gbps transfers or a high port count.</p>
+<p><strong>Who it&#39;s for:</strong> Buyers who want a dependable, no-frills hub that handles wired internet and everyday peripherals.</p>
+<p><strong>Who it&#39;s not for:</strong> Power users who need 10Gbps transfers or a high port count.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B08CKXNJZS?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>3. Anker USB C Hub 8-in-1 with Ethernet and 10Gbps - Best Premium</h3>
@@ -254,8 +254,8 @@
 <li class="con">✗ More ports and capability than light users actually need</li>
 <li class="con">✗ Larger footprint than a basic single-Ethernet adapter</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Creators and heavy multitaskers who want fast 10Gbps data and wired Ethernet in one dock.
-<strong>Who it&#39;s not for:</strong> Anyone who only needs Ethernet and the occasional peripheral, where a simpler hub does the job.</p>
+<p><strong>Who it&#39;s for:</strong> Creators and heavy multitaskers who want fast 10Gbps data and wired Ethernet in one dock.</p>
+<p><strong>Who it&#39;s not for:</strong> Anyone who only needs Ethernet and the occasional peripheral, where a simpler hub does the job.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h2>Quick verdict</h2>
@@ -320,17 +320,20 @@ A: Most modern USB-C hubs are plug-and-play on current Windows and macOS, though
       } catch(e) { contentEl.textContent = "Could not load article."; }
     }
 
-    // Sticky bar reflects the best-overall (first) row of the comparison table.
+    // Sticky bar reflects the TOP row of the comparison table, labelled with that row's
+    // own tier (not a hardcoded "Best overall" - a guide whose first row is another tier
+    // would otherwise mislabel its own top pick).
     try {
       const rows = document.querySelectorAll("#comparison table tbody tr");
       if (rows.length > 0) {
         const cells = rows[0].querySelectorAll("td");
         if (cells.length >= 4) {
+          const tier = cells[0] ? cells[0].textContent.trim() : "";
           const name = cells[1] ? cells[1].textContent.trim() : "";
           const link = cells[3] ? cells[3].querySelector("a") : null;
           const labelEl = document.getElementById("sticky-label");
           const btnEl = document.getElementById("sticky-btn");
-          if (labelEl && name) labelEl.textContent = "Best overall: " + name;
+          if (labelEl && name) labelEl.textContent = (tier || "Best overall") + ": " + name;
           if (btnEl && link) btnEl.href = link.href;
         }
       }

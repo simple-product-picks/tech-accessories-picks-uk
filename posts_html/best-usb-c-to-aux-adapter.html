@@ -216,8 +216,8 @@
 <li class="con">✗ No charging pass-through, so you cannot listen and charge at the same time</li>
 <li class="con">✗ Compatibility with some manufacturers&#39; ports can vary, so confirm your device is supported</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Anyone who wants a fuss-free, well-built adapter for daily use with wired audio gear.
-<strong>Who it&#39;s not for:</strong> People who need to charge their device and listen through wired headphones simultaneously.</p>
+<p><strong>Who it&#39;s for:</strong> Anyone who wants a fuss-free, well-built adapter for daily use with wired audio gear.</p>
+<p><strong>Who it&#39;s not for:</strong> People who need to charge their device and listen through wired headphones simultaneously.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B082WG5VTK?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>2. Apple USB-C to 3.5mm Headphone Jack Adapter - Best Budget</h3>
@@ -235,8 +235,8 @@
 <li class="con">✗ No in-line controls - calls, volume and track skips happen on the phone</li>
 <li class="con">✗ So small it&#39;s easy to lose; it lives on the headphone plug or it disappears</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Anyone who wants wired audio back with zero fuss from a name they trust.
-<strong>Who it&#39;s not for:</strong> Anyone who wants in-line volume and call controls on the adapter itself.</p>
+<p><strong>Who it&#39;s for:</strong> Anyone who wants wired audio back with zero fuss from a name they trust.</p>
+<p><strong>Who it&#39;s not for:</strong> Anyone who wants in-line volume and call controls on the adapter itself.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B0D7MN4W7H?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>3. UGREEN Hi-Res DAC USB C to 3.5mm Adapter (32bit/384kHz) - Best Premium</h3>
@@ -254,8 +254,8 @@
 <li class="con">✗ With standard streaming quality or basic earphones you may not hear the difference</li>
 <li class="con">✗ Still no charging pass-through, so listening occupies the port like the other picks</li>
 </ul>
-<p><strong>Who it&#39;s for:</strong> Wired-headphone listeners with hi-res or lossless sources who want the best conversion a dongle this size offers.
-<strong>Who it&#39;s not for:</strong> Anyone on standard-quality streams and everyday earbuds - you&#39;re unlikely to hear what the extra spec buys, so the overall pick is the smarter spend.</p>
+<p><strong>Who it&#39;s for:</strong> Wired-headphone listeners with hi-res or lossless sources who want the best conversion a dongle this size offers.</p>
+<p><strong>Who it&#39;s not for:</strong> Anyone on standard-quality streams and everyday earbuds - you&#39;re unlikely to hear what the extra spec buys, so the overall pick is the smarter spend.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B0CG5FTHT9?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h2>Quick verdict</h2>
@@ -320,17 +320,20 @@ A: These are headphone-only adapters with no charging port, so if you need to ch
       } catch(e) { contentEl.textContent = "Could not load article."; }
     }
 
-    // Sticky bar reflects the best-overall (first) row of the comparison table.
+    // Sticky bar reflects the TOP row of the comparison table, labelled with that row's
+    // own tier (not a hardcoded "Best overall" - a guide whose first row is another tier
+    // would otherwise mislabel its own top pick).
     try {
       const rows = document.querySelectorAll("#comparison table tbody tr");
       if (rows.length > 0) {
         const cells = rows[0].querySelectorAll("td");
         if (cells.length >= 4) {
+          const tier = cells[0] ? cells[0].textContent.trim() : "";
           const name = cells[1] ? cells[1].textContent.trim() : "";
           const link = cells[3] ? cells[3].querySelector("a") : null;
           const labelEl = document.getElementById("sticky-label");
           const btnEl = document.getElementById("sticky-btn");
-          if (labelEl && name) labelEl.textContent = "Best overall: " + name;
+          if (labelEl && name) labelEl.textContent = (tier || "Best overall") + ": " + name;
           if (btnEl && link) btnEl.href = link.href;
         }
       }
