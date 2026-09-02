@@ -1181,3 +1181,12 @@ body.sticky-dismissed .sticky-cta { display: none; }
   .hero-cat { gap: 6px; }
   .hero-cat .chip-ico { width: 16px; height: 16px; }
 }
+
+/* -- Brand mark (2026-09-02) ------------------------------------- */
+/* The wordmark now carries the site icon (assets/img/brand/mark-64.png). 24px is the
+   largest size that keeps the header on ONE row at desktop and still fits inside the
+   two-row phone header at 390px. vertical-align beats flex here because .brand-title
+   is inline text with white-space:nowrap - making it a flex box would re-flow the nav. */
+.brand-mark { width: 24px; height: 24px; vertical-align: middle; margin-right: 8px; border-radius: 6px; }
+/* 404 shows the mark above the message, on the hero's own left alignment. */
+.brand-mark-404 { display: block; width: 64px; height: 64px; margin: 0 0 14px; border-radius: 14px; }
