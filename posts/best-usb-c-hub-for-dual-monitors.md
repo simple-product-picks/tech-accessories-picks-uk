@@ -6,7 +6,7 @@ Running two external displays from a single USB-C port is one of the most useful
 
 ### 1. UGREEN Revodok Pro 210 USB C Docking Station (10-in-1) - Best Overall
 
-**SPP Score: 9.0 / 10** - Dual 4K@60Hz HDMI, 10-in-1 connectivity, wired Ethernet. Our all-round pick.
+**SPP Score: 9.3 / 10** - Dual 4K@60Hz HDMI, 10-in-1 connectivity, wired Ethernet. Our all-round pick.
 
 Scorecard: Capability 10/10 - Versatility 10/10 - Build 7/10 - Value 8/10
 
@@ -30,7 +30,7 @@ The Revodok Pro 210 answers the dual-monitor question outright: two HDMI outputs
 
 ### 2. Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD - Best Budget
 
-**SPP Score: 7.9 / 10** - 7-in-1 connectivity. Our value pick.
+**SPP Score: 8.9 / 10** - 7-in-1 connectivity. Our value pick.
 
 Scorecard: Capability 7/10 - Versatility 9/10 - Build 8/10 - Value 8/10
 
@@ -54,7 +54,7 @@ This Anker 7-in-1 is the budget route to two screens, with one catch: the second
 
 ### 3. Anker 7-in-1 USB C Hub Dual Monitor (2x HDMI, 100W PD) - Best Premium
 
-**SPP Score: 8.2 / 10** - 7-in-1 connectivity, high-speed data. Our pick for maximum capability.
+**SPP Score: 9.0 / 10** - 7-in-1 connectivity, high-speed data. Our pick for maximum capability.
 
 Scorecard: Capability 8/10 - Versatility 9/10 - Build 9/10 - Value 7/10
 

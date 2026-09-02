@@ -6,7 +6,7 @@ A magnetic power bank snaps onto the back of an iPhone and charges it with no ca
 
 ### 1. Anker MagGo Power Bank 10000mAh Qi2 15W - Best Overall
 
-**SPP Score: 7.5 / 10** - Qi2 15W wireless with a foldable stand and live display. Our all-round pick.
+**SPP Score: 8.7 / 10** - Qi2 15W wireless with a foldable stand and live display. Our all-round pick.
 
 Scorecard: Capability 6/10 - Versatility 8/10 - Build 9/10 - Value 8/10
 
@@ -30,7 +30,7 @@ The MagGo is the magnetic bank that earns a place on the desk as well as in a ba
 
 ### 2. INIU Slimmest Power Bank 5000mAh Qi2 15W - Best Budget
 
-**SPP Score: 6.2 / 10** - Qi2 15W in the smallest, lightest pack here. Our value pick.
+**SPP Score: 8.1 / 10** - Qi2 15W in the smallest, lightest pack here. Our value pick.
 
 Scorecard: Capability 4/10 - Versatility 7/10 - Build 8/10 - Value 7/10
 
@@ -54,7 +54,7 @@ The budget route into real Qi2 is also the one you'll forget you're carrying: a 
 
 ### 3. UGREEN MagFlow Power Bank 10000mAh Qi2 25W (Built-in Cable) - Best Premium
 
-**SPP Score: 7.2 / 10** - Qi2 25W wireless with a built-in USB-C cable and battery display. Our pick for maximum capability.
+**SPP Score: 8.5 / 10** - Qi2 25W wireless with a built-in USB-C cable and battery display. Our pick for maximum capability.
 
 Scorecard: Capability 7/10 - Versatility 8/10 - Build 7/10 - Value 7/10
 

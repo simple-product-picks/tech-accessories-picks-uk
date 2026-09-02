@@ -545,6 +545,33 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 88px; }
 }
 [data-theme="dark"] .spp-breakdown { background: #101a30; border-color: var(--border-mid); }
 
+/* -- "What keeps it off a 10" + Hands-on lines (2026-09-03, published re-scale) ---- */
+.spp-off-ten {
+  font-size: 15px; color: var(--muted);
+  margin: 0 0 12px; padding-left: 12px;
+  border-left: 3px solid var(--cta);
+}
+.spp-off-ten b { color: var(--text); font-weight: 700; }
+.hands-on {
+  position: relative; display: inline-flex; align-items: center; gap: 5px;
+  margin-left: 8px; padding: 2px 9px; border-radius: 999px;
+  font-size: 11.5px; font-weight: 800; letter-spacing: 0.06em; text-transform: uppercase;
+  color: #78350f; background: linear-gradient(135deg, var(--cta-hover) 0%, var(--cta) 100%);
+  cursor: help; vertical-align: middle; white-space: nowrap;
+}
+.hands-on::after {
+  content: attr(data-tip);
+  position: absolute; left: 0; top: calc(100% + 8px); z-index: 20;
+  width: 260px; padding: 10px 12px; border-radius: 10px;
+  font-size: 13px; font-weight: 500; letter-spacing: 0; text-transform: none; line-height: 1.45;
+  color: #fff; background: var(--blue-deep); box-shadow: 0 8px 24px rgba(0,0,0,.28);
+  opacity: 0; pointer-events: none; transform: translateY(-4px);
+  transition: opacity .15s, transform .15s; white-space: normal;
+}
+.hands-on:hover::after, .hands-on:focus::after, .hands-on:focus-visible::after { opacity: 1; transform: none; }
+.spp-handson { font-size: 15px; margin: 0 0 12px; }
+.spp-handson b { font-weight: 700; }
+
 /* -- Sticky bottom CTA bar ---------------------------------------- */
 .sticky-cta {
   position: fixed; bottom: 0; left: 0; right: 0; z-index: 200;

@@ -6,7 +6,7 @@ Finding a car charger that snaps cleanly onto your iPhone and holds it steady on
 
 ### 1. Belkin BoostCharge MagSafe Car Vent Mount (Charger Included) - Best Overall
 
-**SPP Score: 7.6 / 10** - Complete kit with the car charger and cable both in the box, MagSafe-compatible magnetic hold and an air-vent mount. Our all-round pick.
+**SPP Score: 8.8 / 10** - Complete kit with the car charger and cable both in the box, MagSafe-compatible magnetic hold and an air-vent mount. Our all-round pick.
 
 Scorecard: Capability 7/10 - Versatility 8/10 - Build 8/10 - Value 8/10
 
@@ -30,7 +30,7 @@ Belkin's BoostCharge MagSafe Car Vent Mount is the balanced all-rounder. It arri
 
 ### 2. ESR HaloLock MagSafe Car Charger 15W - Best Budget
 
-**SPP Score: 8.0 / 10** - 15W fast wireless with strong magnets and both air-vent and dashboard mounts. Our value pick.
+**SPP Score: 8.9 / 10** - 15W fast wireless with strong magnets and both air-vent and dashboard mounts. Our value pick.
 
 Scorecard: Capability 8/10 - Versatility 8/10 - Build 7/10 - Value 9/10
 
@@ -54,7 +54,7 @@ The ESR HaloLock is the sensible-value choice that covers the essentials: MagSaf
 
 ### 3. Belkin BoostCharge Pro MagSafe Car Charger (Qi2 15W) - Best Premium
 
-**SPP Score: 8.3 / 10** - Qi2 15W wireless charging with an air-vent mount and included 1.5m USB-C cable. Our pick for maximum capability.
+**SPP Score: 9.0 / 10** - Qi2 15W wireless charging with an air-vent mount and included 1.5m USB-C cable. Our pick for maximum capability.
 
 Scorecard: Capability 9/10 - Versatility 8/10 - Build 8/10 - Value 8/10
 

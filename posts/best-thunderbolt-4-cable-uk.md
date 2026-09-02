@@ -8,7 +8,7 @@ If you are pairing one of these with a dock, our [USB-C docking station guide](b
 
 ### 1. Anker Prime Thunderbolt 4 Cable (1m, 240W) - Best Overall
 
-**SPP Score: 8.4 / 10** - Thunderbolt 4 certified at a desk-friendly 1m. Our all-round pick.
+**SPP Score: 9.1 / 10** - Thunderbolt 4 certified at a desk-friendly 1m. Our all-round pick.
 
 Scorecard: Capability 10/10 - Versatility 6/10 - Build 9/10 - Value 8/10
 
@@ -32,7 +32,7 @@ This is the cable to default to. It carries Intel's Thunderbolt 4 certification,
 
 ### 2. UGREEN USB4 Cable 240W 40Gbps (1m) - Best Budget
 
-**SPP Score: 8.2 / 10** - USB4 40Gbps data. Our value pick.
+**SPP Score: 9.0 / 10** - USB4 40Gbps data. Our value pick.
 
 Scorecard: Capability 10/10 - Versatility 7/10 - Build 7/10 - Value 8/10
 
@@ -56,7 +56,7 @@ USB4 is the open standard Thunderbolt 4 is built on, and this UGREEN lead shows 
 
 ### 3. Belkin Active Thunderbolt 4 Cable (2m, 100W) - Best Premium
 
-**SPP Score: 7.9 / 10** - Active Thunderbolt 4 at full 40Gbps over 2m. Our pick for maximum capability.
+**SPP Score: 8.9 / 10** - Active Thunderbolt 4 at full 40Gbps over 2m. Our pick for maximum capability.
 
 Scorecard: Capability 10/10 - Versatility 5/10 - Build 8/10 - Value 8/10
 

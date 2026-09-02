@@ -8,7 +8,7 @@ If you just need a couple of extra ports on the move, a compact hub is the bette
 
 ### 1. Anker Nano Docking Station (13-in-1, Triple Display) - Best Overall
 
-**SPP Score: 9.2 / 10** - 13-in-1 with triple display output and a detachable front hub. Our all-round pick.
+**SPP Score: 9.4 / 10** - 13-in-1 with triple display output and a detachable front hub. Our all-round pick.
 
 Scorecard: Capability 10/10 - Versatility 10/10 - Build 8/10 - Value 8/10
 
@@ -32,7 +32,7 @@ The Anker Nano is the dock we'd point most people at now. Thirteen connections c
 
 ### 2. UGREEN Revodok Pro 210 USB C Docking Station (10-in-1) - Best Budget
 
-**SPP Score: 9.0 / 10** - Dual 4K@60Hz HDMI. Our value pick.
+**SPP Score: 9.3 / 10** - Dual 4K@60Hz HDMI. Our value pick.
 
 Scorecard: Capability 10/10 - Versatility 10/10 - Build 7/10 - Value 8/10
 
@@ -56,7 +56,7 @@ The Revodok Pro 210 is the value sweet spot in this category, and it's honestly 
 
 ### 3. UGREEN Revodok Max 213 Thunderbolt 4 Dock (13-in-1, 90W) - Best Premium
 
-**SPP Score: 9.0 / 10** - Thunderbolt 4 docking station. Our pick for maximum capability.
+**SPP Score: 9.3 / 10** - Thunderbolt 4 docking station. Our pick for maximum capability.
 
 Scorecard: Capability 10/10 - Versatility 10/10 - Build 7/10 - Value 8/10
 

@@ -6,7 +6,7 @@ Every car charger quotes a wattage. The number most people never check is the fu
 
 ### 1. Anker 75W USB C Car Charger (Retractable Cable) - Best Overall
 
-**SPP Score: 7.1 / 10** - 75W max with built-in retractable USB-C cable, ultra-compact. Our all-round pick.
+**SPP Score: 8.5 / 10** - 75W max with built-in retractable USB-C cable, ultra-compact. Our all-round pick.
 
 Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 8/10
 
@@ -30,7 +30,7 @@ Anker lists this as a 75W car charger with its USB-C cable built into the body a
 
 ### 2. INIU 66W Car Charger (USB-C 36W + USB-A 30W) - Best Budget
 
-**SPP Score: 6.9 / 10** - 66W total (USB-C 36W plus USB-A 30W), PD3.0, 12V cigarette lighter, metal adapter. Our value pick.
+**SPP Score: 8.4 / 10** - 66W total (USB-C 36W plus USB-A 30W), PD3.0, 12V cigarette lighter, metal adapter. Our value pick.
 
 Scorecard: Capability 7/10 - Versatility 6/10 - Build 7/10 - Value 8/10
 
@@ -54,7 +54,7 @@ INIU's 66W car charger splits its output across two ports: a USB-C at 36W and a 
 
 ### 3. UGREEN 150W USB C Car Charger PD140W 4-Port - Best Premium
 
-**SPP Score: 8.0 / 10** - 150W total PD140W (USB-C), 4 ports, cigarette lighter adapter. Our pick for maximum capability.
+**SPP Score: 8.9 / 10** - 150W total PD140W (USB-C), 4 ports, cigarette lighter adapter. Our pick for maximum capability.
 
 Scorecard: Capability 10/10 - Versatility 6/10 - Build 7/10 - Value 8/10
 

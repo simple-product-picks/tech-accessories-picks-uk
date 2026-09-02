@@ -6,7 +6,7 @@ In the under-30 bracket the real question is which corners get cut. Here it's mo
 
 ### 1. INIU Power Bank 10000mAh 22.5W Slim - Best Overall
 
-**SPP Score: 6.8 / 10** - 10000mAh capacity, 22.5W fast charging. Our all-round pick.
+**SPP Score: 8.4 / 10** - 10000mAh capacity, 22.5W fast charging. Our all-round pick.
 
 Scorecard: Capability 6/10 - Versatility 6/10 - Build 8/10 - Value 8/10
 
@@ -30,7 +30,7 @@ The INIU Power Bank 10000mAh 22.5W Slim is the everyday-carry pick: a 10000mAh c
 
 ### 2. Anker Zolo Power Bank 10000mAh 30W - Best Budget
 
-**SPP Score: 6.5 / 10** - 10000mAh capacity, 30W high-speed charging. Our value pick.
+**SPP Score: 8.2 / 10** - 10000mAh capacity, 30W high-speed charging. Our value pick.
 
 Scorecard: Capability 6/10 - Versatility 5/10 - Build 8/10 - Value 8/10
 
@@ -54,7 +54,7 @@ The Anker Zolo Power Bank 10000mAh 30W is the no-frills pick: it pairs a dependa
 
 ### 3. UGREEN MagFlow MagSafe Power Bank 10000mAh (Qi2 25W) - Best Premium
 
-**SPP Score: 7.0 / 10** - 10000mAh capacity with Qi2 25W magnetic wireless charging plus PD 30W wired. Our pick for maximum capability.
+**SPP Score: 8.4 / 10** - 10000mAh capacity with Qi2 25W magnetic wireless charging plus PD 30W wired. Our pick for maximum capability.
 
 Scorecard: Capability 7/10 - Versatility 7/10 - Build 7/10 - Value 7/10
 

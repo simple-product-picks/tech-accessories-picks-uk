@@ -6,7 +6,7 @@ It's easy to buy a USB-C hub with far more ports than you'll ever plug into. The
 
 ### 1. UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet - Best Overall
 
-**SPP Score: 7.7 / 10** - Ethernet and 4K HDMI in a 7-in-1. Our all-round pick.
+**SPP Score: 8.8 / 10** - Ethernet and 4K HDMI in a 7-in-1. Our all-round pick.
 
 Scorecard: Capability 7/10 - Versatility 9/10 - Build 7/10 - Value 8/10
 
@@ -30,7 +30,7 @@ Seven ports is the count that covers most laptop desks, and this UGREEN spreads 
 
 ### 2. Anker USB C Hub 5-in-1 with 4K HDMI - Best Budget
 
-**SPP Score: 7.5 / 10** - The honest 5-in-1 for people who don't need the extras. Our value pick.
+**SPP Score: 8.7 / 10** - The honest 5-in-1 for people who don't need the extras. Our value pick.
 
 Scorecard: Capability 6/10 - Versatility 8/10 - Build 9/10 - Value 8/10
 
@@ -54,7 +54,7 @@ If your desk is really just a monitor, a couple of USB accessories and the lapto
 
 ### 3. UGREEN Revodok Pro 210 USB C Docking Station (10-in-1) - Best Premium
 
-**SPP Score: 9.0 / 10** - A 10-in-1 dock that runs the whole desk. Our pick for maximum capability.
+**SPP Score: 9.3 / 10** - A 10-in-1 dock that runs the whole desk. Our pick for maximum capability.
 
 Scorecard: Capability 10/10 - Versatility 10/10 - Build 7/10 - Value 8/10
 
