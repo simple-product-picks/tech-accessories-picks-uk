@@ -6,7 +6,7 @@
   <atom:link href="https://simpleproductpicks.co.uk/feed.xml" rel="self" type="application/rss+xml" />
   <description>Independent UK buying guides for USB-C chargers, hubs, power banks, cables and adapters. Every link verified against the live Amazon UK listing.</description>
   <language>en-GB</language>
-  <lastBuildDate>Tue, 01 Sep 2026 01:48:11 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 02 Sep 2026 10:52:39 +0000</lastBuildDate>
   <item>
     <title>Best 100W GaN Charger UK 2026</title>
     <link>https://simpleproductpicks.co.uk/posts_html/best-100w-gan-charger-uk.html</link>
@@ -216,6 +216,13 @@
     <guid isPermaLink="true">https://simpleproductpicks.co.uk/posts_html/best-usb-c-car-charger-uk.html</guid>
     <pubDate>Tue, 01 Sep 2026 08:00:00 +0000</pubDate>
     <description>Best usb c car charger in the UK for 2026. Hand-picked and honestly compared, with direct Amazon UK links.</description>
+  </item>
+  <item>
+    <title>Best USB C Hub UK 2026</title>
+    <link>https://simpleproductpicks.co.uk/posts_html/best-usb-c-hub-uk.html</link>
+    <guid isPermaLink="true">https://simpleproductpicks.co.uk/posts_html/best-usb-c-hub-uk.html</guid>
+    <pubDate>Wed, 02 Sep 2026 08:00:00 +0000</pubDate>
+    <description>Best usb c hub in the UK for 2026. Hand-picked and honestly compared, with direct Amazon UK links.</description>
   </item>
 </channel>
 </rss>

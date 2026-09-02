@@ -1,6 +1,6 @@
 # Best USB C Hub For MacBook Air M1 UK 2026
 
-The MacBook Air M1 is a brilliant machine, but its single pair of USB-C ports fills up fast. This guide rounds up the best USB-C hubs to add HDMI, USB-A, card readers and more to your M1 Air, so you can connect a monitor, drive and peripherals without juggling dongles.
+The MacBook Air M1 is a brilliant machine, but its single pair of USB-C ports fills up fast. This guide rounds up the best USB-C hubs to add HDMI, USB-A, card readers and more to your M1 Air, so you can connect a monitor, drive and peripherals without juggling dongles. If you're weighing hubs in general rather than for the Air in particular, our [best USB-C hubs guide](best-usb-c-hub-uk.html) sorts them by how many ports you'll actually fill.
 
 ## Top picks
 
