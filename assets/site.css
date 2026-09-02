@@ -416,7 +416,7 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 88px; }
   background: linear-gradient(180deg, var(--amber), var(--blue));
 }
 .content h3 { font-size: 19px; font-weight: 700; margin: 30px 0 8px; color: var(--text); line-height: 1.3; }
-.content p, .content li { font-size: 16.5px; line-height: 1.8; color: var(--text-soft); }
+.content p, .content li { font-size: 18px; line-height: 1.65; color: var(--text-soft); }
 .content ul, .content ol { padding-left: 22px; margin: 10px 0 16px; }
 .content li { margin-bottom: 6px; }
 /* CTA button - only applied via JS to standalone Check price links */
@@ -1123,7 +1123,7 @@ body.sticky-dismissed .sticky-cta { display: none; }
   .post-card .card-arrow { padding-top: 12px; }
 
   /* Post pages: 720px measure, headings on the same scale. */
-  #content { max-width: 720px; }
+  #content { max-width: 665px; }  /* 2026-09-02 operator: 18px in 665px = ~74 chars a line */
   .content h2 { margin: 40px 0 16px; }
   .content h3 { margin: 32px 0 8px; }
   .content hr { margin: 32px 0; }
