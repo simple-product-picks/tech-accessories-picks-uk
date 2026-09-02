@@ -133,7 +133,7 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 88px; }
 .hero-kicker {
   font-size: 11px; font-weight: 800; letter-spacing: 0.08em;
   text-transform: uppercase; color: #78350f;
-  background: linear-gradient(135deg, #fde68a 0%, var(--amber) 100%);
+  background: linear-gradient(135deg, var(--cta-hover) 0%, var(--cta) 100%);
   border: none;
   display: inline-block;
   padding: 4px 12px; border-radius: 999px; margin-bottom: 12px;
@@ -141,7 +141,7 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 88px; }
 }
 
 .hero-title {
-  font-size: clamp(26px, 4.5vw, 38px);
+  font-size: clamp(21px, 4.5vw, 38px);
   font-weight: 800; letter-spacing: -0.03em;
   margin: 0 0 10px; line-height: 1.12; color: var(--blue-ink);
   text-wrap: balance;
@@ -189,11 +189,11 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 88px; }
     radial-gradient(700px 320px at 15% 0%, rgba(96,165,250,.28), transparent 60%),
     radial-gradient(600px 300px at 90% 110%, rgba(245,158,11,.18), transparent 55%),
     linear-gradient(150deg, var(--blue-ink) 0%, var(--blue-deep) 55%, var(--blue-dark) 100%);
-  padding: 26px 20px 22px;
+  padding: 18px 20px 16px;
   text-align: center;
 }
 .home-hero h1 {
-  font-size: clamp(30px, 5.5vw, 46px);
+  font-size: clamp(26px, 5.5vw, 46px);
   font-weight: 800; color: #ffffff;
   letter-spacing: -0.03em; margin: 0 0 10px; line-height: 1.08;
   text-wrap: balance;
@@ -203,10 +203,10 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 88px; }
 }
 .home-hero .badge {
   display: inline-block;
-  background: linear-gradient(135deg, #fde68a 0%, var(--amber) 100%);
+  background: linear-gradient(135deg, var(--cta-hover) 0%, var(--cta) 100%);
   color: #78350f;
-  font-size: 11px; font-weight: 800; letter-spacing: 0.08em;
-  text-transform: uppercase; padding: 4px 12px; border-radius: 999px; margin-bottom: 10px;
+  font-size: 10px; font-weight: 800; letter-spacing: 0.08em;
+  text-transform: uppercase; padding: 3px 10px; border-radius: 999px; margin-bottom: 6px;
   box-shadow: 0 1px 4px rgba(0,0,0,.25);
 }
 .hero-cta {
@@ -241,7 +241,7 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 88px; }
 }
 
 /* Home category section headings */
-.cat-section { margin: 20px 0 0; scroll-margin-top: 72px; }
+.cat-section { margin: 10px 0 0; scroll-margin-top: 72px; }
 .cat-section-title {
   font-size: 13px; font-weight: 800; letter-spacing: 0.1em;
   text-transform: uppercase; color: var(--blue-deep);
@@ -263,7 +263,7 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 88px; }
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
   gap: 16px;
-  padding: 20px 0;
+  padding: 12px 0;
 }
 .post-card {
   display: flex; flex-direction: column;
@@ -475,7 +475,7 @@ main  { max-width: 960px; margin: 0 auto; padding: 0 20px 88px; }
 }
 .page-hero .hero-kicker {
   display: inline-block;
-  background: linear-gradient(135deg, #fde68a 0%, var(--amber) 100%);
+  background: linear-gradient(135deg, var(--cta-hover) 0%, var(--cta) 100%);
   color: #78350f;
   font-size: 11px; font-weight: 800;
   letter-spacing: 0.08em; text-transform: uppercase;
@@ -823,3 +823,361 @@ body.sticky-dismissed .sticky-cta { display: none; }
 .back-to-top.show { opacity: 0.88; transform: translateY(0); pointer-events: auto; }
 .back-to-top:hover { opacity: 1; background: var(--blue); }
 .back-to-top.above-sticky { bottom: 78px; }
+
+
+/* ================================================================= */
+/* MOBILE PASS (2026-09-02) - round 1. Nothing in THIS block applies  */
+/* above 760px; the deliberate desktop tightening came later (rounds  */
+/* 2 and 3) and lives in the base rules + the tail block below.       */
+/* Operator on two phones: "clutter of text, can't even see the       */
+/* light/dark theme button, nav buttons cut off". Guarded by the      */
+/* 390px MOBILE PASS in audit_rendered.js.                            */
+/* ================================================================= */
+
+/* -- Header: brand + toggle on row 1, nav links on row 2 ------------ */
+/* The toggle is injected INSIDE .site-nav by theme.js, so it is       */
+/* absolutely positioned out of the nav row (no JS/markup change).     */
+@media (max-width: 760px) {
+  .site-header .wrap {
+    position: relative;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 0;
+    min-height: 0;
+    padding-top: 4px;
+    padding-bottom: 8px;
+  }
+  .brand-title, .back-link {
+    flex: 1 1 100%;
+    display: flex; align-items: center;
+    min-height: 44px;
+    padding-right: 50px;
+  }
+  .site-nav {
+    flex: 1 1 100%;
+    width: 100%;
+    margin: 0;
+    gap: 4px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    overflow-x: visible;
+  }
+  .site-nav a {
+    display: inline-flex; align-items: center; justify-content: center;
+    min-height: 40px;
+    padding: 8px 9px;
+    font-size: 13px;
+    border-radius: 10px;
+  }
+  .theme-toggle {
+    position: absolute;
+    top: 6px; right: 0;
+    width: 40px; height: 40px;
+    margin-left: 0;
+  }
+  .theme-toggle svg { width: 19px; height: 19px; }
+  .theme-toggle:hover { transform: none; }
+  .cat-section { scroll-margin-top: 104px; }
+}
+
+/* -- Home hero on a phone ------------------------------------------ */
+@media (max-width: 700px) {
+  .home-hero { padding: 20px 16px 20px; }
+  .home-hero .badge {
+    font-size: 10px; letter-spacing: 0.07em;
+    padding: 3px 10px; margin-bottom: 8px;
+  }
+  .home-hero p {
+    font-size: 15px; line-height: 1.5; margin-bottom: 14px;
+  }
+  .hero-cta {
+    font-size: 15px; padding: 12px 24px;
+    max-width: 280px; justify-content: center;
+    margin-bottom: 14px;
+  }
+  .hero-cats {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+  }
+  .hero-cat {
+    justify-content: center; text-align: center;
+    font-size: 13px; padding: 9px 6px;
+    min-height: 40px; gap: 5px;
+  }
+}
+
+/* -- Post pages on a phone ----------------------------------------- */
+@media (max-width: 700px) {
+  .hero-img { max-height: 190px !important; }
+  .table-wrap { max-width: 100%; }
+  .compare-table { min-width: 600px; }
+  .sticky-cta-label { font-size: 12.5px; }
+  .sticky-cta-btn { font-size: 13px; padding: 9px 14px; }
+  .sticky-cta-inner { flex-wrap: nowrap; gap: 8px; }
+  .trust-item { font-size: 12px; padding: 5px 10px; }
+  .breadcrumbs .wrap { font-size: 12.5px; }
+}
+
+/* -- Card grid: one column on phones, two on tablet ----------------- */
+@media (min-width: 701px) and (max-width: 900px) {
+  .post-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 700px) {
+  .post-card strong { font-size: 15px; }
+}
+
+/* ===== MOBILE PASS, rounds 2 and 3 (2026-09-02) ===== */
+/* Round 2: hero sub-copy reworded (no orphan line), site-2 light headline to espresso,
+   hero tightened. Round 3: "the Updated September 2026 badge is way too in your face and
+   too close to the headline"; "does everything need as much size, width, height as it
+   has?"; "the scrolling strip under the hero is a good idea" -> the strip is now the base.
+   Floors held throughout (nav 40px, other tap targets 36px, body text 15px) - the mobile
+   pass in audit_rendered.js fails the build if any of them is crossed. */
+
+/* -- Sub-copy: no orphan last line, at any width ------------------- */
+.home-hero p { text-wrap: balance; text-wrap: pretty; }
+
+/* -- Phone hero: ONE 16px inset ------------------------------------ */
+/* The hero used to add its own 16px on top of .wrap's 16px, so the sub-copy ran in a
+   326px column at 390px and needed a 4th line. */
+@media (max-width: 700px) {
+  .home-hero { padding: 18px 0 18px; }
+  .home-hero h1 { margin: 0 0 8px; }
+  .home-hero p { font-size: 15px; line-height: 1.5; margin: 0 auto 12px; }
+}
+
+/* -- Chips as a category bar under the hero (round 2 "V2") --------- */
+/* Phone only. The chips keep their place in the markup (last child of the hero's .wrap)
+   but are full-bled onto the page surface with their own background, so they read as a
+   category bar sitting under the hero. Desktop keeps them inside the hero. */
+@media (max-width: 700px) {
+  .home-hero { padding-bottom: 0; }
+  .hero-cats {
+    display: flex; flex-wrap: nowrap;
+    justify-content: flex-start;
+    background: var(--bg);
+    border-bottom: 1px solid var(--border);
+    overflow-x: auto;
+    scroll-snap-type: x proximity;
+    scrollbar-width: none;
+    -webkit-overflow-scrolling: touch;
+  }
+  .hero-cats::-webkit-scrollbar { display: none; }
+  .hero-cat {
+    flex: 0 0 auto;
+    scroll-snap-align: start;
+    background: var(--bg-grey);
+    border: 1px solid var(--border);
+    color: var(--text-soft);
+    backdrop-filter: none;
+  }
+  [data-theme="dark"] .home-hero .hero-cat {
+    background: var(--bg-grey);
+    border-color: var(--border-mid);
+    color: var(--text);
+  }
+}
+
+/* -- Round 3 SIZE PASS: header ------------------------------------- */
+/* 86px total: 2 + 40 (brand row) + 40 (nav row) + 3 + 1px border. Nav links stay at the
+   gate's 40px floor; the toggle fills the brand row. */
+@media (max-width: 760px) {
+  .site-header .wrap { padding-top: 2px; padding-bottom: 3px; }
+  .brand-title, .back-link { min-height: 40px; }
+  .theme-toggle { top: 2px; }
+  .cat-section { scroll-margin-top: 92px; }
+}
+
+/* -- Round 3 SIZE PASS: hero --------------------------------------- */
+@media (max-width: 700px) {
+  .home-hero { position: relative; padding: 15px 0 0; }
+  .home-hero h1 { margin: 0 0 6px; }
+  .home-hero p { margin: 0 auto 12px; }
+  .hero-cta {
+    display: flex; width: auto; max-width: 240px;
+    margin: 0 auto; padding: 6px 20px;
+    min-height: 42px; font-size: 15px;
+    justify-content: center;
+  }
+  .hero-cats {
+    gap: 4px;
+    margin: 12px -16px 0;
+    padding: 8px 6px;
+  }
+  .hero-cat {
+    min-height: 36px; padding: 6px 8px;
+    font-size: 12.5px; gap: 4px;
+  }
+  .cat-section { margin-top: 10px; }
+  .cat-section-title { padding-bottom: 8px; margin-bottom: 10px; }
+  .post-grid { padding: 10px 0; gap: 12px; }
+}
+
+/* -- Round 3 SIZE PASS: post cards on phones ----------------------- */
+/* Title 16px (above the gate's 15px body floor), "Read guide" 14px (a control label,
+   not body copy), 12px card padding, so roughly two cards land in a screen. */
+@media (max-width: 700px) {
+  .post-card { padding: 12px; }
+  .post-card .card-thumb {
+    width: calc(100% + 24px);
+    margin: -12px -12px 10px;
+    height: 150px;
+  }
+  .post-card strong { font-size: 16px; margin-bottom: 4px; line-height: 1.3; }
+  .post-card .card-arrow { font-size: 14px; padding-top: 8px; }
+}
+
+/* -- Round 3: sticky-bar dismiss button was a 28px tap target ------ */
+/* Caught by the tap-target check the moment it was added to the rendered gate. Phone
+   only, so the desktop bar is unchanged. */
+@media (max-width: 700px) {
+  .sticky-close { width: 36px; height: 36px; }
+}
+
+/* -- Round 3 BADGE: right-aligned small line above the headline ---- */
+/* The operator's stated fallback. The corner pill collides with the centred two-line
+   headline at every phone width we support (the headline's first line runs under it),
+   so the badge sits on its own right-aligned line with a 4px gap instead - still ~9px
+   and no longer competing with the h1 for attention. */
+@media (max-width: 700px) {
+  .home-hero .badge {
+    display: block; width: -moz-fit-content; width: fit-content;
+    margin: 0 auto 10px;
+    font-size: 8px; padding: 2px 7px; opacity: .92;
+    letter-spacing: 0.08em;
+  }
+}
+
+/* ================================================================= */
+/* PASS 4 (2026-09-02) - "sleek, premium, professional on phones AND */
+/* desktop". Two things only: a scroll cue on the phone chip strip,  */
+/* and a desktop rhythm pass (spacing scale 8/12/16/24/32, one hero  */
+/* action row, calmer cards, lighter footer). No colour token moves, */
+/* no structural change - DESIGN-CANON 2/3/4 are untouched. This     */
+/* block is byte-identical on every Picks site.                      */
+/* ================================================================= */
+
+/* -- Phone: the chip strip tells you it scrolls -------------------- */
+/* The cut-off chip dissolves into the page surface instead of being  */
+/* guillotined by the viewport edge. A sticky pseudo-element pinned    */
+/* to the scrollport's right edge, drawn in --bg so it is correct in   */
+/* both themes; no JS, no animation. The strip's hairline moves to     */
+/* .home-hero so the fade never eats the rule.                         */
+@media (max-width: 700px) {
+  .home-hero { border-bottom: 1px solid var(--border); }
+  .hero-cats { border-bottom: none; }
+  .hero-cats::after {
+    content: ""; position: sticky; right: 0;
+    flex: 0 0 28px; align-self: stretch;
+    margin-left: -28px;
+    background: linear-gradient(to right, transparent 0%, var(--bg) 88%);
+    pointer-events: none;
+  }
+}
+
+/* -- Eyebrow labels: one letter-spacing across the family ---------- */
+.hero-kicker, .page-hero .hero-kicker, .post-card .card-cat,
+.cat-section-title, .thead-cell, .toc-title { letter-spacing: 0.08em; }
+
+/* -- Focus is always visible, even on surfaces with their own shadow */
+/* .post-card / .cta-link / .btn each set box-shadow later in the file */
+/* than the global :focus-visible rule, which silently ate the ring.   */
+.post-card:focus-visible, .hero-cta:focus-visible, .hero-cat:focus-visible,
+.cta-link:focus-visible, .btn:focus-visible, .theme-toggle:focus-visible,
+.sticky-cta-btn:focus-visible, .relatedItem:focus-visible,
+.site-nav a:focus-visible, .brand-title:focus-visible {
+  box-shadow: var(--ring);
+}
+
+/* ===== DESKTOP RHYTHM (nothing below 701px is touched) ============ */
+@media (min-width: 701px) {
+  /* Hero: one spacing scale, a 640px measure (60-75 chars), a whisper
+     badge at the same size the phone uses. */
+  .home-hero { padding: 32px 20px 28px; }
+  .home-hero .badge {
+    font-size: 8px; letter-spacing: 0.08em;
+    padding: 2px 7px; margin-bottom: 10px;
+  }
+  .home-hero h1 { margin: 0 0 12px; }
+  .home-hero p { max-width: 640px; margin: 0 auto 24px; }
+
+  /* Section headings: tighter above, thinner rule, even gap below. */
+  .cat-section { margin: 32px 0 0; }
+  .cat-section-title { padding: 0 0 8px; margin-bottom: 0; }
+  .cat-section-title::before { width: 20px; height: 3px; }
+  .post-grid { padding: 0; margin: 16px 0 0; gap: 16px; }
+  main { padding-bottom: 56px; }
+
+  /* Cards: equal heights, one 16:10 image ratio, 1px border, and the
+     shadow only on hover so a grid at rest is flat and calm. */
+  .post-card { padding: 16px; box-shadow: none; }
+  .post-card .card-thumb {
+    width: calc(100% + 32px);
+    margin: -16px -16px 12px;
+    height: auto; aspect-ratio: 16 / 10;
+  }
+  .post-card .card-cat { margin-bottom: 4px; }
+  .post-card strong { font-size: 16px; margin-bottom: 8px; }
+  .post-card .card-arrow { padding-top: 12px; }
+
+  /* Post pages: 720px measure, headings on the same scale. */
+  #content { max-width: 720px; }
+  .content h2 { margin: 40px 0 16px; }
+  .content h3 { margin: 32px 0 8px; }
+  .content hr { margin: 32px 0; }
+  .panel { padding: 24px; margin: 24px 0; }
+  .pick-card { padding: 24px; margin: 24px 0; }
+  .section-divider { margin: 32px 0; padding-top: 12px; }
+  .hero.panel, .hero-section { padding: 32px 20px 24px; }
+  .page-hero { padding: 32px 20px 24px; }
+  .trust-bar { margin-top: 16px; }
+
+  /* Footer: same information, less bulk. */
+  footer { padding: 24px 0; line-height: 1.7; }
+}
+
+/* -- Desktop hero action row: CTA and chips on ONE row ------------- */
+/* Both are inline-level boxes inside the centred hero, so they share a
+   line when they fit and stack cleanly when they do not. Scoped to
+   901px+ so the tablet band keeps today's stacked hero. */
+@media (min-width: 901px) {
+  .hero-cta {
+    vertical-align: middle;
+    margin: 0 8px 0 0;
+    min-height: 40px; padding: 8px 24px;
+    font-size: 15px;
+  }
+  .hero-cats {
+    display: inline-flex; vertical-align: middle;
+    flex-wrap: wrap; justify-content: center;
+    gap: 12px; padding: 0;
+  }
+  .hero-cat { min-height: 40px; padding: 8px 16px; }
+}
+
+/* ===== CHIP ICONS (2026-09-02) ====================================== */
+/* The four home-hero category chips used to lead with an EMOJI. Emoji are someone else's
+   artwork: a different glyph on every OS, a colour we do not control, and no relationship
+   to the brand. They are now an inline monoline SVG set (24px grid, 1.75px stroke, round
+   caps, no fills except the tiny joint dots) drawn in currentColor, so each icon is always
+   EXACTLY the colour of its own chip's label - white inside the hero on desktop, the muted
+   text colour in the phone category bar, and the dark-theme text colour in dark mode. No
+   icon font, no extra request. Site 1 authors them in index.html; site 2 generates them
+   from config/site.json via scripts/build_pages.py (ICONS). Sizing lives here so both
+   sites stay identical. */
+.hero-cat .chip-ico {
+  width: 17px; height: 17px;
+  flex: 0 0 auto;
+  vertical-align: middle;
+  overflow: visible;      /* 1.75px stroke on the 24px grid edge is never clipped */
+}
+@media (max-width: 700px) {
+  /* Phone category bar: slightly smaller glyph, and the icon-to-label gap goes back to 6px.
+     An emoji carries its own side bearing; an SVG does not, so the 4px the emoji chips used
+     reads as touching once the glyph is a real icon. Chip height is unchanged (36px floor,
+     enforced by the mobile pass in audit_rendered.js). */
+  .hero-cat { gap: 6px; }
+  .hero-cat .chip-ico { width: 16px; height: 16px; }
+}
