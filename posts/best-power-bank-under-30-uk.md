@@ -10,6 +10,8 @@ In the under-30 bracket the real question is which corners get cut. Here it's mo
 
 Scorecard: Capability 6/10 - Versatility 6/10 - Build 8/10 - Value 8/10
 
+What keeps it off a 10: Its 10000mAh will not stretch to tablet recharges or multi-day trips, and the fast charging only helps devices that support PD or QC.
+
 The INIU Power Bank 10000mAh 22.5W Slim is the everyday-carry pick: a 10000mAh cell holds enough charge for a full phone top-up or more. Its 22.5W PD and QC fast charging shortens the time spent tethered on compatible devices. The ultra-slim casing slips easily into a pocket or bag, and USB-C in and out means you can recharge the bank and your phone through the same connector, alongside a USB-A port for a second device.
 
 **Pros**
@@ -34,6 +36,8 @@ The INIU Power Bank 10000mAh 22.5W Slim is the everyday-carry pick: a 10000mAh c
 
 Scorecard: Capability 6/10 - Versatility 5/10 - Build 8/10 - Value 8/10
 
+What keeps it off a 10: Its integrated cable cannot be swapped out if it wears, which is the trade for never having to pack a lead.
+
 The Anker Zolo Power Bank 10000mAh 30W is the no-frills pick: it pairs a dependable 10000mAh capacity with 30W high-speed output for brisk top-ups on compatible devices. A built-in [USB-C cable](best-usb-c-cable-for-fast-charging.html) means there's nothing extra to carry or misplace, and the USB-C port also handles recharging the bank itself, so it stays refreshingly simple to live with.
 
 **Pros**
@@ -57,6 +61,8 @@ The Anker Zolo Power Bank 10000mAh 30W is the no-frills pick: it pairs a dependa
 **SPP Score: 8.4 / 10** - 10000mAh capacity with Qi2 25W magnetic wireless charging plus PD 30W wired. Our pick for maximum capability.
 
 Scorecard: Capability 7/10 - Versatility 7/10 - Build 7/10 - Value 7/10
+
+What keeps it off a 10: Full magnetic alignment and speed depend on having a MagSafe-compatible iPhone, so Android owners gain nothing from the wireless side.
 
 The UGREEN MagFlow is the most capable pick because it charges two ways from one 10000mAh bank. It snaps magnetically onto the back of a compatible iPhone and charges wirelessly at up to Qi2 25W, so there's no cable to plug in for a quick top-up. The magnetic hold lets you keep using the phone while it charges. When you want the fastest fill, a built-in cable delivers up to 30W wired PD. It's the only pick here that gives you MagSafe-style convenience and wired speed in a single compact unit.
 

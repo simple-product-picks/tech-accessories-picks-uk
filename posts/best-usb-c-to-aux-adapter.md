@@ -10,6 +10,8 @@ Switching to a phone or laptop without a headphone socket means you need a relia
 
 Scorecard: Capability 7/10 - Versatility 5/10 - Build 7/10 - Value 8/10
 
+What keeps it off a 10: There is no charging pass-through, so listening ties up the port, and compatibility with some manufacturers' ports can vary enough to be worth confirming.
+
 UGREEN is a well-established maker of charging and audio accessories, and this USB-C to 3.5mm adapter is a dependable everyday choice. It carries an analogue headphone signal out to a 3.5mm jack, so it works neatly with wired earphones, headsets, and the aux input in many cars (if you're kitting out the car anyway, our [MagSafe car charger guide](best-magsafe-car-charger-uk.html) covers the charging side). The compact in-line design keeps it pocketable and out of the way when plugged in.
 
 **Pros**
@@ -34,6 +36,8 @@ UGREEN is a well-established maker of charging and audio accessories, and this U
 
 Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 8/10
 
+What keeps it off a 10: Nothing sits on the cable itself, so calls, volume and track skips all happen on the phone, and it is easy to lose.
+
 The budget slot goes to the least glamorous product Apple makes, and it's earned it. This is a one-piece moulded dongle with nothing detachable to work loose and no buttons to break, and Apple's own inline DAC handles the conversion. It's plug-and-play on USB-C iPhones, iPads and Macs, and in practice on most other USB-C phones and laptops too. At this end of the market, it's simply the easiest way to get wired audio back from a converter people actually rate. What you give up is extras: there are no in-line controls, so calls and volume happen on the phone.
 
 **Pros**
@@ -57,6 +61,8 @@ The budget slot goes to the least glamorous product Apple makes, and it's earned
 **SPP Score: 8.4 / 10** - Hi-Res 32bit/384kHz DAC in a braided aluminium build. Our pick for maximum capability.
 
 Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 7/10
+
+What keeps it off a 10: Feed it standard streaming or everyday earbuds and you may not hear what the higher-spec conversion adds over the overall pick.
 
 This is the same UGREEN dongle idea as our overall pick with a better converter inside: UGREEN rates this DAC at 32bit/384kHz, up from the 24bit/96kHz it quotes for the standard adapter. With decent wired headphones and hi-res files or a lossless streaming tier, that conversion headroom is what the upgrade buys. Mic and in-line control support is on board for calls, and the braided cable with an aluminium shell is made for a life on a keyring or in a coat pocket.
 

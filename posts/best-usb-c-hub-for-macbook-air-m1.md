@@ -10,6 +10,8 @@ The MacBook Air M1 is a brilliant machine, but its single pair of USB-C ports fi
 
 Scorecard: Capability 7/10 - Versatility 9/10 - Build 8/10 - Value 8/10
 
+What keeps it off a 10: It is slightly bulkier than a single-port adapter to carry around, which counts if the hub lives in your bag.
+
 The M1 Air gives you two USB-C ports and one usually goes to the charger; this Anker 7-in-1 wins the remaining port back, covering the connections most setups rely on day to day. The 4K HDMI output lets you run an external display, while 85W pass-through Power Delivery keeps the laptop charging through the same USB-C connection. Add two USB-A ports plus SD and microSD readers and it covers photographers, students and home-office setups alike. If card offloads are the main event, our [USB-C hub with SD card reader](best-usb-c-hub-with-sd-card-reader.html) guide includes a dual-plug pick made for MacBooks.
 
 **Pros**
@@ -34,6 +36,8 @@ The M1 Air gives you two USB-C ports and one usually goes to the charger; this A
 
 Scorecard: Capability 7/10 - Versatility 9/10 - Build 7/10 - Value 8/10
 
+What keeps it off a 10: Only the full-size SD slot is on board, so microSD cards need a reader of their own.
+
 Desk-bound Air owners should start here: the UGREEN Revodok trades the overall pick's microSD slot for Gigabit Ethernet, the better swap if your laptop spends its life within a cable's reach of the router. You also get 4K HDMI, three USB-A ports, an SD slot and 100W pass-through Power Delivery, which is a generous spread for a no-fuss hub. UGREEN is a well-established name in charging and connectivity accessories. And if you'd rather keep the hub you have and just add wired networking, a [standalone USB-C Ethernet adapter](best-usb-c-ethernet-adapter.html) does that one job.
 
 **Pros**
@@ -57,6 +61,8 @@ Desk-bound Air owners should start here: the UGREEN Revodok trades the overall p
 **SPP Score: 9.2 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
 
 Scorecard: Capability 9/10 - Versatility 9/10 - Build 8/10 - Value 8/10
+
+What keeps it off a 10: If your desk only needs a display and one USB-A port, this is far more hub than the job asks.
 
 This Anker 8-in-1 is the pick for creators who saturate their ports: 10Gbps data across its USB-C and USB-A connections, so external SSD transfers don't crawl. It pairs that speed with wired Ethernet, HDMI, dual card slots and 85W pass-through Power Delivery, and Anker lists it as Thunderbolt compatible, which covers the M1 Air. If you move large files and want headroom, this is the most capable option here.
 

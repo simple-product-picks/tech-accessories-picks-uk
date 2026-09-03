@@ -10,6 +10,8 @@ Wi-Fi dropping out mid-call or lagging during a download? A USB-C Ethernet adapt
 
 Scorecard: Capability 8/10 - Versatility 6/10 - Build 7/10 - Value 8/10
 
+What keeps it off a 10: That 2.5G ceiling counts for nothing unless your broadband and network support it, and there are no hub ports or pass-through power.
+
 UGREEN is a well-known name in connectivity accessories, and this 2.5G adapter is the right call for most people. It converts a single USB-C port into a 2.5Gbps RJ45 Ethernet connection, giving you headroom beyond standard Gigabit for UK home broadband, video calls, and large file transfers. It's plug and play, and the compact form factor makes it an easy permanent resident in a laptop bag.
 
 **Pros**
@@ -34,6 +36,8 @@ UGREEN is a well-known name in connectivity accessories, and this 2.5G adapter i
 
 Scorecard: Capability 7/10 - Versatility 6/10 - Build 8/10 - Value 8/10
 
+What keeps it off a 10: Gigabit is the ceiling, so a multi-gig line or a fast local network will leave this adapter behind.
+
 The sensible-value choice that covers the essentials without any extras you don't need. It's plug and play with no drivers to install: connect the USB-C end to your device and the RJ45 end to your router and you are online. A single-purpose dongle like this keeps things simple for everyday wired networking.
 
 **Pros**
@@ -57,6 +61,8 @@ The sensible-value choice that covers the essentials without any extras you don'
 **SPP Score: 8.8 / 10** - 5Gbps wired Ethernet over USB-C, plug-and-play. Our pick for maximum capability.
 
 Scorecard: Capability 9/10 - Versatility 6/10 - Build 7/10 - Value 8/10
+
+What keeps it off a 10: Unless your line and local network are genuinely multi-gigabit, 5G gains you no extra speed, and extra USB ports still need a separate hub.
 
 This UGREEN adapter steps up to 5Gbps Ethernet for the most capable connection of the three. If you are on a multi-gigabit broadband package or moving large files across a fast local network, the 5G ceiling gives you real headroom beyond both standard Gigabit and 2.5G adapters. It converts a single USB-C port into a 5Gbps RJ45 connection and stays plug and play, making it the do-it-all pick for power users who want to make the most of a fast line.
 

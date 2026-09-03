@@ -10,6 +10,8 @@ Running two external displays from a single USB-C port is one of the most useful
 
 Scorecard: Capability 10/10 - Versatility 10/10 - Build 7/10 - Value 8/10
 
+What keeps it off a 10: Whether both screens actually light up still depends on your laptop's own USB-C video support, so check that first.
+
 The Revodok Pro 210 answers the dual-monitor question outright: two HDMI outputs, both rated for 4K@60Hz, so neither screen has to drop to a juddery 30Hz. Around the displays you get wired Ethernet, 100W Power Delivery passthrough and the rest of its ten connections, which is why one cable can run a permanent two-screen desk. For most people wiring up two screens plus peripherals, this is the do-everything choice.
 
 **Pros**
@@ -34,6 +36,8 @@ The Revodok Pro 210 answers the dual-monitor question outright: two HDMI outputs
 
 Scorecard: Capability 7/10 - Versatility 9/10 - Build 8/10 - Value 8/10
 
+What keeps it off a 10: For a two-monitor desk the second screen has to come over USB-C, because only one HDMI port is on board.
+
 This Anker 7-in-1 is the budget route to two screens, with one catch: the second display has to arrive over USB-C. It delivers a 4K HDMI output plus 85W Power Delivery for charging, all in a compact 7-in-1 form. For a dual-monitor setup, you pair its HDMI output with a second USB-C display, making it a tidy option for simpler two-screen arrangements.
 
 **Pros**
@@ -57,6 +61,8 @@ This Anker 7-in-1 is the budget route to two screens, with one catch: the second
 **SPP Score: 9.0 / 10** - 7-in-1 connectivity, high-speed data. Our pick for maximum capability.
 
 Scorecard: Capability 8/10 - Versatility 9/10 - Build 9/10 - Value 7/10
+
+What keeps it off a 10: Card slots and Ethernet are missing here, so a fixed desk that needs them wants a full docking station.
 
 For the most capable compact option, this Anker 7-in-1 puts two HDMI outputs on a single small hub, so you can run a genuine dual-monitor setup without a bulky dock. It pairs that with 100W Power Delivery to keep your laptop topped up while you work. It's the pick for people who want full dual-display capability in a portable, well-built shell.
 

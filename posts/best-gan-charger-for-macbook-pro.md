@@ -10,6 +10,8 @@ Finding the right charger for a MacBook Pro means matching the wattage to your m
 
 Scorecard: Capability 9/10 - Versatility 5/10 - Build 10/10 - Value 8/10
 
+What keeps it off a 10: A suitable USB-C charging cable may need buying separately, so a full-speed MacBook Pro charge depends on the lead you own.
+
 The Anker 100W delivers the full 100W a 14-inch or 16-inch MacBook Pro will take over USB-C. That's a full-speed charge from a single port, without reaching for the bulky stock adapter. The smart display shows live wattage, so you can confirm your laptop is actually pulling full power. Three ports mean a phone and earbuds can top up alongside it. GaN internals keep the whole thing compact and travel-friendly.
 
 **Pros**
@@ -34,6 +36,8 @@ The Anker 100W delivers the full 100W a 14-inch or 16-inch MacBook Pro will take
 
 Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 8/10
 
+What keeps it off a 10: 65W falls short of what a 14-inch or 16-inch MacBook Pro can draw, and there is no USB-A port for older kit.
+
 The UGREEN 65W is the budget pick for 13-inch MacBook Pro owners. It charges those machines at full speed and skips everything you don't need. Its two USB-C ports let you charge the laptop and a phone at once, and the GaN design keeps it light and pocketable for commuting.
 
 **Pros**
@@ -57,6 +61,8 @@ The UGREEN 65W is the budget pick for 13-inch MacBook Pro owners. It charges tho
 **SPP Score: 8.6 / 10** - 100W output, 3-port layout, compact GaN build. Our pick for maximum capability.
 
 Scorecard: Capability 9/10 - Versatility 4/10 - Build 8/10 - Value 8/10
+
+What keeps it off a 10: If a single laptop is all you plug in, this is more charger than the job strictly needs.
 
 The UGREEN Nexode Pro 100W pairs full 100W output with UGREEN's GaNInfinity chip, which the company rates to take a MacBook Pro 14 from flat to 50% in around 27 minutes. The three ports cover a laptop, phone and a third accessory at once, so it can run a whole desk or travel kit from a single plug. It is the most capable charger here for a multi-device setup.
 

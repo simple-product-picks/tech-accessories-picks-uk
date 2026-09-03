@@ -10,6 +10,8 @@ Wired internet is back in demand for anyone working from home or gaming on a lap
 
 Scorecard: Capability 7/10 - Versatility 9/10 - Build 7/10 - Value 8/10
 
+What keeps it off a 10: A compact 7-in-1 has fewer outputs than a full-size docking station, so a growing desk eventually outgrows it.
+
 The UGREEN Revodok 7-in-1 hits the sweet spot for most laptops, pairing Gigabit Ethernet with 4K HDMI, three USB-A ports, an SD slot and 100W power delivery in one compact unit. A single USB-C connection to your laptop keeps everything tidy while you add wired networking and your usual peripherals. For a typical home-office or hybrid-working setup, this is the most balanced all-rounder here.
 
 **Pros**
@@ -34,6 +36,8 @@ The UGREEN Revodok 7-in-1 hits the sweet spot for most laptops, pairing Gigabit 
 
 Scorecard: Capability 6/10 - Versatility 8/10 - Build 8/10 - Value 8/10
 
+What keeps it off a 10: Its data ports run at standard speed rather than the 10Gbps the premium pick manages, so big transfers take longer.
+
 The Anker PowerExpand 6-in-1 is the sensible-value choice that covers the essentials without fuss. You get wired Ethernet plus a useful mix of everyday ports, all from a brand with a long track record in charging and connectivity accessories. It's a clean way to add wired networking to a slim laptop.
 
 **Pros**
@@ -57,6 +61,8 @@ The Anker PowerExpand 6-in-1 is the sensible-value choice that covers the essent
 **SPP Score: 9.2 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
 
 Scorecard: Capability 9/10 - Versatility 9/10 - Build 8/10 - Value 8/10
+
+What keeps it off a 10: Next to a plain Ethernet adapter it has a larger footprint, with more ports than a light user will plug into.
 
 The Anker 8-in-1 is the step up for heavy movers of data, adding 10Gbps USB ports so large file transfers and external SSDs feel genuinely fast. Alongside the speedy data lanes you still get wired Ethernet and the broadest port count in this guide. For creators and anyone who moves a lot of data, the extra bandwidth and ports justify the step up.
 

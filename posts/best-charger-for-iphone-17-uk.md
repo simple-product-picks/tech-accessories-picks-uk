@@ -10,6 +10,8 @@ Apple quotes a number for the iPhone 17 that sounds expensive: up to 50% charge 
 
 Scorecard: Capability 5/10 - Versatility 6/10 - Build 10/10 - Value 8/10
 
+What keeps it off a 10: It has a single USB-C port, so a tablet and earbuds wait their turn while the iPhone charges.
+
 This is the no-asterisk answer. Nothing Apple quotes for the iPhone 17, wired or over MagSafe, sits above 45W, so this is the plug you stop checking spec sheets against. On the measured figures the phone won't ever ask for all of it, and we'd rather say so than pretend the headroom is doing work: what the extra watts buy here is certainty, not speed. Anker's listing calls the Nano compact and foldable, and the folding pins are the part you notice at the bottom of a bag, where fixed prongs catch on everything.
 
 **Pros**
@@ -34,6 +36,8 @@ This is the no-asterisk answer. Nothing Apple quotes for the iPhone 17, wired or
 
 Scorecard: Capability 5/10 - Versatility 6/10 - Build 9/10 - Value 8/10
 
+What keeps it off a 10: Sitting below the 40-watt adapter Apple quotes its 20-minute figure against, it is the first plug here you would outgrow.
+
 The measured figures make this the interesting pick. If an iPhone 17 draws in the mid-twenties, 30W has it covered with a little to spare, and it does that from the lowest power class here. UGREEN's listing pairs PD 3.0 with a GaN core behind folding pins. There is a real limit, though. 30W sits below the 40-watt adapter Apple quotes its 20-minute claim against, so buy this as a fast charger rather than a record-setting one. On an iPhone Air, which Apple rates from a 20-watt adapter upwards, it clears the bar outright.
 
 **Pros**
@@ -57,6 +61,8 @@ The measured figures make this the interesting pick. If an iPhone 17 draws in th
 **SPP Score: 8.5 / 10** - 65W GaN. Our pick for maximum capability.
 
 Scorecard: Capability 7/10 - Versatility 6/10 - Build 9/10 - Value 7/10
+
+What keeps it off a 10: An iPhone-only buyer pays for ports that sit empty, and PPS appears nowhere in Apple's charging figures anyway.
 
 Buy this one for everything except the iPhone. UGREEN lists 65W across three ports, two USB-C and one USB-A, and it's the USB-A that quietly earns its place: the kit in the house that never moved to USB-C keeps working without an adapter in the way. PPS is on the listing as well, and it's worth knowing what that is before you pay for it. PPS is an extension of USB Power Delivery that lets a charger fine-tune its voltage in small steps rather than jumping between fixed levels. Apple's charging figures for the iPhone are quoted in plain watts, with no PPS requirement anywhere in them. If this power class is what you're after generally, our [65W GaN charger guide](best-65w-gan-charger-uk.html) compares that tier properly.
 

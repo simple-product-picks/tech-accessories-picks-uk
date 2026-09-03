@@ -10,6 +10,8 @@ Looking for a USB-C cable that does justice to your iPhone 15? Here are three wo
 
 Scorecard: Capability 7/10 - Versatility 5/10 - Build 8/10 - Value 8/10
 
+What keeps it off a 10: It is a single 1m cable, so heavy users may want a second, and you still need your own USB-C charger.
+
 The iPhone 15 family switched to USB-C, so a proper USB-C to USB-C cable is the modern way to charge and sync. This UGREEN lead is rated to carry up to 100W, which is well beyond what an iPhone draws, giving you plenty of headroom and the option to use the same cable on a laptop or tablet. If the laptop is the bigger job, our [fast-charging cable guide](best-usb-c-cable-for-fast-charging.html) digs into wattage properly. A built-in E-Marker chip lets the cable negotiate higher power safely, and the braided jacket is built to survive being coiled, bagged, and yanked from awkward sockets. The 1m length suits everyday charging at a desk or bedside.
 
 **Pros**
@@ -34,6 +36,8 @@ The iPhone 15 family switched to USB-C, so a proper USB-C to USB-C cable is the 
 
 Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 8/10
 
+What keeps it off a 10: Both leads run to just 0.5m, which is awkward if the socket sits well away from where you actually sit.
+
 The value choice here is this UGREEN two-pack, which covers the essentials without fuss. Getting two braided USB-C to USB-C cables in one go means you can keep one by the bed and one in a bag, or have a spare ready when one wanders off. Both are a short 0.5m, which is tidy for a [power bank](best-power-bank-for-iphone-15.html) in a pocket, a bedside socket, or a laptop bag where a long lead just tangles. They carry 100W/65W fast charging, so an iPhone 15 charges without the cable holding it back.
 
 **Pros**
@@ -57,6 +61,8 @@ The value choice here is this UGREEN two-pack, which covers the essentials witho
 **SPP Score: 9.0 / 10** - USB4 with 240W charging and 40Gbps data in a 1m lead. Our pick for maximum capability.
 
 Scorecard: Capability 10/10 - Versatility 6/10 - Build 8/10 - Value 8/10
+
+What keeps it off a 10: On a standard iPhone 15 the data speed goes to waste, because the phone itself is USB 2.0 whatever cable you use.
 
 This is the everything-cable. Anker's 515 carries USB4, which means 240W charging headroom and 40Gbps data down the same 1m lead. For an iPhone 15 Pro or Pro Max that data path matters: ProRes clips offload over a wired connection many times faster than on the USB 2.0 leads most people charge with (the Pro models support USB 3 speeds; the standard iPhone 15 sticks to USB 2.0 whatever the cable). It also covers the rest of the desk - the same lead drives laptop charging, fast SSDs, and, per Anker's rating, even an 8K display.
 

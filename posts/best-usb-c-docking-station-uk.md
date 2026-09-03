@@ -12,6 +12,8 @@ If you just need a couple of extra ports on the move, a compact hub is the bette
 
 Scorecard: Capability 10/10 - Versatility 10/10 - Build 8/10 - Value 8/10
 
+What keeps it off a 10: Anker pitches extended triple display at Windows machines, so Mac owners may find some screen combinations only mirror.
+
 The Anker Nano is the dock we'd point most people at now. Thirteen connections cover essentially every desk need: triple display output through two HDMI ports and a DisplayPort, 10Gbps USB-C for fast external drives, wired Ethernet, SD and TF card slots and audio, with 100W of laptop charging coming down the same single cable. The party trick is the detachable front hub - a 6-in-1 block that pops out and leaves with the laptop, so the desk stays wired while a travel hub rides in the bag. One caveat worth knowing: Anker pitches extended triple display at Windows machines, with Macs mirroring on some combinations, so check your laptop's display support.
 
 **Pros**
@@ -36,6 +38,8 @@ The Anker Nano is the dock we'd point most people at now. Thirteen connections c
 
 Scorecard: Capability 10/10 - Versatility 10/10 - Build 7/10 - Value 8/10
 
+What keeps it off a 10: Two HDMI outputs are the ceiling, so a three-screen desk needs the triple-display pick at the top of this guide.
+
 The Revodok Pro 210 is the value sweet spot in this category, and it's honestly hard to argue with what you get. Dual HDMI outputs both run at 4K@60Hz, so a two-monitor desk works properly rather than at a compromised refresh rate. Wired Ethernet handles the network, the SD/TF reader covers camera cards, and 100W Power Delivery passthrough keeps the laptop charged through the same connection. For a home office that wants dock-class features without dock-class spending, this is the pick. We dig into two-screen setups properly in our [dual monitor hub guide](best-usb-c-hub-for-dual-monitors.html).
 
 **Pros**
@@ -59,6 +63,8 @@ The Revodok Pro 210 is the value sweet spot in this category, and it's honestly 
 **SPP Score: 9.3 / 10** - Thunderbolt 4 docking station. Our pick for maximum capability.
 
 Scorecard: Capability 10/10 - Versatility 10/10 - Build 7/10 - Value 8/10
+
+What keeps it off a 10: Without a Thunderbolt-capable laptop you never unlock its full bandwidth, so ordinary office machines gain little from it.
 
 If your work really pushes a laptop hard, the Revodok Max 213 is the ceiling of what a single cable can do. Thunderbolt 4 brings 40Gbps of bandwidth, enough for dual 4K@60Hz displays or a single 8K screen, with three Thunderbolt 4 ports for daisy-chaining fast storage and other high-end gear. The 2.5G Ethernet port outruns standard Gigabit connections for those with faster broadband or a fast home network, SD/TF 4.0 card slots move camera files quickly, and 90W of charging keeps a powerful laptop fed. It's a lot of dock, and a bigger commitment than most desks need; for video editors, photographers and developers it earns its place.
 

@@ -10,6 +10,8 @@ Every car charger quotes a wattage. The number most people never check is the fu
 
 Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 8/10
 
+What keeps it off a 10: The built-in cable serves one device, so a passenger's phone queues behind yours, and the retracting mechanism can wear out.
+
 Anker lists this as a 75W car charger with its USB-C cable built into the body and a retractable mechanism that reels it back in when you unplug. The cable is the point here. There's nothing to forget, nothing to untangle from the glovebox, and no spare lead rattling around the centre console. 75W is more than any phone draws, and Anker's own spec quotes it as compatible with iPhones, iPads and Galaxy handsets. The built-in cable does mean one device at a time, though. If the passenger's phone also needs a charge, you will be passing yours back.
 
 **Pros**
@@ -34,6 +36,8 @@ Anker lists this as a 75W car charger with its USB-C cable built into the body a
 
 Scorecard: Capability 7/10 - Versatility 6/10 - Build 7/10 - Value 8/10
 
+What keeps it off a 10: Its USB-C port takes only 36W of the total, which bites if you plug in something hungrier, and no leads are included.
+
 INIU's 66W car charger splits its output across two ports: a USB-C at 36W and a USB-A at 30W. That split is the practical advantage over the Anker above. You can charge a phone on the USB-C port and a dashcam, sat-nav or passenger's older device on the USB-A port at the same time without swapping cables. INIU lists PD3.0 support on the USB-C side, and the charger plugs into the standard 12V cigarette lighter socket. The body is metal, which should help it shed heat in a warm cabin. It doesn't bring its own cable, though. Bring your own USB-C lead, and bring a USB-A one if the second port needs to earn its keep.
 
 **Pros**
@@ -57,6 +61,8 @@ INIU's 66W car charger splits its output across two ports: a USB-C at 36W and a 
 **SPP Score: 8.9 / 10** - 150W total PD140W (USB-C), 4 ports, cigarette lighter adapter. Our pick for maximum capability.
 
 Scorecard: Capability 10/10 - Versatility 6/10 - Build 7/10 - Value 8/10
+
+What keeps it off a 10: 150W can push close to or past the fuse limit on some cars, so check your cigarette lighter's fuse rating first.
 
 UGREEN lists this car charger at 150W total with PD at 140W across four ports. That is the highest output here by some distance, and the four ports make it the only pick that can charge a laptop, a phone, a tablet and a dashcam from one cigarette lighter socket. Here's where the fuse context matters, though. A 150W draw sits right at the limit of a 15A fuse on a 12V circuit, and above the limit of a 10A fuse that some cars use on the cigarette lighter. You can check your car's fuse rating in the owner's manual or on the fuse box cover. UGREEN does not claim the charger will blow any fuses; it will draw only what connected devices ask for. But if you plug a hungry laptop into one port and a phone into another, the total draw can climb higher than what most of the lighter-duty chargers here would ever see.
 

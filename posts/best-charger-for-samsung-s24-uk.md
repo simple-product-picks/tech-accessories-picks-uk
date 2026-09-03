@@ -10,6 +10,8 @@ Looking for a charger that keeps your Samsung Galaxy S24 topped up quickly and s
 
 Scorecard: Capability 7/10 - Versatility 6/10 - Build 10/10 - Value 8/10
 
+What keeps it off a 10: A USB-C cable may not be in the box, so check what you already own before the S24 needs its first charge.
+
 The Anker 67W is the pick we would hand most S24 owners. With 67W on tap across three ports and GaN internals, it can fast-charge your S24 while still leaving headroom to top up earbuds, a watch, or a tablet at the same time. Anker is a well-established name in charging, and PPS support means it can drive the S24's fastest charging mode properly, not just basic USB-C speeds.
 
 **Pros**
@@ -34,6 +36,8 @@ The Anker 67W is the pick we would hand most S24 owners. With 67W on tap across 
 
 Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 8/10
 
+What keeps it off a 10: Once three or more gadgets need the same plug you are stuck, since only two ports are on offer here.
+
 The UGREEN 65W 2-Port keeps it simple for an S24 owner who doesn't need a third port. With 65W shared across two ports and GaN efficiency, it delivers ample power to fast-charge the S24 and run a second device such as a laptop or tablet. UGREEN is a reliable charging brand, and USB-C Power Delivery support means dependable fast charging for your phone.
 
 **Pros**
@@ -57,6 +61,8 @@ The UGREEN 65W 2-Port keeps it simple for an S24 owner who doesn't need a third 
 **SPP Score: 8.6 / 10** - 100W output, compact GaN build. Our pick for maximum capability.
 
 Scorecard: Capability 9/10 - Versatility 4/10 - Build 8/10 - Value 8/10
+
+What keeps it off a 10: It is bulkier than a basic single-port plug, so minimalist carry is where this three-port charger stops making sense.
 
 The UGREEN Nexode Pro 100W suits a busier desk, where the S24 is only one of the things on charge. Its 100W ceiling and three ports mean it can fast-charge the S24 while simultaneously powering a USB-C laptop and a second mobile device. The Nexode Pro line uses GaN for a compact footprint relative to the power on offer, and Power Delivery support covers the S24's fast-charge needs with plenty in reserve.
 

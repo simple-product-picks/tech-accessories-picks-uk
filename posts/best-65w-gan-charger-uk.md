@@ -10,6 +10,8 @@ Looking for a compact, fast wall charger to replace a bulky laptop brick? This U
 
 Scorecard: Capability 7/10 - Versatility 6/10 - Build 10/10 - Value 8/10
 
+What keeps it off a 10: Peak speed drops when all three ports are working, and it is bigger than a single-port plug for one-device users.
+
 The Anker 67W is the most versatile pick here, packing three ports into a genuinely compact body. Its two USB-C ports plus one USB-A sit on a single foldable UK plug, so it can keep a laptop, phone and a third device topped up at once. The 67W output leaves headroom for fast charging across the lot. PPS support and Anker's ActiveShield 2.0 temperature monitoring round out the package. It's also our top pick for [Samsung S24 owners](best-charger-for-samsung-s24-uk.html), whose phones use PPS for their fastest speeds.
 
 **Pros**
@@ -34,6 +36,8 @@ The Anker 67W is the most versatile pick here, packing three ports into a genuin
 
 Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 8/10
 
+What keeps it off a 10: Output is split between the two ports when both are in use, so a laptop and a phone share one 65W budget.
+
 The UGREEN 65W GaN is the everyday-carry pick: nothing clever, just a small plug that does the job. Its two ports and ultra-compact UK plug make it an easy everyday carry, and its 65W output is enough to fast-charge most modern laptops, tablets and phones. UGREEN reckons it's around half the size of a standard laptop brick, so it slips into a bag with room to spare.
 
 **Pros**
@@ -57,6 +61,8 @@ The UGREEN 65W GaN is the everyday-carry pick: nothing clever, just a small plug
 **SPP Score: 8.6 / 10** - 65W output, compact GaN build. Our pick for maximum capability.
 
 Scorecard: Capability 7/10 - Versatility 6/10 - Build 10/10 - Value 7/10
+
+What keeps it off a 10: One port means it charges a single device at a time, which rules it out for a household topping up several gadgets.
 
 The Anker Nano II 65W is the choice for travellers who want maximum single-port performance in the smallest possible package. Its GaN II technology shrinks a full 65W output into a tiny shell, and a single dedicated USB-C port keeps power focused on one device at a time. It's a focused, single-port tool rather than a multi-device hub, which is exactly why it stays so small.
 

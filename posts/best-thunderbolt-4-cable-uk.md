@@ -12,6 +12,8 @@ If you are pairing one of these with a dock, our [USB-C docking station guide](b
 
 Scorecard: Capability 10/10 - Versatility 6/10 - Build 9/10 - Value 8/10
 
+What keeps it off a 10: A metre of reach falls short of the 2m runs that only an active cable can serve at full speed.
+
 This is the cable to default to. It carries Intel's Thunderbolt 4 certification, which takes the guesswork out of the spec sheet: the full 40Gbps of data, support for an 8K display, and 240W charging are all guaranteed rather than implied. At a full metre it reaches from laptop to dock without draping slack everywhere, and the braided jacket is built for daily plugging and unplugging. Certification is exactly the kind of box worth ticking on the lead your whole desk hangs off.
 
 **Pros**
@@ -36,6 +38,8 @@ This is the cable to default to. It carries Intel's Thunderbolt 4 certification,
 
 Scorecard: Capability 10/10 - Versatility 7/10 - Build 7/10 - Value 8/10
 
+What keeps it off a 10: There is no Intel Thunderbolt certification here, so compatibility rests on the manufacturer's spec sheet, and the build is workmanlike.
+
 USB4 is the open standard Thunderbolt 4 is built on, and this UGREEN lead shows how much of that capability you can get for sensible money: 40Gbps of data, an 8K@60Hz display signal, and 240W PD3.1 charging in a 1m cable. For most desks it will behave identically to a certified Thunderbolt lead, and at the same 1m length as our certified overall pick, the only things you give up are the badge and the nicer jacket. If you want full-speed connectivity without the certification badge, this is the pick.
 
 **Pros**
@@ -59,6 +63,8 @@ USB4 is the open standard Thunderbolt 4 is built on, and this UGREEN lead shows 
 **SPP Score: 8.9 / 10** - Active Thunderbolt 4 at full 40Gbps over 2m. Our pick for maximum capability.
 
 Scorecard: Capability 10/10 - Versatility 5/10 - Build 8/10 - Value 8/10
+
+What keeps it off a 10: Its 100W charging ceiling sits below the 240W the other picks manage, and most desks never need a 2m run.
 
 Here is the dirty secret of fast cables: passive leads lose speed as they get longer, which is why most full-speed Thunderbolt cables are under a metre. Belkin's answer is an active cable, with electronics in the connectors that push the full 40Gbps across the whole 2m run. That makes it the pick for the setups shorter cables cannot serve: a laptop on a stand across the desk, a dock tucked out of sight, or clean cable routing that needs real length. It delivers 100W of charging alongside the data, and it is USB4 compliant for use beyond Thunderbolt machines. Specialist kit for a specialist problem, and nothing else here does what it does.
 

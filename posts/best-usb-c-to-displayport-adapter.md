@@ -10,6 +10,8 @@ Looking to drive a high-refresh or high-resolution monitor from a USB-C laptop, 
 
 Scorecard: Capability 9/10 - Versatility 6/10 - Build 7/10 - Value 8/10
 
+What keeps it off a 10: Video only appears if your laptop or tablet supports DisplayPort Alt Mode, and its port, not the adapter alone, sets the resolution ceiling.
+
 The UGREEN USB C to DisplayPort 1.4 Adapter is the right call for most gaming-monitor setups, with full DisplayPort 1.4 support in a compact plug-in adapter. The standard carries enough bandwidth for 4K at high refresh and supports HDR and Display Stream Compression, making this a strong match for gaming monitors and productivity multi-display work. UGREEN is a well-established name in charging and connectivity accessories, and the adapter relies on your device's USB-C DisplayPort Alt Mode to pass a clean video signal.
 
 **Pros**
@@ -34,6 +36,8 @@ The UGREEN USB C to DisplayPort 1.4 Adapter is the right call for most gaming-mo
 
 Scorecard: Capability 9/10 - Versatility 6/10 - Build 7/10 - Value 8/10
 
+What keeps it off a 10: Length is fixed at 2m, so you cannot swap in a shorter or longer run the way an adapter plus your own cable allows.
+
 The UGREEN USB C to DisplayPort 1.4 Cable (8K, 2m) is the smart-money option, replacing a separate adapter and cable with one direct USB-C to DisplayPort lead. DisplayPort 1.4 carries the bandwidth for 8K at 60Hz or 4K at 240Hz, so it suits both high-resolution desktops and fast-refresh gaming displays. FreeSync and G-Sync compatibility helps keep motion tearing-free on supported monitors, and the 2m length gives room to route from a laptop or tower to a desk-mounted screen. As with any USB-C video connection, your host device needs DisplayPort Alt Mode support.
 
 **Pros**
@@ -57,6 +61,8 @@ The UGREEN USB C to DisplayPort 1.4 Cable (8K, 2m) is the smart-money option, re
 **SPP Score: 8.9 / 10** - DisplayPort 2.1 bandwidth, plug-and-play simplicity. Our pick for maximum capability.
 
 Scorecard: Capability 10/10 - Versatility 6/10 - Build 7/10 - Value 8/10
+
+What keeps it off a 10: You see the full 80Gbps only when both host device and monitor support the standard; a basic 4K setup gains nothing.
 
 The Cable Matters USB C to DisplayPort 2.1 Adapter (80Gbps) is the headroom pick for demanding setups. DisplayPort 2.1 with the 80Gbps rating in its name opens the door to very high resolutions and refresh rates well beyond what DisplayPort 1.4 can manage, making it well suited to the newest high-end monitors. If your next monitor upgrade is the whole point of the purchase, this is the adapter with the most headroom.
 

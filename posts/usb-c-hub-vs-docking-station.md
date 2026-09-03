@@ -12,6 +12,8 @@ A USB C hub is small, bus-powered and great for travel, adding a few ports throu
 
 Scorecard: Capability 10/10 - Versatility 10/10 - Build 7/10 - Value 8/10
 
+What keeps it off a 10: The spare USB-C data port tops out at 5Gbps, so this is not the dock for fast external SSDs.
+
 The Revodok Pro 210 leans into the docking-station side, making the dock camp's whole argument in one box: dual HDMI rated for 4K@60Hz, wired Ethernet and 100W Power Delivery passthrough are exactly the three things a compact hub usually gives up. If those are on your list, you've already answered the hub-or-dock question. UGREEN is a well-established name in this category, and a 10-in-1 layout covers the most common home and office needs without cable sprawl.
 
 **Pros**
@@ -36,6 +38,8 @@ The Revodok Pro 210 leans into the docking-station side, making the dock camp's 
 
 Scorecard: Capability 7/10 - Versatility 9/10 - Build 8/10 - Value 8/10
 
+What keeps it off a 10: It carries fewer ports than a full 10-in-1 docking station, which is the trade you accept for something this compact.
+
 This 7-in-1 Anker is the hub camp's best case: the everyday essentials with none of the bulk. The 4K HDMI output handles a single external monitor cleanly, while the 85W Power Delivery passthrough means your laptop can charge through the same hub as it runs your peripherals. Anker is a familiar name in charging and connectivity, and this layout hits the sweet spot between portability and capability.
 
 **Pros**
@@ -59,6 +63,8 @@ This 7-in-1 Anker is the hub camp's best case: the everyday essentials with none
 **SPP Score: 9.2 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
 
 Scorecard: Capability 9/10 - Versatility 9/10 - Build 8/10 - Value 8/10
+
+What keeps it off a 10: Anker rates passthrough at 85W, which the hungriest workstation laptops can outrun, leaving them on their own charger.
 
 This 8-in-1 Anker is the halfway house the hub-or-dock debate forgets: wired Ethernet and 10Gbps data, the two things travel hubs usually skip, in a body that still fits a bag. For plenty of people it dissolves the choice entirely.
 

@@ -10,6 +10,8 @@ The Steam Deck has a single USB-C port, so a good hub turns it into a proper des
 
 Scorecard: Capability 7/10 - Versatility 9/10 - Build 7/10 - Value 8/10
 
+What keeps it off a 10: Charging through the hub can run slightly slower than plugging the Deck's own charger straight into it.
+
 This UGREEN Revodok packs the essentials a Steam Deck owner actually needs into one tidy unit: HDMI for the TV or a monitor, Gigabit Ethernet for stable downloads and online play, multiple USB-A ports for controllers and accessories, an SD slot, and USB-C power delivery to keep the Deck charged while you game. It's the sensible first port of call for anyone who wants TV play and charging from a single connection.
 
 **Pros**
@@ -35,6 +37,8 @@ This UGREEN Revodok packs the essentials a Steam Deck owner actually needs into 
 
 Scorecard: Capability 6/10 - Versatility 8/10 - Build 9/10 - Value 8/10
 
+What keeps it off a 10: Downloads fall back on Wi-Fi with no Ethernet port here, and accessory-heavy setups can run out of USB-A.
+
 The Anker 5-in-1 is the sensible-value choice that covers the essentials for couch gaming: 4K HDMI out to the telly, USB-A ports for wired controllers or a keyboard and mouse, and USB-C power delivery to keep the Deck topped up. It's compact, so it slips into a bag for travel or sits unobtrusively behind the TV. Anker is a well-established name in charging accessories, which is reassuring for a port you use every day.
 
 **Pros**
@@ -59,6 +63,8 @@ The Anker 5-in-1 is the sensible-value choice that covers the essentials for cou
 **SPP Score: 9.3 / 10** - 10-in-1 connectivity, wired Ethernet. Our pick for maximum capability.
 
 Scorecard: Capability 10/10 - Versatility 10/10 - Build 7/10 - Value 8/10
+
+What keeps it off a 10: For a Deck that only ever plugs into the telly, this dock brings more ports than that setup will use.
 
 The Revodok Pro 210 is the do-it-all dock, turning a Steam Deck into a full desktop station. With its ten functions spanning HDMI, wired Ethernet, additional USB-C and USB-A ports, card slots, and USB-C power delivery, it handles a complete monitor-keyboard-mouse-network setup from one connection. The broad port array makes it the most capable choice here for anyone who docks the Deck as a daily machine. Torn between a hub and a full dock? Our [USB-C hub vs docking station](usb-c-hub-vs-docking-station.html) explainer settles it.
 

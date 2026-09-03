@@ -10,6 +10,8 @@ A magnetic power bank snaps onto the back of an iPhone and charges it with no ca
 
 Scorecard: Capability 6/10 - Versatility 8/10 - Build 9/10 - Value 8/10
 
+What keeps it off a 10: Wireless charging stops at 15W here, so an iPhone 16 or 17 that could take the newer 25W class goes no faster.
+
 The MagGo is the magnetic bank that earns a place on the desk as well as in a bag. Because it's Qi2-certified you get the standard's proper 15W, not the 7.5W of loosely "MagSafe-compatible" slabs. The foldable stand turns out to be the sleeper feature - plane tray, desk, bedside, wherever the phone needs propping while it drinks - and the small display takes the guesswork out of what's left. When speed beats convenience, Anker rates the wired USB-C port at up to 27W.
 
 **Pros**
@@ -34,6 +36,8 @@ The MagGo is the magnetic bank that earns a place on the desk as well as in a ba
 
 Scorecard: Capability 4/10 - Versatility 7/10 - Build 8/10 - Value 7/10
 
+What keeps it off a 10: At 5000mAh you get roughly one fast top-up, so heavy users needing a full charge in reserve should size up.
+
 The budget route into real Qi2 is also the one you'll forget you're carrying: a 5000mAh pack slim enough to stay snapped on the phone in a pocket without turning it into a brick. It charges at the full Qi2 15W, and INIU's listing includes a USB-C cable and a stand in the box, which is generous at this end of the market. Half the capacity of the other two picks is the honest trade: this is the top-up-and-go option, not the all-weekend one. If you'd rather skip the magnets entirely, our [power bank under 30 guide](best-power-bank-under-30-uk.html) covers the wired budget end.
 
 **Pros**
@@ -57,6 +61,8 @@ The budget route into real Qi2 is also the one you'll forget you're carrying: a 
 **SPP Score: 8.5 / 10** - Qi2 25W wireless with a built-in USB-C cable and battery display. Our pick for maximum capability.
 
 Scorecard: Capability 7/10 - Versatility 8/10 - Build 7/10 - Value 7/10
+
+What keeps it off a 10: Its built-in cable cannot be swapped if it frays, and older iPhones cap the magnetic charging at 15W rather than the full 25W.
 
 The MagFlow is the pick for the newest iPhones. It carries the Qi2 25W standard, which UGREEN pitches as its fastest magnetic charging for the iPhone 16 and 17 era - a different league from 7.5W slabs. A built-in USB-C cable handles wired charging at PD 30W, and a battery display keeps the guesswork out. On an older iPhone it still works magnetically, just at the 15W the phone itself allows.
 
