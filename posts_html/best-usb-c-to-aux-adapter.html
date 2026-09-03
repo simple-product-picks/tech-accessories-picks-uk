@@ -54,7 +54,7 @@
       "name": "Apple USB-C to 3.5mm Headphone Jack Adapter",
       "review": {
         "@type": "Review",
-        "reviewRating": { "@type": "Rating", "ratingValue": "8.5", "bestRating": "10", "worstRating": "1" },
+        "reviewRating": { "@type": "Rating", "ratingValue": "8.3", "bestRating": "10", "worstRating": "1" },
         "author": { "@type": "Organization", "name": "Simple Product Picks" }
       }
     },
@@ -64,7 +64,7 @@
       "name": "UGREEN Hi-Res DAC USB C to 3.5mm Adapter (32bit/384kHz)",
       "review": {
         "@type": "Review",
-        "reviewRating": { "@type": "Rating", "ratingValue": "8.4", "bestRating": "10", "worstRating": "1" },
+        "reviewRating": { "@type": "Rating", "ratingValue": "8.3", "bestRating": "10", "worstRating": "1" },
         "author": { "@type": "Organization", "name": "Simple Product Picks" }
       }
     }
@@ -185,13 +185,13 @@
             <tr>
               <td class="cell-row"><b>Best budget</b></td>
               <td class="cell-row">Apple USB-C to 3.5mm Headphone Jack Adapter</td>
-              <td class="cell-row"><b>8.5</b> / 10</td>
+              <td class="cell-row"><b>8.3</b> / 10</td>
               <td class="cell-row"><a class="cta-link" href="https://www.amazon.co.uk/dp/B0D7MN4W7H?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price on Amazon UK</a></td>
             </tr>
             <tr>
               <td class="cell"><b>Best premium</b></td>
               <td class="cell">UGREEN Hi-Res DAC USB C to 3.5mm Adapter (32bit/384kHz)</td>
-              <td class="cell"><b>8.4</b> / 10</td>
+              <td class="cell"><b>8.3</b> / 10</td>
               <td class="cell"><a class="cta-link" href="https://www.amazon.co.uk/dp/B0CG5FTHT9?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price on Amazon UK</a></td>
             </tr>
           </tbody>
@@ -222,7 +222,7 @@
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B082WG5VTK?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>2. Apple USB-C to 3.5mm Headphone Jack Adapter - Best Budget</h3>
-<p><strong>SPP Score: 8.5 / 10</strong> - The plainest route to a respected DAC. Our value pick.</p>
+<p><strong>SPP Score: 8.3 / 10</strong> - The plainest route to a respected DAC. Our value pick.</p>
 <p class="spp-breakdown">Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 8/10</p>
 <p class="spp-off-ten"><b>What keeps it off a 10:</b> Nothing sits on the cable itself, so calls, volume and track skips all happen on the phone, and it is easy to lose.</p>
 <p>The budget slot goes to the least glamorous product Apple makes, and it&#39;s earned it. This is a one-piece moulded dongle with nothing detachable to work loose and no buttons to break, and Apple&#39;s own inline DAC handles the conversion. It&#39;s plug-and-play on USB-C iPhones, iPads and Macs, and in practice on most other USB-C phones and laptops too. At this end of the market, it&#39;s simply the easiest way to get wired audio back from a converter people actually rate. What you give up is extras: there are no in-line controls, so calls and volume happen on the phone.</p>
@@ -242,7 +242,7 @@
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B0D7MN4W7H?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>3. UGREEN Hi-Res DAC USB C to 3.5mm Adapter (32bit/384kHz) - Best Premium</h3>
-<p><strong>SPP Score: 8.4 / 10</strong> - Hi-Res 32bit/384kHz DAC in a braided aluminium build. Our pick for maximum capability.</p>
+<p><strong>SPP Score: 8.3 / 10</strong> - Hi-Res 32bit/384kHz DAC in a braided aluminium build. Our pick for maximum capability.</p>
 <p class="spp-breakdown">Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 7/10</p>
 <p class="spp-off-ten"><b>What keeps it off a 10:</b> Feed it standard streaming or everyday earbuds and you may not hear what the higher-spec conversion adds over the overall pick.</p>
 <p>This is the same UGREEN dongle idea as our overall pick with a better converter inside: UGREEN rates this DAC at 32bit/384kHz, up from the 24bit/96kHz it quotes for the standard adapter. With decent wired headphones and hi-res files or a lossless streaming tier, that conversion headroom is what the upgrade buys. Mic and in-line control support is on board for calls, and the braided cable with an aluminium shell is made for a life on a keyring or in a coat pocket.</p>
@@ -332,7 +332,9 @@ A: These are headphone-only adapters with no charging port, so if you need to ch
         const cells = rows[0].querySelectorAll("td");
         if (cells.length >= 4) {
           const tier = cells[0] ? cells[0].textContent.trim() : "";
-          const name = cells[1] ? cells[1].textContent.trim() : "";
+          const nameCell = cells[1] ? cells[1].cloneNode(true) : null;
+          if (nameCell) nameCell.querySelectorAll(".hands-on").forEach(function (b) { b.remove(); });
+          const name = nameCell ? nameCell.textContent.trim() : "";
           const link = cells[3] ? cells[3].querySelector("a") : null;
           const labelEl = document.getElementById("sticky-label");
           const btnEl = document.getElementById("sticky-btn");

@@ -64,7 +64,7 @@
       "name": "Anker USB C Hub 8-in-1 with Ethernet and 10Gbps",
       "review": {
         "@type": "Review",
-        "reviewRating": { "@type": "Rating", "ratingValue": "9.2", "bestRating": "10", "worstRating": "1" },
+        "reviewRating": { "@type": "Rating", "ratingValue": "8.9", "bestRating": "10", "worstRating": "1" },
         "author": { "@type": "Organization", "name": "Simple Product Picks" }
       }
     }
@@ -191,7 +191,7 @@
             <tr>
               <td class="cell"><b>Best premium</b></td>
               <td class="cell">Anker USB C Hub 8-in-1 with Ethernet and 10Gbps</td>
-              <td class="cell"><b>9.2</b> / 10</td>
+              <td class="cell"><b>8.9</b> / 10</td>
               <td class="cell"><a class="cta-link" href="https://www.amazon.co.uk/dp/B087QZVQJX?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price on Amazon UK</a></td>
             </tr>
           </tbody>
@@ -242,7 +242,7 @@
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B09XZTG91F?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>3. Anker USB C Hub 8-in-1 with Ethernet and 10Gbps - Best Premium</h3>
-<p><strong>SPP Score: 9.2 / 10</strong> - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.</p>
+<p><strong>SPP Score: 8.9 / 10</strong> - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.</p>
 <p class="spp-breakdown">Capability 9/10 - Versatility 9/10 - Build 8/10 - Value 8/10</p>
 <p class="spp-off-ten"><b>What keeps it off a 10:</b> Eight functions add size and weight that a casual iPad user who only wants HDMI will simply carry around.</p>
 <p>If your iPad Pro workflow means moving large video files to an external SSD, the 10Gbps USB-C and USB-A ports on this Anker 8-in-1 are the reason to step up, alongside HDMI output and wired Ethernet. Slower hubs bottleneck exactly there, so the extra bandwidth is the difference you&#39;ll actually feel. With eight functions in one unit, it suits demanding setups that need every connection covered at once.</p>
@@ -332,7 +332,9 @@ A: Only if you regularly move large files to and from an external SSD; for every
         const cells = rows[0].querySelectorAll("td");
         if (cells.length >= 4) {
           const tier = cells[0] ? cells[0].textContent.trim() : "";
-          const name = cells[1] ? cells[1].textContent.trim() : "";
+          const nameCell = cells[1] ? cells[1].cloneNode(true) : null;
+          if (nameCell) nameCell.querySelectorAll(".hands-on").forEach(function (b) { b.remove(); });
+          const name = nameCell ? nameCell.textContent.trim() : "";
           const link = cells[3] ? cells[3].querySelector("a") : null;
           const labelEl = document.getElementById("sticky-label");
           const btnEl = document.getElementById("sticky-btn");

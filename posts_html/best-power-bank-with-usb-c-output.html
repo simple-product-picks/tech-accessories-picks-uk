@@ -64,7 +64,7 @@
       "name": "Anker Prime Power Bank 20100mAh 220W",
       "review": {
         "@type": "Review",
-        "reviewRating": { "@type": "Rating", "ratingValue": "9.0", "bestRating": "10", "worstRating": "1" },
+        "reviewRating": { "@type": "Rating", "ratingValue": "8.7", "bestRating": "10", "worstRating": "1" },
         "author": { "@type": "Organization", "name": "Simple Product Picks" }
       }
     }
@@ -191,7 +191,7 @@
             <tr>
               <td class="cell"><b>Best premium</b></td>
               <td class="cell">Anker Prime Power Bank 20100mAh 220W</td>
-              <td class="cell"><b>9.0</b> / 10</td>
+              <td class="cell"><b>8.7</b> / 10</td>
               <td class="cell"><a class="cta-link" href="https://www.amazon.co.uk/dp/B0F66NH2ZX?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price on Amazon UK</a></td>
             </tr>
           </tbody>
@@ -242,7 +242,7 @@
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B0CZ9M6X8Q?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>3. Anker Prime Power Bank 20100mAh 220W - Best Premium</h3>
-<p><strong>SPP Score: 9.0 / 10</strong> - 20100mAh with 220W total output and 140W from a single port. Our pick for maximum capability.</p>
+<p><strong>SPP Score: 8.7 / 10</strong> - 20100mAh with 220W total output and 140W from a single port. Our pick for maximum capability.</p>
 <p class="spp-breakdown">Capability 10/10 - Versatility 6/10 - Build 8/10 - Value 8/10</p>
 <p class="spp-off-ten"><b>What keeps it off a 10:</b> Size and output are overkill if you only ever top up a phone, and travelling light is not what this pack is for.</p>
 <p>This is the ceiling of what a 20000mAh-class bank can push out over USB-C. Anker rates the Prime&#39;s total output at 220W, with either USB-C port capable of 140W on its own - enough to feed a 16-inch laptop at full speed while the second port fast-charges a phone. A USB-A port covers legacy leads, the display reads out live wattage, and the companion app keeps those numbers on your phone. If USB-C output is the spec you&#39;re buying on, nothing else here comes close.</p>
@@ -332,7 +332,9 @@ A: The UGREEN Nexode and the Anker Zolo here have a built-in USB-C cable, so a l
         const cells = rows[0].querySelectorAll("td");
         if (cells.length >= 4) {
           const tier = cells[0] ? cells[0].textContent.trim() : "";
-          const name = cells[1] ? cells[1].textContent.trim() : "";
+          const nameCell = cells[1] ? cells[1].cloneNode(true) : null;
+          if (nameCell) nameCell.querySelectorAll(".hands-on").forEach(function (b) { b.remove(); });
+          const name = nameCell ? nameCell.textContent.trim() : "";
           const link = cells[3] ? cells[3].querySelector("a") : null;
           const labelEl = document.getElementById("sticky-label");
           const btnEl = document.getElementById("sticky-btn");

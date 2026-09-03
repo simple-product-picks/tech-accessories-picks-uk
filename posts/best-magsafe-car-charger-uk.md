@@ -58,7 +58,7 @@ The ESR HaloLock is the sensible-value choice that covers the essentials: MagSaf
 
 ### 3. Belkin BoostCharge Pro MagSafe Car Charger (Qi2 15W) - Best Premium
 
-**SPP Score: 9.0 / 10** - Qi2 15W wireless charging with an air-vent mount and included 1.5m USB-C cable. Our pick for maximum capability.
+**SPP Score: 8.8 / 10** - Qi2 15W wireless charging with an air-vent mount and included 1.5m USB-C cable. Our pick for maximum capability.
 
 Scorecard: Capability 9/10 - Versatility 8/10 - Build 8/10 - Value 8/10
 

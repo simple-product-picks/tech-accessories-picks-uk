@@ -64,7 +64,7 @@
       "name": "Anker 140W 4-Port GaN Charger (Smart Display)",
       "review": {
         "@type": "Review",
-        "reviewRating": { "@type": "Rating", "ratingValue": "9.1", "bestRating": "10", "worstRating": "1" },
+        "reviewRating": { "@type": "Rating", "ratingValue": "8.9", "bestRating": "10", "worstRating": "1" },
         "author": { "@type": "Organization", "name": "Simple Product Picks" }
       }
     }
@@ -191,7 +191,7 @@
             <tr>
               <td class="cell"><b>Best premium</b></td>
               <td class="cell">Anker 140W 4-Port GaN Charger (Smart Display)</td>
-              <td class="cell"><b>9.1</b> / 10</td>
+              <td class="cell"><b>8.9</b> / 10</td>
               <td class="cell"><a class="cta-link" href="https://www.amazon.co.uk/dp/B0DPKP7RD8?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price on Amazon UK</a></td>
             </tr>
           </tbody>
@@ -242,7 +242,7 @@
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B091N7FVDL?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>3. Anker 140W 4-Port GaN Charger (Smart Display) - Best Premium</h3>
-<p><strong>SPP Score: 9.1 / 10</strong> - 140W PD 3.1 output, 4-port layout, smart display. Our pick for maximum capability.</p>
+<p><strong>SPP Score: 8.9 / 10</strong> - 140W PD 3.1 output, 4-port layout, smart display. Our pick for maximum capability.</p>
 <p class="spp-breakdown">Capability 10/10 - Versatility 6/10 - Build 9/10 - Value 8/10</p>
 <p class="spp-off-ten"><b>What keeps it off a 10:</b> You only see the full 140W when one high-draw laptop has the output to itself, and it is overkill if nothing you own charges above 100W.</p>
 <p>This is the step past the 100W class. The Anker 140W can push its full output through a single USB-C port using PD 3.1, which is what a 16-inch MacBook Pro needs to charge at the speed its own brick manages. You get four ports (three USB-C plus one USB-A) against the overall pick&#39;s three, and the smart-display idea grows into a small touchscreen with touch controls showing live output. If your laptop is the hungry kind, this is the one brick in the guide that never holds it back.</p>
@@ -332,7 +332,9 @@ A: Yes, you need a USB-C to <a href="best-usb-c-cable-for-fast-charging.html">US
         const cells = rows[0].querySelectorAll("td");
         if (cells.length >= 4) {
           const tier = cells[0] ? cells[0].textContent.trim() : "";
-          const name = cells[1] ? cells[1].textContent.trim() : "";
+          const nameCell = cells[1] ? cells[1].cloneNode(true) : null;
+          if (nameCell) nameCell.querySelectorAll(".hands-on").forEach(function (b) { b.remove(); });
+          const name = nameCell ? nameCell.textContent.trim() : "";
           const link = cells[3] ? cells[3].querySelector("a") : null;
           const labelEl = document.getElementById("sticky-label");
           const btnEl = document.getElementById("sticky-btn");

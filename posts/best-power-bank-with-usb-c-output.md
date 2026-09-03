@@ -58,7 +58,7 @@ The Anker Zolo Power Bank 10000mAh 30W covers the essentials without the bulk. I
 
 ### 3. Anker Prime Power Bank 20100mAh 220W - Best Premium
 
-**SPP Score: 9.0 / 10** - 20100mAh with 220W total output and 140W from a single port. Our pick for maximum capability.
+**SPP Score: 8.7 / 10** - 20100mAh with 220W total output and 140W from a single port. Our pick for maximum capability.
 
 Scorecard: Capability 10/10 - Versatility 6/10 - Build 8/10 - Value 8/10
 

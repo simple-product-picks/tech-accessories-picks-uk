@@ -32,7 +32,7 @@ UGREEN is a well-established maker of charging and audio accessories, and this U
 
 ### 2. Apple USB-C to 3.5mm Headphone Jack Adapter - Best Budget
 
-**SPP Score: 8.5 / 10** - The plainest route to a respected DAC. Our value pick.
+**SPP Score: 8.3 / 10** - The plainest route to a respected DAC. Our value pick.
 
 Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 8/10
 
@@ -58,7 +58,7 @@ The budget slot goes to the least glamorous product Apple makes, and it's earned
 
 ### 3. UGREEN Hi-Res DAC USB C to 3.5mm Adapter (32bit/384kHz) - Best Premium
 
-**SPP Score: 8.4 / 10** - Hi-Res 32bit/384kHz DAC in a braided aluminium build. Our pick for maximum capability.
+**SPP Score: 8.3 / 10** - Hi-Res 32bit/384kHz DAC in a braided aluminium build. Our pick for maximum capability.
 
 Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 7/10
 

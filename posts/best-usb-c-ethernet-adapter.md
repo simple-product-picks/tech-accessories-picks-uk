@@ -58,7 +58,7 @@ The sensible-value choice that covers the essentials without any extras you don'
 
 ### 3. UGREEN USB C to 5G Ethernet Adapter - Best Premium
 
-**SPP Score: 8.8 / 10** - 5Gbps wired Ethernet over USB-C, plug-and-play. Our pick for maximum capability.
+**SPP Score: 8.6 / 10** - 5Gbps wired Ethernet over USB-C, plug-and-play. Our pick for maximum capability.
 
 Scorecard: Capability 9/10 - Versatility 6/10 - Build 7/10 - Value 8/10
 

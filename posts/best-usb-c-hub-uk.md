@@ -58,7 +58,7 @@ If your desk is really just a monitor, a couple of USB accessories and the lapto
 
 ### 3. UGREEN Revodok Pro 210 USB C Docking Station (10-in-1) - Best Premium
 
-**SPP Score: 9.3 / 10** - A 10-in-1 dock that runs the whole desk. Our pick for maximum capability.
+**SPP Score: 8.8 / 10** - A 10-in-1 dock that runs the whole desk. Our pick for maximum capability.
 
 Scorecard: Capability 10/10 - Versatility 10/10 - Build 7/10 - Value 8/10
 

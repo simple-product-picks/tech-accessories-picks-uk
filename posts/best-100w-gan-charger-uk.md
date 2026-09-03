@@ -58,7 +58,7 @@ The UGREEN Nexode 100W wins this trio on port count, and that's exactly the poin
 
 ### 3. Anker 140W 4-Port GaN Charger (Smart Display) - Best Premium
 
-**SPP Score: 9.1 / 10** - 140W PD 3.1 output, 4-port layout, smart display. Our pick for maximum capability.
+**SPP Score: 8.9 / 10** - 140W PD 3.1 output, 4-port layout, smart display. Our pick for maximum capability.
 
 Scorecard: Capability 10/10 - Versatility 6/10 - Build 9/10 - Value 8/10
 

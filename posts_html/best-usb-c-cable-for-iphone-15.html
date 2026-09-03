@@ -54,7 +54,7 @@
       "name": "UGREEN USB C to USB C Cable 100W (2-Pack, 0.5m)",
       "review": {
         "@type": "Review",
-        "reviewRating": { "@type": "Rating", "ratingValue": "8.5", "bestRating": "10", "worstRating": "1" },
+        "reviewRating": { "@type": "Rating", "ratingValue": "8.4", "bestRating": "10", "worstRating": "1" },
         "author": { "@type": "Organization", "name": "Simple Product Picks" }
       }
     },
@@ -64,7 +64,7 @@
       "name": "Anker 515 USB4 Cable 240W (1m, 40Gbps)",
       "review": {
         "@type": "Review",
-        "reviewRating": { "@type": "Rating", "ratingValue": "9.0", "bestRating": "10", "worstRating": "1" },
+        "reviewRating": { "@type": "Rating", "ratingValue": "8.4", "bestRating": "10", "worstRating": "1" },
         "author": { "@type": "Organization", "name": "Simple Product Picks" }
       }
     }
@@ -185,13 +185,13 @@
             <tr>
               <td class="cell-row"><b>Best budget</b></td>
               <td class="cell-row">UGREEN USB C to USB C Cable 100W (2-Pack, 0.5m)</td>
-              <td class="cell-row"><b>8.5</b> / 10</td>
+              <td class="cell-row"><b>8.4</b> / 10</td>
               <td class="cell-row"><a class="cta-link" href="https://www.amazon.co.uk/dp/B0BLXKTJ8P?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price on Amazon UK</a></td>
             </tr>
             <tr>
               <td class="cell"><b>Best premium</b></td>
               <td class="cell">Anker 515 USB4 Cable 240W (1m, 40Gbps)</td>
-              <td class="cell"><b>9.0</b> / 10</td>
+              <td class="cell"><b>8.4</b> / 10</td>
               <td class="cell"><a class="cta-link" href="https://www.amazon.co.uk/dp/B09YM3V7NX?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price on Amazon UK</a></td>
             </tr>
           </tbody>
@@ -222,7 +222,7 @@
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B07V8S73GD?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>2. UGREEN USB C to USB C Cable 100W (2-Pack, 0.5m) - Best Budget</h3>
-<p><strong>SPP Score: 8.5 / 10</strong> - Two compact 0.5m braided cables rated for 100W/65W fast charging. Our value pick.</p>
+<p><strong>SPP Score: 8.4 / 10</strong> - Two compact 0.5m braided cables rated for 100W/65W fast charging. Our value pick.</p>
 <p class="spp-breakdown">Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 8/10</p>
 <p class="spp-off-ten"><b>What keeps it off a 10:</b> Both leads run to just 0.5m, which is awkward if the socket sits well away from where you actually sit.</p>
 <p>The value choice here is this UGREEN two-pack, which covers the essentials without fuss. Getting two braided USB-C to USB-C cables in one go means you can keep one by the bed and one in a bag, or have a spare ready when one wanders off. Both are a short 0.5m, which is tidy for a <a href="best-power-bank-for-iphone-15.html">power bank</a> in a pocket, a bedside socket, or a laptop bag where a long lead just tangles. They carry 100W/65W fast charging, so an iPhone 15 charges without the cable holding it back.</p>
@@ -242,7 +242,7 @@
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B0BLXKTJ8P?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>3. Anker 515 USB4 Cable 240W (1m, 40Gbps) - Best Premium</h3>
-<p><strong>SPP Score: 9.0 / 10</strong> - USB4 with 240W charging and 40Gbps data in a 1m lead. Our pick for maximum capability.</p>
+<p><strong>SPP Score: 8.4 / 10</strong> - USB4 with 240W charging and 40Gbps data in a 1m lead. Our pick for maximum capability.</p>
 <p class="spp-breakdown">Capability 10/10 - Versatility 6/10 - Build 8/10 - Value 8/10</p>
 <p class="spp-off-ten"><b>What keeps it off a 10:</b> On a standard iPhone 15 the data speed goes to waste, because the phone itself is USB 2.0 whatever cable you use.</p>
 <p>This is the everything-cable. Anker&#39;s 515 carries USB4, which means 240W charging headroom and 40Gbps data down the same 1m lead. For an iPhone 15 Pro or Pro Max that data path matters: ProRes clips offload over a wired connection many times faster than on the USB 2.0 leads most people charge with (the Pro models support USB 3 speeds; the standard iPhone 15 sticks to USB 2.0 whatever the cable). It also covers the rest of the desk - the same lead drives laptop charging, fast SSDs, and, per Anker&#39;s rating, even an 8K display.</p>
@@ -332,7 +332,9 @@ A: Braided cables tend to resist fraying, kinking, and everyday wear better than
         const cells = rows[0].querySelectorAll("td");
         if (cells.length >= 4) {
           const tier = cells[0] ? cells[0].textContent.trim() : "";
-          const name = cells[1] ? cells[1].textContent.trim() : "";
+          const nameCell = cells[1] ? cells[1].cloneNode(true) : null;
+          if (nameCell) nameCell.querySelectorAll(".hands-on").forEach(function (b) { b.remove(); });
+          const name = nameCell ? nameCell.textContent.trim() : "";
           const link = cells[3] ? cells[3].querySelector("a") : null;
           const labelEl = document.getElementById("sticky-label");
           const btnEl = document.getElementById("sticky-btn");

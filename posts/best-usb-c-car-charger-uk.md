@@ -58,7 +58,7 @@ INIU's 66W car charger splits its output across two ports: a USB-C at 36W and a 
 
 ### 3. UGREEN 150W USB C Car Charger PD140W 4-Port - Best Premium
 
-**SPP Score: 8.9 / 10** - 150W total PD140W (USB-C), 4 ports, cigarette lighter adapter. Our pick for maximum capability.
+**SPP Score: 8.5 / 10** - 150W total PD140W (USB-C), 4 ports, cigarette lighter adapter. Our pick for maximum capability.
 
 Scorecard: Capability 10/10 - Versatility 6/10 - Build 7/10 - Value 8/10
 

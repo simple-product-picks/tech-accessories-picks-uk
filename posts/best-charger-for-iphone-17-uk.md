@@ -58,7 +58,7 @@ The measured figures make this the interesting pick. If an iPhone 17 draws in th
 
 ### 3. UGREEN Nexode 65W GaN Charger (3-Port) - Best Premium
 
-**SPP Score: 8.5 / 10** - 65W GaN. Our pick for maximum capability.
+**SPP Score: 8.4 / 10** - 65W GaN. Our pick for maximum capability.
 
 Scorecard: Capability 7/10 - Versatility 6/10 - Build 9/10 - Value 7/10
 

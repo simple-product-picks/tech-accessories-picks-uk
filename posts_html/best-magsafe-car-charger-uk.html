@@ -64,7 +64,7 @@
       "name": "Belkin BoostCharge Pro MagSafe Car Charger (Qi2 15W)",
       "review": {
         "@type": "Review",
-        "reviewRating": { "@type": "Rating", "ratingValue": "9.0", "bestRating": "10", "worstRating": "1" },
+        "reviewRating": { "@type": "Rating", "ratingValue": "8.8", "bestRating": "10", "worstRating": "1" },
         "author": { "@type": "Organization", "name": "Simple Product Picks" }
       }
     }
@@ -191,7 +191,7 @@
             <tr>
               <td class="cell"><b>Best premium</b></td>
               <td class="cell">Belkin BoostCharge Pro MagSafe Car Charger (Qi2 15W)</td>
-              <td class="cell"><b>9.0</b> / 10</td>
+              <td class="cell"><b>8.8</b> / 10</td>
               <td class="cell"><a class="cta-link" href="https://www.amazon.co.uk/dp/B0DHHJPY5M?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price on Amazon UK</a></td>
             </tr>
           </tbody>
@@ -242,7 +242,7 @@
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B08HNBHSQV?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h3>3. Belkin BoostCharge Pro MagSafe Car Charger (Qi2 15W) - Best Premium</h3>
-<p><strong>SPP Score: 9.0 / 10</strong> - Qi2 15W wireless charging with an air-vent mount and included 1.5m USB-C cable. Our pick for maximum capability.</p>
+<p><strong>SPP Score: 8.8 / 10</strong> - Qi2 15W wireless charging with an air-vent mount and included 1.5m USB-C cable. Our pick for maximum capability.</p>
 <p class="spp-breakdown">Capability 9/10 - Versatility 8/10 - Build 8/10 - Value 8/10</p>
 <p class="spp-off-ten"><b>What keeps it off a 10:</b> Even Qi2 15W wireless trails a cable for rapid top-ups, and it is more kit than a simpler setup needs.</p>
 <p>Belkin&#39;s BoostCharge Pro is the step-up option, bringing the newer Qi2 standard to your car. Magnetic snap-on alignment pairs with up to 15W of wireless output for compatible iPhones. It mounts to your car&#39;s air vent and doubles as a holder, keeping your phone where you can see it for navigation while it tops up. A 1.5m <a href="best-usb-c-cable-for-fast-charging.html">USB-C cable</a> is included in the box, and the MagSafe-compatible magnetic hold keeps the phone in the optimal charging position. For drivers who want the most capable charge on offer here, the faster Qi2 15W output is the reason to move up from the all-round pick.</p>
@@ -332,7 +332,9 @@ A: For top-ups during a typical drive it&#39;s usually fine, though wired chargi
         const cells = rows[0].querySelectorAll("td");
         if (cells.length >= 4) {
           const tier = cells[0] ? cells[0].textContent.trim() : "";
-          const name = cells[1] ? cells[1].textContent.trim() : "";
+          const nameCell = cells[1] ? cells[1].cloneNode(true) : null;
+          if (nameCell) nameCell.querySelectorAll(".hands-on").forEach(function (b) { b.remove(); });
+          const name = nameCell ? nameCell.textContent.trim() : "";
           const link = cells[3] ? cells[3].querySelector("a") : null;
           const labelEl = document.getElementById("sticky-label");
           const btnEl = document.getElementById("sticky-btn");

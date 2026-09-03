@@ -58,7 +58,7 @@ The UGREEN USB C to DisplayPort 1.4 Cable (8K, 2m) is the smart-money option, re
 
 ### 3. Cable Matters USB C to DisplayPort 2.1 Adapter (80Gbps) - Best Premium
 
-**SPP Score: 8.9 / 10** - DisplayPort 2.1 bandwidth, plug-and-play simplicity. Our pick for maximum capability.
+**SPP Score: 8.8 / 10** - DisplayPort 2.1 bandwidth, plug-and-play simplicity. Our pick for maximum capability.
 
 Scorecard: Capability 10/10 - Versatility 6/10 - Build 7/10 - Value 8/10
 
