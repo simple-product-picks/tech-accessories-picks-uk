@@ -10,7 +10,7 @@ Long-haul travel drains devices fast, and most aircraft seats give you nothing r
 
 Scorecard: Capability 10/10 - Versatility 7/10 - Build 9/10 - Value 8/10
 
-Hands-on: We own this one and it is the bank we take on long flights: the built-in retractable cables mean three devices charge at once with nothing extra to carry (Versatility 5 to 7), and it has held up to daily use and travel without wear (Build 8 to 9).
+Hands-on: We own this one and it is the bank we take on long flights: two built-in retractable USB-C cables plus a third USB-C port cover a phone, a tablet and a laptop at once (Versatility 5 to 7), and it has held up to daily use and travel without wear (Build 8 to 9).
 
 With a 25000mAh capacity, this Anker is sized to recharge most phones several times over a long flight. It'll keep a tablet or laptop going too. Its three USB-C ports each deliver up to 100W, so it can fast-charge a laptop, a tablet, and a phone at once rather than making you choose. The built-in retractable cables mean there's less to pack and less to lose down a seat gap, and a 25000mAh pack still fits in a carry-on. Anker is a well-established name in portable charging, and this is a genuine in-seat charging hub for a traveller carrying several devices.
 
