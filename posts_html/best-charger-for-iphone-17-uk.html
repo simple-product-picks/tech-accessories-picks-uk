@@ -274,7 +274,7 @@
 <li class="con">✗ An iPhone charging alone uses one port, and PPS appears nowhere in Apple&#39;s charging figures</li>
 </ul>
 <p><strong>Who it&#39;s for:</strong> Homes where the iPhone gets the socket after a tablet, a watch and something still on USB-A.</p>
-<p><strong>Who it&#39;s not for:</strong> iPhone-only buyers, who would be paying for two ports that sit empty.</p>
+<p><strong>Who it&#39;s not for:</strong> iPhone-only buyers, who would be paying for ports that sit empty.</p>
 <p><a class="cta-btn" href="https://www.amazon.co.uk/dp/B0B7N4DX1Z?linkCode=ll2&tag=souvlakia-21" target="_blank" rel="noopener sponsored">Check price</a></p>
 <hr>
 <h2>Quick verdict</h2>
@@ -352,7 +352,9 @@ A: Yes, and it will still charge the phone; the lower its wattage, the longer th
         const cells = rows[0].querySelectorAll("td");
         if (cells.length >= 4) {
           const tier = cells[0] ? cells[0].textContent.trim() : "";
-          const name = cells[1] ? cells[1].textContent.trim() : "";
+          const nameCell = cells[1] ? cells[1].cloneNode(true) : null;
+          if (nameCell) nameCell.querySelectorAll(".hands-on").forEach(function (b) { b.remove(); });
+          const name = nameCell ? nameCell.textContent.trim() : "";
           const link = cells[3] ? cells[3].querySelector("a") : null;
           const labelEl = document.getElementById("sticky-label");
           const btnEl = document.getElementById("sticky-btn");

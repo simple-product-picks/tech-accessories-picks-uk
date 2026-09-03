@@ -205,7 +205,7 @@
 <p><strong>SPP Score: 8.8 / 10</strong> - Ethernet and 4K HDMI in a 7-in-1. Our all-round pick.</p>
 <p class="spp-breakdown">Capability 7/10 - Versatility 9/10 - Build 7/10 - Value 8/10</p>
 <p class="spp-off-ten"><b>What keeps it off a 10:</b> One HDMI output means a single external screen, so a two-monitor desk needs the bigger dock instead.</p>
-<p>Seven ports is the count that covers most laptop desks, and this UGREEN spreads them sensibly. You get a 4K HDMI output for a monitor, a Gigabit Ethernet socket for a stable wired connection, and three USB-A ports for the mouse, keyboard and the odd memory stick. Add an SD reader and a USB-C port UGREEN rates for up to 100W pass-through charging. That&#39;s enough to turn a two-port laptop into a proper desk without stepping up to a bulkier dock. Ethernet is the part people forget they wanted until their video call drops on Wi-Fi, and having it built in means one fewer thing to buy. Need only that one socket? Our <a href="best-usb-c-hub-with-ethernet.html">USB-C hub with Ethernet</a> guide narrows the field to hubs that lead with it.</p>
+<p>Seven ports is the count that covers most laptop desks, and this UGREEN spreads them sensibly. You get a 4K HDMI output for a monitor, a Gigabit Ethernet socket for a stable wired connection, and three USB-A ports for the mouse, keyboard and the odd memory stick. Add an SD reader and a USB-C port UGREEN rates for up to 100W pass-through charging. That&#39;s enough to turn a port-starved laptop into a proper desk without stepping up to a bulkier dock. Ethernet is the part people forget they wanted until their video call drops on Wi-Fi, and having it built in means one fewer thing to buy. Need only that one socket? Our <a href="best-usb-c-hub-with-ethernet.html">USB-C hub with Ethernet</a> guide narrows the field to hubs that lead with it.</p>
 <p><strong>Pros</strong></p>
 <ul>
 <li class="pro">✓ Gigabit Ethernet built in for a steadier wired connection than Wi-Fi</li>
@@ -343,7 +343,9 @@ A: It does for support and consistency. We stick to established names like Anker
         const cells = rows[0].querySelectorAll("td");
         if (cells.length >= 4) {
           const tier = cells[0] ? cells[0].textContent.trim() : "";
-          const name = cells[1] ? cells[1].textContent.trim() : "";
+          const nameCell = cells[1] ? cells[1].cloneNode(true) : null;
+          if (nameCell) nameCell.querySelectorAll(".hands-on").forEach(function (b) { b.remove(); });
+          const name = nameCell ? nameCell.textContent.trim() : "";
           const link = cells[3] ? cells[3].querySelector("a") : null;
           const labelEl = document.getElementById("sticky-label");
           const btnEl = document.getElementById("sticky-btn");

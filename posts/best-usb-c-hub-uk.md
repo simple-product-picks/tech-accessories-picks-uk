@@ -12,7 +12,7 @@ Scorecard: Capability 7/10 - Versatility 9/10 - Build 7/10 - Value 8/10
 
 What keeps it off a 10: One HDMI output means a single external screen, so a two-monitor desk needs the bigger dock instead.
 
-Seven ports is the count that covers most laptop desks, and this UGREEN spreads them sensibly. You get a 4K HDMI output for a monitor, a Gigabit Ethernet socket for a stable wired connection, and three USB-A ports for the mouse, keyboard and the odd memory stick. Add an SD reader and a USB-C port UGREEN rates for up to 100W pass-through charging. That's enough to turn a two-port laptop into a proper desk without stepping up to a bulkier dock. Ethernet is the part people forget they wanted until their video call drops on Wi-Fi, and having it built in means one fewer thing to buy. Need only that one socket? Our [USB-C hub with Ethernet](best-usb-c-hub-with-ethernet.html) guide narrows the field to hubs that lead with it.
+Seven ports is the count that covers most laptop desks, and this UGREEN spreads them sensibly. You get a 4K HDMI output for a monitor, a Gigabit Ethernet socket for a stable wired connection, and three USB-A ports for the mouse, keyboard and the odd memory stick. Add an SD reader and a USB-C port UGREEN rates for up to 100W pass-through charging. That's enough to turn a port-starved laptop into a proper desk without stepping up to a bulkier dock. Ethernet is the part people forget they wanted until their video call drops on Wi-Fi, and having it built in means one fewer thing to buy. Need only that one socket? Our [USB-C hub with Ethernet](best-usb-c-hub-with-ethernet.html) guide narrows the field to hubs that lead with it.
 
 **Pros**
 - ✓ Gigabit Ethernet built in for a steadier wired connection than Wi-Fi

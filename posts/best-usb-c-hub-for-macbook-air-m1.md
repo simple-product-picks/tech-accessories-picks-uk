@@ -12,7 +12,7 @@ Scorecard: Capability 7/10 - Versatility 9/10 - Build 8/10 - Value 8/10
 
 What keeps it off a 10: It is slightly bulkier than a single-port adapter to carry around, which counts if the hub lives in your bag.
 
-The M1 Air gives you two USB-C ports and one usually goes to the charger; this Anker 7-in-1 wins the remaining port back, covering the connections most setups rely on day to day. The 4K HDMI output lets you run an external display, while 85W pass-through Power Delivery keeps the laptop charging through the same USB-C connection. Add two USB-A ports plus SD and microSD readers and it covers photographers, students and home-office setups alike. If card offloads are the main event, our [USB-C hub with SD card reader](best-usb-c-hub-with-sd-card-reader.html) guide includes a dual-plug pick made for MacBooks.
+The M1 Air's own USB-C ports are scarce and one usually goes to the charger; this Anker 7-in-1 wins the remaining port back, covering the connections most setups rely on day to day. The 4K HDMI output lets you run an external display, while 85W pass-through Power Delivery keeps the laptop charging through the same USB-C connection. Add two USB-A ports plus SD and microSD readers and it covers photographers, students and home-office setups alike. If card offloads are the main event, our [USB-C hub with SD card reader](best-usb-c-hub-with-sd-card-reader.html) guide includes a dual-plug pick made for MacBooks.
 
 **Pros**
 - ✓ 4K HDMI output for connecting an external monitor to the M1 Air

@@ -76,7 +76,7 @@ Buy this one for everything except the iPhone. UGREEN lists 65W across three por
 - ✗ An iPhone charging alone uses one port, and PPS appears nowhere in Apple's charging figures
 
 **Who it's for:** Homes where the iPhone gets the socket after a tablet, a watch and something still on USB-A.
-**Who it's not for:** iPhone-only buyers, who would be paying for two ports that sit empty.
+**Who it's not for:** iPhone-only buyers, who would be paying for ports that sit empty.
 
 [Check price](https://www.amazon.co.uk/dp/B0B7N4DX1Z?linkCode=ll2&tag=souvlakia-21)
 

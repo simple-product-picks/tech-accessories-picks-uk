@@ -37,9 +37,9 @@ This UGREEN hub is the standout because it pairs a 170MB/s SD and microSD reader
 
 Scorecard: Capability 9/10 - Versatility 8/10 - Build 8/10 - Value 8/10
 
-What keeps it off a 10: The dual-plug body wants two adjacent USB-C ports, so a single-port Windows laptop is the wrong home for it.
+What keeps it off a 10: The dual-plug body needs adjacent USB-C ports on the host, so a single-port Windows laptop is the wrong home for it.
 
-The Anker 547 is the sensible-value choice for MacBook owners, with a dual-plug design that slots neatly into two side-by-side USB-C ports for a flush, stable fit. It covers the essentials cleanly with a 7-in-2 set of connections including SD card support. For more Air-friendly options, see our [USB-C hub for MacBook Air M1](best-usb-c-hub-for-macbook-air-m1.html) guide.
+The Anker 547 is the sensible-value choice for MacBook owners, with a dual-plug design that slots neatly into a MacBook's side-by-side USB-C ports for a flush, stable fit. It covers the essentials cleanly with a 7-in-2 set of connections including SD card support. For more Air-friendly options, see our [USB-C hub for MacBook Air M1](best-usb-c-hub-for-macbook-air-m1.html) guide.
 
 **Pros**
 - ✓ MacBook-optimised dual-plug design for a tidy, secure connection
@@ -48,7 +48,7 @@ The Anker 547 is the sensible-value choice for MacBook owners, with a dual-plug 
 - ✓ 40Gbps USB-C port for fast external drives
 
 **Cons**
-- ✗ Dual-plug layout is tailored to MacBooks and suits two adjacent USB-C ports best
+- ✗ Dual-plug layout is tailored to MacBooks and suits laptops with adjacent USB-C ports best
 - ✗ No Ethernet port if you want a wired network connection
 
 **Who it's for:** MacBook users who want a neat, essentials-covered hub with a card slot.
