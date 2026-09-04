@@ -32,7 +32,7 @@ The UGREEN USB C to DisplayPort 1.4 Adapter is the right call for most gaming-mo
 
 ### 2. UGREEN USB C to DisplayPort 1.4 Cable (8K, 2m) - Best Budget
 
-**SPP Score: 8.8 / 10** - DisplayPort 1.4 with 8K at 60Hz and 4K at 240Hz over a single 2m cable. Our value pick.
+**SPP Score: 8.2 / 10** - DisplayPort 1.4 with 8K at 60Hz and 4K at 240Hz over a single 2m cable. Our value pick.
 
 Scorecard: Capability 9/10 - Versatility 6/10 - Build 7/10 - Value 8/10
 
@@ -58,7 +58,7 @@ The UGREEN USB C to DisplayPort 1.4 Cable (8K, 2m) is the smart-money option, re
 
 ### 3. Cable Matters USB C to DisplayPort 2.1 Adapter (80Gbps) - Best Premium
 
-**SPP Score: 8.8 / 10** - DisplayPort 2.1 bandwidth, plug-and-play simplicity. Our pick for maximum capability.
+**SPP Score: 8.6 / 10** - DisplayPort 2.1 bandwidth, plug-and-play simplicity. Our pick for maximum capability.
 
 Scorecard: Capability 10/10 - Versatility 6/10 - Build 7/10 - Value 8/10
 

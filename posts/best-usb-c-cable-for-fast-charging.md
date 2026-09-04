@@ -32,7 +32,7 @@ The UGREEN USB C to USB C Cable 100W hits the sweet spot for most people: 100W o
 
 ### 2. Anker USB C to USB C Cable 100W (1.8m Braided) - Best Budget
 
-**SPP Score: 8.4 / 10** - 100W charging with USB-IF certification and a double-braided nylon jacket. Our value pick.
+**SPP Score: 7.5 / 10** - 100W charging with USB-IF certification and a double-braided nylon jacket. Our value pick.
 
 Scorecard: Capability 7/10 - Versatility 5/10 - Build 10/10 - Value 8/10
 
@@ -58,7 +58,7 @@ The Anker USB C to USB C Cable 100W is the value buy that doesn't skimp on the e
 
 ### 3. Anker Prime USB C to USB C Cable 240W (1.8m) - Best Premium
 
-**SPP Score: 8.4 / 10** - 240W charging headroom with a high-bend-durability braided build. Our pick for maximum capability.
+**SPP Score: 8.2 / 10** - 240W charging headroom with a high-bend-durability braided build. Our pick for maximum capability.
 
 Scorecard: Capability 10/10 - Versatility 5/10 - Build 10/10 - Value 8/10
 

@@ -32,7 +32,7 @@ The Anker USB-C to HDMI Cable is our standout because it does the one job most p
 
 ### 2. UGREEN USB C to HDMI Adapter 4K@60Hz - Best Budget
 
-**SPP Score: 8.7 / 10** - 4K at 60Hz with HDR and Thunderbolt 3/4 compatibility. Our value pick.
+**SPP Score: 8.0 / 10** - 4K at 60Hz with HDR and Thunderbolt 3/4 compatibility. Our value pick.
 
 Scorecard: Capability 8/10 - Versatility 6/10 - Build 8/10 - Value 8/10
 
@@ -58,7 +58,7 @@ The UGREEN USB C to HDMI Adapter is the no-frills option that still covers the s
 
 ### 3. Anker USB C Hub 8-in-1 with Ethernet and 10Gbps - Best Premium
 
-**SPP Score: 8.9 / 10** - 4K 60Hz HDMI, Ethernet and 10Gbps USB from one 8-in-1 hub. Our pick for maximum capability.
+**SPP Score: 8.6 / 10** - 4K 60Hz HDMI, Ethernet and 10Gbps USB from one 8-in-1 hub. Our pick for maximum capability.
 
 Scorecard: Capability 8/10 - Versatility 9/10 - Build 8/10 - Value 7/10
 

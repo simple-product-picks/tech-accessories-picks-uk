@@ -32,7 +32,7 @@ The Anker 67W is the pick we would hand most S24 owners. With 67W on tap across 
 
 ### 2. UGREEN USB C Charger 65W GaN 2-Port - Best Budget
 
-**SPP Score: 8.5 / 10** - 65W output, compact GaN build. Our value pick.
+**SPP Score: 8.2 / 10** - 65W output, compact GaN build. Our value pick.
 
 Scorecard: Capability 7/10 - Versatility 5/10 - Build 9/10 - Value 8/10
 
@@ -58,7 +58,7 @@ The UGREEN 65W 2-Port keeps it simple for an S24 owner who doesn't need a third 
 
 ### 3. UGREEN Nexode Pro 100W 3-Port GaN Charger - Best Premium
 
-**SPP Score: 8.6 / 10** - 100W output, compact GaN build. Our pick for maximum capability.
+**SPP Score: 8.5 / 10** - 100W output, compact GaN build. Our pick for maximum capability.
 
 Scorecard: Capability 9/10 - Versatility 4/10 - Build 8/10 - Value 8/10
 

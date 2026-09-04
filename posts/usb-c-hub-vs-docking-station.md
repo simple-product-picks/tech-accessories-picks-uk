@@ -34,7 +34,7 @@ The Revodok Pro 210 leans into the docking-station side, making the dock camp's 
 
 ### 2. Anker USB C Hub (7-in-1) with 4K HDMI and 85W PD - Best Budget
 
-**SPP Score: 8.9 / 10** - 7-in-1 connectivity. Our value pick.
+**SPP Score: 8.2 / 10** - 7-in-1 connectivity. Our value pick.
 
 Scorecard: Capability 7/10 - Versatility 9/10 - Build 8/10 - Value 8/10
 
@@ -60,7 +60,7 @@ This 7-in-1 Anker is the hub camp's best case: the everyday essentials with none
 
 ### 3. Anker USB C Hub 8-in-1 with Ethernet and 10Gbps - Best Premium
 
-**SPP Score: 9.2 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
+**SPP Score: 8.9 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
 
 Scorecard: Capability 9/10 - Versatility 9/10 - Build 8/10 - Value 8/10
 

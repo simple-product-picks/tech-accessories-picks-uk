@@ -32,7 +32,7 @@ The Nexode is the one we'd point most people to, because it settles the thing th
 
 ### 2. INIU Laptop Power Bank 25000mAh 100W - Best Budget
 
-**SPP Score: 8.9 / 10** - 25000mAh with a 100W USB-C port for most laptops. Our value pick.
+**SPP Score: 8.6 / 10** - 25000mAh with a 100W USB-C port for most laptops. Our value pick.
 
 Scorecard: Capability 10/10 - Versatility 6/10 - Build 7/10 - Value 8/10
 
@@ -58,7 +58,7 @@ If you don't need the very top wattage, INIU's 25000mAh pack covers most laptops
 
 ### 3. Anker Prime 27,650mAh Power Bank (250W) - Best Premium
 
-**SPP Score: 9.0 / 10** - 27650mAh with two 140W USB-C ports and a live display. Our pick for maximum capability.
+**SPP Score: 8.8 / 10** - 27650mAh with two 140W USB-C ports and a live display. Our pick for maximum capability.
 
 Scorecard: Capability 10/10 - Versatility 6/10 - Build 8/10 - Value 8/10
 

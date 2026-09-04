@@ -32,7 +32,7 @@ The Anker Nano Power Bank pairs a 10000mAh capacity with 30W USB-C Power Deliver
 
 ### 2. INIU Power Bank 10000mAh 22.5W Slim - Best Budget
 
-**SPP Score: 8.2 / 10** - 10000mAh in the slimmest pack here, with 22.5W fast charging. Our value pick.
+**SPP Score: 7.5 / 10** - 10000mAh in the slimmest pack here, with 22.5W fast charging. Our value pick.
 
 Scorecard: Capability 6/10 - Versatility 6/10 - Build 8/10 - Value 8/10
 
@@ -58,7 +58,7 @@ The INIU is the bare-basics route to the same 10000mAh: no built-in cable, just 
 
 ### 3. Anker MagGo Power Bank 10000mAh Qi2 15W - Best Premium
 
-**SPP Score: 8.2 / 10** - 10000mAh with Qi2 15W magnetic wireless, smart display and foldable stand. Our pick for maximum capability.
+**SPP Score: 8.0 / 10** - 10000mAh with Qi2 15W magnetic wireless, smart display and foldable stand. Our pick for maximum capability.
 
 Scorecard: Capability 6/10 - Versatility 8/10 - Build 9/10 - Value 7/10
 

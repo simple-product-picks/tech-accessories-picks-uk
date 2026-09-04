@@ -32,7 +32,7 @@ The M1 Air's own USB-C ports are scarce and one usually goes to the charger; thi
 
 ### 2. UGREEN Revodok 7-in-1 USB C Hub with Gigabit Ethernet - Best Budget
 
-**SPP Score: 8.8 / 10** - 7-in-1 connectivity, wired Ethernet. Our value pick.
+**SPP Score: 8.0 / 10** - 7-in-1 connectivity, wired Ethernet. Our value pick.
 
 Scorecard: Capability 7/10 - Versatility 9/10 - Build 7/10 - Value 8/10
 
@@ -58,7 +58,7 @@ Desk-bound Air owners should start here: the UGREEN Revodok trades the overall p
 
 ### 3. Anker USB C Hub 8-in-1 with Ethernet and 10Gbps - Best Premium
 
-**SPP Score: 8.9 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
+**SPP Score: 8.7 / 10** - 8-in-1 connectivity, wired Ethernet, high-speed data. Our pick for maximum capability.
 
 Scorecard: Capability 9/10 - Versatility 9/10 - Build 8/10 - Value 8/10
 

@@ -34,7 +34,7 @@ With a 25000mAh capacity, this Anker is sized to recharge most phones several ti
 
 ### 2. Anker Power Bank 20000mAh 87W (Built-in Cable) - Best Budget
 
-**SPP Score: 9.0 / 10** - 20000mAh with an 87W built-in USB-C cable and laptop-capable output. Our value pick.
+**SPP Score: 8.7 / 10** - 20000mAh with an 87W built-in USB-C cable and laptop-capable output. Our value pick.
 
 Scorecard: Capability 10/10 - Versatility 6/10 - Build 8/10 - Value 8/10
 
@@ -60,7 +60,7 @@ The 20000mAh capacity gives you the multi-charge headroom that long flights dema
 
 ### 3. Anker Prime Power Bank 20100mAh 220W - Best Premium
 
-**SPP Score: 9.0 / 10** - 20100mAh with 220W total output, 140W single-port and a live display. Our pick for maximum capability.
+**SPP Score: 8.5 / 10** - 20100mAh with 220W total output, 140W single-port and a live display. Our pick for maximum capability.
 
 Scorecard: Capability 10/10 - Versatility 6/10 - Build 8/10 - Value 8/10
 

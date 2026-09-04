@@ -32,7 +32,7 @@ This is the no-asterisk answer. Nothing Apple quotes for the iPhone 17, wired or
 
 ### 2. UGREEN Nexode 30W USB C Charger (Foldable GaN) - Best Budget
 
-**SPP Score: 8.3 / 10** - 30W foldable GaN plug. Our value pick.
+**SPP Score: 7.7 / 10** - 30W foldable GaN plug. Our value pick.
 
 Scorecard: Capability 5/10 - Versatility 6/10 - Build 9/10 - Value 8/10
 
@@ -58,7 +58,7 @@ The measured figures make this the interesting pick. If an iPhone 17 draws in th
 
 ### 3. UGREEN Nexode 65W GaN Charger (3-Port) - Best Premium
 
-**SPP Score: 8.4 / 10** - 65W GaN. Our pick for maximum capability.
+**SPP Score: 8.2 / 10** - 65W GaN. Our pick for maximum capability.
 
 Scorecard: Capability 7/10 - Versatility 6/10 - Build 9/10 - Value 7/10
 

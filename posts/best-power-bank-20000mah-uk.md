@@ -33,7 +33,7 @@ The INIU Power Bank 20000mAh 65W hits the balance most people actually want. The
 
 ### 2. INIU Power Bank 20000mAh 45W - Best Budget
 
-**SPP Score: 8.8 / 10** - 20000mAh capacity, 45W USB-C fast charging, slim body with USB-C in and out. Our value pick.
+**SPP Score: 8.6 / 10** - 20000mAh capacity, 45W USB-C fast charging, slim body with USB-C in and out. Our value pick.
 
 Scorecard: Capability 9/10 - Versatility 6/10 - Build 8/10 - Value 8/10
 
@@ -60,7 +60,7 @@ The INIU Power Bank 20000mAh 45W is the sensible-value choice for anyone who wan
 
 ### 3. UGREEN Nexode Power Bank 20000mAh 145W - Best Premium
 
-**SPP Score: 8.7 / 10** - 20000mAh capacity, 145W output, 80W input, built-in USB-C cable and three-port output. Our pick for maximum capability.
+**SPP Score: 8.3 / 10** - 20000mAh capacity, 145W output, 80W input, built-in USB-C cable and three-port output. Our pick for maximum capability.
 
 Scorecard: Capability 10/10 - Versatility 4/10 - Build 7/10 - Value 8/10
 

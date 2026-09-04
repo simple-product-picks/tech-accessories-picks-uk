@@ -32,7 +32,7 @@ The Nexode is the pick that fits how a Steam Deck actually gets charged. Its USB
 
 ### 2. INIU Power Bank 20000mAh 65W - Best Budget
 
-**SPP Score: 8.7 / 10** - 20000mAh with 65W USB-C, comfortably more than the Deck needs. Our value pick.
+**SPP Score: 8.4 / 10** - 20000mAh with 65W USB-C, comfortably more than the Deck needs. Our value pick.
 
 Scorecard: Capability 10/10 - Versatility 6/10 - Build 8/10 - Value 8/10
 
@@ -58,7 +58,7 @@ If you just want a dependable pack that charges the Deck while you play, the INI
 
 ### 3. Anker Laptop Power Bank 25000mAh (Triple 100W) - Best Premium
 
-**SPP Score: 8.7 / 10** - 25000mAh with two built-in retractable USB-C cables plus a third USB-C port. Our pick for maximum capability.
+**SPP Score: 8.2 / 10** - 25000mAh with two built-in retractable USB-C cables plus a third USB-C port. Our pick for maximum capability.
 
 Scorecard: Capability 10/10 - Versatility 5/10 - Build 8/10 - Value 8/10
 
