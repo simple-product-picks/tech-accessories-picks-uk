@@ -91,7 +91,7 @@ For most Steam Deck owners the **[UGREEN Revodok 7-in-1 USB C Hub with Gigabit E
 
 ## How we chose
 
-A Deck hub only has a few jobs, so we scored on exactly those: HDMI for TV and monitor output, USB-C power delivery to keep the Deck charged while docked, USB-A ports for controllers and peripherals, and Ethernet for stable downloads and online play. We also weighed build, portability and UK fit. Dock listings change often, so follow the links through to Amazon UK and check the live price before you plan a TV setup around one.
+A Deck hub only has a few jobs, so we scored on exactly those: HDMI for TV and monitor output, USB-C power delivery to keep the Deck charged while docked, USB-A ports for controllers and peripherals, and Ethernet for stable downloads and online play. We also weighed build, portability and UK fit. Dock listings change often, so follow the links through to Amazon UK and check the live price before you plan a TV setup around one. Playing away from the mains too? Our [best power bank for Steam Deck](best-power-bank-for-steam-deck.html) guide covers charging on the move.
 
 ## FAQ
 
