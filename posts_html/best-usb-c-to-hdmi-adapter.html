@@ -283,7 +283,7 @@ A: A single adapter is smaller and ideal if you only need HDMI, while a hub is b
 
     <section id="related" class="section-divider">
       <h2 class="h2-block">Related guides</h2>
-      <div id="related_list" class="muted">Loading...</div>
+      <div id="related_list" class="muted"><!--spp:related--><ul style="padding-left:18px"><li><a href="./best-usb-c-cable-for-fast-charging.html">Best USB C Cable For Fast Charging UK 2026</a></li><li><a href="./best-usb-c-cable-for-iphone-15.html">Best USB C Cable For iPhone 15 UK 2026</a></li><li><a href="./best-usb-c-to-aux-adapter.html">Best USB C To Aux Adapter UK 2026</a></li><li><a href="./best-usb-c-ethernet-adapter.html">Best USB C Ethernet Adapter UK 2026</a></li></ul><!--/spp:related--></div>
     </section>
   </main>
 
@@ -349,33 +349,9 @@ A: A single adapter is smaller and ideal if you only need HDMI, while a hub is b
       }
     } catch(_) {}
 
-    // Related posts - category clustered
-    try {
-      const listEl = document.getElementById("related_list");
-      const r = await fetch("../assets/posts_index.json", {cache:"no-store"});
-      if (!r.ok) throw new Error();
-      const all = await r.json();
-      const others = (Array.isArray(all) ? all : []).filter(x => x && x.slug && x.slug !== slug);
-      if (!others.length) { listEl.textContent = ""; return; }
-      const cats = ["charger","hub","power-bank","cable","adapter"];
-      const curCat = cats.find(c => slug.includes(c)) || "";
-      const shuffle = arr => { for (let i=arr.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[arr[i],arr[j]]=[arr[j],arr[i]];} return arr; };
-      const same  = shuffle(others.filter(x => curCat && x.slug.includes(curCat)));
-      const other = shuffle(others.filter(x => !curCat || !x.slug.includes(curCat)));
-      const pool  = [...same, ...other].slice(0, 5);
-      const ul = document.createElement("ul");
-      ul.style.paddingLeft = "18px";
-      for (const x of pool) {
-        const li = document.createElement("li");
-        const a  = document.createElement("a");
-        a.href      = "./" + encodeURIComponent(x.slug) + ".html";
-        a.textContent = (x.title && String(x.title).trim()) ? x.title : x.slug;
-        li.appendChild(a);
-        ul.appendChild(li);
-      }
-      listEl.innerHTML = "";
-      listEl.appendChild(ul);
-    } catch(_) {}
+    // Related guides are SERVER-RENDERED at build time (related_guides.py) - deterministic
+    // static <a> tags Google can follow without running any of this. The client-side random
+    // list that used to live here was replaced on 2026-09-05; nothing populates it now.
 
     // Sticky bottom CTA - appears when comparison table scrolls out of view
     const stickyBar = document.getElementById("sticky-cta");
